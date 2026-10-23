@@ -1,0 +1,23 @@
+# Segredos: nunca no git
+.env
+
+# Originais descarregados: reconstroem-se a partir do catálogo
+kb/E1/raw/*
+!kb/E1/raw/.gitkeep
+
+# Índices, caches e modelos: regeneram-se
+indices/
+cache/
+modelos/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
