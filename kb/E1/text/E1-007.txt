@@ -1,0 +1,74 @@
+Departamento de Ambiente e Sustentabilidade | Divisão de Ambiente e Espaço Público	Mod. 238-B/SQ 1
+TARIFÁRIO GESTÃO DE RESÍDUOS PARA O ANO DE 2026i
+1. LOCAIS SEM SISTEMA PAYT
+1.1. COM ABASTECIMENTO DE ÁGUA
+Tipo de Utilizador
+Tarifa disponibilidade
+(€/dia)
+Tarifa Variável
+(€/m3)ii
+TGR (€/dia)
+Doméstico (UD)	0,1600	0,2600	0,0633
+UD – Social	0,2600	0,0633
+Não-Doméstico (UND)	0,2633	0,8000	0,0633
+UND - Social	0,1600	0,2600	0,0633
+1.2. SEM ABASTECIMENTO DE ÁGUA
+Tipo de Utilizador
+Estimativa de consumo de água
+(m3/mês) iii
+Tarifa disponibilidade
+(€/dia)
+Tarifa Variável
+(€/m3) ii
+TGR (€/dia)
+Doméstico (UD)	10 m3	0,1600	0,2600	0,0633
+UD – Emigrante	1,67 m3 iv	0,1600	0,2600	0,0633
+UD – Social	10 m3	0,2600	0,0633
+UND - Social	10 m3	0,1600	0,2600	0,0633
+Tipo de Utilizador
+Tarifa disponibilidade
+(€/dia)
+Tarifa Variável
+(€/m2)
+TGR (€/dia)
+Não-Doméstico (UND)	0,2633	0,0890	0,0633 i O serviço público de resíduos cuja produção diária não exceda os 1100 l/dia não está sujeito a IVA de acordo com artigo 2 n.º 2 do CIVA ii Redução de 50% da tarifa variável, para utilizadores que comprovem a separação dos orgânicos iii Estimativa de consumos de água de acordo com a média dos utilizadores de 2024 iv Baseado na média dos valores cobrados a emigrantes com abastecimento de água em 2024
+2. LOCAIS COM SISTEMA PAYT
+2.1. MÉTODO A – por aquisição de sacos ou por capacidade de contentor
+Tipo de Utilizador
+Tarifa disponibilidade
+(€/dia)
+Tarifa Variável Indiferenciados(€/l)
+Tarifa Variável Orgânicos(€/l)
+TGR
+(€/dia)
+UD	0,1600	0,0260	0,0050	0,0633
+UD – Social	0,0260	0,0050	0,0633
+UND	0,2633	0,0260	0,0050	0,0633
+UND - Social	0,1600	0,0260	0,0050	0,0633
+2.2. MÉTODO B – por estimativa de produção e por dia de recolha
+Tipo de Utilizador
+Tarifa disponibilidade
+(€/dia)
+Tarifa Variável Indiferenciados(€/l)
+Tarifa Variável Orgânicos(€/l)
+TGR
+(€/dia)
+UD	0,1600	0,0260	0,0050	0,0633
+UD – Social	0,0260	0,0050	0,0633
+UND	0,2633	0,0260	0,0050	0,0633
+UND - Social	0,1600	0,0260	0,0050	0,0633
+Tipo de Utilizador
+Estimativa Produção
+Indiferenciados
+Estimativa Produção
+Orgânicos
+UD	8l/dia	20l/dia
+UND comércio, escritórios e gabinetes c/ serviços de saúde
+5l/dia
+UND restauração, hotelaria c/ restauração e unidades hospitalares
+100l/dia	100l/dia
+UND cafés/pastelarias e similares e supermercados
+35l/dia	30l/dia
+3. SERVIÇOS AUXILIARES
+Tipo de Resíduos	Valor (€/kg)
+RCD’s i	0,040 i número 2 do artigo 3º do DL n.º 46/2008, de 12 de março

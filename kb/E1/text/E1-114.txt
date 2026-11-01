@@ -1,0 +1,46 @@
+Circular n.º 01/2026/DFEMR
+V1.1
+Período de transição – Sistema de Depósito e Reembolso (SDR)
+Data: 20 de fevereiro de 2026, alterada a 24 de julho de 2026
+Destinatário: Produtores/Embaladores/Distribuidores/Grossistas/Retalho/HORECA abrangidos pelo Sistema de Depósito e Reembolso
+Enquadramento Legal: Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na sua redação atual
+Âmbito de aplicação
+O Sistema de Depósito Reembolso (SDR) abrange as embalagens primárias não reutilizáveis de bebidas, em plástico, metais ferrosos e alumínio com uma volumetria inferior a 3 litros, que sejam colocadas no mercado nacional, nos termos do artigo
+30.º-B do Decreto-Lei n.º 152-D/2017, de 11 de dezembro (UNILEX), na sua redação atual, incluindo as categorias de bebidas aí definidas, e que cumpram os critérios das especificações técnicas para a aceitação de latas e garrafas de bebidas no âmbito do SDR, conforme definido pela Agência Portuguesa do Ambiente, I.P. (APA) e pela Direção-Geral da Economia (DGE).
+Como funciona o período de transição?
+A gestão do fluxo de resíduos de embalagens de bebidas é complementada pelo SDR, existindo um período de transição total de 120 dias, a contar da data de entrada em funcionamento operacional do sistema, com início previsto para 10 de abril de 2026, destinado a permitir o escoamento das embalagens de bebidas pré-SDR e assegurar uma passagem gradual para o novo sistema, contando com o seguinte período:
+• 60 dias para colocação no mercado por produtores/embaladores;
+• 90 dias para colocação no mercado por distribuidores/grossistas;
+• 120 dias para colocação no mercado por estabelecimentos de comércio a retalho e estabelecimentos do setor HORECA.
+O que muda nas embalagens?
+As embalagens abrangidas pelo sistema passam a ter identificação própria, com o símbolo do SDR (Volta®) e a alteração do código de barras (códigos GTIN/EAN), aposto por impressão direta ou rotulagem, nos termos do artigo 30.º-U do UNILEX, diferenciando-as das que continuam a pertencer ao âmbito do SIGRE.
+Como se procede ao registo das declarações das embalagens do SIRER, através da plataforma SILiAmb1?
+• No período declarativo de 2026 (correção 2025 e estimativa 2026) as embalagens colocadas no mercado em 2026 ainda serão declaradas no âmbito do Sistema Integrado de Gestão de Embalagens e de Resíduos de Embalagens
+(SIGRE);
+• No período declarativo de 2027 (correção 2026 e estimativa 2027), as embalagens de bebidas integradas no SDR devem ser declaradas no âmbito do SDR, tanto na correção de 2026 (embalagens efetivamente colocadas no mercado em 2026), como na estimativa de 2027 (embalagens previstas para colocação no mercado em 2027).
+1 O SILiAmb (Sistema Integrado de Licenciamento do Ambiente) é a plataforma que suporta o SIRER (Sistema Integrado de Registo Eletrónico de Resíduos).
+Nota explicativa
+Um produtor/embalador que coloque no mercado embalagens de bebidas de tipologias aceites/enquadradas pelo SIGRE e pelo SDR, após a data de início deste sistema, na sua operação, deve seguir o exemplo:
+Em 2026:
+» Na declaração de estimativa de 2026, as quantidades de embalagens de bebidas devem ser integralmente declaradas no âmbito do SIGRE;
+Em 2027:
+» Na declaração de correção de 2026, devem ser corrigidas/retificadas as quantidades de embalagens de bebidas, que foram efetivamente integradas no âmbito do SDR durante 2026;
+» Na declaração de estimativa de 2027, as quantidades estimadas de embalagens de bebidas integradas no âmbito do SDR, devem ser reportadas corretamente nesse sistema.
+O que muda depois do período de transição?
+Após o fim do período de transição, deixam de poder ser colocadas no mercado nacional embalagens de bebidas que não estejam integradas no SDR. Esta proibição aplica-se às embalagens primárias não reutilizáveis de bebidas abrangidas pelo artigo
+30.º-B do Decreto-Lei n.º 152-D/2017, do UNILEX.
+Como deve proceder o produtor/embalador e distribuidor
+(importador) de embalagens SDR, que ainda possuam produtos embalados em embalagens sem marcação SDR, após o termo do período de transição?
+• Não pode doar, oferecer ou efetuar qualquer outra forma de disponibilização, no mercado nacional, de embalagens de bebidas não integradas no SDR, que estejam em armazém. De acordo com o UNILEX, para efeitos legais, a doação ou oferta de produtos configura colocação no mercado, ainda que a título gratuito.
+• Pode usar para consumo interno, restrito à própria empresa, pois não configura colocação no mercado. Assim, o consumo interno pode ser admissível, desde que não exista qualquer disponibilização, cedência ou transferência do produto a um utilizador final no mercado nacional.
+• Pode exportar para outro Estado-Membro da União Europeia ou um país terceiro, pois não há colocação no mercado nacional desse produto. No entanto, deve cumprir a legislação do país para onde exporta.
+Como deve proceder um distribuidor (que compre no mercado nacional), grossistas e estabelecimentos de comércio a retalho ou HORECA, que ainda possuam produtos embalados em embalagens sem marcação SDR, após o termo do período de transição?
+• Pode doar para instituições de âmbito social ou outras entidades sem fins comerciais, para consumo próprio.
+• Pode usar para consumo interno, restrito à própria empresa.
+• Os stocks que ainda existam, cujas embalagens tenham sido objeto de transferência de responsabilidade para o SIGRE, podem ser vendidas ao consumidor final devendo os respetivos resíduos ser descartados no ecoponto amarelo.
+»»««
+Mais informações sobre o sistema de depósito e reembolso está disponível aqui.
+Caso persistam dúvidas ou surjam outras questões ligue para a linha de apoio
+21 030 21 01 (9h – 17h) ou envie e-mail para geral@apambiente.pt
+»»««
+Divisão de Fluxos Específicos e do Mercado de Resíduos, 24 de fevereiro de 2026, revisão a 24 de julho de 2026

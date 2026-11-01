@@ -1,0 +1,27 @@
+PAYT: Pague pelo resíduo que produz. Reciclar para poupar! Centro da cidade.
+
+Tarifário Payt
+
+Método B
+
+Assim no método B (pré-definido), o cálculo da tarifa variável mensal será:
+
+Para os utilizadores domésticos	Valor mensal
+
+Tarifa variável indiferenciados	6,24€
+
+Tarifa variável orgânicos	3,00€
+
+Para os utilizadores não-domésticos	Valor mensal
+
+Tarifa variável comércio, escritórios e gabinetes	3,90€
+
+Tarifa variável restauração, hotelaria c/ restauração Indiferenciados	78,00 €
+
+Tarifa variável restauração, hotelaria c/ restauração Orgânico	15,00 €
+
+Tarifa variável cafés/pastelarias similares e supermercados Indiferenciados	27,30 €
+
+Tarifa variável cafés/pastelarias similares supermercados orgânicos	4,50 €
+
+Financiado por: POSEUR, Portugal 2020, União Europeia (Fundo de Coesão). Vitrus Ambiente. Município de Guimarães. Guimarães 2030: Junta-te à Transição Verde. Por ti, para ti, contigo!

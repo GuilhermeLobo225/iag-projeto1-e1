@@ -1,0 +1,60 @@
+# Frases que definem o tema do E1 para o rever_embeddings.py.
+# «E1:» descreve o que é do E1; «OUTRO:» descreve os temas dos colegas e o que não interessa ao cidadão.
+# A nota de cada parágrafo é a média das 3 maiores semelhanças às frases E1 menos a média das 3 maiores às OUTRO.
+# Podes acrescentar, tirar ou mudar frases. As linhas começadas por # não contam.
+
+# --- E1: resíduos e economia circular (separação, encaminhamento, reutilização e reparação) ---
+E1: Separação de resíduos em casa e o que colocar em cada ecoponto: amarelo, azul e verde
+E1: Recolha seletiva de embalagens de plástico e metal, de papel e cartão e de vidro
+E1: Recolha dos resíduos indiferenciados: horários, contentores e colocação dos sacos do lixo
+E1: Sistema PAYT, pagar pelos resíduos que se produz, com sacos ou contentores identificados
+E1: Tarifário dos resíduos urbanos: tarifa fixa e variável, tarifa social e fatura do serviço
+E1: Ecocentros: que resíduos recebem, onde ficam e quais os horários
+E1: Recolha de monos e resíduos volumosos, como móveis, colchões e eletrodomésticos
+E1: Recolha seletiva de biorresíduos e restos de comida porta a porta
+E1: Compostagem doméstica e comunitária de restos de comida e resíduos verdes
+E1: Resíduos verdes de jardins, podas e relva
+E1: Recolha, reutilização e reciclagem de têxteis, roupa e calçado usados
+E1: Óleos alimentares usados: onde entregar e como são reciclados
+E1: Pilhas, baterias, lâmpadas e equipamentos elétricos e eletrónicos usados: onde entregar
+E1: Medicamentos fora de uso e as suas embalagens entregues nas farmácias
+E1: Sistema de depósito e reembolso de garrafas e latas de bebidas
+E1: Prevenção e redução da produção de resíduos urbanos
+E1: Reutilização de bens, mercados de trocas e lojas de segunda mão
+E1: Reparação de objetos e equipamentos, oficinas de reparação e repair cafés
+E1: Direito à reparação, garantia dos bens comprados e disponibilidade de peças
+E1: Combate ao desperdício alimentar nas casas, na restauração e no comércio
+E1: Economia circular na cidade: estratégias, projetos e parcerias locais
+E1: Metas de reciclagem e de preparação para reutilização dos resíduos urbanos
+E1: Planos municipais e nacionais de gestão de resíduos e as suas medidas
+E1: Deveres dos cidadãos na deposição de resíduos e coimas por deposição ilegal
+E1: Limpeza urbana, papeleiras e lixo deixado na via pública
+E1: Tratamento dos resíduos: triagem, reciclagem, valorização orgânica, aterro e incineração
+E1: Responsabilidade alargada do produtor e entidades gestoras de embalagens e outros fluxos de resíduos
+E1: Embalagens reutilizáveis, plásticos de utilização única e redução de embalagens
+E1: Sensibilização e educação ambiental sobre separação e reciclagem de resíduos
+E1: Quantidade de resíduos produzidos por habitante e taxas de recolha seletiva e de reciclagem
+E1: Resíduos de pequenas obras em casa: entulho e restos de construção
+E1: Circularidade da indústria têxtil: reutilizar, reparar e reciclar roupa e tecidos
+
+# --- OUTRO: temas dos colegas (E2, E3, E4) e o que não serve ao cidadão ---
+OUTRO: Transportes públicos: autocarros, linhas, horários e passes
+OUTRO: Andar a pé e de bicicleta, ciclovias e mobilidade suave
+OUTRO: Bicicletas e trotinetes partilhadas e partilha de carro
+OUTRO: Trânsito automóvel, estacionamento e carros elétricos
+OUTRO: Poupança de água em casa e consumo de água da rede pública
+OUTRO: Abastecimento de água, saneamento e tratamento de águas residuais
+OUTRO: Poupança de energia em casa, eficiência energética e consumo de eletricidade
+OUTRO: Energias renováveis, painéis solares e comunidades de energia
+OUTRO: Qualidade do ar, poluição atmosférica e partículas finas
+OUTRO: Alterações climáticas, emissões de gases com efeito de estufa e adaptação ao clima
+OUTRO: Ondas de calor, cheias e outros riscos climáticos
+OUTRO: Parques, jardins e espaços verdes da cidade
+OUTRO: Biodiversidade, fauna, flora e espécies protegidas
+OUTRO: Árvores, florestas e plantação de árvores
+OUTRO: Rios e ribeiras: ecossistemas, qualidade da água e conservação das margens
+OUTRO: Eventos, festivais e programação cultural da Capital Verde Europeia
+OUTRO: Hortas urbanas e agricultura
+OUTRO: Licenciamento, autorizações e procedimentos administrativos de operadores e instalações industriais
+OUTRO: Metodologia de investigação, amostragem e análise estatística de um estudo
+OUTRO: Ficha técnica, índice, agradecimentos, bibliografia e referências de uma publicação

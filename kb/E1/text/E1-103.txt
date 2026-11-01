@@ -1,0 +1,620 @@
+Anexo I
+REGIME GERAL DA GESTÃO DE RESÍDUOS
+(a que se refere o artigo 2.º)
+Título I
+Disposições e princípios gerais
+Capítulo I
+Disposições gerais
+Artigo 1.º
+Objeto
+1 - O presente regime estabelece as medidas de proteção do ambiente e da saúde humana, necessárias para prevenir ou reduzir a produção de resíduos e os impactes adversos decorrentes da produção e gestão de resíduos, para diminuir os impactes globais da utilização dos recursos e para melhorar a eficiência dessa utilização, com vista à transição para uma economia circular e para garantir a competitividade a longo prazo, transpondo para a ordem jurídica nacional a Diretiva 2008/98/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos, alterada pelo Regulamento (UE) n.º
+1357/2014, da Comissão, de 18 de dezembro de 2014, pelo Regulamento (CE) n.º 2017/997, do Conselho, de 8 de junho de 2017, pela Diretiva (UE) 2015/1127, da Comissão, de 10 de julho de 2015 e pela Diretiva (UE) 2018/851, do Parlamento Europeu e do Conselho, de 30 de maio de 2018.
+2 - O presente regime assegura ainda a execução e garante o cumprimento na ordem jurídica interna das obrigações decorrentes para o Estado português do Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de junho de 2006, relativo às transferências de resíduos.
+Artigo 2.º
+Âmbito de aplicação
+1 - O presente regime é aplicável à prevenção, produção e gestão de resíduos, incluindo as transferências de resíduos.
+2 - Excluem-se do âmbito de aplicação do presente regime:
+a) Os efluentes gasosos lançados na atmosfera, o dióxido de carbono captado e transportado para efeitos de armazenagem geológica e geologicamente armazenado, nos termos do regime jurídico relativo à armazenagem geológica de dióxido de carbono, e o dióxido de carbono objeto de armazenagem geológica em quantidades totais inferiores a 100 000 t, destinado à investigação, desenvolvimento ou ensaio de novos produtos e processos;
+b) A terra in situ, incluindo os solos contaminados não escavados e os edifícios com ligação permanente ao solo, exceto quando estiver em causa operações de remediação destes solos;
+c) O solo não contaminado e outros materiais naturais resultantes de escavações no âmbito de atividades de construção, desde que os materiais em causa sejam utilizados para construção no seu estado natural e no local em que foram escavados;
+d) Os resíduos radioativos;
+e) Os explosivos abatidos à carga;
+f) As matérias fecais não abrangidas pela alínea c) do número seguinte, as palhas e outro material natural não perigoso de origem agrícola ou silvícola que seja utilizado na agricultura ou na silvicultura ou para a produção de energia a partir dessa biomassa através de processos ou métodos que não prejudiquem o ambiente nem ponham em perigo a saúde humana;
+g) Os sedimentos deslocados no interior das águas de superfície para efeitos de gestão das águas, de prevenção de inundações ou de atenuação dos efeitos de inundações e secas ou da recuperação de terras caso se demonstre a sua não perigosidade.
+3 - São ainda excluídos do âmbito de aplicação do presente regime, nos termos da demais legislação:
+a) As águas residuais;
+b) Os resíduos resultantes da prospeção, extração, tratamento e armazenagem de recursos minerais, bem como da exploração de massas e depósitos minerais, abrangidos pelo Decreto-Lei n.º 10/2010, de 4 de fevereiro, na sua redação atual;
+c) Os subprodutos animais, incluindo os produtos transformados abrangidos pelo Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, na sua redação atual, com exceção dos destinados à incineração, à deposição em aterros ou à utilização numa unidade de biogás ou de compostagem;
+d) As carcaças de animais cuja morte não tenha resultado de abate, incluindo os animais mortos para erradicação de doenças epizoóticas, e que tenham sido eliminadas nos termos do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, na sua redação atual;
+e) As substâncias que se destinam a ser utilizadas como matérias-primas para alimentação animal na aceção da alínea g) do n.º
+2 do artigo 3.º do Regulamento (CE) n.º 767/2009, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, na sua redação atual, e que não são nem contêm subprodutos animais.
+Artigo 3.º
+Definições
+1 - Para os efeitos do disposto no presente regime, entende-se por:
+a) «Abandono», a renúncia ao controlo de resíduo sem qualquer beneficiário determinado, impedindo a sua gestão;
+b) «Armazenagem», a deposição controlada de resíduos, antes do seu tratamento e por prazo determinado, designadamente as operações R 13 e D 15 identificadas nos anexos i e ii ao presente regime e do qual fazem parte integrante;
+c) «Armazenagem preliminar», a deposição controlada de resíduos em instalações onde os resíduos são descarregados a fim de serem preparados para posterior transporte para efeitos de tratamento, como parte do processo de recolha;
+d) «Biorresíduos», os resíduos biodegradáveis de jardins e parques, os resíduos alimentares e de cozinha das habitações, dos escritórios, dos restaurantes, dos grossistas, das cantinas, das unidades de catering e retalho e os resíduos similares das unidades de transformação de alimentos;
+e) «Centro de recolha de resíduos», o local onde os resíduos são depositados e onde se procede à armazenagem e/ou triagem preliminares desses resíduos para posterior encaminhamento para tratamento;
+f) «Comerciante de resíduos», qualquer pessoa singular ou coletiva que intervenha a título principal na compra e subsequente venda de resíduos, mesmo que não tome a posse física dos resíduos;
+g) «Corretor de resíduos», qualquer pessoa singular ou coletiva que organize a valorização ou eliminação de resíduos por conta de outrem, mesmo que não tome a posse física dos resíduos;
+h) «Demolição seletiva», a sequenciação das atividades de demolição para permitir a separação e a seleção dos materiais de construção;
+i) «Detentor», o produtor de resíduos ou a pessoa singular ou coletiva que tenha resíduos, pelo menos, na sua simples detenção, nos termos do artigo 1253.º do Código Civil, aprovado em anexo ao Decreto-Lei n.º 47344/66, de 25 de novembro, na sua redação atual;
+j) «Eliminação», qualquer operação de tratamento de resíduos que não seja de valorização, nomeadamente as incluídas no anexo i ao presente regime, ainda que se verifique como consequência secundária a recuperação de substâncias ou de energia;
+k) 'Enchimento', qualquer operação de valorização em que, para efeitos de recuperação em zonas escavadas ou para fins de engenharia paisagística, são empregues exclusivamente materiais provenientes da atividade extrativa mineral ou da sua transformação, incluindo Resíduos de Construção e Demolição (RCD), que não apresentem características de perigosidade, testados segundo os valores de referência estabelecidos no Guia Técnico da APA, I. P., para Solos Contaminados (2019), limitando-se às quantidades estritamente necessárias para esses efeitos;
+l) «Entidade coordenadora», a entidade a quem compete, nos termos da legislação aplicável, a coordenação do procedimento de licenciamento ou autorização de estabelecimentos onde são efetuadas atividades de tratamento de resíduos abrangidos por outros regimes específicos de licenciamento de atividades económicas e a emissão da autorização ou da licença para a instalação, alteração e exploração desses estabelecimentos;
+m) «Entidade licenciadora», a entidade à qual compete o licenciamento das instalações de tratamento de resíduos;
+n) «Fluxo específico de resíduos», a categoria de resíduos cuja proveniência é transversal às várias origens ou setores de atividade, sujeitos a uma gestão específica;
+o) «Gestão de resíduos», a recolha, o transporte, a triagem, a valorização e a eliminação de resíduos, incluindo a supervisão destas operações, a manutenção dos locais de eliminação após encerramento, e as medidas tomadas na qualidade de comerciante de resíduos ou corretor de resíduos;
+p) «Operador», qualquer pessoa singular ou coletiva que procede à gestão de resíduos;
+q) «Passivo ambiental», a situação de degradação ambiental resultante da libertação de contaminantes ao longo do tempo e/ou de forma não controlada, nomeadamente nos casos em que não seja possível identificar o respetivo agente poluidor;
+r) «Plano», o estudo integrado dos elementos que regulam as ações de intervenção, identificando os objetivos a alcançar, as atividades a realizar, as competências e atribuições dos agentes envolvidos e os meios necessários à concretização das ações previstas;
+s) «Ponto de recolha», o local onde se procede à receção e à armazenagem preliminar de resíduos como parte do processo de recolha;
+t) «Preparação para reutilização», as operações de valorização que consistem no controlo, limpeza ou reparação, mediante as quais os produtos ou os componentes de produtos que se tenham tornado resíduos são preparados para serem reutilizados, sem qualquer outro tipo de pré-processamento;
+u) «Prevenção», a adoção de medidas antes de uma substância, material ou produto assumir a natureza de resíduo, destinadas a reduzir:
+i) A quantidade de resíduos produzidos, designadamente através do redesenho de processos, produtos e adoção de novos modelos de negócio até à otimização da utilização de recursos, da reutilização de produtos e do prolongamento do tempo de vida dos produtos;
+ii) Os impactes adversos no ambiente e na saúde humana resultantes dos resíduos produzidos; ou
+iii) O teor de substâncias perigosas presentes nos materiais e nos produtos;
+v) «Produtor de resíduos», qualquer pessoa singular ou coletiva cuja atividade produza resíduos, isto é, um produtor inicial de resíduos, ou que efetue operações de pré-processamento, de mistura ou outras que alterem a natureza ou a composição desses resíduos;
+w) «Reciclagem», qualquer operação de valorização, através da qual os materiais constituintes dos resíduos são novamente transformados em produtos, materiais ou substâncias para o seu fim original ou para outros fins, incluindo o reprocessamento de materiais orgânicos, mas excluindo a valorização energética e o reprocessamento em materiais que devam ser utilizados como combustível ou em operações de enchimento;
+x) «Recolha», a coleta de resíduos, incluindo a triagem e a armazenagem preliminares dos resíduos, para fins de transporte para uma instalação de tratamento de resíduos;
+y) «Recolha seletiva», a recolha efetuada de forma a manter os resíduos separados por tipo e natureza com vista a facilitar o tratamento específico;
+z) «Remediação de solos», o procedimento de remoção da fonte de contaminação e de implementação de técnica ou conjugação de técnicas de tratamento de um solo contaminado, incluindo o tratamento biológico, físico-químico ou térmico, o confinamento e gestão de risco, a regeneração natural controlada, entre outras, realizadas para controlar, confinar, reduzir ou eliminar os contaminantes e/ou as vias de exposição, para que a contaminação de um solo deixe de constituir um risco inaceitável para a saúde humana e/ou para o ambiente, tendo em conta o seu uso atual ou previsto, podendo, dependendo do local em que decorre, classificar-se em:
+i) In situ, quando o solo não é removido, efetuando-se a remediação no próprio local;
+ii) Ex situ, quando o solo é removido, efetuando-se a remediação no próprio local ou, o seu tratamento, enquanto resíduo, noutro local adequado fora do estabelecimento.
+aa) «Resíduos», quaisquer substâncias ou objetos de que o detentor se desfaz ou tem a intenção ou a obrigação de se desfazer;
+bb) «Resíduos alimentares», todos os géneros alimentícios na aceção do artigo 2.º do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que se tornaram resíduos;
+cc) «Resíduo de construção e demolição», o resíduo proveniente de atividades de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações;
+dd) «Resíduo perigoso», o resíduo que apresenta uma ou mais características de perigosidade constantes do Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014;
+ee) «Resíduo urbano», o resíduo:
+i) De recolha indiferenciada e de recolha seletiva das habitações, incluindo papel e cartão, vidro, metais, plásticos, biorresíduos, madeira, têxteis, embalagens, resíduos de equipamentos elétricos e eletrónicos, resíduos de pilhas e acumuladores, bem como resíduos volumosos, incluindo colchões e mobiliário; e
+ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, caso sejam semelhantes aos resíduos das habitações na sua natureza e composição;
+ff) «Resíduo urbano indiferenciado», o resíduo urbano que permanece após as frações específicas de resíduos terem sido recolhidas seletivamente na origem;
+gg) «Resíduo agrícola», o resíduo proveniente de exploração agrícola e/ou pecuária ou similar;
+hh) «Resíduo do comércio, serviços e restauração», o resíduo resultante das atividades de comércio, serviços e restauração;
+ii) «Resíduo hospitalar», o resíduo resultante de atividades de prestação de cuidados de saúde a seres humanos ou a animais, nas áreas da prevenção, diagnóstico, tratamento, reabilitação ou investigação e ensino, bem como de outras atividades envolvendo procedimentos invasivos, tais como acupuntura, piercings e tatuagens, e o resíduo resultante da tanatopraxia;
+jj) Resíduo industrial», o resíduo resultante de atividades industriais, bem como o que resulte das atividades de produção e distribuição de eletricidade, gás e água;
+kk) «Responsável técnico ambiental», o técnico designado pelo operador, competente para a gestão ambiental do estabelecimento ou da instalação de tratamento de resíduos e/ou interlocutor preferencial, tanto durante o procedimento de licenciamento, como para acompanhamento das licenças emitidas ao abrigo do presente regime;
+ll) «Reutilização», qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
+mm) «Transferência», o transporte de resíduos com vista à valorização ou à eliminação que se efetue ou esteja previsto:
+i) Entre dois países;
+ii) Entre um país e países e territórios ultramarinos ou outras áreas sob a proteção do primeiro;
+iii) Entre um país e qualquer área que não faça parte de qualquer país ao abrigo do direito internacional;
+iv) Entre um país e a Antártida;
+v) A partir de um país, transitando por qualquer uma das áreas supramencionadas;
+vi) No interior de um país, transitando por qualquer uma das áreas supramencionadas e que tenha origem e se conclua no mesmo país; ou
+vii) Numa área geográfica não sujeita à jurisdição de qualquer país, com destino a um país;
+nn) «Tratamento», qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação;
+oo) «Triagem», o ato de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;
+pp) «Triagem preliminar», o ato de separação de resíduos mediante processos manuais, sem alteração das suas características, enquanto parte do processo de recolha, com vista ao seu envio para tratamento;
+qq) «Valorização», qualquer operação de tratamento de resíduos, nomeadamente as constantes do anexo ii ao presente regime, cujo resultado principal seja a utilização, com ou sem transformação, dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia;
+rr) «Valorização material», qualquer operação de valorização, que não seja a valorização energética nem o reprocessamento em materiais que são utilizados como combustíveis ou outros meios de produção de energia, incluindo, entre outras, a preparação para reutilização a reciclagem e o enchimento.
+2 - Para efeitos do presente regime, mais se entende por:
+a) «Estabelecimento», «instalação» e «licença de exploração», as mesmas expressões, tal como definidas no Regime de Licenciamento Único de Ambiente (LUA), aprovado pelo Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual;
+b) «Melhores técnicas disponíveis», as melhores técnicas disponíveis, tal como definidas no Decreto-Lei n.º 127/2013, de 30 de agosto.
+Capítulo II
+Princípios gerais de gestão de resíduos
+Artigo 4.º
+Princípio da regulação da gestão de resíduos
+1 - A gestão de resíduos é realizada de acordo com os princípios gerais fixados nos termos do presente regime e demais legislação aplicável e em respeito dos critérios qualitativos e quantitativos fixados nos instrumentos regulamentares e de planeamento.
+2 - É proibida a realização de operações de gestão de resíduos em incumprimento do disposto no presente regime.
+3 - São igualmente proibidos o abandono de resíduos, a eliminação de resíduos no mar e a sua injeção no solo, a queima a céu aberto, bem como a deposição ou gestão não autorizada de resíduos, incluindo a deposição de resíduos em espaços públicos.
+4 - Excetua-se do disposto no número anterior a queima de material lenhoso e de outro material vegetal no âmbito de atividades agroflorestais, desde que devidamente autorizadas nos termos do Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual, bem como a eliminação prevista em legislação específica.
+Artigo 5.º
+Princípios da autossuficiência e da proximidade
+1 - As operações de tratamento devem decorrer em instalações adequadas com recurso às tecnologias e métodos apropriados para assegurar um nível elevado de proteção do ambiente e da saúde pública, preferencialmente em território nacional e obedecendo a critérios de proximidade.
+2 - A Autoridade Nacional de Resíduos (ANR) pode interditar as transferências de resíduos de e para o território nacional, nos termos do Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de junho de 2006, relativo a transferências de resíduos (Regulamento MTR), designadamente em execução de medidas previstas nos planos de gestão de resíduos com vista à proteção dos princípios da proximidade, da hierarquia dos resíduos e da autossuficiência nacional.
+3 - A ANR pode ainda, para proteger a rede de instalações nacional e em derrogação do disposto no Regulamento MTR, limitar as entradas de resíduos destinados a incineradoras que sejam classificadas como operações de valorização, caso se verifique que tais entradas implicam a eliminação dos resíduos nacionais ou o tratamento desses resíduos de modo incompatível com os respetivos planos de resíduos.
+Artigo 6.º
+Princípio da proteção da saúde humana e do ambiente
+Constitui objetivo prioritário da política de resíduos evitar e reduzir os riscos para a saúde humana e para o ambiente, garantindo que a gestão de resíduos seja realizada recorrendo a processos ou métodos que não sejam suscetíveis de gerar efeitos adversos sobre o ambiente, nomeadamente poluição da água, do ar, do solo, afetação da fauna ou da flora, ruído ou odores ou danos em quaisquer locais de interesse e na paisagem.
+Artigo 6.º-A
+Redução de teor de substâncias perigosas
+1 - Os operadores de tratamento de resíduos, devem utilizar a informação submetida à Agência Europeia dos Produtos
+Químicos (ECHA), nos termos do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006 (REACH), e disponibilizada na base de dados criada por esta Agência para o efeito, para promover a redução de teor de substâncias perigosas presentes no material valorizado.
+2 - Para efeitos do disposto no número anterior, qualquer fornecedor de um artigo, na aceção do n.º 33 do artigo 3.º conjugado com o n.º 3 do artigo 3.º do REACH, que contenha substâncias incluídas na lista de substâncias candidatas a autorização nos termos do n.º 1 do artigo 59.º do REACH, numa concentração superior a 0,1 % em massa (m/m), deve fornecer à ECHA informação suficiente para possibilitar a utilização segura dos artigos pelos operadores de tratamento de resíduos, bem como pelos consumidores, por via de uma notificação nos termos do artigo 33.º do REACH.
+3 - As informações referidas nos números anteriores, incluindo alterações às informações submetidas, devem ser fornecidas previamente à colocação dos artigos no mercado, na aceção do n.º 12 do artigo 3.º do REACH.
+4 - Sempre que sejam aditadas à lista novas substâncias a comunicação deve ser submetida num prazo máximo de três meses após a sua entrada em vigor.
+5 - Os consumidores podem ter igualmente acesso à base de dados da ECHA, mediante pedido à ECHA, no sentido de obter informação sobre as substâncias perigosas contidas num determinado artigo.
+6 - O apoio aos fornecedores de artigos, utilizadores a jusante e demais interessados sobre as respetivas responsabilidades e obrigações decorre nos termos do Decreto-Lei n.º 293/2009, de 13 de outubro, que assegura a execução na ordem jurídica interna das obrigações decorrentes do REACH.
+7 - Ao acompanhamento e fiscalização do cumprimento das disposições estabelecidas no presente artigo aplica-se o disposto no Decreto-Lei n.º 293/2009, de 13 de outubro.
+Artigo 7.º
+Princípio da hierarquia dos resíduos
+1 - Com vista à transição para uma economia circular, que garanta um elevado nível de eficiência na utilização dos recursos, a política e a legislação em matéria de resíduos devem respeitar, no que se refere às opções de prevenção e gestão de resíduos, a seguinte ordem de prioridades:
+a) Prevenção;
+b) Preparação para a reutilização;
+c) Reciclagem;
+d) Outros tipos de valorização;
+e) Eliminação.
+2 - No caso de fluxos específicos de resíduos, a ordem de prioridades estabelecida no número anterior pode não ser observada desde que as opções adotadas se justifiquem pela aplicação do conceito de ciclo de vida aos impactes globais da produção e gestão dos resíduos em causa.
+3 - Nos casos previstos no número anterior, devem ser observados os princípios gerais de proteção do ambiente, da precaução e da sustentabilidade, a exequibilidade técnica e a viabilidade económica, bem como a proteção dos recursos e os impactes globais no ambiente, na saúde humana e sociais, de acordo com o disposto nos artigos 6.º, 7.º e 8.º, devendo ser assegurada a participação pública nos termos do artigo 20.º
+4 - Os consumidores devem adotar práticas que facilitem a reutilização dos produtos ou dos materiais, com vista ao aumento do seu tempo de vida útil, devendo os produtores de resíduos adotar comportamentos de caráter preventivo no que se refere à quantidade e perigosidade dos resíduos, bem como à separação dos resíduos na origem, por forma a promover a sua preparação para reutilização, reciclagem e outras formas de valorização.
+5 - Para efeitos da aplicação da hierarquia de resíduos definida no n.º 1, podem ser utilizados instrumentos económicos e outras medidas, incluindo as constantes no anexo iii ao presente regime e do qual faz parte integrante, bem como outros instrumentos ou medidas a definir em portaria do membro do Governo responsável pela área do ambiente, em conjunto, quando aplicável, com os membros do Governo responsáveis pelas áreas da economia, das finanças, da saúde e da agricultura.
+Artigo 8.º
+Princípios da equivalência, do valor económico, da eficiência e da eficácia
+1 - O regime económico e financeiro das atividades de gestão de resíduos visa a compensação total dos custos económicos e tendencial dos custos sociais e ambientais que o produtor gera à comunidade ou dos benefícios que a comunidade lhe faculta, de acordo com o princípio geral da equivalência.
+2 - A gestão dos resíduos deve ter em conta o valor económico dos mesmos, reconhecendo o seu potencial enquanto recurso.
+3 - Constituem ainda princípios fundamentais da política de gestão de resíduos a promoção de níveis crescentes de eficiência e de eficácia na gestão dos sistemas integrados, que se concretizam:
+a) Através da definição de prestações e contrapartidas financeiras que reflitam o custo associado ao esforço despendido por todos os intervenientes no ciclo da vida dos produtos abrangidos pelo sistema em causa, desde a sua conceção e utilização até à gestão dos respetivos resíduos em conformidade com os princípios e regras do presente regime e demais legislação aplicável;
+b) Através da aplicação dos resultados líquidos positivos do exercício da atividade das entidades licenciadas responsáveis por sistemas de gestão de fluxos específicos de resíduos que ultrapassem os limites das reservas previstas na respetiva licença, os quais devem ser usados no ajustamento das prestações com vista a assegurar a sustentabilidade económica e financeira dos sistemas de gestão de fluxos específicos de resíduos.
+4 - Os mecanismos de definição dos custos referidos na alínea a) do número anterior devem ser tendencialmente os da livre concorrência e da liberdade de escolha nos mercados.
+Artigo 9.º
+Responsabilidade pela gestão
+1 - A responsabilidade pela gestão dos resíduos, incluindo os respetivos custos, cabe ao produtor inicial dos resíduos, sem prejuízo de poder ser imputada, na totalidade ou em parte, ao produtor do produto que deu origem aos resíduos e partilhada pelos distribuidores desse produto, se tal decorrer do presente regime ou de legislação específica aplicável.
+2 - 2 - Excetuam-se do disposto no número anterior os resíduos urbanos cuja recolha e tratamento constitui reserva de serviço público dos sistemas municipais ou multimunicipais nos termos do disposto na Lei n.º 88-A/97, de 25 de julho, na sua redação atual, designadamente os:
+a) Produzidos nas habitações;
+b) Semelhantes, pela sua natureza e composição, aos produzidos nas habitações e que, cumulativamente:
+i) Sejam produzidos em estabelecimentos de comércio a retalho, serviços ou restauração, estabelecimentos escolares, unidades de prestação de cuidados de saúde, empreendimentos turísticos ou outras origens;
+ii) Provenham de um único estabelecimento que produza menos de 1100 l de resíduos urbanos por dia; e
+iii) Sejam suscetíveis de recolha, através das redes de recolha de resíduos urbanos, sem comprometer aquelas operações ou contaminar os resíduos provenientes das habitações;
+c) Resultantes da manutenção de parques e jardins públicos ou de serviços de limpeza de mercados e ruas, nomeadamente, o conteúdo dos contentores de lixo e os resíduos provenientes da varredura das ruas, que não constituam areia, pedra, lama ou pó.
+3 - Em caso de impossibilidade de determinação do produtor do resíduo, a responsabilidade pela respetiva gestão recai sobre o seu detentor.
+4 - Quando os resíduos tenham proveniência externa, a sua gestão cabe ao responsável pela sua introdução em território nacional, salvo nos casos expressamente definidos na legislação referente à transferência de resíduos.
+5 - O produtor inicial dos resíduos ou o detentor devem, em conformidade com os princípios da hierarquia dos resíduos e da proteção da saúde humana e do ambiente, assegurar o tratamento dos resíduos, podendo para o efeito recorrer, de acordo com o tipo de resíduos:
+a) A um comerciante ou a um corretor de resíduos;
+b) A um operador de tratamento de resíduos;
+c) A uma entidade responsável por sistemas de gestão de fluxos específicos de resíduos;
+d) A um sistema municipal ou multimunicipal de recolha e/ou tratamento de resíduos.
+6 - A responsabilidade pela gestão dos resíduos nos termos dos n.os 1 e 3 extingue-se pela transmissão para uma das entidades referidas nas alíneas b), c) e d) do número anterior.
+7 - As pessoas singulares ou coletivas que procedem, a título profissional, à recolha ou transporte de resíduos devem entregar os resíduos recolhidos e transportados a operadores de tratamento de resíduos.
+Artigo 10.º
+Âmbito da gestão dos resíduos urbanos
+1 - O âmbito da gestão dos resíduos urbanos é determinado com base na constituição material dos resíduos classificados no subcapítulo 15 01 e no capítulo 20, com exceção dos códigos 20 02 02, 20 03 04 e 20 03 06, da Lista Europeia de Resíduos (LER) anexa à Decisão n.º 2000/532/CE, da Comissão, de 3 de maio de 2000, que estabelece uma lista de resíduos em conformidade com a Diretiva 2008/98/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, na sua redação atual, e das exclusões previstas nos números seguintes.
+2 - Quando os resíduos urbanos não sejam produzidos nas habitações, o âmbito estabelecido no número anterior é ainda determinado com base na origem, quantidade, natureza e tipologia dos resíduos, nos termos dos números seguintes.
+3 - O âmbito da gestão dos resíduos urbanos inclui os resíduos provenientes de estabelecimentos de comércio a retalho, serviços e restauração, estabelecimentos escolares, unidades de prestação de cuidados de saúde, empreendimentos turísticos, ou outras origens cujos resíduos sejam semelhantes em termos de natureza e composição aos das habitações, e sejam provenientes de um único estabelecimento que produza menos de 1100 l de resíduos por dia.
+4 - Para efeitos de determinação do volume de resíduos produzido por dia, deve ser considerado o volume médio de resíduos urbanos produzidos mensalmente, incluindo as frações recolhidas de forma seletiva e indiferenciada, considerando o número de dias de laboração.
+5 - Os resíduos provenientes das origens referidas no n.º 3 são considerados semelhantes em termos de natureza e composição aos das habitações se:
+a) Forem idênticos em tipologia, dimensão, materiais e utilização a resíduos produzidos nas habitações;
+b) Não consistirem em substâncias ou objetos utilizados exclusivamente em contexto profissional, comercial ou industrial;
+c) Puderem ser recolhidos através das redes de recolha de resíduos urbanos sem comprometer as operações de recolha ou contaminar os resíduos provenientes das habitações.
+6 - As seguintes tipologias de resíduos provenientes das origens referidas no n.º 3 não são abrangidas pelo âmbito da gestão dos resíduos urbanos:
+a) Resíduos de embalagem grupadas ou secundárias utilizadas como reaprovisionamento do ponto de venda, salvo quando respeitem as condições estabelecidas no número anterior, e embalagens de transporte ou terciárias, conforme definidas em legislação específica;
+b) Resíduos de equipamentos elétricos e eletrónicos que não sejam provenientes de utilizadores particulares, nos termos da definição constante da alínea bbb) do n.º 1 do artigo 3.º do Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na sua redação atual;
+c) Outras categorias de resíduos, a definir por despacho do membro do Governo responsável pela área do ambiente, em que o conhecimento da fonte seja necessário para determinar se, não obstante o código LER cobrir resíduos semelhantes aos provenientes das habitações, o resíduo provém de outras origens.
+7 - O âmbito da gestão dos resíduos urbanos inclui ainda os resíduos da manutenção de parques e jardins, os resíduos resultantes dos serviços de limpeza de mercados e ruas, tais como o conteúdo dos contentores de lixo e os resíduos provenientes da varredura das ruas, exceto materiais como areia, pedra, lama ou pó.
+8 - O âmbito da gestão dos resíduos urbanos não inclui os resíduos do processo produtivo, da agricultura, da silvicultura, das pescas, de fossas séticas ou redes de saneamento e tratamento, incluindo as lamas de depuração, os veículos em fim de vida, Resíduos de Construção e Demolição (RCD), bem como os resíduos da indústria, resíduos do comércio e outras atividades não previstos no n.º 3 ou cujos resíduos sejam provenientes das tipologias referidas no n.º 6.
+9 - Os resíduos abrangidos por capítulos da LER distintos dos constantes do n.º 1 não são abrangidos pelo âmbito da gestão dos resíduos urbanos, exceto nos casos em que os resíduos urbanos são sujeitos a tratamento e são classificados com os códigos enumerados no capítulo 19 da LER.
+10 - Os resíduos abrangidos por capítulos da LER 1501 e 20 que não se encontrem no âmbito do n.º 3 não são abrangidos pelo âmbito da gestão dos resíduos urbanos para efeitos do presente regime.
+Artigo 11.º
+Recolha complementar de resíduos
+1 - Os sistemas municipais e multimunicipais podem recolher resíduos urbanos não abrangidos pela reserva de serviço público referida no n.º 2 do artigo 9.º, bem como resíduos não urbanos, se cumulativamente:
+a) O produtor do resíduo ou o seu detentor o solicitar;
+b) Comprovar, nos termos do n.º 2, a ausência de operadores privados que assegurem a recolha e tratamento dos resíduos e o seu encaminhamento adequado; e
+c) Os resíduos sejam adequados em qualidade e quantidade para transporte ou tratamento no sistema de gestão dos resíduos municipal ou multimunicipal.
+2 - Para efeitos do número anterior, o pedido do produtor do resíduo ou o seu detentor é acompanhado de evidência de recusa de fornecimento do serviço de recolha após consulta ao mercado aos cinco operadores privados licenciados mais próximos da localização do produtor.
+3 - A atividade referida no n.º 1 carece de autorização da entidade titular do sistema municipal ou multimunicipal em causa, a qual não pode ter duração superior a três anos e pode ser revogada caso surja capacidade no mercado que satisfaça a respetiva procura.
+4 - A autorização prevista no número anterior é precedida de pareceres obrigatórios da Autoridade da Concorrência, da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR) e da ANR, com vista a avaliar:
+a) Os efeitos da atividade objeto de autorização na concorrência e a sua harmonização com os objetivos de serviço público;
+b) A distância máxima de transporte dos resíduos e o cumprimento da hierarquia de resíduos; e
+c) A tarifa que a entidade gestora se propõe praticar.
+5 - (Anterior n.º 3.)
+6 - Os sistemas municipais e multimunicipais asseguram uma contabilização autónoma das quantidades de resíduos recolhidos e tratados ao abrigo do disposto no presente artigo, bem como dos custos associados às respetivas atividades de recolha complementar.
+7 - Caso seja autorizada a recolha complementar de resíduos, o produtor encaminha os resíduos urbanos que produz para o sistema municipal ou multimunicipal.
+Notas:
+Artigo 11.º, Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22 determina que a autorização prevista no n.º 2 do presente artigo apenas é exigível a partir de 1 de janeiro de 2023.
+Artigo 12.º
+Responsabilidade alargada do produtor
+1 - A responsabilidade alargada do produtor consiste na responsabilidade financeira ou financeira e organizacional do produtor do produto relativamente à gestão da fase do ciclo de vida dos produtos quando estes se tornam resíduos, nos termos do presente regime e de legislação específica.
+2 - O produtor do produto deve ser incentivado a promover alterações na sua conceção de forma a dar origem a menos resíduos na sua produção e posterior utilização, permitir a reutilização e reciclagem dos produtos e garantir que o tratamento dos resíduos resultantes se realize em conformidade com os princípios da proteção da saúde humana e do ambiente e da hierarquia dos resíduos.
+3 - A aplicação do disposto no número anterior depende da exequibilidade técnica e da viabilidade económica, dos impactes globais no ambiente, na saúde humana e sociais e do respeito pelo funcionamento adequado do mercado interno.
+4 - A responsabilidade do produtor do produto pela gestão dos resíduos provenientes dos seus próprios produtos pode ser assumida a título individual ou transferida para um sistema integrado, nos termos de legislação específica.
+5 - Os produtores de produtos abrangidos pela responsabilidade alargada do produtor estão obrigados a comunicar à ANR, através do sistema integrado de registo eletrónico de resíduos (SIRER) previsto no artigo 94.º, a informação necessária ao acompanhamento da aplicação do regime da responsabilidade alargada do produtor, nomeadamente o tipo e a quantidade de produtos colocados no mercado.
+Artigo 13.º
+Requisitos gerais mínimos aplicáveis aos regimes de responsabilidade alargada do produtor
+1 - Os regimes de responsabilidade alargada do produtor criados ou a criar nos termos do artigo anterior, inclusive por força de atos legislativos da União Europeia, devem cumprir os seguintes requisitos mínimos gerais, em função das características do produto em causa:
+a) Definir claramente as funções e responsabilidades dos produtores dos produtos pela gestão dos produtos colocados no mercado quando estes atingem o fim de vida, bem como as de todos os demais intervenientes que contribuem para o funcionamento dos sistemas de gestão, nomeadamente entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos, operadores de gestão de resíduos, e sistemas municipais ou multimunicipais de gestão de resíduos urbanos;
+b) Em consonância com o princípio da hierarquia dos resíduos, assegurar, pelo menos, o cumprimento das metas estabelecidas na legislação da União Europeia, podendo ser fixadas outras metas quantitativas e/ou objetivos qualitativos que sejam considerados relevantes para determinados produtos tendo em conta nomeadamente a sua quantidade e perigosidade;
+c) Assegurar que os produtores de produtos recolhem e comunicam a informação necessária ao acompanhamento dos regimes de responsabilidade alargada do produtor, nomeadamente o tipo e a quantidade de produtos colocados no mercado;
+d) Assegurar que as entidades responsáveis pela gestão de sistemas individuais e integrados, os operadores de tratamento de resíduos, bem como outros intervenientes que atuam no âmbito de regimes de responsabilidade alargada do produtor, recolhem e comunicam a informação necessária ao acompanhamento dos regimes de responsabilidade alargada do produtor, nomeadamente dados sobre recolha e tratamento dos resíduos;
+e) Assegurar a igualdade de tratamento dos produtores de produtos, independentemente da sua origem ou dimensão, sem impor encargos regulamentares desproporcionados aos produtores, incluindo as pequenas e médias empresas, de pequenas quantidades de produtos;
+f) Assegurar que os detentores de resíduos abrangidos por regimes de responsabilidade alargada do produtor sejam informados acerca das medidas de prevenção de resíduos, da sua contribuição para a reutilização e preparação para reutilização, dos sistemas de retoma e de recolha existentes, e da proibição do abandono de resíduos;
+g) Prever incentivos económicos ou de outra natureza para a entrega dos resíduos abrangidos pela responsabilidade alargada do produtor nos sistemas de recolha seletiva existentes, se tal for necessário para assegurar o cumprimento das metas de gestão de resíduos e para a aplicação da hierarquia dos resíduos.
+2 - No âmbito de um sistema individual ou de um sistema integrado de gestão de fluxos específicos de resíduos, os produtores de produtos ou as entidades gestoras devem:
+a) Ter um âmbito geográfico, de produtos e material claramente definidos, sem que esses domínios se encontrem limitados àqueles em que a gestão de resíduos seja a mais rentável;
+b) Assegurar a disponibilização adequada de sistemas de recolha de resíduos nos domínios referidos na alínea anterior;
+c) Dispor de meios financeiros ou dos meios financeiros e organizacionais necessários para cumprir as obrigações decorrentes da responsabilidade alargada do produtor;
+Criar mecanismos de autocontrolo adequados, com auditorias independentes periódicas, para avaliar:
+i) A sua gestão financeira, incluindo o cumprimento dos requisitos estabelecidos nas alíneas a) e b) do número seguinte;
+ii) A qualidade dos dados recolhidos e comunicados nos termos das alíneas c) ou d) do número anterior e dos requisitos do Regulamento MTR.
+e) Disponibilizar ao público informações sobre o cumprimento das metas de gestão de resíduos referidas na alínea b) do número anterior, bem como, no caso dos sistemas integrados:
+i) Os seus proprietários e produtores aderentes;
+ii) As prestações financeiras pagas pelos produtores por unidade e/ou peso de produto colocado no mercado; e
+iii) O processo de seleção dos operadores de gestão de resíduos.
+3 - Os valores das prestações financeiras pagas pelos produtores de produtos para cumprir as obrigações decorrentes da responsabilidade alargada devem:
+a) Cobrir os seguintes custos para os produtos que o produtor coloca no mercado:
+i) Custos da recolha seletiva de resíduos e do seu posterior transporte e tratamento, incluindo o tratamento necessário para cumprir as metas de gestão de resíduos referidas na alínea b) do n.º 1, tendo em conta as eventuais receitas resultantes da reutilização, da venda de matérias-primas secundárias provenientes dos seus produtos, e de cauções de depósito não reclamadas;
+ii) Custos da comunicação das informações adequadas aos detentores de resíduos, nos termos da alínea f) do n.º 1;
+iii) Custos da recolha e comunicação de dados, nos termos das alíneas c) ou d) do n.º 1;
+b) Ser determinados para produtos ou grupos de produtos semelhantes, tendo em conta, nomeadamente, a sua durabilidade, reparabilidade e possibilidade de reutilização e de reciclagem, bem como a presença de substâncias perigosas, segundo uma abordagem baseada no ciclo de vida do produto;
+c) Limitar-se à cobertura dos custos necessários para prestar os serviços de gestão dos resíduos de uma forma economicamente eficiente, devendo tais custos ser estabelecidos de modo transparente entre os intervenientes em causa.
+4 - O disposto na alínea a) do número anterior não se aplica aos regimes de responsabilidade alargada do produtor criados para os fluxos específicos de resíduos de equipamentos elétricos e eletrónicos, dos veículos em fim de vida e das pilhas e acumuladores.
+5 - (Anterior n.º 4.)
+6 - (Anterior n.º 5.)
+7 - (Anterior n.º 6.)
+8 - (Anterior n.º 7.)
+9 - A monitorização, o controlo e a regulação previstos no número anterior cabem, na medida das respetivas competências, à ANR, à Direção-Geral das Atividades Económicas (DGAE) e à ERSAR.
+10 - (Anterior n.º 9.)
+11 - (Anterior n.º 10.)
+12 - (Anterior n.º 11.)
+Título II
+Regulação da gestão de resíduos
+Capítulo I
+Planeamento da prevenção e gestão de resíduos
+Secção I
+Disposições gerais
+Artigo 14.º
+Autoridades de Resíduos
+1 - Compete ao organismo com atribuições na área dos resíduos tutelado pelo membro do Governo responsável pela área do ambiente, enquanto ANR, coordenar, assegurar e acompanhar a implementação de uma estratégia nacional para os resíduos mediante o exercício de competências próprias de licenciamento, da emissão de normas técnicas aplicáveis às operações de gestão de resíduos, do desempenho de tarefas de acompanhamento das atividades e instalações de gestão de resíduos, de uniformização dos procedimentos de licenciamento e dos assuntos internacionais e da União Europeia no domínio dos resíduos e colaborar com as restantes áreas governativas no que se refere a medidas e políticas de prevenção de resíduos.
+2 - Incumbe aos serviços desconcentrados do ministério responsável pela área do ambiente, enquanto Autoridades Regionais dos Resíduos (ARR), assegurar o exercício das suas competências relativas à gestão de resíduos, o exercício de competências próprias de licenciamento e acompanhamento das instalações de gestão de resíduos por si licenciadas, bem como assegurar a aplicação uniforme das normas técnicas emitidas pela ANR de acordo com as orientações desta autoridade.
+Artigo 15.º
+Planos de gestão de resíduos de nível nacional
+1 - As orientações fundamentais da política de resíduos constam dos planos de gestão de nível nacional, que integram o Plano
+Nacional de Gestão de Resíduos e os Planos de Gestão de Resíduos Urbanos e de Resíduos Não Urbanos.
+2 - O Plano Nacional de Gestão de Resíduos estabelece as orientações estratégicas de âmbito nacional da política de resíduos e as regras orientadoras de atuação, prioridades a observar, metas a atingir e ações a implementar no sentido de garantir a concretização dos princípios referidos no título i, bem como o cumprimento dos objetivos e metas nacionais e europeias aplicáveis.
+3 - Os Planos de Gestão de Resíduos Urbanos e de Resíduos Não Urbanos desenvolvem o disposto no Plano Nacional de Gestão de Resíduos no âmbito dos resíduos urbanos e não urbanos, respetivamente.
+4 - A elaboração e revisão dos planos de gestão de nível nacional é determinada por despacho do membro do Governo responsável pela área do ambiente, o qual pode incluir orientações para a elaboração destes instrumentos, definir um prazo para a conclusão dos trabalhos, ou determinar a participação de determinadas entidades nos trabalhos, sem prejuízo das auscultações que a entidade responsável pela elaboração do plano entenda fazer.
+5 - Os planos de gestão de resíduos de nível nacional são elaborados pela ANR e aprovados por resolução do Conselho de Ministros, após audição das entidades que integram a CAGER, no caso do Plano Nacional de Gestão de Resíduos e do Plano de Gestão de Resíduos Não Urbanos, e da Associação Nacional de Municípios Portugueses no caso do Plano de Gestão de Resíduos
+Urbanos.
+6 - Os planos de gestão de resíduos de nível nacional podem prever a elaboração de planos de ação específicos para determinados fluxos ou materiais, com vista à promoção da transição para uma economia circular, incluindo a monitorização das medidas associadas.
+Artigo 16.º
+Conteúdo dos planos de gestão de resíduos de nível nacional
+1 - Os planos de gestão de resíduos de nível nacional devem integrar:
+a) A análise da situação atual da gestão de resíduos, incluindo o diagnóstico de constrangimentos e ineficiências do sistema;
+b) A identificação de ações de prevenção, incluindo a reutilização de produtos que constituem as principais fontes de matérias-primas críticas;
+c) A identificação de medidas com vista a incentivar a preparação para reutilização;
+d) A definição de outras medidas a adotar para melhorar o tratamento de resíduos;
+e) A definição de medidas de promoção da recolha, triagem e valorização dos resíduos que contêm quantidades significativas de matérias-primas críticas;
+f) A avaliação do modo como o plano é suscetível de apoiar a execução dos objetivos do presente regime;
+g) A identificação dos planos de ação a elaborar, bem como o seu âmbito de aplicação e as entidades responsáveis pela sua execução;
+h) Os programas de prevenção de resíduos, nos termos do disposto no artigo seguinte.
+i) A previsão dos valores dos investimentos a realizar para executar as medidas preconizadas.
+2 - A elaboração dos planos de gestão de resíduos de nível nacional deve obedecer ao disposto no anexo iv ao presente regime e do qual faz parte integrante.
+Artigo 17.º
+Programas de prevenção de resíduos
+1 - Na elaboração dos programas de prevenção devem ser incluídas, pelo menos, medidas de prevenção da produção de resíduos que prossigam os objetivos previstos na parte A do anexo v ao presente regime e do qual faz parte integrante.
+2 - Os programas de prevenção de resíduos são elaborados de acordo, nomeadamente, com as medidas constantes na parte B do anexo v ao presente regime e os objetivos de prevenção, existentes e previstos, tendo em vista dissociar o crescimento económico dos impactes ambientais relacionados com a produção de resíduos e com o consumo de recursos.
+3 - Os programas referidos nos números anteriores são integrados nos planos de gestão de resíduos de nível nacional correspondentes, devendo também incluir programas específicos de prevenção de resíduos alimentares.
+Artigo 18.º
+Planos municipais, intermunicipais e multimunicipais de resíduos
+1 - No caso dos resíduos urbanos, e em articulação com os planos de gestão de resíduos de nível nacional, são elaborados planos municipais, intermunicipais e multimunicipais de ação que concretizam as ações a desenvolver no sentido do cumprimento da estratégia nacional para a respetiva área geográfica.
+2 - Os planos municipais, intermunicipais e multimunicipais de ação são elaborados pelas entidades gestoras dos sistemas municipais e multimunicipais até 31 de dezembro de 2023, com igual prazo de vigência e aprovados pela ANR ou, no caso das Regiões Autónomas, pelas respetivas autoridades regionais competentes, no prazo máximo de 120 dias, a contar da sua submissão, sendo sujeitos a parecer parte da ARR e da ERSAR, no prazo máximo de 60 dias, devendo ser assegurada a participação do público na sua elaboração.
+3 - Os planos de gestão de resíduos devem ser conformes com as metas previstas no presente regime e com os requisitos de planeamento em matéria de gestão de fluxos específicos de resíduos e da deposição de resíduos em aterro, devendo ainda integrar os requisitos, para efeitos de prevenção de deposição de lixo, previstos na legislação relativa à política da água e estratégia marítima, de acordo com o artigo 11.º da Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro de 2000 e o artigo 13.º da Diretiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, respetivamente.
+4 - A estrutura e as diretrizes para os planos a desenvolver são definidas de forma conjunta entre a ANR e ERSAR, e publicadas no sítio na Internet da ANR e ARR respetiva.
+5 - Compete à ANR ou, no caso das Regiões Autónomas,às respetivas autoridades regionais competentes, definir objetivos mínimos para os municípios, em matéria de gestão de resíduos, os quais devem ser refletidos nos respetivos planos de ação, ficando a aprovação dos planos condicionada ao compromisso por parte dos municípios do cumprimento desses objetivos mínimos.
+6 - Os projetos no âmbito da gestão de resíduos urbanos apenas são passíveis de financiamento caso se encontrem previstos em planos municipais, intermunicipais e multimunicipais de resíduos aprovados.
+Artigo 19.º
+Avaliação e revisão dos planos e programas
+1 - (Revogado.)
+2 - Os planos de gestão de resíduos de nível nacional e respetivos programas de prevenção com horizontes temporais de cinco ou mais anos são avaliados e, se necessário, revistos, atingido o ponto médio do horizonte temporal do plano ou programa.
+3 - Os planos municipais, intermunicipais e multimunicipais de ação são avaliados e, se necessário, revistos no prazo máximo de oito meses a contar da aprovação da revisão do plano nacional para os resíduos urbanos.
+4 - Os planos municipais, intermunicipais e multimunicipais de ação são objeto de monitorização anual pela respetiva ARR, de acordo com o modelo estabelecido pela ANR e pela ERSAR ou, no caso das Regiões Autónomas, das respetivas autoridades regionais competentes, o qual deve ser publicitado no sítio na Internet da ANR e da ARR.
+5 - (Anterior n.º 4.)
+Artigo 20.º
+Consulta pública
+1 - Os planos nacionais de resíduos e os programas de prevenção de resíduos são sujeitos a consulta pública antes da respetiva aprovação, a efetuar nos termos do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual.
+2 - Após a aprovação, os planos nacionais de resíduos e respetivos programas de prevenção de resíduos são disponibilizados ao público no sítio na Internet da ANR.
+Secção II
+Prevenção da produção de resíduos
+Artigo 21.º
+Objetivos e metas de prevenção
+1 - (Revogado.)
+2 - Os planos de gestão de resíduos estabelecem medidas para as entidades públicas e privadas dos setores abrangidos, com vista a definir a sua contribuição para o cumprimento da meta de inversão da tendência de aumento de produção de resíduos até 2030.
+3 - Para a prossecução do objetivo referido no número anterior, e ouvidas a CAGER e as associações setoriais relevantes, o Governo pode estabelecer objetivos específicos de prevenção para determinados produtos, por portaria dos membros do Governo das áreas governativas competentes, mediante a realização de estudos prévios a determinar pelos serviços das áreas governativas competentes, após articulação com a ANR e com a DGAE.
+4 - (Revogado.)
+Artigo 22.º
+Medidas de promoção da reutilização
+1 - O detentor de produtos deve organizar a sua armazenagem e transporte de forma a que os produtos não sejam danificados desnecessariamente, e que os produtos não danificados ou reparáveis e os seus componentes sejam mantidos separados, se necessário, com vista a promover a reutilização de produtos e seus componentes.
+2 - O distribuidor do produto deve também organizar a receção para evitar danificar os produtos entregues, bem como cumprir outras disposições relativas à armazenagem e transporte com o objetivo de promover a reutilização de produtos e seus componentes.
+3 - A fim de promover a reutilização, o produtor do produto deve garantir que os detentores do produto possam obter as informações necessárias sobre a possibilidade de reutilização do produto e seus componentes e o seu desmantelamento, bem como informações sobre o conteúdo em termos de substâncias de elevada preocupação disponíveis na Plataforma SCIP da Agência Europeia dos Produtos Químicos.
+Artigo 23.º
+Prevenção do desperdício alimentar
+1 - Os estabelecimentos de restauração com produção de biorresíduos superior a 9 t/ano adotam, até 31 de dezembro de 2023, medidas para combater o desperdício de alimentos.
+2 - As indústrias agroalimentares, empresas de catering, supermercados e hipermercados que empreguem mais de 10 pessoas adotam, até 31 de dezembro de 2023, medidas para combater o desperdício de alimentos.
+3 - As entidades abrangidas pelo número anterior, bem como as entidades que integram a fase da produção primária na cadeia de abastecimento alimentar e os agregados familiares, contribuem com a informação prevista na Decisão de Execução (UE)
+2019/2000, da Comissão, de 28 de novembro de 2019, que estabelece um modelo para a comunicação de dados sobre resíduos alimentares e para a apresentação de relatórios de controlo da qualidade em conformidade com a Diretiva 2008/98/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, com vista ao acompanhamento do fenómeno do desperdício alimentar.
+4 - A partir de 1 de janeiro de 2024, é proibido às empresas do retalho alimentar, à indústria de produção de alimentos, ao comércio por grosso de alimentos e aos estabelecimentos de restauração o descarte de alimentos que ainda possam ser consumidos, sempre que existam formas seguras de escoamento.
+5 - Para efeitos do número anterior podem estas entidades estabelecer acordos de doação de alimentos, designadamente com instituições de solidariedade social, sendo as entidades referidas responsáveis pela qualidade dos produtos doados até ao momento da entrega ao cliente final ou a quem procede à recolha dos produtos.
+6 - Os planos municipais, intermunicipais ou multimunicipais referidos no artigo 18.º devem integrar medidas tendentes à redução do desperdício alimentar.
+Artigo 24.º
+Doação de produtos não alimentares
+1 - As entidades envolvidas na cadeia de produção, importação, distribuição, comercialização e utilização de produtos não alimentares não vendidos devem, sempre que possível e que não coloque em causa a marca do produto, evitar o seu encaminhamento como resíduo, dando preferência à sua utilização como produto, nomeadamente pela doação a associações da economia social e solidária.
+2 - A obrigação prevista no número anterior não se aplica aos produtos cuja recuperação de material seja proibida, cuja eliminação seja obrigatória ou cuja reutilização envolva sérios riscos para a saúde ou segurança.
+3 - Para efeitos da aplicação do n.º 1 é fixada uma lista pela ANR com os produtos abrangidos, previamente acordada com as associações setoriais.
+4 - As entidades públicas devem procurar doar equipamentos ou materiais que já não utilizem, nomeadamente, a associações e estruturas da economia social e solidária.
+5 - As entidades abrangidas pelo n.º 1, bem como as entidades abrangidas pela Decisão de Execução (UE) 2021/19 da Comissão, de 18 de dezembro de 2020, que estabelece uma metodologia comum e um modelo de relatório sobre a reutilização em conformidade com a Diretiva 2008/98/CE, do Parlamento Europeu e do Conselho, contribuem com a informação prevista na referida Decisão, com vista a implementar um modelo de quantificação dos resíduos desviados por esta via, permitindo uma adequada gestão destes recursos e procedimentos.
+Artigo 25.º
+Outras medidas de prevenção
+1 - Os serviços e organismos da Administração Pública devem favorecer e incentivar a prevenção da produção e perigosidade dos resíduos, em particular estabelecendo, no âmbito dos procedimentos de contratação pública para a aquisição de bens e serviços, critérios de valorização das propostas que prevejam o fornecimento e/ou a utilização de produtos que gerem menos resíduos ou que sejam reutilizáveis, designadamente produtos não embalados, de produtos embalados em embalagens reutilizáveis, ou passíveis de devolução quando não utilizados.
+2 - A Administração Pública adota, sempre que possível, as medidas necessárias para incentivar o consumo de água da torneira, nomeadamente disponibilizar apenas água da torneira nas suas instalações e em eventos da sua responsabilidade, em condições que garantam a higiene e segurança alimentar.
+3 - A partir de 1 de janeiro de 2025, a menos que o cliente solicite o contrário, é proibida a impressão e distribuição sistemática de:
+a) Recibos nas áreas de vendas e em estabelecimentos abertos ao público;
+b) Cartões de fidelização de clientes disponibilizados por lojas ou cadeias comerciais de lojas;
+c) Bilhetes por máquinas;
+d) Vouchers e tickets que visam promover ou reduzir os preços de venda de produtos ou serviços.
+4 - A ANR estabelece, em articulação com os serviços das áreas governativas respetivas, os procedimentos para obtenção de informação relativa ao cumprimento das obrigações previstas no presente artigo.
+Artigo 26.º
+Medidas de prevenção de resíduos perigosos
+1 - Até 1 de janeiro de 2024, os produtores de resíduos perigosos com produção superior a 1000 t por ano devem submeter à ANR um plano de minimização da produção desses resíduos para um período de seis anos, que inclui as práticas a adotar para reduzir a quantidade de resíduos perigosos gerados e a sua perigosidade.
+2 - As entidades referidas no número anterior devem comunicar à ANR, a cada cinco anos, a situação relativa à operacionalização e cumprimento dos planos de minimização, devendo esta comunicação incluir uma atualização do plano, caso se justifique.
+3 - As instalações abrangidas pelo Decreto-Lei n.º 127/2013, de 30 de agosto, ficam dispensadas da apresentação do plano e informações a que se referem os números anteriores, sendo a informação relevante transmitida através do Plano de Desempenho Ambiental e Relatórios Ambientais Anuais previstos para estas instalações nas respetivas Licenças Ambientais.
+4 - A ANR, em articulação com os serviços das áreas governativas dos setores relevantes, define orientações para o plano previsto no n.º 1, considerando os contributos dos setores envolvidos.
+Artigo 27.º
+Metas relativas à preparação para reutilização, reciclagem e valorização
+1 - Com vista a promover a transição para uma economia circular dotada de um elevado nível de eficiência dos recursos, as entidades responsáveis pela gestão de resíduos devem adotar as medidas necessárias, através dos planos e programas de gestão de resíduos, para garantir o cumprimento das seguintes metas:
+a) A partir da data de entrada em vigor do presente regime, um aumento mínimo global para 50 %, em peso, relativamente à preparação para a reutilização e a reciclagem de resíduos urbanos;
+b) A partir da data de entrada em vigor do presente regime, um aumento mínimo para 70 %, em peso, relativamente à preparação para a reutilização, à reciclagem e outras formas de valorização material, incluindo as operações de enchimento que utilizem resíduos como substituto de outros materiais, resíduos de construção e demolição não perigosos, com exclusão dos materiais naturais definidos na categoria 17 05 04 da Lista Europeia de Resíduos, publicada pela Decisão 2014/955/UE da Comissão, de 18 de dezembro de 2014;
+c) Até 2025, um aumento mínimo para 55 %, em peso, da preparação para a reutilização e da reciclagem de resíduos urbanos;
+d) Até 2030, um aumento mínimo para 60 %, em peso, da preparação para a reutilização e da reciclagem de resíduos urbanos;
+e) Até 2035, um aumento mínimo para 65 %. em peso, da preparação para a reutilização e da reciclagem de resíduos urbanos.
+2 - Para garantir o cumprimento das metas estabelecidas no número anterior, as Regiões Autónomas devem cumprir as metas que venham a ser estabelecidas nos respetivos planos.
+3 - Para efeitos do cumprimento das metas estabelecidas, incluindo as referidas no n.º 1, a ANR determina a contribuição dos sistemas municipais e multimunicipais de gestão de resíduos urbanos, de acordo com o disposto no Plano Estratégico para os Resíduos Urbanos.
+4 - Os serviços e organismos das Regiões Autónomas devem remeter à ANR a informação necessária para efeitos de cálculo do cumprimento das metas e comunicação de dados à Comissão Europeia.
+5 - Compete à ANR, a partir de informação remetida pelas Regiões Autónomas e com a informação recolhida, assegurar a monitorização do cumprimento das metas definidas no n.º 1, de acordo com as regras estabelecidos por decisão da Comissão
+Europeia, previstas no anexo VI ao presente regime.
+6 - (Revogado.)
+Artigo 28.º
+Conceção, produção e distribuição de produtos que geram resíduos
+1 - Sem prejuízo do disposto no n.º 5, a colocação no mercado de determinadas categorias de produtos e materiais pode estar sujeita ao cumprimento de uma taxa mínima de incorporação de material reciclado nesses produtos e materiais, com exceção dos materiais provenientes de matérias-primas renováveis, exceto se a avaliação do ciclo de vida não o justificar.
+2 - A taxa de incorporação referida no número anterior é especificada por portaria dos membros do Governo responsáveis pelas áreas governativas competentes em razão dos produtos e materiais, e tem em consideração as características técnicas dos produtos, em particular em questões ambientais, de saúde e segurança, e após consulta dos representantes dos setores em causa.
+3 - O método de cálculo da taxa de incorporação, bem como os procedimentos para monitorizar o cumprimento da obrigação prevista no n.º 1, constam igualmente da portaria prevista no número anterior.
+4 - A ANR, ou os serviços ou organismo das áreas governativas competentes referidas no n.º 2, podem solicitar aos produtores, importadores ou exportadores:
+a) Informações sobre os resíduos gerados pelos produtos que fabricam, importam ou exportam, nomeadamente se são passíveis de serem geridos nas condições previstas no presente artigo.
+b) Elementos que justifiquem a taxa de incorporação de material reciclado nos seus produtos e informação relativa à possível presença de substâncias perigosas nos seus produtos, os métodos de gestão dos resíduos resultantes e as consequências de sua implementação.
+5 - É obrigatória a utilização de pelo menos 10 % de materiais reciclados ou que incorporem materiais reciclados relativamente à quantidade total de materiais aplicados em obra, no âmbito da contratação de empreitadas de construção e de manutenção de infraestruturas, nos termos do disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+6 - A ANR, em articulação com os serviços ou organismos das áreas governativas competentes, estabelece metas de crescimento gradual da incorporação de materiais reciclados em obras públicas.
+7 - Os materiais reciclados referidos no n.º 5 devem ser certificados pelas entidades competentes, nacionais ou europeias, de acordo com a legislação em vigor, podendo ser apresentada em alternativa documentação comprovativa, que ateste de forma fundamentada a incorporação de reciclados.
+8 - Para efeitos do disposto no n.º 5 são igualmente considerados os resíduos valorizados em obra.
+9 - Caso não seja possível a utilização de matérias prevista no n.º 5, o Plano de Prevenção e Gestão de RCD (PPGRCD) deve referir expressamente esta impossibilidade acompanhada da respetiva justificação técnica.
+Secção III
+Produção e detenção de resíduos
+Artigo 29.º
+Obrigações dos produtores de resíduos
+1 - Todos os produtores ou detentores de resíduos devem:
+a) Adotar medidas de prevenção da produção de resíduos;
+b) Adotar medidas com vista a garantir a gestão dos resíduos de acordo com a hierarquia da gestão de resíduos;
+c) Assegurar a triagem preliminar dos resíduos, quando não coloquem em causa a saúde humana ou o ambiente, de forma a permitir a recolha seletiva dos resíduos com vista à sua valorização.
+2 - Os produtores de resíduos não abrangidos pelo n.º 2 do artigo 9.º devem, ainda:
+a) Armazenar os resíduos produzidos no local de produção de acordo com normas técnicas estabelecidas, caso existam, por um período não superior a três anos, nos casos em que não seja aplicável um regime jurídico de licenciamento da atividade que aprove outras condições para a sua armazenagem;
+b) Classificar os resíduos de acordo com a LER, podendo ser definidas, por despacho do presidente da ANR, normas com vista à aplicação harmonizada da LER, designadamente em caso de conflito entre o produtor e o operador de tratamento de resíduos relativamente à classificação do resíduo;
+c) Determinar, para efeitos da alínea anterior, se o resíduo é perigoso quando este é classificado por uma entrada espelho de acordo com a LER;
+d) Garantir o seu correto acondicionamento;
+e) Determinar se os resíduos são resíduos perigosos ou resíduos que contêm substâncias constantes da lista do anexo iv do Regulamento (UE) n.º 2019/1021, do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa a poluentes orgânicos persistentes, ou contaminados por alguns deles;
+f) Fornecer ao operador de tratamento as informações que este razoavelmente solicite com vista ao tratamento dos resíduos quando estes sejam transferidos para esse operador para fins de tratamento.
+Secção IV
+Medidas de gestão para frações específicas de resíduos
+Artigo 30.º
+Biorresíduos
+1 - No caso dos biorresíduos provenientes de atividades da restauração e industrial, os seus produtores devem separá-los na origem, sem os misturar com outros resíduos, de acordo com o seguinte cronograma:
+a) Até 31 de dezembro de 2022, no caso de entidades que produzam mais de 25 t/ano de biorresíduos;
+b) Até 31 de dezembro de 2023, nos restantes casos.
+2 - Para cumprimento do estabelecido no n.º 2 do artigo 36.º, as entidades responsáveis pelos sistemas municipais ou multimunicipais, de acordo com as respetivas competências, adotam as medidas necessárias para possibilitar a separação e reciclagem na origem dos biorresíduos através de compostagem doméstica ou comunitária e outras soluções locais de reciclagem, de acordo com a ANR, ou a sua recolha seletiva e posterior transporte para instalações de reciclagem, designadamente de compostagem e digestão anaeróbia, evitando a sua mistura no tratamento com outros resíduos, em particular com a fração orgânica dos resíduos indiferenciados.
+3 - Podem ser recolhidos conjuntamente com os biorresíduos as embalagens valorizáveis através da compostagem e biodigestão que cumpram os requisitos de normas nacionais ou europeias aplicáveis, bem como outros resíduos com propriedades de biodegradabilidade e compostabilidade semelhantes que cumpram aquelas normas ou outras equivalentes para embalagens e que satisfaçam os níveis de degradação dos biorresíduos tratados pelos sistemas de tratamento.
+4 - A ANR estabelece, no prazo de um ano após a publicação do presente regime, níveis de qualidade para a entrega de biorresíduos nas instalações, bem como especificações técnicas para o seu correto tratamento, após auscultação dos setores com responsabilidades na matéria, nomeadamente os sistemas municipais e multimunicipais.
+5 - A instalação de equipamentos de compostagem doméstica e comunitária e outras soluções locais de reciclagem, de acordo com a ANR, não se encontra sujeita a licenciamento nos termos do artigo 59.º, mas tem que cumprir as regras gerais previstas no artigo 66.º que venham a ser definidas, e é sujeita a registo junto da entidade responsável pelo sistema municipal de gestão resíduos urbanos.
+6 - Os requisitos de informação necessários para calcular a contribuição da compostagem doméstica e comunitária e das outras soluções locais de reciclagem para os objetivos de preparação para a reutilização e reciclagem segundo a metodologia comunitária são estabelecidos pela ANR.
+Artigo 31.º
+Outras frações de resíduos
+1 - Até 1 de janeiro de 2025, as entidades responsáveis pelo sistema municipal de gestão de resíduos urbanos disponibilizam uma rede de recolha seletiva para os seguintes resíduos, cuja gestão lhes está cometida nos termos do artigo 9.º:
+a) Resíduos têxteis;
+b) Resíduos volumosos, incluindo colchões e mobiliário;
+c) Resíduos perigosos;
+d) Óleos alimentares usados;
+e) Resíduos de construção e demolição resultantes de pequenas reparações e obras de bricolage em habitações.
+2 - As entidades referidas no número anterior integram os custos de instalação e de gestão desta rede nas tarifas a aplicar aos cidadãos e aos produtores de resíduos urbanos ou aos utilizadores do sistema.
+Capítulo II
+Instrumentos voluntários
+Artigo 32.º
+Acordos voluntários para a promoção da recolha e valorização dos resíduos
+1 - A ANR pode celebrar acordos voluntários com produtores ou detentores de resíduos, produtores de produtos, associações, entidades da economia social ou outras entidades que contribuam para a implementação da política de resíduos e transição para uma economia circular.
+2 - A manifestação de interesse na formalização de acordo voluntário junto da ANR, deve incluir os seguintes elementos necessários à caracterização do fluxo e subsequente tomada de decisão:
+a) Objeto da proposta e caracterização dos resíduos;
+b) O circuito de gestão dos resíduos, a adotar;
+c) Os objetivos de gestão e as respetivas metas, se aplicável;
+d) Demonstração do cumprimento da hierarquia de resíduos;
+e) A metodologia de monitorização do sistema de gestão a adotar.
+3 - Caso o acordo voluntário abranja resíduos da responsabilidade dos sistemas municipais e multimunicipais, a formalização do mesmo deve ser antecedida de consulta à respetiva entidade.
+4 - Após análise dos elementos referidos no n.º 2, e caso a decisão da ANR seja favorável, é formalizado o acordo voluntário, cujos termos são publicitados no sítio da ANR na Internet.
+5 - O acordo voluntário estabelece os objetivos a alcançar e os termos da sua implementação e resolução, nomeadamente no que se refere às regras aplicáveis à gestão dos resíduos abrangidos.
+6 - O disposto no n.º 1 não se verifica sempre que exista legislação específica que assegure a gestão do fluxo em causa.
+Artigo 33.º
+Celebração de acordos
+1 - Os estabelecimentos de comércio a retalho ou outros estabelecimentos podem contribuir para a constituição da rede de pontos de recolha seletiva dos resíduos urbanos mediante celebração de acordos com os sistemas municipais ou multimunicipais, de acordo com as respetivas competências, podendo nesse âmbito disponibilizar locais adequados para a colocação de pontos de recolha seletiva, sem prejuízo do disposto em legislação específica.
+2 - Os acordos referidos no número anterior devem contemplar os elementos referidos no n.º 2 do artigo anterior, com as devidas adaptações.
+Artigo 34.º
+Sensibilização, informação e investigação e desenvolvimento
+As entidades envolvidas na cadeia de produção, importação, distribuição e utilização de produtos devem, individualmente ou mediante a celebração de acordos entre si ou com associações representativas de setores relevantes, promover ações de sensibilização e de informação do público sobre boas práticas de gestão dos respetivos resíduos e sobre os potenciais impactes negativos para a saúde e para o ambiente decorrentes da sua gestão inadequada, bem como ações na área da investigação e desenvolvimento no domínio da prevenção e valorização dos respetivos resíduos.
+Capítulo III
+Recolha de resíduos
+Artigo 35.º
+Recolha de resíduos
+1 - Integram a rede de recolha de resíduos os pontos de recolha e os centros de recolha.
+2 - A armazenagem preliminar de resíduos apenas pode ter lugar por períodos não superiores a três anos, nas instalações onde é realizada.
+3 - Os sistemas municipais e multimunicipais são obrigados a rececionar todos os resíduos, incluindo os resíduos perigosos, cuja gestão lhes compita nos termos da lei.
+4 - Os centros de recolha de resíduos estão sujeitos ao cumprimento de normas técnicas estabelecidas pela ANR atendendo a critérios de qualidade técnica e de eficiência, as quais definem as quantidades e os períodos máximos de armazenagem preliminar, a publicitar no seu sítio na Internet no prazo de um ano a contar da data da publicação do presente decreto-lei.
+5 - Os centros de recolha de resíduos só podem ser detidos e operados pelo próprio produtor dos resíduos, por entidade gestora de sistema integrado de gestão de fluxo específico de resíduos ou por sistemas municipais ou multimunicipais de gestão de resíduos.
+Artigo 36.º
+Recolha seletiva de resíduos
+1 - Os produtores e operadores de gestão de resíduos asseguram que os resíduos são recolhidos separadamente, por forma a facilitar e promover a sua gestão em observância do princípio da hierarquia dos resíduos, sem prejuízo do disposto no artigo seguinte.
+2 - Os municípios, de acordo com as respetivas competências, operacionalizam a recolha seletiva, no mínimo, das seguintes frações de resíduos:
+a) Papel, metais, plástico e vidro;
+b) Biorresíduos, até 31 de dezembro de 2023;
+c) Têxteis, até 1 de janeiro de 2025;
+d) Óleos alimentares usados;
+e) Resíduos perigosos, até 1 de janeiro de 2025;
+f) Resíduos de mobiliário e outros resíduos volumosos, até 1 de janeiro de 2025;
+g) Resíduos de construção e demolição resultantes de pequenas reparações e obras de bricolage em habitações.
+3 - A recolha seletiva é igualmente obrigatória no caso dos resíduos não abrangidos pela reserva de serviço público.
+4 - Sem prejuízo do disposto no n.º 2, os municípios podem celebrar acordos com os sistemas municipais ou multimunicipais para implementação da rede de recolha seletiva prevista na alínea b) do n.º 2 e no n.º 2 do artigo 30.º
+5 - A recolha seletiva prevista na alínea b) do n.º 2 e no n.º 2 do artigo 30.º pode ser efetuada em conjunto com o resíduo urbano misturado, desde que se encontre devidamente acondicionada em saco ótico e segregado dos restantes, garantindo a sua adequada separação e tratamento biológico, não sendo permitida a mistura com outros resíduos.
+6 - (Anterior n.º 5.)
+7 - (Anterior n.º 6.)
+8 - (Anterior n.º 7.)
+9 - (Anterior n.º 8.)
+10 - (Anterior n.º 9.)
+11 - (Anterior n.º 10.)
+12 - (Anterior n.º 11.)
+Artigo 37.º
+Derrogações à obrigação de recolha seletiva
+1 - A aplicação dos n.os 1 e 2 do artigo anterior é afastada, quando se verificar uma das seguintes condições:
+a) A recolha conjunta de determinados tipos de resíduos não afeta o seu potencial para serem objeto de preparação para a reutilização, de reciclagem ou de outras operações de valorização tal como definidas no artigo 3.º, e os resíduos resultantes dessas operações são de qualidade comparável à que é alcançada através da recolha seletiva;
+b) A recolha seletiva não produz os melhores resultados ambientais quando são considerados os impactes ambientais globais da gestão dos fluxos de resíduos pertinentes;
+c) A recolha seletiva não é tecnicamente viável tendo em conta as boas práticas em matéria de recolha de resíduos;
+d) A recolha seletiva acarretaria custos económicos desproporcionados tendo em conta os custos dos impactes adversos no ambiente e na saúde da recolha e tratamento de resíduos indiferenciados, o potencial de melhorias na eficiência da recolha e tratamento de resíduos, as receitas resultantes da venda de matérias-primas secundárias e a aplicação do princípio do poluidor-pagador e da responsabilidade alargada do produtor.
+2 - As derrogações previstas no número anterior são objeto de consulta às partes interessadas e à CAGER e são publicitadas no sítio da ANR na Internet e sujeitas a reexame, tomando em consideração as boas práticas em matéria de recolha seletiva de resíduos, os resultados em matéria de cumprimento de metas e a inovação e desenvolvimentos tecnológicos que possam ocorrer no setor dos resíduos.
+3 - É permitida a recolha conjunta de plástico, metal e embalagens de cartão para alimentos líquidos sempre que se garanta a sua adequada separação posterior que não suponha uma perda de qualidade dos materiais obtidos nem um incremento de custos.
+
+Capítulo V
+Resíduos urbanos
+Artigo 45.º
+Gestão de resíduos urbanos
+1 - Os produtores de resíduos urbanos da responsabilidade dos sistemas municipais e multimunicipais de gestão de resíduos urbanos são obrigados a efetuar a separação e deposição seletiva de todos os resíduos produzidos em equipamentos ou instalações daqueles sistemas, nos termos dos regulamentos aplicáveis.
+2 - Excetuam-se do disposto do número anterior as situações:
+a) De proteção da saúde pública por via de programas promovidos pela administração central ou local ou de acordos voluntários realizados com a ANR;
+b) Em que não são disponibilizados pelo sistema equipamentos e/ou infraestruturas de recolha seletiva de resíduos passiveis de valorização material;
+c) Que contribuem para aumento da recolha seletiva e posterior valorização material de resíduos, designadamente no âmbito das redes de recolha das entidades gestoras de sistemas de fluxos específicos de resíduos.
+d) Em que o resíduo deve sofrer processamento prévio ou tratamento específico que o sistema municipal ou multimunicipal não assegura.
+3 - Nos casos referidos no número anterior, o operador informa o sistema municipal ou multimunicipal das tipologias de resíduos que recolhe e do sistema de recolha implementado, e ainda, anualmente, até 15 de janeiro do ano seguinte, os quantitativos recolhidos e o respetivo destino, identificados por código LER.
+4 - Os sistemas municipais e multimunicipais e os demais operadores de tratamento de resíduos urbanos procedem à caracterização física dos resíduos urbanos, nos moldes definidos por portaria a aprovar pelo membro do Governo responsável pela área do ambiente.
+5 - (Anterior n.º 3.)
+6 - (Anterior n.º 5.)
+7 - (Anterior n.º 6.)
+8 - (Anterior n.º 7.)
+Artigo 46.º
+Resíduos das habitações
+1 - Os cidadãos são responsáveis por separar e depositar os resíduos urbanos produzidos nas habitações nos pontos ou centros de recolha disponibilizados pela entidade que presta o serviço de recolha e tratamento de resíduos ou em locais autorizados para o efeito.
+2 - Podem ser estipuladas nos regulamentos de serviços municipais contraordenações específicas pelo incumprimento por parte dos utilizadores dos serviços do dever de separação e deposição dos resíduos de habitações nos locais e nos dias próprios para o efeito, nos termos do artigo 90.º-B da Lei n.º 73/2013, de 3 de setembro, na sua redação atual.
+3 - Os sistemas municipais ou multimunicipais de gestão de resíduos urbanos cobram uma tarifa com vista a recuperar os custos da prestação do serviço referido no n.º 1, devendo a mesma assentar nos princípios constantes no n.º 2 do artigo 106.º
+4 - Os sistemas municipais ou multimunicipais, devem realizar campanhas de sensibilização junto dos cidadãos com vista a incentivar a redução da produção de resíduos, bem como transmitir informação relativa à recolha seletiva.
+5 - Os sistemas municipais ou multimunicipais devem comunicar, pelo menos uma vez por ano, os resultados e benefícios obtidos pelos munícipes pela participação na recolha seletiva dos resíduos, bem como os impactes positivos decorrentes do cumprimento das metas, devendo a mesma ser disponibilizada no sítio na Internet do sistema, juntamente com os principais indicadores relativos à atividade de gestão de resíduos, devendo os planos multimunicipais, intermunicipais e municipais ser disponibilizados também no sítio na Internet.
+6 - A ERSAR monitoriza o cumprimento das obrigações previstas nos n.os 2 a 5 no âmbito das suas atribuições.
+Artigo 47.º
+Reutilização e preparação para reutilização
+1 - Os sistemas municipais e multimunicipais adotam as medidas necessárias para assegurar que os produtos ou objetos em fim de vida se destinam a reutilização, e os resíduos a operações de preparação para reutilização, em particular no caso dos equipamentos elétricos e eletrónicos, têxteis e mobiliário.
+2 - Com vista à concretização do disposto no número anterior, os sistemas devem fomentar e apoiar o estabelecimento de redes de troca e de reparação e de preparação para reutilização.
+3 - As redes referidas no número anterior, no caso de preparação para a reutilização e quando compatíveis com a correta gestão dos resíduos, podem ser asseguradas, mediante contrato ou acordo, por entidades cujo objeto social inclua a prossecução de objetivos de economia social, solidária e circular.
+4 - Para efeitos do disposto no número anterior, podem os contratos ou acordos prever a utilização pelas entidades aí referidas de instalações dos sistemas como locais para recuperação e reprocessamento ocasionais de produtos ou objetos em boas condições ou reparáveis, devendo estas instalações disponibilizar uma área de entrega de produtos que podem ser reutilizados.
+5 - O âmbito dos serviços é estabelecido pelos sistemas nos contratos ou acordos referidos no n.º 3 e integra o capítulo da prevenção do plano municipal previsto no n.º 1 do artigo 18.º
+6 - No caso de resíduos abrangidos pela responsabilidade alargada do produtor, o acordo referido no n.º 3 deve assegurar o disposto na legislação específica aplicável.
+7 - Os contratos ou acordos firmados nos termos do presente artigo, bem como as quantidades de resíduos geridos, são comunicados à ANR para efeito de monitorização.
+
+Título IV
+Regime económico e financeiro da gestão de resíduos
+Capítulo I
+Tarifas de serviços
+Artigo 106.º
+Tarifas dos serviços públicos de gestão de resíduos urbanos
+1 - Os utilizadores dos serviços de gestão de resíduos urbanos ficam sujeitos à tarifa de resíduos.
+2 - A aplicação de tarifas para a prestação de serviço de gestão de resíduos obedece aos seguintes princípios:
+a) Princípio da proteção da saúde pública e do ambiente;
+b) Princípio da promoção da universalidade, da igualdade de acesso e da coesão territorial;
+c) Princípio da qualidade e da continuidade do serviço e da proteção dos interesses dos utilizadores;
+d) Princípio da sustentabilidade económica e financeira dos serviços;
+e) Princípio da eficiência e melhoria contínua na utilização dos recursos;
+f) Princípio do utilizador-pagador;
+g) Princípio da responsabilidade do cidadão;
+h) Princípio da hierarquia dos resíduos;
+i) Princípio da promoção da solidariedade económica e social;
+j) Princípio da estabilidade tarifária.
+3 - Sem prejuízo do disposto nos diplomas que disciplinam o regime jurídico de cada um dos serviços de gestão de resíduos urbanos, a tarifa deve assegurar a recuperação económica e financeira dos custos dos serviços em cenário de eficiência, a proteção dos interesses dos utilizadores e a qualidade do serviço.
+4 - A fixação da tarifa deve observar o regulamento tarifário aprovado pela entidade reguladora do setor.
+5 - O regulamento tarifário de gestão de resíduos estabelece medidas de discriminação positiva para os municípios dos territórios de baixa densidade, tendo em vista a aplicação de uma tarifa mais reduzida para os utilizadores domésticos desses territórios e, consequentemente, a prossecução do princípio da coesão territorial, sem prejuízo do equilíbrio financeiro dos sistemas.
+Artigo 107.º
+Tarifa de resíduos urbanos ao utilizador final
+1 - Os municípios devem cobrar ao utilizador final uma tarifa pelo serviço de gestão de resíduos urbanos prestado de forma a cobrir os respetivos custos, incluindo os de tratamento dos resíduos urbanos.
+2 - A tarifa de resíduos deve incentivar a redução da quantidade dos resíduos urbanos e a nocividade dos mesmos, bem como a separação na origem e um incremento dos resíduos recolhidos seletivamente.
+3 - As tarifas devem ser aplicadas sobre a quantidade de resíduos recolhidos, medida em unidades de peso ou estimada pelo volume de contentorização.
+4 - No prazo de cinco anos após a entrada em vigor do presente regime, as tarifas devem deixar de ser indexadas ao consumo de água e cumprir o previsto no número anterior, salvo se disposto em sentido contrário nos planos de ação aprovados, previstos no artigo 18.º
+Artigo 107.º-A
+Tarifa social automatizada nos resíduos urbanos
+O Governo, até 31 de dezembro de 2021, procede às alterações legislativas e à regulamentação necessárias com vista à criação de mecanismos que permitam a aplicação automática da tarifa social de resíduos urbanos, revendo o regime de atribuição de tarifa social para a prestação dos serviços de águas, a fim de incluir no mesmo os serviços de gestão de resíduos urbanos.
+
+Capítulo III
+Tarifas de gestão de resíduos
+Artigo 110.º
+Taxa de gestão de resíduos
+1 - É estabelecida uma TGR, que visa compensar os custos administrativos de acompanhamento das atividades de gestão de resíduos, incentivar a redução da produção de resíduos, estimular o cumprimento dos objetivos nacionais em matéria de gestão de resíduos e melhorar o desempenho do setor.
+2 - A TGR é devida pelas entidades responsáveis por sistemas de gestão de resíduos urbanos municipais ou multimunicipais, por instalações de incineração, de deposição de resíduos, pelos CIRVER e pelas entidades gestoras de sistemas individuais ou integrados de gestão de fluxos específicos de resíduos.
+3 - A TGR deve ser repercutida nas tarifas e prestações financeiras cobradas pelos sujeitos passivos e ao longo da cadeia de valor da gestão de resíduos até ao produtor dos resíduos, sem prejuízo do estabelecido no n.º 5 do artigo 114.º
+4 - A TGR deve ser objeto de aumento gradual de acordo com os princípios gerais previstos no presente regime e nos instrumentos de planeamento em vigor, devendo assumir, entre os anos de 2021 e 2025, os seguintes valores:
+(ver documento original)
+
+Anexo III
+Exemplos de instrumentos económicos e outras medidas para incentivar a aplicação da hierarquia dos resíduos
+(a que se refere o artigo 7.º)
+1 - Taxas e restrições aplicáveis à deposição em aterros e à incineração de resíduos que incentivem a prevenção de resíduos e a reciclagem, mantendo a deposição em aterros como a opção de gestão de resíduos menos desejável.
+2 - Sistemas de «pagamento em função da produção de resíduos» ou «pay-as-you-throw» que onerem os produtores de resíduos com base na quantidade efetiva de resíduos produzidos e forneçam incentivos à separação dos resíduos recicláveis na origem e à redução dos resíduos indiferenciados.
+3 - Incentivos fiscais para a doação de produtos, sobretudo de géneros alimentícios.
+4 - Regimes de responsabilidade alargada do produtor para vários tipos de resíduos e medidas que aumentem a sua eficácia, rentabilidade e governação.
+5 - Regimes de consignação e outras medidas que incentivem a recolha eficaz de produtos e materiais usados.
+6 - Planeamento adequado dos investimentos em infraestruturas de gestão de resíduos, inclusive através de fundos da União.
+7 - Contratação pública sustentável para incentivar uma melhor gestão dos resíduos e a utilização de produtos e materiais reciclados.
+8 - Supressão de subsídios que não sejam coerentes com a hierarquia dos resíduos.
+9 - Medidas fiscais ou outros meios para promover a aceitação de produtos e materiais que são preparados para a reutilização ou reciclados.
+10 - Apoio à investigação e inovação em tecnologias de reciclagem avançadas e reprocessamento.
+11 - Utilização das melhores técnicas disponíveis para o tratamento de resíduos.
+12 - Incentivos económicos às autoridades regionais e locais, nomeadamente para promover a prevenção de resíduos e reforçar os sistemas de recolha seletiva, evitando o apoio à deposição em aterros e à incineração.
+13 - Campanhas de sensibilização, nomeadamente sobre a recolha seletiva, a prevenção de resíduos e a redução de lixo, e integração desta temática no ensino e formação.
+14 - Sistemas de coordenação, nomeadamente através de meios digitais, entre todas as autoridades públicas competentes envolvidas na gestão de resíduos.
+15 - Promoção de um diálogo e cooperação permanentes entre todas as partes interessadas na gestão de resíduos e incentivo a acordos voluntários e apresentação de relatórios sobre resíduos ao nível das empresas.
+Anexo IV
+Conteúdo dos planos de gestão de resíduos
+(a que se refere o artigo 16.º)
+A - Elementos obrigatórios
+Dos planos de gestão de resíduos deve constar a análise da situação atual da gestão de resíduos, a definição das medidas a adotar para melhorar, de modo ambientalmente correto, o tratamento de resíduos, bem como a avaliação do modo como o plano é suscetível de apoiar a execução dos objetivos e do regime constante do presente regime.
+Os planos de gestão de resíduos devem conter, conforme adequado e de acordo com a abrangência geográfica e da zona de planeamento, pelo menos, os seguintes elementos:
+1 - Tipo, origem e quantidade dos resíduos produzidos no território, dos resíduos que podem ser transferidos para o território nacional ou a partir deste e a avaliação prospetiva da evolução das fileiras e fluxos específicos de resíduos;
+2 - Principais instalações existentes apropriadas para o tratamento, incluindo designadamente disposições especiais relativas aos óleos usados, aos resíduos perigosos, aos resíduos que contêm grandes quantidades de matérias-primas críticas, ou aos fluxos específicos de resíduos;
+3 - Uma avaliação das necessidades de encerramento das instalações de resíduos existentes e de infraestruturas suplementares para as instalações de resíduos, de acordo com os princípios gerais de gestão de resíduos em particular dos princípios da autossuficiência e da proximidade e dos correspondentes investimentos necessários;
+4 - Informações suficientes sobre os critérios de localização para a identificação dos locais e a capacidade das futuras instalações de eliminação ou das principais instalações de valorização, se necessário;
+5 - Políticas gerais de gestão de resíduos, designadamente tecnologias e normas técnicas aplicáveis à gestão de resíduos, ou políticas relativas a outros resíduos que coloquem problemas de gestão específicos, incluindo especificações técnicas e disposições especiais;
+6 - Políticas específicas de gestão de biorresíduos, nomeadamente de:
+a) Incentivo à reciclagem, incluindo a compostagem e a digestão, de modo a satisfazer um elevado nível de proteção ambiental e a obter como resultado um produto que cumpra os elevados padrões de qualidade aplicáveis;
+b) Incentivo à compostagem doméstica; e
+c) Promoção a utilização de materiais produzidos a partir de biorresíduos.
+7 - Medidas para combater e evitar todas as formas de deposição de lixo em espaços públicos e para limpar todos os tipos de lixo;
+8 - Indicadores e metas qualitativos ou quantitativos adequados, inclusive quanto à quantidade de resíduos produzidos e o seu tratamento, e quanto à quantidade de resíduos urbanos eliminados ou sujeitos a valorização energética;
+9 - Informações sobre as medidas a adotar para que não sejam aceites resíduos líquidos em aterros;
+10 - Uma avaliação dos sistemas de recolha de resíduos existentes, incluindo o âmbito material e territorial, abrangidos pela recolha seletiva e medidas destinadas a melhorar o seu funcionamento, de eventuais derrogações e da necessidade de novos sistemas de recolha.
+B - Elementos opcionais
+Os planos de gestão de resíduos podem conter, tendo em conta a abrangência geográfica e a zona de planeamento, os seguintes elementos:
+1 - Aspetos organizacionais relacionados com a gestão de resíduos, designadamente uma descrição da partilha de responsabilidades entre os intervenientes que efetuam a gestão de resíduos;
+2 - Uma avaliação da utilidade e adequação da utilização de instrumentos económicos e de outros instrumentos para a resolução de problemas relacionados com os resíduos, tendo em conta a necessidade de manter o bom funcionamento do mercado interno;
+3 - A realização de campanhas de sensibilização e de informação dirigidas ao público em geral ou a grupos específicos de consumidores;
+4 - Uma indicação dos locais contaminados que constituem passivos ambientais e medidas para a sua reabilitação.
+Anexo V
+Medidas de prevenção de resíduos
+(a que se refere o artigo 17.º)
+A - Objetivos para os quais as medidas de prevenção de resíduos devem contribuir
+1 - Fomentar e apoiar modelos de produção e consumo sustentáveis;
+2 - Incentivar a conceção, o fabrico e a utilização de produtos que sejam eficientes em termos de recursos, duradouros (inclusive em termos de tempo de vida útil e de ausência de obsolescência programada), reparáveis, reutilizáveis e atualizáveis;
+3 - Incidir sobre produtos que contenham matérias-primas críticas, a fim de evitar que esses materiais se transformem em resíduos;
+4 - Estimular a reutilização de produtos e a criação de sistemas que promovam atividades de reparação e reutilização, especialmente de equipamentos elétricos e eletrónicos, têxteis e mobiliário, bem como de materiais e produtos de embalagem e de construção;
+5 - Incentivar, consoante adequado e sem prejuízo dos direitos de propriedade intelectual, a disponibilidade de peças sobressalentes, manuais de instruções, informações técnicas ou outros instrumentos, equipamentos ou programas informáticos que permitam a reparação e reutilização de produtos sem comprometer a sua qualidade e segurança;
+6 - Reduzir a produção de resíduos em processos relacionados com a produção industrial, a extração de minerais, o fabrico e a construção e demolição, tendo em conta as melhores técnicas disponíveis;
+7 - Reduzir a produção de resíduos alimentares na produção primária, na transformação e no fabrico, na venda a retalho e outra distribuição de alimentos, nos restaurantes e serviços de alimentação, bem como nas habitações, como contributo para o Objetivo de Desenvolvimento Sustentável das Nações Unidas de, até 2030, reduzir em 50 % os resíduos alimentares globais per capita, a nível de retalho e do consumidor e reduzir o desperdício alimentar ao longo das cadeias de produção e de abastecimento;
+8 - Incentivar a doação de alimentos e outras formas de redistribuição para consumo humano, dando prioridade à alimentação humana em detrimento da alimentação animal e do reprocessamento em produtos não alimentares;
+9 - Promover a redução do teor de substâncias perigosas em materiais e produtos, sem prejuízo dos requisitos legais harmonizados relativos a esses materiais e produtos estabelecidos a nível da União e assegurar que qualquer fornecedor de um artigo, na aceção do n.º 33 do artigo 3.º do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, fornece a informação prevista no n.º 1 do artigo 33.º do mesmo Regulamento à Agência Europeia dos Produtos Químicos a partir de 5 de janeiro de 2021;
+10 - Reduzir a produção de resíduos, em especial dos resíduos que não são adequados à preparação para a reutilização ou à reciclagem;
+11 - Identificar os produtos que constituem as principais fontes de deposição de lixo nos espaços públicos, nomeadamente no meio natural e no meio marinho, e tomar medidas adequadas para evitar e reduzir o lixo proveniente desses produtos;
+12 - Ter por objetivo travar a produção de lixo marinho como contributo rumo ao Objetivo de Desenvolvimento Sustentável das Nações Unidas de prevenir, e reduzir significativamente, a poluição marinha de todos os tipos; e 13 - Organizar e apoiar campanhas de informação para uma maior sensibilização para a prevenção de resíduos e a deposição de lixo em espaços públicos.
+B - Exemplos de medidas de prevenção de resíduos
+Medidas com incidência nas condições quadro relativas à geração de resíduos
+1 - Recurso a medidas de planeamento ou a outros instrumentos económicos que promovam a utilização eficiente dos recursos.
+2 - Promoção da investigação e desenvolvimento de tecnologias que permitam a obtenção de produtos mais limpos e menos produtores de resíduos e difusão e utilização dos resultados dessa investigação e desenvolvimento.
+3 - Desenvolvimento de indicadores eficazes e relevantes das pressões ambientais associadas à geração de resíduos destinados a contribuir para a prevenção da geração de resíduos a todos os níveis, desde comparações de produtos a nível comunitário até medidas a nível nacional, passando por ações desenvolvidas pelas autoridades locais.
+Medidas com incidência na fase de conceção, produção e distribuição
+1 - Promoção da «conceção ecológica» (integração sistemática dos aspetos ambientais na conceção de produtos, no intuito de melhorar o desempenho ambiental do produto ao longo de todo o seu ciclo de vida).
+2 - Prestação de informações sobre técnicas de prevenção de resíduos tendo em vista facilitar a aplicação das melhores técnicas disponíveis por parte da indústria.
+3 - Organização de ações de formação destinadas às autoridades competentes sobre a inserção dos requisitos de prevenção de resíduos nas licenças concedidas ao abrigo do presente regime e da legislação relativa à prevenção e controlo integrados da poluição.
+4 - Inclusão de medidas de prevenção da produção de resíduos em instalações não abrangidas pela legislação relativa à prevenção e controlo integrados da poluição. Se adequado, essas medidas podem incluir avaliações ou planos de prevenção de resíduos.
+5 - Realização de campanhas de sensibilização ou prestação de apoio às empresas a nível financeiro, decisório ou outro. Estas medidas podem ser especialmente eficazes caso visem pequenas e médias empresas, estejam adaptadas às mesmas e funcionem através de redes comerciais estabelecidas.
+6 - Recurso a acordos voluntários, painéis de consumidores/produtores ou negociações setoriais para que as empresas ou setores industriais relevantes estabeleçam os seus próprios planos ou objetivos de prevenção de resíduos ou retifiquem produtos ou embalagens produtores de resíduos.
+7 - Promoção de sistemas de gestão ambiental credíveis, designadamente o Sistema Comunitário de Ecogestão e Auditoria e a ISO 14001.
+Medidas com incidência na fase de consumo e utilização
+1 - Utilização de instrumentos económicos, tais como incentivos às compras ecológicas ou instituição de um regime que obrigue os consumidores ao pagamento de determinado artigo ou elemento de uma embalagem que seria, caso contrário, fornecido gratuitamente.
+2 - Realização de campanhas de sensibilização e de informação dirigidas ao público em geral ou a grupos de consumidores específicos.
+3 - Promoção de rótulos ecológicos credíveis.
+4 - Acordos com a indústria, tais como o recurso a painéis de produtos do tipo utilizado no âmbito das políticas integradas de produtos, ou com retalhistas sobre a disponibilização de informações em matéria de prevenção de resíduos e de produtos com menor impacte ambiental.
+5 - No contexto da celebração de contratos no setor público e privado, integração de critérios ambientais e de prevenção de resíduos nos concursos e contratos, em consonância com o manual sobre contratos públicos ecológicos (Handbook on
+Environmental Public Procurement), publicado pela Comissão em 29 de outubro de 2004.
+6 - Promoção da reutilização e ou reparação de certos produtos rejeitados ou dos seus componentes, nomeadamente através da utilização de medidas educativas, económicas, logísticas ou outras, como a criação de redes e centros de reparação/reutilização autorizados ou o apoio às redes e centros existentes, especialmente nas regiões densamente povoadas.

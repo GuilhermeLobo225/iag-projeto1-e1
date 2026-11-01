@@ -1,0 +1,41 @@
+Statistical Analysis of Urban Waste
+Management via Pay-As-You-Throw (PAYT) System in the Portuguese City of Guimarães
+Vítor Hugo Silva1, Dalila Sepúlveda2, Daniel Pinto1, Vítor Pinheiro1, Laura Jota1, Catarina Fontão, João Pedro Castro1, Anita Costa1, João Ribeiro1 and A. Manuela Gonçalves3
+1 VITRUS AMBIENTE, EM, S.A., Guimarães, Portugal
+2 Guimarães City Hall, Guimarães, Portugal
+3 Department of Mathematics and Center of Mathematics, University of Minho, Guimarães, Portugal
+E-mail for correspondence: vitor.silva@vitrusambiente.pt
+Abstract: At present the production of waste is a problem in several countries, where the rate of waste has gradually increased due to several factors that influence the development of the population. A pioneering project called Pay-As-You-Throw (PAYT) was implemented in the Portuguese city of Guimarães and is managed by the municipal company VITRUS AMBIENTE. The challenge of this project is to identify the factors that influenced municipal solid waste production in the PAYT project area. For this, an analysis and a modeling process were carried out based on data collected between April 2016 and April 2019.
+Keywords: Environment; Local management; PAYT; Statistical Analysis; Urban Solid Waste.
+1 Introduction
+In this work, we address the issue of urban waste in the city of Guimarães.
+An appropriate solid urban waste management becomes a local and national challenge with the development of legislative plans and standards set in the ”Plano Estratégico da Gestão de Resíduos Urbanos” (PERSU).
+This plan encourages the maximization of waste potential and suggests to introduce a tax to promote the separation at source and the increase of collection rates: the Pay-As-You-Throw (PAYT) system. This system is based on the ”polluter-payer” principle and on the concept of shared
+This paper was published as a part of the proceedings of the 34th International Workshop on Statistical Modelling (IWSM), Guimarães, Portugal, 7–12 July 2019. The copyright remains with the author(s). Permission to reproduce or extract any parts of this abstract should be requested from the author(s).
+2 Statistical Analysis of Urban Waste Management via Pay-As-You-Throw (PAYT) responsibility, according to which those generate less waste pay less. This check is carried out on the basis of the number of bags sold, that is, citizens buy the bags of organic waste according to the capacity requested, and the bags for recycling are free of cost. This is one of the system’s strengths in adopting good environmental practices. Guimarães was a pioneering city in the implementation of this system, and VITRUS AMBIENTE is a local public company that manages all the environments of the system: from the residue collection to public awareness of the population. The main objective is to determine the factors that influence the production of waste in the system’s operation area (Figure 1).
+FIGURE 1. Map with the expansion plans of PAYT system (left); Current area of operation of PAYT system (right).
+2 Preliminary Results
+Being a project in progress, in this study ratio estimators were used to estimate the percentage increase of recycling increase after the implementation of the PAYT system in the areas of operation. The values obtained in the first year of PAYT exceeded the goals established by the ”Plano Estratégico para os Resíduos Urbanos 2020” (PERSU 2020), as well as the initial objectives defined, improving the city’s environmental sustainability position. As we can see in Figure 2, in the first year of PAYT there was a 34% decrease in the amount of organic waste and a 126% increase in the amount of recyclable waste. The PAYT system was implemented in the Historic Center of Guimarães in 2016 and, due to its success, it was expanded to the peripheries in early 2019. Table 1 shows the total values
+Silva et al.	3 of urban waste production in the PAYT area. PAYT Year is the period between April and March of the following year.
+European Average	15%	30%
+Goals	15%	10%
+First Results	34%	126%
+FIGURE 2. First results in the first year of PAYT implementation.
+TABLE 1. Total urban waste (organic and selective) during PAYT years.
+Total Weight of Urban Waste (tons)
+PAYT Year Organic Paper	Plastic/Metal	Glass
+Year 1	538.48	68.54	54.30	147.72
+Year 2	628.14	84.68	54.14	174.44
+Year 3	1068.96 138.18	62.46	235.76
+It is noteworthy that in the PAYT Year 3 there was an increase in the production of urban waste, mainly due to the fact that the area of operation was extended in January 2019.
+Urban Waste Production
+Organic Recyclable
+57%
+43%
+PAYT Users
+Domestic Users
+Non Domestic Users
+FIGURE 3. Evolution of quantities collected since the beginning of the PAYT system (left). Current number of PAYT users (right).
+In Figure 3, we verified the behavior associated to the amount of urban
+4 Statistical Analysis of Urban Waste Management via Pay-As-You-Throw (PAYT) waste collected over three years, where a supposed seasonality of data is verified. It should be noted that the system currently has 379 home users and 291 non-household users. These factors will be analyzed later to draw conclusions, in order to assist the management of the PAYT system.
+Acknowledgments: Special thanks to VITRUS AMBIENTE for investing on science and innovative projects. This research was partially funded by Portuguese funds through the Portuguese Foundation for Science and Technology (”Fundação para a Ciência e a Tecnologia” - FCT), within the framework of project UID/MAT/00013/2013.

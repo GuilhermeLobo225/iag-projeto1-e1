@@ -1,0 +1,856 @@
+1. Nota Introdutória
+A correta gestão dos resíduos urbanos constitui, desde há muito, um importante desafio para a sociedade, inicialmente pelas questões de salubridade e de saúde pública que lhe estão associadas e, posteriormente, também pelas preocupações relacionadas com a qualidade do espaço urbano, o ordenamento do território e a proteção e sustentabilidade ambiental.
+A prevenção e a gestão de resíduos urbanos constituem, atualmente, uma área estratégica das políticas de ambiente, assumindo particular relevância no contexto do combate às alterações climáticas, da utilização eficiente dos recursos e da transição para uma economia mais circular. Neste âmbito, a evolução das políticas de resíduos, orientada pelo princípio da hierarquia dos resíduos, tem privilegiado a prevenção da produção e da perigosidade dos resíduos, o reforço da recolha seletiva, a preparação para a reutilização, a reciclagem e outras formas de valorização, procurando reduzir progressivamente a sua eliminação e, em particular, a deposição em aterro.
+Em Portugal, a gestão de resíduos urbanos desenvolve-se num quadro legal e estratégico que estabelece objetivos e metas para a prevenção, recolha e tratamento dos resíduos, em que assume especial relevância o Plano Estratégico para os Resíduos Urbanos 2030 (PERSU 2030). Este instrumento constitui a principal referência estratégica para o setor, definindo orientações e objetivos para a sua evolução, em articulação com as políticas e metas estabelecidas a nível da União Europeia.
+Apesar dos progressos registados e do investimento realizado no setor, a evolução verificada nos últimos anos tem sido ainda insuficiente face aos objetivos e metas estabelecidos. Esta situação é particularmente evidente ao nível da produção de resíduos, recolha seletiva e do tratamento dos resíduos, persistindo desafios significativos à melhoria do desempenho global do sistema.
+Em termos de produção de resíduos urbanos, o valor global de 2025 rondou as 5,7 Mt, um aumento de cerca de 2 p.p. face ao ano anterior, contrariando o objetivo de estabilização previsto no PERSU 2030 e o crescimento ténue que se verificou entre 2019 e 2023.
+Sendo a prevenção de resíduos o topo da hierarquia em matéria de resíduos, foi lançado pela APA um concurso público internacional, para a aquisição de serviços para a elaboração de um estudo que preconize e incentive a implementação de projetos que promovam a prevenção de resíduos, incluindo a reutilização e prolongamento da vida útil dos produtos no âmbito da candidatura ao PACS-2024-28 ≪Gestão de Resíduos Urbanos — Prevenção de resíduos (vários fluxos)≫, incluindo a implementação de diversos projetos piloto a nível nacional.
+A recolha seletiva multimaterial, abrangendo os fluxos de papel e cartão e de embalagens de plástico, ECAL, metal e vidro, encontra-se implementada em Portugal há cerca de 20 anos. Contudo, os quantitativos recolhidos permanecem, de forma geral, significativamente abaixo do potencial de captura, não atingindo, na generalidade dos Sistemas de Gestão de Resíduos Urbanos (SGRU), metade desse potencial.
+No que respeita aos biorresíduos, a sua recolha seletiva, de implementação mais recente, tem beneficiado de financiamento e de medidas específicas destinadas à sua expansão e, embora registe uma evolução positiva, permanece ainda limitada em termos de abrangência territorial e apresenta resultados que evidenciam a necessidade de reforçar a sua implementação e eficácia.
+10 Versão 1.0
+A deposição em aterro continua a representar cerca de 55% dos resíduos urbanos produzidos (em Portugal Continental), acelerando o esgotamento da capacidade instalada neste tipo de instalações. Este resultado está associado, entre outros fatores, à limitada eficiência dos sistemas de tratamento mecânico e mecânico e biológico instalados a montante, que constituem atualmente o destino direto de cerca de 40% dos resíduos urbanos. Estes indicadores reforçam a necessidade de acelerar a transformação do modelo de gestão, promovendo o desvio dos resíduos das soluções de tratamento hierarquicamente inferiores e aumentando a sua afetação a soluções de prevenção, recolha seletiva, preparação para reutilização e reciclagem.
+Também a adoção de instrumentos destinados a promover uma maior responsabilização dos produtores de resíduos e a melhoria do desempenho dos sistemas, como os sistemas tarifários do tipo PAYT (Pay-As-You-Throw), bem como o reforço e a intensificação das ações de fiscalização previstas nos PAPERSU, permanecem ainda com uma aplicação limitada no território nacional, apesar da sua relevância para o cumprimento dos objetivos definidos para o setor.
+Para apoiar os municípios neste desígnio a APA irá lançar, em 2026, um concurso público internacional para a elaboração de um estudo de caracterização da aplicação do princípio do poluidor-pagador - PAYT (Pay-as-you-throw), e de apoio e capacitação dos municípios para a sua implementação no âmbito da candidatura ao PACS 2024-11 «Gestão de Resíduos Urbanos — PAYT I».
+Importa, contudo, destacar igualmente a evolução positiva que se tem verificado em algumas dimensões do setor, nomeadamente ao nível da sua crescente profissionalização e do maior conhecimento e envolvimento dos municípios relativamente aos objetivos e metas estabelecidos para a gestão de resíduos urbanos. Neste âmbito, a obrigatoriedade de elaboração dos PAPERSU terá contribuído para promover uma maior reflexão por parte das entidades responsáveis e para reforçar o compromisso com as estratégias e medidas a implementar. Do mesmo modo, a definição de objetivos relativos à taxa de captura de biorresíduos, cujo cumprimento produz efeitos diretos na redução da taxa de gestão de resíduos, tem constituído um importante incentivo à melhoria do desempenho dos sistemas.
+Embora fora do período de referência deste relatório, há a destacar a entrada em pleno funcionamento do Sistema de Depósito e Reembolso (SDR), em abril de 2026, marco relevante na evolução do sistema nacional de gestão de resíduos de embalagens, cujos resultados, a esta data, são promissores e indiciam o elevado potencial associado à adoção de novos modelos de recolha e valorização.
+Paralelamente, a sensibilização e informação dos cidadãos assumem um papel determinante no sucesso das políticas de prevenção e gestão de resíduos urbanos. Neste contexto, a campanha de sensibilização e informação ”Vamos Lixar o Lixo”, que se iniciou no Natal de 2025, promovida pela APA, de âmbito nacional, com intervenção e capilaridade ao nível municipal e especial enfoque nos biorresíduos, contribui para reforçar a consciencialização dos cidadãos relativamente aos impactes associados aos seus comportamentos e para aumentar o conhecimento sobre a correta separação dos resíduos na origem. Iniciativas desta natureza assumem particular importância num contexto em que o sucesso das políticas de resíduos depende, em larga medida, da participação ativa e da adoção de comportamentos adequados por parte dos cidadãos e dos restantes produtores de resíduos.
+É neste contexto que o Relatório Anual de Resíduos Urbanos (RARU) se afirma como um instrumento fundamental de sistematização, acompanhamento e análise da informação relativa à gestão de resíduos urbanos. O relatório permite acompanhar a evolução dos principais indicadores do setor, avaliar o desempenho dos Sistemas de Gestão de Resíduos Urbanos e dos municípios e monitorizar o cumprimento dos objetivos e metas estabelecidos.
+Ao evidenciar os progressos alcançados, assim como os principais desafios que permanecem à transição para um modelo de gestão mais eficiente e alinhado com os princípios da economia circular, o RARU constitui uma importante base de informação para a tomada de decisão, contribuindo para a identificação de necessidades de intervenção e adoção de medidas corretivas e de melhoria.
+O presente relatório apresenta a informação relativa à produção e gestão de resíduos urbanos, tendo como referência o ano de 2025, assegurando, simultaneamente, uma perspetiva evolutiva face aos anos anteriores. A análise é desenvolvida à escala nacional e detalhada ao nível dos Sistemas de Gestão de Resíduos Urbanos e dos municípios, em Portugal Continental, permitindo uma leitura integrada do desempenho do setor e das principais tendências observadas.
+O documento encontra-se organizado em duas partes. A primeira apresenta os principais resultados e indicadores relativos à produção e gestão de resíduos urbanos, permitindo uma análise global da evolução do setor. A segunda é dedicada a uma análise específica dos resultados por Sistema de Gestão de Resíduos Urbanos, aprofundando as diferenças de desempenho e os principais indicadores observados em cada sistema.
+2. Sumário
+Em 2025, registou-se um aumento da produção de resíduos urbanos de cerca de 2% face a 2024, para 5 667 mil toneladas, contrariando a tendência de estabilização prevista no PERSU 2030.
+A deposição em aterro continua a representar uma parcela significativa da gestão de resíduos urbanos, mantendo-se em cerca de 55% (em Portugal Continental), situação que contribui para o progressivo aumento da pressão sobre a capacidade disponível de aterro. No que se refere ao desempenho a nível nacional, este valor cifrou-se nos 53%.
+O desempenho, em termos de recolha seletiva, tem também impacto significativo nos principais indicadores a nível nacional, sendo que em 2025 representou apenas 24% do total de resíduos recolhidos no Continente, resultado que evidencia a existência de um importante potencial de materiais recicláveis e de biorresíduos ainda presentes na fração indiferenciada.
+Em matéria de biorresíduos verifica-se uma tendência crescente do número de municípios que aposta na recolha seletiva, 208 em 2025, abarcando, aproximadamente, 75% do universo de municípios. Em termos globais constata-se em 2025, face a 2024, um incremento de cerca de 15% de biorresíduos recolhidos seletivamente pelos municípios.
+Relativamente à recolha seletiva multimaterial, o encaminhamento para reciclagem de alguns materiais mantém-se baixo face ao material efetivamente disponível, destacando-se os resíduos de plástico, em que a taxa de recuperação do material (embalagem e não embalagem) é de cerca de 24% face ao disponível, valor esse que se manteve inalterado face a 2024.
+Do desempenho do setor de resíduos urbanos, a nível nacional, resultou, em 2025, uma taxa de preparação para reutilização e reciclagem de 39%1, tendo-se verificado um incremento de 2 p.p. em comparação com o ano anterior, mas ainda bastante distante da meta de 55% estabelecida para 2025, como se constata na Tabela 1, onde se sumarizam os principais indicadores monitorizados.
+Tabela 1 – Resumo com o ponto de situação dos principais indicadores em função das metas nacionais a alcançar (inclui Portugal e Regiões Autónomas)
+Indicador
+Nacional
+Unidade
+Referência
+(2019)
+Situação em 2025
+Meta a alcançar
+2025	2030	2035
+Prevenção*
+[Quantidade de resíduos produzidos] kg/hab.ano	511	494**	511	511
+Preparação para reutilização e reciclagem
+% de RU reciclados
+39%	55%	60%	65%
+Deposição em aterro
+% de RU depositados em aterro
+52%	10%
+* Meta definida no PERSU 2030 apenas para Portugal Continental
+** Valor de capitação apenas para Portugal Continental
+1 Valor que se mantem inalterado também no caso do desempenho considerando apenas Portugal Continental
+Em suma, os resultados de 2025 revelam, sinais de evolução positiva no setor dos resíduos urbanos, mas também a necessidade de uma aceleração significativa do seu desempenho.
+O reforço da prevenção, da recolha seletiva — em particular de biorresíduos —, da recuperação de materiais e da eficiência das operações de tratamento constitui um fator determinante para a aproximação aos objetivos e metas estabelecidos.
+3. Gestão de Resíduos Urbanos
+A gestão de RU abrange as fases de recolha, transporte e tratamento (valorização/eliminação) de resíduos.
+3.1 Entidades com responsabilidade na gestão de resíduos urbanos
+Entidades gestoras em baixa
+Em 2024 existiam em Portugal Continental 237 entidades gestoras em baixa2 (mais uma que no ano transato), responsáveis pela recolha indiferenciada de resíduos, a maioria de pequena dimensão, restringindo-se ao universo municipal. Da mesma forma, a recolha seletiva de biorresíduos, é uma responsabilidade dos municípios encontrando-se, em 2025, implementada, parcialmente ou totalmente em 208 municípios (mais 8 do que no ano anterior) que totalizam 75% do território continental.
+Em 20 municípios, pertencentes aos sistemas da Amcal, Lipor, Tratolixo e à área metropolitana de Lisboa integrada no sistema da VALORSUL, assumiram também a responsabilidade pela recolha seletiva material. Ainda, alguns municípios asseguram a recolha seletiva de outras frações, nomeadamente resíduos volumosos, perigosos, têxteis, madeiras e óleos alimentares usados.
+Entidades gestoras em alta
+O tratamento de resíduos, serviço em alta, é assegurado por 23 entidades gestoras - Sistemas de Gestão de Resíduos Urbanos (SGRU), 12 multimunicipais3, as quais gerem cerca de 64% dos RU produzidos, e 11 intermunicipais4, responsáveis pelos restantes 36%.
+Apesar de ser um serviço típico de gestão em baixa, ainda subsistem 3 SGRU que assumem, em complemento, a responsabilidade pela recolha seletiva material.
+A Figura 1 ilustra a distribuição dos 23 SGRU e respetivas instalações, sendo que cada um deles é pautado por diferenças significativas no que respeita ao número de municípios abrangidos, área servida, geografia, demografia e condições socioeconómicas, sendo possível verificar que embora concentrem quase dois terços da produção, os sistemas multimunicipais, abrangem uma área do país significativamente inferior.
+2 RASARP 2025, Volume 1 - Caracterização do setor de águas e resíduos, ERSAR
+3 São considerados multimunicipais os SGRU de titularidade estatal que sirvam pelo menos dois municípios e exijam a intervenção do Estado em função de razões de interesse nacional. Das 12 entidades multimunicipais, 11 fazem parte do universo EGF (Environment Global Facilities), sendo a outra a BRAVAL.
+4 São considerados SGRU intermunicipais/municipais aqueles aos quais cabe aos municípios, isoladamente ou em conjunto, através de associações de municípios, ou em parceria com o Estado, definir o modo de organização e gestão – conceitos presentes no relatório da ERSAR “Caracterização do sector de águas e resíduos/2016”. As entidades que se enquadram no conceito intermunicipal/municipal, dizem respeito a todas as restantes que não se enquadram no conceito multimunicipal.
+Figura 1 – Distribuição dos SGRU, respetivos estabelecimentos e instalações de tratamento em 2025, por região de Portugal Continental. Fonte: Atualização da informação produzida pelo Estudo sobre a Caracterização da Recolha e Tratamento no âmbito dos Resíduos Urbanos em Portugal Continental, Ambirumo, 2021, cofinanciado pelo PO SEUR.
+Entidades gestoras de fluxos específicos de resíduos
+No que respeita a fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do Produtor (RAP), como os resíduos de equipamentos elétricos e eletrónicos (REEE) e resíduos de baterias (RPA), a recolha é assegurada em redes próprias das entidades gestoras licenciadas para o efeito, sendo que, em muitas situações existem protocolos/contratos entre os municípios ou SGRU e as referidas entidades por forma a assegurar uma maior capilaridade na recolha destas frações.
+Nas fichas por SGRU apresentadas no Anexo VI do presente relatório são discriminados alguns dados que caracterizam a abrangência do SGRU em termos de municípios, população e área.
+3.2 Instalações de tratamento de resíduos urbanos
+Cada SGRU, atendendo às características da sua área de intervenção, análise técnico-económica e estratégia de gestão dos resíduos, adotou diferentes abordagens de recolha e tratamento dos RU, com impacto na rede de equipamentos, instalações de gestão de resíduos e diferentes frações de resíduos.
+A disponibilidade de instalações de tratamento (vide Figura 1), por SGRU, poderá ser encontrada com mais detalhe nas respetivas fichas individuais, em anexo ao presente relatório, sendo que a Tabela 2 ilustra o número total, por tipologia, existente em Portugal Continental em 2025.
+Tabela 2 – Número de instalações de tratamento de RU existentes, em Portugal
+Continental, a 31 de dezembro de 2025
+Instalações	N.º
+Triagem	31
+Tratamento Mecânico	5
+Tratamento Mecânico e Biológico	21
+Tratamento Biológico (dedicado a biorresíduos recolhidos seletivamente)
+11
+Produção de Combustíveis Derivados de Resíduos (CDR)
+6
+Valorização Energética	2
+Aterros (em exploração)	32
+Relativamente às instalações de triagem, existem 31 sob responsabilidade dos SGRU, sendo que cada um deles possui uma ou duas, com exceção da RESINORTE que possui quatro. As instalações de triagem são dedicadas essencialmente ao tratamento da fração de embalagens recolhidas através do contentor amarelo (plástico, metal e ECAL) e, em algumas situações, também à triagem de papel/cartão e vidro. No entanto, para os dois últimos fluxos, em muitos casos, apenas é efetuada uma “triagem negativa”, com vista à remoção de contaminantes.
+As 5 instalações exclusivas para tratamento mecânico, localizadas na RESINORTE (três instalações), Tratolixo e VALORMINHO, dedicam-se ao processamento da fração indiferenciada, e procedem à separação da matéria orgânica e recuperação de outros resíduos recicláveis. A matéria orgânica recuperada é, em parte, encaminhada para instalações de tratamento biológico situadas noutros locais, ou mesmo para outros SGRU, como é o caso da VALORMINHO que encaminha para a Resulima.
+Em 2025 encontravam-se operacionais 32 instalações para valorização orgânica de biorresíduos (mais 3 que no ano transato), 21 para biorresíduos recuperados através da recolha indiferenciada (tratamento mecânico prévio) e 11 para biorresíduos provenientes da recolha seletiva, distribuídas por 20 SGRU. Face a 2024, o número de instalações aumentou, devido à entrada em exploração de novas instalações (1 na Amcal e 2 na Lipor).
+Mais de metade destas instalações (n=17) tratam os resíduos por compostagem, enquanto que as restantes adotaram tratamento por digestão anaeróbia, com compostagem subsequente para estabilização do digestato.
+Para o tratamento de biorresíduos provenientes da recolha seletiva existem 11 instalações, conforme referido: da Lipor (3) e VALORSUL, respetivamente de compostagem e digestão anaeróbia, que tratam, essencialmente, biorresíduos alimentares e da Amcal, VALORSUL, Tratolixo, Gesamb e ALGAR (3), dedicadas ao tratamento de resíduos verdes, por compostagem.
+Ao nível da produção de Combustíveis Derivados de Resíduos (CDR), em 2025 mantêm-se o cenário do ano anterior: seis instalações, localizadas na Ambilital, ERSUC (2), Gesamb, Planalto Beirão e VALNOR. Destas apenas os SGRU Ambilital e a Planalto Beirão registaram, em 2025, produção de CDR e seu escoamento para cimenteiras.
+No que se refere às instalações de valorização energética, Portugal Continental mantém-se dotado de duas incineradoras, exploradas pelos SGRU VALORSUL e Lipor, localizando-se as mesmas nos dois grandes centros urbanos do país, respetivamente Lisboa e Porto.
+Por fim, e relativamente aos aterros mantêm-se em exploração 32 instalações, sendo que a maioria dos SGRU (16) possui apenas uma instalação, e seis SGRU possuem dois aterros em exploração. A exceção diz respeito à RESINORTE, que possui quatro aterros em exploração, dada a extensão de território afeto e quantitativos produzidos.
+3.3 Partilha de instalações entre SGRU
+Face à dimensão territorial de alguns SGRU e suas especificidades, a partilha de instalações é uma condição fundamental para garantir o correto tratamento de resíduos, conforme realçado no PERSU 2030, sendo identificadas, em 2025, as partilhas ilustradas na Figura 2. Estas sinergias permitem gerir capacidades deficitárias e excedentárias, potenciando economias de escala, com consequente redução de custos no tratamento de resíduos, assumindo também um papel relevante em caso de avarias ou paragem para manutenção de algumas instalações.
+Figura 2 – Distribuição de partilha de instalações em 2025, em Portugal Continental
+De um modo geral, mantêm-se as partilhas já identificadas em anos anteriores, verificando-se que as relações estabelecidas centram-se essencialmente nas áreas de maior produção de resíduos e envolvem os SGRU VALORSUL e Lipor, devido, em parte, ao facto dos mesmos explorarem instalações de incineração. As restantes relações estabelecem-se essencialmente para instalações de TMB e de valorização orgânica.
+Ainda, pelo facto da RSTJ rececionar resíduos da Tratolixo no seu TMB, desde 2023, e da consequente redução da sua capacidade de tratamento, que se traduziu na impossibilidade de receção de resíduos de outros sistemas, manteve-se o cenário dos anos anteriores em que a Ecolezíria aumentou a deposição de resíduos no seu aterro.
+3.4 Produção de resíduos
+A produção de RU, referente ao ano de 2025, para Portugal Continental (PT Continental) e Regiões Autónomas da Madeira (RA Madeira) e dos Açores (RA Açores) encontra-se vertida na Tabela 3.
+Tabela 3 – Quantitativos de RU produzidos (103 t) entre 2021 e 2025 e respetiva capitação (kg/hab.ano) por região em 2025
+Região	2021	2022	2023	2024	2025
+Capitação
+2025
+PT Continental	5 043	5 050	5 064	5 267	5 380	494
+RA Madeira	118	124	124	129	133	500
+RA Açores	150	150	149	153	154	629
+TOTAL	5 311	5 323	5 338	5 550	5 667	509 *
+Variação face ao
+ano anterior	↑1%	↑0,24%	↑0,28%	↑3,97%	↑2,07%	↑1,54%
+* Valor médio tendo por base as capitações por SGRU de PT Continental e as Regiões Autónomas
+Foram produzidas no País cerca de 5,7 Mt de resíduos urbanos, um aumento de cerca de 2 p.p. face ao ano anterior, contrariando o objetivo de estabilização previsto no PERSU 2030 e o crescimento ténue que se verificou entre 2019 e 2023. Este aumento decorre, em parte, do aumento populacional, sendo também referidas pelos SGRU outras situações com potencial impacto como o turismo e habitantes não registados.
+Relativamente à produção por habitante, em Portugal Continental, o valor foi de 494 kg/hab.ano5, abaixo da média Europeia de 517 kg/hab.ano6, correspondente a uma produção de 1,35 kg/hab.dia, valor esse que sofreu uma pequena diminuição face ao ano de 2021 (Figura 3).
+Salientar que os valores de capitação foram atualizados atendendo à revisão, em alta, no ano de 2025, da população residente estimada pelo INE e que foi aplicada desde 2021.
+5 Valor calculado com base na população média anual residente de 2025 (10 895 373 habitantes), publicada pelo INE.
+6 517 kg/hab.ano, 27 países, conforme estimativa da Eurostat para 2024:
+https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table?lang=en&category=env.env_was.env_wasst
+Ao incluir os quantitativos das Regiões Autónomas, a capitação sobe para 509 kg/hab.ano (ainda abaixo da média Europeia), sendo o valor de produção diária por habitante de 1,39 kg. Realça-se que a capitação na Região Autónoma dos Açores é significativamente mais elevada do que no continente e na Região Autónoma da Madeira, o que pode dever-se a um conjunto de fatores como, por exemplo, o contributo da população não residente ou uma definição mais abrangente do conceito de “resíduo urbano”.
+Figura 3 – Evolução da produção de RU (t) e capitação diária (kg/hab.dia) em Portugal Continental, entre 2021 e 2025 [NOTA: valores de capitação entre 2021 e 2024 foram retificados em função da publicação em 2026, por parte do INE, dos dados da população média anual residente atualizados]
+A produção de resíduos por SGRU (Figura 4), não apresenta, em geral, grandes variações face ao ano anterior. Contudo, destacam-se os seguintes casos:
+• Na maioria dos SGRU verificou-se um aumento da capitação de resíduos (entre os 0,2 e os 3%), quando comparadas as capitações de 2025 e 2024, revistas em função da atualização de dados da população média residente, por parte do INE;
+• O aumento mais significativo ocorreu no SGRU da Resialentejo, de quase 10%, seguido do SGRU da Amcal, com uma percentagem de aumento superior a 4%;
+• O crescimento menos significativo ocorreu na VALORSUL (aproximadamente 0,2%);
+• A zona do Algarve continua a registar o valor de capitação mais elevado (2,06 kg/hab.dia) de Portugal Continental, resultado esse explicado pela população flutuante presente na região, a qual não é considerada para efeitos de cálculo. O outro extremo da capitação verifica-se no SGRU da Planalto Beirão com 1,15 kg/hab.dia.
+5,04	5,05	5,06	5,27	5,38
+1,37	1,35	1,31	1,34	1,35
+0,00
+1,00
+2,00
+2021	2022	2023	2024	2025
+Produção RU	Capitação diária RU (kg/hab.dia)
+Figura 4 – Produção (t) e capitação de RU (kg/hab.dia) por SGRU, em 2025
+3.5 Composição física
+A análise da composição física7 dos RU produzidos em Portugal Continental8, ilustrada na Figura 5, evidencia o elevado peso da fração de biorresíduos - cerca de 37% no total de RU, o que demonstra a sua relevância para uma correta gestão dos RU. De destacar também, com uma percentagem significativa no total de RU, as frações plástico (10%), têxteis sanitários (9%), papel/cartão (9%) e vidro (7%). Destes materiais, referir que apenas os têxteis sanitários não são, neste momento, passíveis de reciclagem em larga escala, pelo que existe de facto um potencial de reciclagem significativo nos RU produzidos.
+Informação mais detalhada, por subcategoria, pode ser encontrada no Anexo I do presente documento.
+7 determinada de acordo com a Portaria n.º 851/2009, de 7 de agosto
+8 Estes dados não incluem os biorresíduos reciclados na origem, pois estes, à data, não são objeto de caracterização, nos termos da Portaria mencionada.
+0,00
+0,50
+1,00
+1,50
+2,00
+2,50
+3,00
+Total RU (t)	Capitação RU (kg/hab.dia)
+Figura 5 – Composição física dos RU produzidos em Portugal Continental, no ano de 2025 (%)
+As Figura 6 e Figura 79 diferenciam a composição física por tipologia de recolha, verificando-se que os biorresíduos têm uma expressão muito significativa na recolha indiferenciada, representando quase metade do seu total (aproximadamente 46%) e, pelo contrário, têm ainda uma fraca representatividade na recolha seletiva10, o que justifica o investimento em curso e previsto nos próximos anos para encaminhamento desta fração para a recolha seletiva.
+Por comparação com o ano anterior verifica-se, em geral, uma estabilização no peso das frações quer nos resíduos indiferenciados quer no total de resíduos de recolha seletiva.
+9 As percentagens foram calculadas em função do total de resíduos que chega às instalações dos SGRU por via daquele tipo de recolha.
+10 Origem em ecopontos, porta-a-porta e outras recolhas como circuitos especiais e ecocentros.
+Finos <
+20mm 7,20%
+Biorresíduos
+37,42%
+Papel/Cartão
+9,00%
+Plástico
+10,36%
+Vidro 6,67%
+Compósitos
+2,82%
+Têxteis
+4,56%
+Têxteis sanitários
+9,06%
+Metais
+1,46%
+Madeira
+1,50%
+Resíduos Perigosos
+0,05%
+Outros resíduos
+2,60%
+Resíduos Verdes (recolhidos em separado)
+3,05%
+Resíduos Volumosos
+4,26%
+Figura 6 – Composição física dos RU de recolha indiferenciada, em Portugal Continental, no ano de 2025 (%)
+Figura 7 – Composição física dos RU de recolha seletiva e outras recolhas, em Portugal Continental, no ano de 2025 (%)
+O papel/cartão e o vidro têm uma representatividade significativa no âmbito da recolha seletiva (incluindo recolhas dedicadas) e bastante inferior na recolha indiferenciada, indicando algum peso na separação já instituída destes materiais.
+Já o plástico é um material com quantitativos significativos tanto a nível dos resíduos de recolha seletiva, como indiferenciada, sendo essencial o reforço na sua recolha seletiva. De destacar ainda a elevada representatividade dos resíduos volumosos na recolha seletiva e outras recolhas dedicadas.
+Numa perspetiva global, e como síntese, destaca-se a existência de um potencial muito elevado de desvio de materiais valorizáveis da recolha indiferenciada, quer biorresíduos, quer outras frações materiais.
+Quanto às frações recolhidas seletivamente, foi realizada uma análise mais fina a quatro frações de materiais, designadamente vidro, papel/cartão, plástico/metal/ECAL e biorresíduos, dada a sua importância no cumprimento das metas, no sentido de se aferir a expressividade dos contaminantes no total da recolha.
+No caso do vidro e do papel/cartão (Figura 8 e Figura 9) a contaminação é de cerca de 5 e 7%, respetivamente, correspondendo os restantes 95 e 93% a material apto à retoma, razão pela qual, em muitos SGRU, a sua triagem consiste apenas numa remoção de contaminantes. Salientar que no caso do vidro, os contaminantes integram-se, em grande parte (47%), na categoria “finos”, pelo que podem corresponder também a resíduos de vidro, de difícil aproveitamento pela sua reduzida dimensão e dificuldade de separação.
+Finos < 20mm
+8,98%
+Biorresíduos
+46,30%
+Papel/Cartão
+6,08%
+Plástico 10,42%
+Vidro 3,91%
+Compósitos
+3,05%
+Têxteis
+5,86%
+Têxteis sanitários
+11,79%
+Metais
+1,53%
+Madeira
+0,83%
+Resíduos Perigosos
+0,05%	Outros resíduos
+1,10%	Resíduos Volumosos
+0,10%
+Finos < 20mm; 1,67%
+Biorresíduos;
+9,97%
+Papel/Cartão;
+18,02%
+Plástico;
+10,16%
+Vidro; 15,20%
+Compósitos; 2,12% Têxteis; 0,53%
+Têxteis sanitários; 0,62%
+Metais; 1,23% Madeira; 3,58%
+Resíduos Perigosos;
+0,07%
+Outros resíduos;
+7,22%
+Resíduos Verdes
+(recolhidos em separado); 12,49%
+Resíduos Volumosos;
+17,12%
+Figura 8 – Composição física do fluxo embalagens de vidro de recolha seletiva efetuada em Portugal Continental, no ano de 2025 (%)
+Figura 9 – Composição física do fluxo papel/cartão de recolha seletiva efetuada em Portugal Continental, no ano de 2025 (%)
+No caso da recolha através do designado ecoponto amarelo, o plástico (Figura 10) representa a grande maioria do que é recolhido (aproximadamente 67%), sendo que a fração dos compósitos, onde se inclui o material ECAL, e metal têm uma representatividade de 10% e 7%, respetivamente. Assim, no total, existirá um grau de contaminação de cerca de 16% nesta recolha.
+A tipologia de contaminantes é bastante variada, destacando-se o papel/cartão (≈5%) e biorresíduos (≈2%).
+Figura 10 – Composição física do fluxo de embalagens de plástico/metal/compósitas de recolha seletiva efetuada em Portugal Continental, no ano de 2025 (%)
+Figura 11 – Composição física do fluxo de recolha seletiva de biorresíduos11 efetuada em Portugal Continental, no ano de 2025 (%)
+11 Sendo os biorresíduos compostos pelas subcategorias resíduos alimentares (restos de cozinha), resíduos de jardim, outros resíduos putrescíveis e pela categoria resíduos verdes (recolhidos em separado).
+Finos < 20mm; 2,32%
+Biorresíduos; 0,12%
+Papel/Cartão; 0,29%
+Plástico; 0,96%
+Vidro;
+95,11%
+Compósitos; 0,20% Têxteis; 0,06%
+Têxteis sanitários; 0,13%
+Metais; 0,37%
+Madeira; 0,03%
+Resíduos Perigosos; 0,01%
+Outros resíduos; 0,41%
+Finos < 20mm; 0,50%
+Biorresíduos; 0,56%
+Papel/Cartão;
+93,62%
+Plástico; 2,31%
+Vidro; 0,34% Compósitos; 1,04%
+Têxteis; 0,42%
+Têxteis sanitários; 0,39%
+Metais; 0,26%
+Madeira; 0,24%
+Resíduos Perigosos; 0,02%
+Outros resíduos; 0,29%
+Finos < 20mm; 1,70%
+Biorresíduos; 2,36%
+Papel/ Cartão;
+5,29%
+Plástico;
+66,86%
+Vidro; 1,76%
+Compósitos;
+10,37%
+Têxteis; 1,44%
+Têxteis sanitários; 1,84%
+Metais;
+6,65%
+Madeira; 0,32%
+Resíduos Perigosos; 0,05%
+Outros resíduos; 1,32%	Resíduos Volumosos; 0,04%	Finos < 20mm; 1,81%
+Resíduos alimentares
+(restos de cozinha);
+33,81%
+Resíduos de jardim; 4,51%
+Outros resíduos putresciveis;
+0,12% Papel/Cartão; 0,38%
+Plástico; 2,40% Vidro; 0,23% Compósitos; 0,16% Têxteis; 0,13%
+Têxteis sanitários; 1,15%
+Metais; 0,25%
+Madeira; 0,03%
+Outros resíduos; 0,18%
+Resíduos Verdes (recolhidos em separado); 54,82%
+No que respeita à recolha seletiva de biorresíduos, uma tipologia de recolha em crescimento a nível nacional, a Figura 11 representa a composição física da recolha efetuada na área de abrangência dos 23 SGRU, quer do fluxo dos biorresíduos, quer do fluxo dos resíduos verdes (recolhidos em separado). De salientar, um SGRU não efetua qualquer uma destas recolhas e dois SGRU só efetuam a recolha de resíduos verdes em separado, mantendo-se o cenário existente em 2024.
+Esta é uma tipologia de recolha que apresenta níveis de contaminação de cerca de 7% no global, tendo como principais contaminantes materiais o plástico, os têxteis sanitários e os finos (no caso dos finos, uma fração significativa será ela própria de biorresíduos). No entanto, se considerarmos apenas os biorresíduos alimentares (excluindo desta análise a subcategoria de resíduos de jardim), a contaminação sobe para 11%.
+3.6 Recolha
+Na Tabela 4 é apresentada a evolução dos quantitativos de RU, por tipo de recolha, em Portugal Continental, esquematizando a Figura 12 a representatividade dos tipos de recolha entre os anos 2021 e 2025.
+Tabela 4 – Recolha de RU (103 t) em Portugal Continental, entre 2021 e 2025
+Tipo de Recolha	2021	2022	2023	2024	2025
+Recolha Indiferenciada	3 916	3 895	3 834	3 942	4 012
+Recolha Seletiva	1 058	1 082	1 151	1 215	1 284
+Outros Produtores RU	69	72	80	81	58
+TOTAL	5 043	5 050	5 064	5 238	5 354
+Figura 12 – Evolução da recolha RU (%) entre 2021 e 2025, em Portugal Continental
+78%	77%	75%	75%	75%
+21%	22%	23%	23%	24%
+1%	1%	2%	2%	1%
+2021	2022	2023	2024	2025
+Recolha Indiferenciada	Recolha Seletiva e Outras recolhas Outros produtores RU
+No quinquénio em análise, a evolução da recolha seletiva foi muito ténue, quase estagnada, tendo crescido em 2025, 1 p.p., quando comparada com 2024 (cerca de 69 mil toneladas), representando apenas 24% do total dos resíduos urbanos recolhidos em Portugal Continental. Já a recolha indiferenciada manteve a sua percentagem face ao total, quando comparada com 2024 (75% do total recolhido), tendo esta estabilização representado um aumento de cerca de 70 mil toneladas. Os resultados demonstram ser crucial inverter esta tendência e aproximar Portugal do desempenho europeu.
+Uma análise relativa ao tipo de recolha, por SGRU, encontra-se representada na Figura 13.
+Figura 13 – Tipo de recolha, por SGRU, em 2025 (kg/hab.ano)
+Recolha indiferenciada	Recolha Seletiva e Outras recolhas	Outros produtores RU
+A análise por modelo de recolha seletiva, encontra-se discriminada na Figura 14 onde se observa a maior representatividade dos ecopontos (9%) e dos circuitos especiais (6%), por comparação com a recolha seletiva de verdes (3%), porta-a-porta, biorresíduos alimentares e ecocentros (todos 2%).
+Figura 14 – Recolha seletiva por origem (%), em 2025, em Portugal Continental
+(Nota: as categorias “ecopontos”, “circuitos especiais”, “ecocentros” e “porta-a-porta”, referem-se apenas a recolhas seletivas material)
+Em complemento à presente análise, um cruzamento entre os resultados da composição física da recolha indiferenciada e seletiva dos RU produzidos em Portugal Continental, em 2025, já apresentados nas Figura 6 e Figura 7, respetivamente, com os valores da Tabela 4, referentes à recolha de RU, permite estimar os quantitativos de algumas frações na Recolha Seletiva (RS) e na Recolha Indiferenciada (RI), conforme ilustrado na Figura 15.
+Recolha indiferenciada
+75%
+Outros produtores 1%
+Ecopontos
+9%
+Porta-a-Porta
+2%
+Ecocentros
+2%
+Circuitos especiais
+6%	Biorresíduos alimentares
+2%
+Verdes
+3%
+Recolha Seletiva
+24%
+Figura 15 – Origem da recolha de algumas frações de RU e respetiva representatividade na fração, em 2025, em Portugal Continental
+Os resultados apurados corroboram o já referido, ou seja, no fluxo indiferenciado existe ainda uma quantidade muito significativa de resíduos com potencial de serem desviados para a recolha seletiva, garantindo assim o alinhamento com as disposições comunitárias, a reciclagem de maiores quantidades de resíduos e uma melhor qualidade dos produtos e materiais resultantes do tratamento, por via de fluxos de entrada no mesmo “mais limpos”.
+Destacar o caso do plástico e metal, com uma fraca expressão na recolha seletiva, situação que é fundamental inverter tendo em consideração que a eficácia da recuperação destes materiais na recolha indiferenciada, em instalações TMB, é baixa, quer em termos de quantidade, quer no que respeita à qualidade.
+A baixa taxa de recolha seletiva assume particular criticidade na fração de biorresíduos, já que, a partir de 2027, apenas podem ser contabilizados nas metas de reciclagem os biorresíduos com origem na recolha seletiva e reciclados na origem. Assim, pese embora os biorresíduos com origem na recolha indiferenciada possam ser tratados e desviados da deposição em aterro, não poderão ser contabilizados para a meta de preparação para reutilização e reciclagem.
+Apenas no material “vidro”, fluxo de resíduos com maior antiguidade ao nível da separação na origem e posterior recolha seletiva, mais de metade dos resíduos produzidos são já desviados da recolha indiferenciada, e encaminhados para reciclagem, sendo de destacar também o baixo nível de contaminação desta tipologia de recolha, conforme dados apresentados anteriormente.
+3.7 Destinos iniciais e finais
+A Figura 16 apresenta a distribuição relativa ao tratamento inicial dos RU entre 2021 e 2025, em Portugal Continental.
+Figura 16 – Tratamento dos RU entre 2021 e 2025 (%), em Portugal Continental
+(Nota: Em 2025, o valor de reciclagem na origem é de 0,49%)
+Em 2025 verifica-se um ligeiro decréscimo (2 p.p.) da deposição inicial de resíduos em aterro, mantendo-se o tratamento mecânico e biológico como o destino preferencial em termos percentuais (32%), seguido da valorização energética que mantém um comportamento estável.
+A Figura 17 apresenta o resultado desagregado, por SGRU, no que respeita ao encaminhamento inicial de resíduos.
+2021	2022	2023	2024	2025
+31%	32%	34%	27%	25%
+27%	27%
+31%
+32%	32%
+2%	2%
+3%
+3%	3%
+20%	17%
+15%
+19%
+19%
+6%	8%	4%	5%	8%
+13%	14%	14%	13%	13%
+1%	0%
+Aterro	Tratamento Mecânico e Biológico
+Valorização Orgânica	Valorização Energética
+Tratamento Mecânico	Valorização material
+Reciclagem na Origem
+Figura 17 – Tratamento dos RU (%), por SGRU, em 2025
+Em 2025, em 2 SGRU (menos 1 que no ano anterior), o destino de mais de 80% dos RU produzidos foi diretamente o aterro. Apesar da inexistência, nestes SGRU, de outros tratamentos para além do aterro, destinados aos resíduos recolhidos de forma indiferenciada, é essencial promover partilha de instalações com outros SGRU, ou outros operadores de tratamento de resíduos, por forma a reduzir o peso da deposição em aterro.
+Na Figura 18 esquematiza-se o total de resíduos encaminhados para cada um dos destinos “finais”, face aos resíduos produzidos, sendo que a fração total de resíduos depositados em aterro, incluindo deposição inicial e de resultantes dos tratamentos (triagem, tratamento mecânico, tratamento mecânico e biológico, plataformas de recicláveis, produção de combustíveis derivados de resíduos e valorização orgânica), constituiu cerca de 55% do total de resíduos produzidos. Este valor representa um crescimento de 1 p.p. face a 2024, conforme ilustrado na Figura 19.
+Aterro	Valorização Energética	Tratamento Mecânico e Biológico
+Valorização orgânica	Tratamento mecânico	Valorização material
+Reciclagem na origem
+Figura 18 – Destinos finais dos RU produzidos, em Portugal Continental, em 2025 (%)
+Constata-se que a fração de resíduos submetida a tratamento mecânico e biológico em 2025, não teve repercussões na fração de resíduos reciclados, quer material, quer por valorização orgânica, devido, possivelmente, à baixa eficiência na recuperação de materiais (incluindo biorresíduos) destas instalações.
+Figura 19 – Evolução dos destinos finais dos RU produzidos, em Portugal Continental, entre 2021 e 2025 (%)
+Aterro
+55%
+Valorização
+Energética
+15%
+Valorização
+Orgânica
+9%
+Reciclagem
+14%
+Outras valorizações
+2%
+Reciclagem na Origem
+1%	Armazenamento e perdas
+4%
+2021	2022	2023	2024	2025
+56%	57%	59%	54%	55%
+19%	15%	12%	17%	15%
+7%	8%	8%	8%	9%
+14%	16%	14%	14%	14%
+2%	2%	3%
+3%	2%
+1%	1%
+3%	4%
+Aterro	Valorização Energética	Valorização Orgânica
+Reciclagem	Outras valorizações	Reciclagem na Origem
+Armazenamento e perdas
+A Figura 20 permite uma análise, por SGRU, no que concerne ao encaminhamento final dos resíduos produzidos nas suas áreas de abrangência. Assim, e do total dos SGRU existentes em Portugal Continental, 15 encaminham mais de 60% do total dos RU que rececionam para aterro, uma ligeira melhoria (menos 4 SGRU) quando comparada com o ano transato.
+Nas fichas individuais por SGRU, em anexo ao presente relatório, é possível observar com maior detalhe os destinos adotados por cada um destes sistemas.
+Destaca-se novamente o caso da RSTJ em que, comparativamente aos outros SGRU, regista uma quantidade muito significativa de resíduos armazenados ou de perdas nos seus processos, o que não permite uma correta avaliação dos seus resultados.
+Figura 20 – Destinos finais dos RU produzidos (%), por SGRU, em 2025
+A capacidade nacional de deposição de resíduos em aterro, bem como os objetivos e metas com que Portugal está comprometido, obrigam a uma rápida, mas sustentada, alteração deste paradigma nos próximos anos.
+Aterro	EVE	Compostagem
+Reciclagem	Outras valorizações	Reciclagem na Origem
+Armazenamento e perdas
+3.8 Tratamento prévio à deposição em aterro
+A Diretiva Aterros12 e respetiva transposição nacional por via do Regime Jurídico de Deposição de resíduos em aterro13 (RJDRA), determina que, salvo exceções elencadas, os resíduos não podem ser depositados em aterro, sem um pré-tratamento adequado, que inclui a separação das frações valorizáveis e a estabilização da matéria orgânica. Atendendo ao incumprimento desta disposição da Diretiva Aterros, encontra-se a decorrer um Processo de Infração contra Portugal, pelo que importa manter um acompanhamento próximo dos resultados.
+A nível nacional constata-se que, em 2025, foram depositados em aterro sem pré-tratamento adequado nos termos da Diretiva Aterros, cerca de 27% dos resíduos geridos pelos SGRU (Figura 21), valor que teve uma redução de apenas 1 p.p., quando comparado com o ano anterior.
+Figura 21 – Quantidade de resíduos depositados anualmente em aterro, sem pré-tratamento adequado e respetiva taxa de deposição anual, face ao total gerido, entre 2021 e 2025, em Portugal Continental
+(Nota: “deposição sem estabilização da matéria orgânica”: quantitativos que, embora admitidos num TMB, apenas sofrem tratamento mecânico e não estabilização orgânica)
+Genericamente, manteve-se a situação do ano transato onde a maioria dos SGRU, reduziu a sua dependência direta de aterro, constando-se em alguns deles uma variação significativa resultado da entrada em funcionamento de novas instalações. De notar, nos dados, um incremento dos resíduos com separação mecânica prévia à deposição em aterro, mas pelo contrário uma redução dos resíduos com estabilização da matéria orgânica. Em anexo (Anexo II) apresentam-se os dados discriminados.
+12 Diretiva 1999/31/CE do Conselho, de 26 de Abril de 1999, relativa à deposição de resíduos em aterros, na redação atual 13 Anexo II do Decreto-Lei n.º 102-D/2020 de 10 de dezembro, na redação atual
+1 575 143	1 643 952	1 618 065
+1 308 489	1 211 699
+106 387
+145 279	155 789
+149 623	236 489
+34%
+36%	36%
+28%	27%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+2021	2022	2023	2024	2025
+Deposição sem estabilização da Matéria Orgânica
+Deposição em aterro sem tratamento prévio
+Fração não tratada face ao total de resíduos encaminhados para o SGRU
+4. Gestão de Biorresíduos
+O setor dos resíduos encontra-se numa fase de alteração de paradigma, com a implementação, de uma forma generalizada, da recolha seletiva de biorresíduos, ou da sua reciclagem na origem, conforme previsto na Diretiva Quadro Resíduos (DQR), ao invés da recuperação da fração orgânica da recolha indiferenciada, o que terá consequências, expectavelmente positivas, na gestão dos resíduos urbanos a nível nacional. O desvio dos biorresíduos da recolha indiferenciada irá incrementar diretamente as taxas de recolha seletiva e de reciclagem dos RU, de forma direta, mas também indireta, pela redução dos níveis de contaminação da fração indiferenciada, que poderá facilitar a recuperação de outros recicláveis com aptidão para reciclagem material, garantindo uma melhor qualidade do processo de reciclagem e produtos/materiais resultantes.
+A recolha seletiva de biorresíduos, ou a sua reciclagem na origem, é uma responsabilidade dos municípios, tendo-lhes sido alocados, individualmente, objetivos de taxa de captura de biorresíduos para 2030, que no seu conjunto, concorrerão para o cumprimento da meta de preparação para reutilização e reciclagem do respetivo SGRU e, consequentemente, da meta nacional. Os municípios, nos seus PAPERSU, comprometeram-se com objetivos anuais até 2030, cuja monitorização teve início em 2024, pelo que se apresentam neste relatório, dois anos de resultados.
+Referir que, para efeitos do presente capítulo, nomeadamente de aferição da taxa de captura de biorresíduos, foram considerados os biorresíduos recolhidos seletivamente pelos municípios entregues ao SGRU, mas também a outros operadores de tratamento de resíduos que não os SGRU, desde que a operação de tratamento final seja valorização orgânica.
+4.1 Recolha seletiva
+Apesar da recolha seletiva de biorresíduos estar a ser efetuada efetivamente em 208 municípios (mais 8 do que no ano passado), para efeitos deste subcapítulo e determinação da taxa de captura de biorresíduos consideram-se apenas 206 municípios, ou seja, apenas os municípios em que os biorresíduos recolhidos seletivamente são encaminhados para valorização orgânica (nos outros dois os biorresíduos são encaminhados para outros tratamentos que não se constituem como uma valorização orgânica).
+Constatou-se, em 2025, uma evolução ao nível dos quantitativos de recolha seletiva de biorresíduos (aumento superior a 38 mil toneladas) e do número de municípios (8) que iniciou esta tipologia de recolha, conforme ilustrado na Figura 22.
+Figura 22 – Evolução do quantitativo de biorresíduos recolhidos seletivamente (t) e número de municípios a efetuar esta recolha entre 2022 e 2025, em Portugal Continental
+A Figura 23, detalha o crescimento da recolha seletiva, por SGRU, entre 2022 e 2025, verificando-se que, na maioria, ocorreu um crescimento, decorrente do aumento da recolha seletiva nos municípios das suas áreas geográficas de intervenção.
+Figura 23 – Total de biorresíduos recolhidos (t) seletivamente face ao potencial produzido, por SGRU de Portugal Continental, entre 2022 e 2025
+172 114
+205 355
+247 810
+286 128
+144
+168
+198
+206
+0
+50
+100
+150
+200
+250
+2022	2023	2024	2025
+Biorresíduos recolhidos seletivamente	N.º municípios
+13%
+17%
+15%
+0%
+10%
+1%
+2%
+6%
+10%
+24%
+2% 1%
+18%
+2%
+9%
+7%
+5% 4%
+27%
+9%
+6%
+4%
+15%
+2022	2023	2024	2025
+Na Figura 24, são ilustrados geograficamente os resultados apurados quer para a recolha seletiva, quer para o subcapítulo que se segue, da reciclagem na origem.
+Verifica-se uma distribuição assimétrica da recolha seletiva no país, destacando-se, a zona litoral, com especial enfoque nas áreas metropolitanas do Porto e de Lisboa, bem como as regiões do Baixo Alentejo (SGRU Resialentejo) e Alentejo Litoral (SGRU Ambilital), como uma das áreas como maior representatividade de municípios com recolha seletiva de biorresíduos e com peso mais relevante ao nível da taxa de recolha seletiva deste material.
+Figura 24 – Distribuição, por município da Recolha seletiva de biorresíduos e da Reciclagem na origem, em 2025, face à produção total de biorresíduos (%), em Portugal Continental
+(Nota: Para a determinação destes resultados, considerou-se, como denominador, a soma do potencial de biorresíduos existente nos resíduos urbanos, do quantitativo de biorresíduos recolhidos seletivamente encaminhados para operadores privados e os quantitativos de reciclagem na origem, por município)
+4.2 Reciclagem na origem
+No ano de 2024 deu-se início à medição da reciclagem na origem de biorresíduos, nos termos preconizados pela legislação comunitária14 e documento orientador a nível nacional “Metodologia de cálculo para a medição da reciclagem na origem de biorresíduos (compostagem doméstica e comunitária)” 15, entretanto revisto, tendo sido um ano “piloto” na recolha e tratamento de dados nesta matéria.
+Os resultados para 2025 demonstram que 184 municípios (mais 27 que no ano transato) têm já implementada esta tipologia de tratamento, seja na forma de compostagem comunitária, seja de compostagem doméstica, ou ambas, conforme demonstrado na Figura 25 e na Figura 24, acima.
+Figura 25 – Total de biorresíduos reciclados na origem (t) entre 2022 e 2025, em Portugal Continental
+Verifica-se que, face ao ano de 202216 17, ocorreu um crescimento significativo do número de municípios com soluções de compostagem doméstica e/ou comunitária implementadas, representando em 2025 cerca de 75% do total de municípios de Portugal continental.
+Os resultados em 2025 apontam para um decréscimo das quantidades tratadas face ao ano anterior, que se julga ser decorrente da aplicação de rotinas de validação mais exigentes, com vista à garantia da qualidade dos dados e sua harmonização entre municípios.
+14 Decisão de Execução (UE) 2019/1004 da Comissão, de 7 de junho de 2019
+15 Disponível em: Metodologia de cálculo para a medição da reciclagem na origem de biorresíduos (compostagem doméstica e comunitária)
+16 Em 2023 estes dados não foram recolhidos.
+17 No ano de 2022, a metodologia utilizada foi distinta pelo que os dados de quantidades não são diretamente comparáveis, entendendo-se, no entanto, ser útil a sua representação.
+17 663
+28 952
+26 496
+83
+157
+184
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+2022	2024	2025
+Biorresíduos reciclados na origem	N.º municípios
+A distribuição da reciclagem na origem revela menos assimetrias entre SGRU do que a recolha seletiva de biorresíduos (Figura 23), representando, de forma generalizada, uma fração pouco significativa do total de biorresíduos produzidos. A destacar uma área de maior representatividade da reciclagem na origem, nos municípios do Alentejo Central, que integram na generalidade o SGRU Gesamb, e na área mais a sul do SGRU ERSUC.
+4.3 Taxa de captura
+A taxa de captura de biorresíduos, a nível municipal, resulta da soma da recolha seletiva de biorresíduos e da reciclagem na origem, face ao potencial de biorresíduos produzidos, verificando-se, como refletido na Figura 26, que na maioria dos municípios (102), a taxa de captura varia entre 1 e 5% do total de biorresíduos produzidos na sua área de intervenção. Ainda, de destacar, a existência de 34 municípios que ou ainda não implementaram qualquer modelo de recolha e/ou tratamento de biorresíduos ou cuja taxa de captura é praticamente nula.
+Figura 26 – Distribuição do número de municípios em função da taxa de captura
+(%), em Portugal Continental, em 2025
+A análise da distribuição geográfica deste indicador (Figura 27) evidencia, de uma forma geral, uma concentração das taxas de captura mais elevadas na região a sul do Tejo, área em que a implementação de recolha seletiva e reciclagem na origem aparentam estar mais avançadas do que no restante País.
+Salientar, ainda, os resultados positivos em alguns municípios da área metropolitana do Porto e, apesar de com menor peso, da área metropolitana de Lisboa.
+34
+102
+53
+56
+24
+9
+0 1 a 5	6 a 10	11 a 20	21 a 30	31 a 45
+Taxa de captura (%)
+Figura 27 – Mapa da distribuição geográfica da taxa de captura (%), em 2025
+Uma análise à taxa de captura em função do potencial de biorresíduos existente, em cada SGRU, conforme demonstrado na Figura 28, ilustra que, tal como no ano transato, apenas dois SGRU apresentam uma captura acima dos 20% do dos biorresíduos que produzem, apresentando os restantes desempenhos inferiores.
+Figura 28 – Taxa de biorresíduos capturados face ao potencial de biorresíduos disponível nos resíduos urbanos em Portugal Continental, em 2025
+Em 2025 apenas 22 municípios cumpriram a taxa de captura de biorresíduos com a qual se comprometeram no seu PAPERSU, distribuídos por 11 SGRU, destacando-se os SGRU AMARSUL e Ambilital, cada um com 4 municípios e a Gesamb com 3 municípios.
+Captura de biorresíduos	Potencial de biorresíduos
+5. Resultantes do tratamento de RU
+No passado, a opção de Portugal relativamente ao processo de tratamento de RU assentou, essencialmente, numa estratégia de recolha de resíduos indiferenciados encaminhados para unidades de tratamento mecânico e biológico (TMB), no pressuposto que esta tipologia de instalação tinha um elevado potencial de (1) redução da deposição de resíduos urbanos biodegradáveis (RUB) em aterro,
+(2) recuperação de recicláveis, e consequente aumento das taxas de reciclagem e (3) redução das emissões de gases de efeito de estufa, aspetos estes fundamentais para a prossecução das metas nacionais e comunitárias.
+No entanto, a experiência demonstrou que os resultados, em matéria de recuperação de resíduos valorizáveis, ficam significativamente aquém do previsto. Por outro lado, fruto da alteração da legislação comunitária, este processo de tratamento não permitirá o cumprimento dos objetivos e metas determinadas para a presente década, uma vez que, a partir de 1 de janeiro de 2027, só podem ser contabilizados para a meta os biorresíduos objeto de recolha seletiva ou separados e reciclados na origem.
+Para além do TMB, a estratégia de tratamento de RU inclui também tratamento mecânico, triagem, valorização energética e produção de combustível derivado de resíduos (CDR). Destes tratamentos resultam um conjunto de resíduos passíveis de reciclagem material, orgânica ou valorização energética.
+Em anexo (Tabela 13 do Anexo III), encontram-se sistematizados os dados referentes aos resultantes dos tratamentos recuperados nas diferentes instalações dos SGRU e, posteriormente, encaminhados para operações de tratamento por valorização.
+5.1 Fração Multimaterial
+No presente subcapítulo apresentam-se os resultados do exercício de detalhe ilustrativo, por SGRU, da percentagem de material retomado (multimaterial) face ao efetivamente disponível, a tipologia de recolha desse mesmo material, assim como a sua classificação como embalagem ou não embalagem (ou ambos), para quatro frações, vidro, papel/cartão (incluindo ECAL), plástico e metal, sendo que a produção (quantidade disponível) das referidas frações foi calculada com base na composição dos resíduos, conforme definido na Portaria n.º 851/2009, de 7 de agosto, tendo-se considerado como material disponível o resíduo embalagem e resíduo não embalagem, nos seguintes termos:
+Papel/cartão (incluindo ECAL):	Plástico:
+• Resíduos de embalagens de papel/cartão
+• Jornais e revistas
+• Prospetos publicitários
+• Outros resíduos de papel/cartão
+• Resíduos de ECAL
+• Resíduos de embalagens em filme de PE, exceto sacos de plástico
+• Sacos de plástico leves (espessura menor ou igual a 50 microns)
+• Resíduos de embalagens rígidas em PET
+• Resíduos de embalagens rígidas em PEAD
+• Resíduos de embalagens rígidas em EPS
+• Outros resíduos de embalagens de plástico
+• Outros resíduos de plástico
+Metal:	Vidro:
+• Resíduos de embalagens ferrosas
+• Resíduos de embalagens de alumínio
+• Outros resíduos ferrosos
+• Outros resíduos metálicos
+• Resíduos de embalagens de vidro
+• Outros resíduos de vidro
+Para o material plástico, a quantidade disponível foi corrigida com a aplicação de um teor de humidade. O valor considerado, tanto para a recolha indiferenciada como para a recolha seletiva e outras recolhas, foi obtido tendo por base as caraterizações físicas dos resíduos urbanos disponibilizadas pelos SGRU. De referir que foram considerados fatores de humidade diferentes para cada tipo plástico.
+Quanto aos valores apurados para as retomas, foram considerados os valores reais declarados nos Mapas de Registo de Resíduos Urbanos (MRRU), de cada SGRU, para os fluxos supra identificados, após separação em unidades de triagem ou tratamento mecânico, com posterior encaminhamento para operador de tratamento de resíduos.
+Para o metal, foram também considerados os materiais resultantes da incineração.
+Os dados apurados para ambos os exercícios (global e por SGRU) encontram-se nas Tabela 14 e Tabela 15, em anexo ao presente relatório (Anexo III), apresentando-se na Figura 29 e na Tabela 5 algumas das principais conclusões da análise dos dados.
+Figura 29 – Material retomado face ao disponível (%) das frações plástico, metal, ECAL, vidro e papel e cartão, por SGRU, em Portugal Continental, em 2025
+Tabela 5 – Síntese dos principais resultados obtidos referentes ao multimaterial retomado, face ao disponível
+Global*
+A percentagem de material retomado face ao disponível é, de uma forma geral, baixa, evidenciando um potencial significativo de crescimento da recuperação de recicláveis que deve ser desviado da recolha indiferenciada e transferido para a recolha seletiva, permitindo, assim, um aumento da quantidade e qualidade do material recolhido e com isso, expectavelmente, uma reciclagem mais eficiente e obtenção de produtos de melhor qualidade.
+O resíduo recolhido seletivamente é maioritariamente retomado, sendo que no caso da recolha indiferenciada as taxas de retoma são baixas (à exceção do metal, que apresenta um desempenho melhor face aos demais), provavelmente devido à elevada contaminação.
+No que respeita à tipologia de material que estará a ser encaminhado para retoma (embalagem e não embalagem), os dados, tal como no ano anterior, permitem verificar que, essencialmente, são encaminhados resíduos de embalagem, uma vez que essa é a fração que melhor desempenho apresenta. Apenas nos materiais papel/cartão e metal é possível encontrar alguma representatividade nas retomas no que respeita à fração não embalagem.
+Papel/cartão (incluindo ECAL)
+79% do total são embalagens
+Plástico
+72% do total são embalagens
+Apresenta uma taxa de retoma global de cerca de 42%, em relação ao disponível.
+Do material efetivamente retomado, aquele que é proveniente da recolha seletiva é praticamente todo recuperado, o que reflete as baixas taxas de contaminação anteriormente referidas.
+Em 11 dos 23 SGRU, a totalidade das retomas têm origem em resíduos recolhidos seletivamente, o que demonstra que parte das instalações TM e TMB existentes não asseguram a recuperação desta fração de resíduos, em condições para a sua retoma.
+Destaca-se, no entanto, o SGRU Resíduos de Nordeste com um peso de 23% da recolha indiferenciada no que respeita ao papel/cartão retomado.
+Relativamente à fração embalagem e não embalagem, foram retomadas 39% e 54%, respetivamente, face ao disponível.
+À semelhança do verificado nos anos anteriores, e já com aplicação do fator de correção da humidade, a taxa de retoma global (e por SGRU) é baixa face ao material disponível – cerca de 24%, indicando que 76% dos resíduos de plástico que entram nas instalações dos SGRU estarão a ser encaminhados para operações inferiores na hierarquia de resíduos.
+Em 4 SGRU não há recuperação de plástico a partir dos resíduos indiferenciados.
+Cerca de 34% do plástico embalagem disponível é retomado, sendo que a retoma de plástico não embalagem é muito reduzida - 2%. Destaca-se o SGRU RSTJ com um valor significativamente superior à média e mediana de retomas de plástico não embalagem (37%).
+Metal
+80% do total são embalagens
+Vidro
+98% do total são embalagens
+A taxa de retoma de metal é de cerca de 57% (56% de retomas da fração embalagem e 53% de retomas da fração não embalagem), sendo a recuperação essencialmente, e ao contrário dos outros materiais, a partir da recolha indiferenciada.
+Salientar que nesta categoria se consideram as retomas de metais resultantes do desmantelamento de resíduos volumosos, o que resulta, em algumas situações, em valores de retoma superiores a 100%.
+Com o melhor desempenho em termos de taxa de retoma global (cerca de 59%) a sua origem é praticamente toda da recolha seletiva.
+Em 11 dos 23 SGRU, a totalidade das retomas têm origem em resíduos recolhidos seletivamente
+A recuperação deste material através da recolha indiferenciada é quase inexistente, destacando-se o SGRU Resialentejo que 29% dos resíduos são recuperados por esta via, bem como Valnor, e Valorminho com 16%, cada.
+* Importa dar nota que a síntese de resultados apresentados e respetiva informação que lhe dá origem (em anexo) não pode ser comparada diretamente com os resultados obtidos pelas entidades gestoras do SIGRE (sistema integrado de gestão de resíduos de embalagens), no que respeita à colocação no mercado. A metodologia aqui apresentada e os resultados das entidades gestoras assentam em métodos de cálculo e pressupostos diferentes.
+5.2 Composto
+Na Tabela 6 é apresentada a evolução anual dos quantitativos de composto produzido, sendo que no ano de 2025 se verificou uma diminuição de aproximadamente 2%, quando comparado com o ano anterior, invertendo-se a tendência de crescimento existente desde 2022. Se considerarmos apenas a fração de biorresíduos recolhidos seletivamente esta diminuição é de 5%. Salientar que, para este subcapítulo, é apenas considerado o composto produzido que se encontra inscrito no Registo Nacional de Matérias Fertilizantes não Harmonizadas18, atestando a sua qualidade como fertilizante, e ao qual é, por isso, aplicado o Fim de Estatuto de Resíduo, e que foi, efetivamente, utilizado como fertilizante.
+Tabela 6 – Quantitativos de composto produzido (t) entre 2021 e 2025, em Portugal Continental
+Produção de composto em:
+2021	2022	2023	2024	2025
+Instalações de Valorização Orgânica (seletiva)
+13 871	14 733	22 218	38 052	36 274
+Instalações de Tratamento Mecânico e Biológico
+27 351	36 706	47 306	52 661	52 403
+TOTAL 41 222	51 439	69 524	90 713	88 677
+Variação face ao ano anterior
+↓8%	↑25%	↑35%	↑30%	↓2%
+Foi escoado cerca de 91% do composto produzido, tendo como principal destino a valorização agrícola (74%).
+18 https://dgeconomia.gov.pt/licenciamentos-e-registos/materias-fertilizantes.aspx
+Conforme evidenciado na Figura 30, do composto escoado, cerca de 49% cumpre os critérios para classificação na classe IIA, tendo como principal origem a recolha indiferenciada. O composto produzido e escoado de classe I resultou da valorização orgânica de resíduos recolhidos seletivamente.
+Figura 30 – Distribuição do composto escoado por tipo de classe em 2025 (%), em Portugal Continental A obtenção de matérias secundárias de qualidade é essencial para sucesso da estratégia de gestão de resíduos urbanos, quer pela facilidade de escoamento, quer pela remuneração associada, determinantes para o SGRU, mas também e sobretudo pelas questões inerentes à qualidade ambiental e de saúde pública.
+5.3 Combustível Derivado de Resíduos (CDR) e material para CDR
+Em 2025, seguindo a tendência do ano anterior, a produção de CDR apresentou um crescimento significativo, nos SGRU Planalto Beirão e Ambilital, que encaminharam para a unidade de produção de CDR 5 750 toneladas, conforme evidenciado na Tabela 7. As restantes instalações de produção deste combustível não estiveram em funcionamento no ano em análise.
+Tabela 7 – Quantitativos de resíduos encaminhados para as instalações de produção de CDR (t), existentes nos SGRU, entre 2021 e 2025, em Portugal Continental
+Produção de material para CDR a partir de:
+Total
+2021	2022	2023	2024	2025
+Estações de Triagem	186	774	930	2 016
+Tratamento Mecânico	12	1 268	2 865
+Tratamento Mecânico e Biológico
+333 2 290	869
+Unidade de produção CDR
+Entregas diretas/Recolhas municipais
+8
+TOTAL	0	186	1 127	4 488	5 750
+Classe I
+45%
+Classe II
+3%
+Classe IIA
+49%
+Classe III
+3%
+O CDR produzido (3 018 t, cerca de 52% dos resíduos que entram no tratamento) teve como destino a valorização energética na indústria cimenteira, conforme ilustrado na Figura 31.
+Figura 31 – Encaminhamento de CDR (em toneladas) para as cimenteiras, entre 2022 a 2025, em Portugal Continental
+De salientar ainda que, a maioria do CDR foi produzido a partir de refugos/rejeitados de instalações de tratamento mecânico ou mecânico e biológico, o que representa uma alteração face aos anos anteriores, em que a principal origem dos resíduos eram instalações de triagem, cujos refugos e rejeitados apresentam, tipicamente, um teor de humidade inferior e poder calorífico superior, sendo por isso mais atraentes para a produção de CDR. Esta alteração vem no sentido do preconizado no PERSU 2030 que recomenda, entre outros destinos, para os refugos e rejeitados, a sua queima em cimenteiras ou outras indústrias para produção de energia.
+Em suma, não obstante, verificar-se desde 2022, um crescimento dos quantitativos de resíduos utilizados para produção de CDR, em alinhamento com o preconizado no PERSU 2030, tal deve-se apenas a 2 SGRU, sendo necessário estimular o alargamento a outros SGRU com quantidades significativas de refugos/rejeitados produzidos, permitindo assim o seu desvio de aterro e mesmo de incineração dedicada.
+77
+924
+2 830
+3 018
+2022	2023	2024	2025
+CDR encaminhado para cimenteiras
+5.4 Fração residual
+Sendo a fração residual, face às elevadas quantidades produzidas anualmente, um tema que cada vez mais suscita preocupação, é apresentada uma análise, por SGRU, que quantifica essa fração assim como o respetivo destino, designadamente aterro e/ou valorização energética dedicada e em cimenteiras. O quantitativo de resíduos considerados para a fração residual inclui:
+• Resíduos da recolha indiferenciada;
+• Resíduos resultantes dos processos de tratamento (refugos e rejeitados, incluindo as cinzas e escórias resultantes da valorização energética).
+No anexo (Anexo III) ao presente relatório, Tabela 16, podem ser encontrados os resultados por SGRU, onde, de uma forma geral, se infere que, no ano de 2025 e à semelhança do ano anterior, cerca de 75% dos resíduos que entraram nos SGRU foram encaminhados para aterro e valorização energética19 (valor ligeiramente superior ao apresentado no capítulo referente aos destinos finais-soma da deposição em aterro20 – 55% - e valorização energética – 15%).
+Apesar do decréscimo que se tem verificado nos últimos anos relativamente a esta fração (de 91% para 75% entre 2020 e 2025), importa reduzi-la de modo significativo apostando para o efeito no aumento dos resíduos recolhidos seletivamente.
+A análise do desempenho, por SGRU, não varia de forma significativa face ao total apresentado, demonstrando que este é um problema nacional transversal. Do total, 20 SGRU (apenas menos um que em 2024) têm uma percentagem de fração residual acima dos 50%21 e 9 SGRU (mesmo número que no ano transato) têm valores de fração residual acima dos 80%, sendo que entre estes últimos estão incluídos os dois SGRU com opção de valorização energética disponível.
+O SGRU com menor fração residual continua a ser a Resialentejo, resultado em linha com o apresentado na Figura 20, onde se verifica um menor encaminhamento de resíduos para deposição em aterro priorizando este SGRU operações de tratamento mais nobres.
+É urgente e essencial o desvio de resíduos de aterro e valorização energética aproveitando material com potencial de reciclabilidade, por forma a promover uma utilização mais eficiente destes recursos, contribuindo para uma economia mais circular, reduzir a pressão sobre as instalações de destino final (aterros), cuja capacidade disponível é limitada, e cumprir os objetivos e metas com as quais Portugal se encontra comprometido.
+19 Onde se inclui a produção e encaminhamento de CDR.
+20 Inclui as escórias inertes e inqueimados, resultantes de VE, não valorizadas.
+21 Para efeitos desta determinação não foi considerada a partilha de instalações.
+6. Posicionamento face a objetivos e metas
+No presente capítulo é apresentado o posicionamento de Portugal face ao cumprimento do objetivo definido no PERSU 2030 e de duas metas nacionais publicadas no Decreto-Lei n.º 102-D/2020, de 10 de dezembro, na sua atual redação:
+• Objetivo de Prevenção (publicado no PERSU 2030), aplicável apenas a Portugal Continental;
+• Meta de preparação para reutilização e reciclagem (publicada no RGGR – Anexo I do Decreto-Lei supramencionado);
+• Meta de deposição de resíduos em aterro (publicada no RJDRA – Anexo II do Decreto-Lei supramencionado).
+De referir que o objetivo de prevenção, ao contrário das restantes metas, não decorre de legislação comunitária, consubstanciando uma ambição nacional, que foi vertida em sede do PERSU 2030.
+6.1 Posicionamento face ao objetivo de prevenção de resíduos urbanos, em Portugal Continental
+O valor de capitação de RU calculado para 2019 (valor de referência) é de 511 kg/hab.ano para Portugal Continental, resultado que se pretende atingir como produção de resíduos anual em 2030.
+Na Tabela 8 apresenta-se o resultado obtido para Portugal Continental em 2025.
+Tabela 8 – Posicionamento de Portugal Continental face à prevenção de resíduos em 2025
+Produção per Capita
+(kg/hab.ano)
+Resultado obtido 2025	494
+Objetivo 2030	511
+A diminuição da produção de resíduos per capita, em 2025, face ao valor que tem sido apresentado em anos anteriores, teve por base um aumento significativo do valor de população residente em Portugal, determinado pelo INE.
+6.2 Posicionamento face à meta de preparação para reutilização e reciclagem
+(PRR) de resíduos urbanos
+Na Diretiva Quadro Resíduos (DQR)22, transposta para o direito nacional através do RGGR, são fixadas as metas a alcançar por Portugal, até 2035, de preparação para reutilização e reciclagem (PRR) as quais se aplicam a todo o país, incluindo Regiões Autónomas, e que se traduzem da seguinte forma:
+A aferição do cumprimento desta meta, segue o disposto na Decisão de Execução que estabelece regras para o cálculo, a verificação e a comunicação de dados sobre resíduos23, resultando na seguinte fórmula de cálculo simplificada:
+𝑃𝑟𝑒𝑝𝑎𝑟𝑎çã𝑜 𝑝𝑎𝑟𝑎 𝑎 𝑟𝑒𝑢𝑡𝑖𝑙𝑖𝑧𝑎çã𝑜 𝑒 𝑟𝑒𝑐𝑖𝑐𝑙𝑎𝑔𝑒𝑚 (𝑡) = 𝑇𝑜𝑡𝑎𝑙 𝑅𝑈 𝑟𝑒𝑐𝑖𝑐𝑙𝑎𝑑𝑜𝑠 + 𝑇𝑜𝑡𝑎𝑙 𝑅𝑈 𝑝𝑟𝑒𝑝𝑎𝑟𝑎𝑑𝑜𝑠 𝑝𝑎𝑟𝑎 𝑟𝑒𝑢𝑡𝑖𝑙𝑖𝑧𝑎çã𝑜
+𝑇𝑜𝑡𝑎𝑙 𝑅𝑈 𝑝𝑟𝑜𝑑𝑢𝑧𝑖𝑑𝑜𝑠
+Dar nota que o denominador inclui a produção total de RU e o numerador as retomas efetivas, as escórias metálicas de incineração24, assim como, em termos de valorização de biorresíduos, 54% da recolha indiferenciada e 100% da recolha seletiva e da reciclagem na origem.
+Até 1 de janeiro de 2027 são admissíveis os quantitativos de biorresíduos provenientes da recolha indiferenciada, considerando-se para efeitos de cálculo, que 54% da fração indiferenciada corresponde à fração de RU que é valorizada organicamente nas instalações TMB, desde que resulte em produção de composto, inscrito no Registo Nacional de Matérias Fertilizantes Não Harmonizadas, validando assim a sua qualidade para utilização como fertilizante, não tendo em consideração a fração de refugos e rejeitados resultante deste tratamento e que não é efetivamente reciclada.
+Nas “retomas” incluem-se os resíduos que sofrem triagem nos SGRU, bem como todos os fluxos materiais encaminhados para reciclagem através de SGRU, como, por exemplo, resíduos de equipamentos elétricos e eletrónicos.
+A partir de 2024, passaram também a ser considerados para efeitos do resultado da PRR, os quantitativos de resíduos de reciclagem na origem.
+22 Diretiva n.º 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro, na sua versão atual 23 Decisão de Execução (UE) n.º 2019/1004, de 7 de junho
+24 De acordo com o Anexo III da Decisão 2019/1004 que define uma metodologia de cálculo dos metais reciclados separados após incineração de RU, e metodologia já divulgada no portal da APA em:
+https://apambiente.pt/sites/default/files/_Residuos/FluxosEspecificosResiduos/ERE/Metodologia_Afericao_Percentagem_Em balagens_nas_Escorias.pdf
+2025: Aumento mínimo para 55%, em peso, da preparação para a reutilização e da reciclagem de resíduos urbanos
+2030: Aumento mínimo para 60%, em peso, da preparação para a reutilização e da reciclagem de resíduos urbanos
+2035: Aumento mínimo para 65%, em peso, da preparação para a reutilização e da reciclagem de resíduos urbanos
+Em anexo (Anexo IV) ao presente relatório podem ser encontrados todos os considerandos para cálculo da meta PRR.
+Assim, e com base no exposto, apresenta-se, na Tabela 9, o posicionamento de Portugal, em 2025, face ao marco da meta PRR aplicável a esse mesmo ano.
+Tabela 9 – Posicionamento de Portugal face à meta de preparação e reutilização e reciclagem de 2025
+Preparação para reutilização e reciclagem de RU (%)
+Resultado obtido para Portugal 2025	39
+Meta 2025	55
+Contribuem, maioritariamente, para este resultado, à semelhança do ocorrido em anos anteriores, os biorresíduos recuperados da recolha indiferenciada encaminhados para valorização orgânica e os resíduos recicláveis, conforme se ilustra na Figura 32.
+Figura 32 – Contribuição, em 2025, de cada fração de resíduos para a meta de preparação para a reutilização e reciclagem (%)
+Uma vez que a partir de 2027, não poderá ser contabilizada a categoria que atualmente detém o maior contributo, importa reforçar fortemente a recolha seletiva, designadamente de biorresíduos, por forma a garantir que na fórmula de cálculo a aplicar nessa data, se mantém a tendência de aproximação face às metas.
+Relativamente ao ano de 2024, verifica-se uma aproximação de Portugal, em 2 p.p., face à meta estabelecida para 2025, contudo os esforços efetuados foram claramente insuficientes, não se tendo alcançado a meta e pouco se encurtou a distância entre o resultado e objetivo, tendo-se ficado a 16 p.p. abaixo do mesmo.
+Resíduos Recicláveis
+31%
+Biorresíduos de RI
+46%
+Biorresíduos de RS 16%
+Biorresíduos tratados na origem 1%
+Metais de incineração
+1%
+Agregado
+5%
+6.3 Posicionamento face à meta de deposição em aterro de resíduos urbanos
+No que diz respeito ao cumprimento da meta de deposição de resíduos em aterro, estabelecida no artigo 5.º da Diretiva Aterros25 (na sua nova redação), transposta para a legislação nacional através do RJDRA, vertido no Anexo II do Decreto-Lei n.º 102-D/2020, de 10 de dezembro, na sua atual redação (artigo 8.º), deve verificar-se:
+Para o cálculo desta meta considera-se a seguinte fórmula:
+𝐷𝑒𝑝𝑜𝑠𝑖çã𝑜 𝑑𝑒 𝑅𝑈 𝑒𝑚 𝑎𝑡𝑒𝑟𝑟𝑜 (%) = 𝑇𝑜𝑡𝑎𝑙 𝑅𝑈 𝑑𝑒𝑝𝑜𝑠𝑖𝑡𝑎𝑑𝑜 (𝑒𝑥𝑐𝑒𝑡𝑜 𝑟𝑒𝑠𝑢𝑙𝑡𝑎𝑛𝑡𝑒𝑠 𝑅1)
+𝑇𝑜𝑡𝑎𝑙 𝑅𝑈 𝑝𝑟𝑜𝑑𝑢𝑧𝑖𝑑𝑜
+Resume-se na Tabela 10 o posicionamento de Portugal em 2025, face à meta prevista.
+Tabela 10 – Posicionamento de Portugal face à meta de deposição de resíduos em aterro de 2025
+RU depositados em aterro (%)
+RU depositados em aterro (t)
+Resultado obtido 2025	52	2 963 006
+Meta 2035	10	528 13826
+Relembrar que, no presente capítulo, os valores alcançados refletem o total nacional, incluindo Regiões Autónomas, motivo pelo qual o valor aqui apresentado não se encontra em linha com o valor de deposição de resíduos em aterro dos 23 SGRU que gerem os resíduos em Portugal continental, que é de 54%.
+Comparando com o ano de 2024, verifica-se uma estagnação da aproximação de Portugal face à meta estabelecida para 2035, resultado que demonstra que o esforço a desenvolver nos próximos 9 anos (horizonte temporal previsto para cumprimento da meta) será significativo, e que é urgente a implementação de medidas adicionais que invertam o panorama nacional de deposição de resíduos em aterro.
+25 Diretiva 1999/31/CE Parlamento Europeu e do Conselho relativa à deposição de resíduos em aterros, alterada pela Diretiva (UE) 2018/850, de 30 de maio
+26 Estimativa PERSU2030 assumindo que a produção de resíduos se mantém.
+2035: Redução para 10% da quantidade total de RU depositados em aterro, face aos quantitativos totais produzidos
+6.4 Resultados apurados por SGRU da meta PRR
+Uma vez que o PERSU 2030 determina metas específicas para cada SGRU, para 2030, por forma a acompanhar o desempenho individual ao longo do período de planeamento, no presente relatório apurou-se o resultado por cada entidade, encontrando-se uma síntese vertida na Figura 33.
+Relembrar que no caso de SGRU dotados de instalações de TMB o resultado alcançado é significativamente mais elevado que os demais, tendo presente a fórmula de cálculo utilizada até 2027, que considera como reciclado por valorização orgânica 54% do que entra nestas instalações.
+Figura 33 – Posicionamento dos SGRU face à meta PRR (%) definida para 2025
+(Nota: * Optou-se por não apresentar esta informação por se considerar que a mesma carece de fundamentação)
+Em anexo (Anexo V) ao presente relatório podem ser encontradas as tabelas e respetivas representações geográficas desde 2022 a 2025, da evolução por SGRU, das metas de PRR e de deposição em aterro.
+2025	Meta 2025
+7. Considerações finais
+Os resultados apresentados no presente RARU evidenciam que os progressos registados em 2025 foram limitados, permanecendo desafios significativos à concretização dos objetivos e metas nacionais e europeus para o setor dos resíduos urbanos.
+A produção de resíduos urbanos aumentou cerca de 2% face a 2024. Contudo, a capitação de Portugal foi inferior à média europeia, resultado, essencialmente, da revisão metodológica efetuada pelo INE ao indicador da população média residente utilizado nos cálculos.
+A recolha indiferenciada mantém uma elevada representatividade, correspondendo a 75% dos resíduos recolhidos em Portugal Continental, enquanto a recolha seletiva continua a apresentar uma evolução insuficiente, quer no que respeita à fração material, quer aos biorresíduos. Neste último fluxo, regista-se, contudo, uma evolução positiva, quer pelo aumento do número de municípios abrangidos, quer pelos quantitativos recolhidos. Esta evolução deverá ser consolidada e acelerada, atendendo à sua importância para o cumprimento da meta de preparação para reutilização e reciclagem e à alteração das regras de contabilização que ocorrerá a partir de 2027, com impacto no posicionamento de Portugal face às metas estabelecidas.
+Em 2025, a taxa de preparação para reutilização e reciclagem atingiu 39%, registando um aumento de 2 pontos percentuais face ao ano anterior, mas permanecendo 16 pontos percentuais abaixo da meta de 55% estabelecida para 2025. Como já referido, esta distância deverá aumentar a partir de 2027, com a alteração das regras de cálculo desta meta.
+A deposição em aterro continua igualmente a assumir uma expressão elevada, representando 52% dos resíduos urbanos a nível nacional, valor muito distante do objetivo de 10% estabelecido para 2035. Esta situação agrava a pressão, já significativa, sobre a capacidade disponível de aterro e as dificuldades associadas ao seu reforço. Paralelamente, cerca de 15% dos resíduos foram encaminhados para valorização energética.
+Os resultados evidenciam, assim, a necessidade de acelerar a transição para um modelo de gestão assente na prevenção e na recolha seletiva, assegurando não apenas o aumento das quantidades recolhidas, mas também a melhoria da sua qualidade. O potencial ainda existente na fração indiferenciada, designadamente de biorresíduos e outros materiais recicláveis, reforça a importância de intensificar a separação na origem e de disponibilizar soluções de recolha adequadas às diferentes realidades territoriais.
+A sensibilização e a formação da população constituem igualmente dimensões fundamentais.
+Neste âmbito, a campanha nacional, “Vamos Lixar o Lixo”, iniciada no final de 2025 poderá contribuir para uma maior consciencialização e participação dos cidadãos, sendo expectável que os seus efeitos se reflitam sobretudo nos resultados dos anos subsequentes.
+A evolução do setor dependerá igualmente da capacidade de adaptação e otimização das instalações existentes, da partilha de capacidades entre sistemas e da concretização dos investimentos previstos, tendo em consideração as limitações crescentes da capacidade de deposição em aterro. Neste contexto, a implementação das medidas previstas no PERSU 2030 e no Plano de Ação Terra, reforçado pela iniciativa Terra+, assume particular relevância.
+Num sistema complexo como o dos resíduos urbanos, deve também apostar-se na utilização de instrumentos económicos capazes de induzir mudanças de comportamento e assegurar a sustentabilidade do sistema. Entre estes, destaca-se a modelação da componente dos valores de contrapartida aplicados pelas entidades gestoras de fluxos específicos de resíduos, de forma a assegurar o financiamento dos custos associados à gestão dos resíduos desde a sua recolha até ao tratamento, sem comprometer a sustentabilidade do setor, podendo também ser equacionada a redefinição dos agravamentos e benefícios associados à taxa de gestão de resíduos, em função do desempenho alcançado e com uma afetação mais direta às entidades com responsabilidades na recolha e tratamento.
+Com impacto direto nos produtores de resíduos, a implementação de sistemas PAYT, que relacionem o custo do serviço com o seu comportamento, bem como a aplicação de medidas sancionatórias em caso de incumprimento das regras de separação e deposição, sustentada numa fiscalização robusta e permanente, constituem-se como instrumentos económicos a considerar, estando previstos em bastante PAPERSU.
+Por fim, o cumprimento dos objetivos definidos para o setor exige o envolvimento articulado de todos os intervenientes — entidades públicas, SGRU, municípios, cidadãos e outros produtores de resíduos. O reforço da prevenção, da sensibilização e da alteração de comportamentos, conjugado com a adoção de instrumentos que promovam uma maior participação e responsabilização, será determinante para acelerar a transição para uma gestão de resíduos mais eficiente e para uma efetiva economia circular.
+Em síntese, os resultados de 2025 confirmam a necessidade de acelerar a transformação do modelo de gestão de resíduos urbanos, privilegiando a prevenção, a recolha seletiva e a reciclagem, de forma a assegurar uma trajetória consistente de aproximação às metas nacionais e europeias.
+
+RESINORTE
+Municípios: Alijó, Amarante, Armamar, Baião, Boticas, Cabeceiras de Basto, Celorico de Basto, Chaves, Cinfães, Fafe, Guimarães, Lamego, Marco de Canaveses, Mesão Frio, Moimenta da Beira, Mondim de Basto, Montalegre, Murça, Penedono, Peso da Régua, Resende, Ribeira de Pena, Sabrosa, Santa Marta de Penaguião, Santo Tirso, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Trofa, Valpaços, Vila Nova de Famalicão, Vila Pouca de Aguiar, Vila Real, Vizela População média residente: 927 526 habitantes
+Área: 8 031 km2
+Web: www.resinorte.pt
+Instalações em exploração: 4 Aterros; 1 Tratamento Mecânico e Biológico; 3 Tratamentos Mecânicos e 4 Triagens
+NOTA: Capitações entre 2021 e 2024 retificadas em função da publicação em 2026, por parte do INE, dos dados da população média anual residente atualizados
+Recolhas RU por origem	Recolhas em ecopontos
+Encaminhamento das recolhas de RU
+(Destinos)	Destinos Finais (face ao produzido)
+Preparação para Reutilização e Reciclagem
+1,05
+1,10
+1,15
+1,20
+1,25
+1,30
+2021	2022	2023	2024	2025
+Finos < 20mm;
+8,24%
+Biorresíduos;
+39,20%
+Papel/Cartão; 8,35%
+Plástico;
+9,70%
+Vidro;
+8,32%
+Compósitos;
+2,54%
+Têxteis; 5,33%
+Têxteis sanitários;
+11,23%
+Metais; 1,09%
+Madeira; 1,17%
+Resíduos Perigosos; 0,01%
+Outros resíduos; 1,55%
+Resíduos Verdes (recolhidos em separado);
+1,07%
+Resíduos Volumosos; 2,19%
+Recolha indiferenciada
+78,1%
+Outros produtores 0,2%
+Ecopontos
+9,5%
+Porta-a-Porta
+3,1%
+Ecocentros
+1,5%
+Circuitos especiais
+4,0%
+Biorresíduos alimentares
+2,6%
+Verdes
+1,1%
+Recolha seletiva 21,7%
+10 908 t	10 723 t
+19 073 t
+Vidrão	Papelão	Embalão
+Aterro 50,31%
+Tratamento Mecânico e Biológico
+32,92%
+Tratamento
+Mecânico
+1,82%
+Valorização Material 14,77%	Reciclagem na Origem 0,18%
+Aterro 82,25%
+Valorização Orgânica
+2,09%
+Reciclagem 13,62%
+Reciclagem na Origem 0,25%
+Armazenamento e Perdas 1,78%
+34%
+55%
+60%
+Resultado
+Meta
+2025
+Meta
+2030
+SGRU:	Unidades:	ton/ano
+Ano:	2025
+Papel/Cartão	21 725	35 832	27 919
+Plástico/Metal	14 843
+Vidro	21 507
+93 138	Madeira	3 807
+REEE	578	27 664
+Pilhas	1,12
+Monstros	9 403
+OAU	2
+Resíduos Verdes	4 579	668	15 576
+Resíduos Orgânicos	10 997	2 905
+Outros	5 695
+1 600
+921
+428 634	19
+133 683
+15 098
+4 819
+334 575	132 165
+14 646
+235
+200 893
+Notas:
+Energia
+(MWh) Aterro
+RESINORTE
+Recolha Seletiva e outras recolhas
+Triagem
+Reciclagem
+Tratamento
+Mecânico
++
+Tratamento
+Mecânico Biológico
+Composto
+Foram utilizados internamente em aterro 533 t de resíduos não urbanos.
+Produção de RU	Outros
+Produtores
+RU
+Recolha
+Indiferenciada
+Cumprem
+1
+Não cumprem
+34

@@ -5,6 +5,12 @@
 kb/E1/raw/*
 !kb/E1/raw/.gitkeep
 
+# Texto completo dos PDF, só para consulta (python scripts/pdf_para_txt.py --completo)
+kb/E1/completo/
+
+# Cópia dos PDF que entram na base (o pdf_para_txt.py refá-la a cada corrida)
+kb/E1/pdf/
+
 # Índices, caches e modelos: regeneram-se
 indices/
 cache/

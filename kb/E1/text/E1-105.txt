@@ -1,0 +1,358 @@
+1. INTRODUÇÃO
+O Guia técnico de implementação de sistemas PAYT (Pay-As-You-Throw), SAYT (Save-As-You-Throw) ou RAYT (Receive-As-You-Throw), nos Açores é composto por três volumes:
+▪ Volume 1: Descrição dos fundamentos essenciais à implementação de sistemas PAYT, SAYT ou RAYT;
+▪ Volume 2: Plano de apoio à implementação de sistemas PAYT, SAYT ou RAYT nos Açores;
+▪ Volume 3: Simulador.
+O presente documento constitui o volume 1 do Guia técnico de implementação de sistemas PAYT, SAYT ou RAYT nos Açores, e nele se sistematizam os aspetos essenciais a considerar na implementação de sistemas desta natureza, abordando-se as questões relacionadas com os vários modelos possíveis, com os sistemas técnicos e tecnológicos relacionados com os meios de deposição e recolha, com as diferentes fases de implementação e ainda com aspetos complementares relativos à aplicação destes modelos em condomínios, produtores não domésticos, entre outros.
+De salientar, contudo, que este documento não pretende ser um guia automático de implementação de qualquer um dos sistemas mencionados, até porque não seria possível desenhar um modelo pré-determinado, dadas as particularidades que qualquer projeto comporta. Pretende-se, no entanto, fornecer uma metodologia comum a ser seguida, suficientemente flexível para poder dar resposta a todas as situações.
+2. ENQUADRAMENTO DOS SISTEMAS PAYT, SAYT OU RAYT
+Os sistemas PAYT são instrumentos económico-financeiros nos quais se aplica o princípio do poluidor-pagador, com resultados comprovados ao nível da prevenção da produção e do aumento das quantidades desviadas da componente indiferenciada para a seletiva. Estes sistemas assentam no princípio de que quanto mais o utilizador reduzir a produção e garantir a correta separação dos resíduos recicláveis, menos irá pagar. Trata-se assim de um sistema tarifário justo e equitativo, no sentido em que “quem produz mais, paga mais”.
+Por sua vez, os sistemas SAYT/RAYT objetivam a recompensa pela boa prática de separação, configurando mecanismos de incentivo, que não têm subjacente o princípio do poluidor-pagador, e que visam aumentar a separação na origem, não tendo qualquer impacto ao nível da prevenção da produção.
+Naturalmente que a implementação de um sistema PAYT/SAYT/RAYT é uma opção municipal associada à vontade política de mudar a gestão de resíduos, na qual a componente financeira assume especial importância.
+Ora, na maior parte dos municípios portugueses a tarifa aplicada à gestão dos resíduos urbanos apenas cobre uma parte dos custos das diversas operações desenvolvidas e o utilizador do sistema nem sempre tem perfeita noção que a recolha de resíduos configura um serviço pago, face aos montantes que lhe são (ou não) cobrados atualmente, e que estão por norma indexados ao consumo da água e diluídos na fatura deste serviço.
+Neste contexto, a implementação de um sistema PAYT pode conduzir à ideia de se estar a introduzir uma nova “taxa” ou “imposto”, provocando consequentemente reações negativas no utilizador face ao novo sistema. Já no caso dos mecanismos SAYT/RAYT o utilizador, pelo facto de receber um estímulo positivo aliado à recompensa pelo esforço de separação dos resíduos, estará mais recetivo à participação neste tipo de iniciativas.
+Face ao exposto, é fundamental, previamente à implementação de um sistema desta natureza, conhecer os custos associados aos serviços prestados e garantir a sua total recuperação por forma a ajustar os valores das tarifas atuais aos reais custos do serviço, de modo a que a transição para um tarifário PAYT não represente um incremento substancial da tarifa ou o incentivo dado ao munícipe, no caso dos sistemas SAYT/RAYT, não seja excessivo.
+Por outro lado, os sistemas PAYT estão frequentemente associados à ideia de se tratarem de sistemas onerosos, com custos de investimento e de exploração avultados devido, quer à necessidade de alterar os meios de contentorização e recolha, quer à complexidade tecnológica frequentemente inerente ao funcionamento destes sistemas. De notar, no entanto que a introdução de um sistema tarifário desta natureza não obriga necessariamente a uma mudança radical dos esquemas de recolha implementados, na medida em que este sistema se revela algo flexível tendo em conta a diversidade de soluções de tarifação que incorpora. De facto, existe no mercado um leque alargado de soluções de deposição e recolha compatíveis com a implementação de sistemas PAYT, havendo em todos eles apenas e sempre a necessidade de garantir a correspondência clara entre o produtor e o respetivo equipamento.
+A este propósito é de salientar que algumas modalidades dos sistemas de incentivo SAYT/RAYT requerem igualmente alterações ao nível dos meios de deposição e recolha, tendo em vista e monitorização das quantidades de recicláveis separados e a correspondência clara e unívoca entre estas e o respetivo produtor dos resíduos, por forma a apurar o valor do incentivo. No caso destes sistemas, e comparativamente ao PAYT, há a agravante de a monitorização e a eventual instrumentação de contentores recair sobre as três frações de materiais recolhidos seletivamente, enquanto o PAYT apenas tem incidência sobre a fração indiferenciada de resíduos.
+Por este motivo, e antes de avançar para qualquer um destes sistemas, há que definir claramente os objetivos pretendidos com a sua implementação, e quais os investimentos que se pretendem fazer, uma vez que:
+▪ no caso do PAYT, os investimentos feitos nos equipamentos de deposição e em viaturas de recolha de resíduos indiferenciados e na respetiva instrumentação configuram custos que entram para o cálculo da tarifa de RU, que neste caso está indexada à quantidade de resíduos indiferenciados produzidos, podendo a entidade gestora recuperar os investimentos feitos diretamente por esta via;
+▪ no caso do SAYT/RAYT os investimentos feitos em equipamentos de deposição seletiva, nas respetivas viaturas de recolha, na instrumentação e ainda o valor do incentivo entram para o apuramento de custos, contudo a sua recuperação não é feita diretamente por via da tarifa de RU uma vez que a mesma não está indexada à produção de resíduos. Neste caso há, contudo, que considerar a receita proveniente da retoma dos materiais recicláveis.
+Conforme já referido anteriormente, a introdução dum sistema PAYT/SAYT/RAYT implica alterações, mais ou menos profundas na gestão dos resíduos, pelo que devem ser previstas alterações, quer aos regulamentos do serviço de gestão de resíduos urbanos, quer aos regulamentos tarifários.
+Assim, o utilizador do serviço de gestão de resíduos tem o direito de conhecer quer os seus direitos e deveres, quer os da entidade gestora, pelo que as alterações que decorram da implementação dos sistemas PAYT/SAYT/RAYT devem ser refletidas nos regulamentos de serviço, designadamente no que respeita ao conjunto de direitos e obrigações da entidade gestora e dos utilizadores, gestão dos componentes do sistema, regime tarifário, faturação e as sanções aplicáveis ao incumprimento de obrigações.
+De salientar ainda que, a preparação e aprovação dos regulamentos do serviço de gestão de resíduos deverá ser feita com a antecedência necessária relativamente à entrada em vigor das alterações à deposição e remoção, a fim de serem amplamente divulgados pela população, sendo igualmente aconselhável que haja um período de transição, com o objetivo de potenciar a adesão dos produtores de resíduos às novas regras.
+Relativamente ao regulamento tarifário, o projeto de implementação dum sistema PAYT/SAYT/RAYT deve integrar um estudo técnico das tarifas a praticar – que serão, naturalmente, objeto duma decisão política relativamente ao tipo e grau de cobertura dos custos que devem suportar.
+Por outro lado, e no caso específico de sistemas PAYT, o tarifário deverá contemplar diferenciações tarifárias em função do tipo de utilizador, tarifas sociais e tarifas para famílias numerosas de acordo com o regime tarifário em vigor.
+Tal como referido para o caso dos regulamentos do serviço de gestão de resíduos, também os regulamentos tarifários devem ser preparados e aprovados com antecedência, assegurando-se igualmente um período de transição com o objetivo de potenciar a adesão dos produtores de resíduos às novas regras.
+No caso dos sistemas SAYT/RAYT, as implicações ao nível do regime tarifário estão na dependência do tipo de incentivo concedido. Assim, apenas haverá necessidade de alterar o regulamento tarifário caso o benefício a atribuir ao utilizador implique, por exemplo, descontos diretos na tarifa de resíduos urbanos.
+3. SISTEMAS PAYT
+3.1. CONSIDERAÇÕES GERAIS
+Os sistemas PAYT podem dividir-se em duas grandes categorias:
+▪ os que se baseiam na identificação do utilizador – que são apanágio dos processos de deposição coletiva na via pública;
+▪ os que se fundamentam na identificação do recipiente de deposição, saco ou contentor – compatíveis com a recolha Porta-a-Porta.
+Figura 1 - Modelos de sistemas PAYT
+De referir que cada uma destas duas modalidades agrega uma diversidade de soluções, que podem coexistir num mesmo sistema de resíduos urbanos, pois por vezes não existe uma única solução para a totalidade de uma região.
+Os aspetos específicos de um sistema PAYT dependem duma multiplicidade de fatores, dos quais se podem destacar, de entre outras:
+▪ a organização da remoção;
+▪ a vontade política de proceder a alterações mais ou menos profundas no modelo em vigor;
+▪ o tipo de ocupação do solo (zonas de residências multifamiliares, com ou sem infraestruturas para equipamentos de deposição, zonas de moradia unifamiliar, com maior ou menor densidade populacional, zonas rurais ou mistas);
+▪ fatores económicos;
+▪ fatores sociais;
+▪ fatores ambientais.
+Na Tabela 1 sistematizam-se os aspetos relevantes relativos aos sistemas PAYT baseados na identificação do utilizador e do contentor, respetivamente.
+Tabela 1 – Sistemas PAYT com base na identificação do utilizador vs sistemas PAYT com base na identificação do contentor
+Sistemas com base na identificação do utilizador	Sistemas com base na identificação do contentor
+Modo de identificação
+São geralmente aplicáveis em esquemas de deposição e recolha de contentores coletivos.
+A identificação do utilizador é feita através dum cartão magnético ou similar que lhe permite aceder ao sistema.
+Estão associados aos esquemas de recolha Porta-a-Porta.
+Requerem uma identificação prévia do utilizador (individual ou coletivo - condomínio), com registo do número e dimensão dos contentores a utilizar, bem como identificação do chip associado.
+A relação entre o utilizador do sistema e o meio de deposição pode ter uma das seguintes formas:
+• Direta e biunívoca se a estrutura for de alojamento unifamiliar ou multifamiliar com capacidade para distribuição de contentores por fogo;
+• Indireta, quando a deposição é efetuada em contentores coletivos afetos a um edifício. Está normalmente associada a estruturas multifamiliares e zonas densamente povoadas. Neste caso, o interlocutor da entidade responsável pelos resíduos urbanos é o condomínio e é também ele objeto das tarifas de remoção;
+• Inexistente, no caso de a deposição ser efetuada em sacos pré-pagos, embora possa haver uma numeração dos sacos e o consequente registo do comprador. No entanto, tal prática só é válida para efeitos de controlo e fiscalização.
+Quantificação por volume
+O contentor contém um dispositivo (câmara de deposição), apenas acessível através de cartão próprio que identifica o utilizador e que permite a deposição duma quantidade máxima de resíduos em cada utilização.
+As tarifas variáveis resultam da aplicação dum determinado preço/litro ao volume produzido pelo utilizador, medido pelo produto do número de utilizações pela capacidade máxima (pré-definida) de cada deposição.
+Em termos de custos do sistema, o peso da incorporação das câmaras de deposição nos contentores de uso coletivo pode ser significativo, quer ao nível dos investimentos, quer da manutenção.
+O indicador fundamental para a determinação da tarifa é o volume dos resíduos recolhidos, medido direta ou indiretamente.
+Existem basicamente três tipos de tarifas PAYT, que correspondem a processos de remoção diferentes:
+• Frequência de remoção igual para cada uma das frações recolhidas Porta-a-Porta
+O indicador para cálculo da componente variável da tarifa é o volume do contentor utilizado, quer por moradia unifamiliar quer por estrutura multifamiliar.
+Os serviços da entidade gestora devem determinar, para cada agregado familiar (no caso de moradias unifamiliares), ou por conjunto de agregados familiares (no caso de estruturas multifamiliares), a capacidade do(s)
+Sistemas com base na identificação do utilizador	Sistemas com base na identificação do contentor contentor(es) distribuído(s) para cada fração objeto de recolha Porta-a-Porta, face à periodicidade da remoção.
+• Frequências de remoção diferentes para cada uma das frações objeto de recolha Porta-a-Porta.
+A frequência pode ser pré-negociada com a entidade gestora. A base de cálculo da tarifa PAYT variável será o número de vezes que o contentor é apresentado à recolha multiplicado pelo valor associado a essa volumetria de contentor.
+• Pagamento prévio, nomeadamente sacos pré-pagos
+Os utilizadores compram sacos fornecidos pela entidade gestora que depois utilizam para fazer a deposição dos diversos tipos de resíduos a recolher.
+Apenas os sacos fornecidos pelas entidades gestoras devem ser objeto de remoção.
+Quantificação por peso
+Os contentores estão equipados com balança que, depois de o utilizador ser identificado, pesa os resíduos depositados.
+Os sistemas periféricos instalados nos contentores e centralmente ligados permitem atribuir a cada utilizador, através da identificação, o peso dos resíduos depositados por tipo e calcular o valor da tarifa variável a pagar.
+Nos sistemas por peso, aplica-se tudo o que foi referido relativamente aos sistemas por volume, contudo a tarifa variável tem por base o peso dos resíduos recolhidos.
+Os contentores são dotados com um chip legível por leitor eletrónico do equipamento de recolha.
+As viaturas de recolha têm que ser equipadas com sistemas de pesagem que pesam o contentor magneticamente identificado.
+NOTA: Os sistemas tarifados através do peso dos resíduos recolhidos são em muito menor número do que os sistemas PAYT com identificação do utilizador tarifados em função do volume. Tal facto deve-se à maior sofisticação técnica e custo dos sistemas de pesagem, quer nos contentores quando se trata de deposição coletiva (identificação do utilizador) quer nas viaturas de recolha ou nos respetivos sistemas de elevação (identificação do contentor), com um custo inicial de aquisição e montagem e custos de manutenção significativos.
+3.2. EQUIPAMENTOS DE DEPOSIÇÃO
+Em matéria de equipamentos de deposição, existem no mercado várias soluções compatíveis com a implementação de sistemas PAYT, contudo todas elas se baseiam em dois tipos de equipamentos-contentores e sacos.
+O único requisito a cumprir por qualquer uma destas soluções de deposição prende-se com a necessidade de garantir a correspondência clara entre o produtor e o respetivo equipamento.
+Na Tabela 2 sistematizam-se os aspetos a considerar em cada uma das soluções de deposição.
+Tabela 2 – Tipologia de equipamento de deposição adotados em sistemas PAYT
+Contentores	Sacos
+O sistema PAYT pode ser conseguido mediante a instrumentação dos equipamentos por via da instalação de chips RFID (Figura 2 - A) ou de mecanismos de controlo de acesso (Figura 2 - B).
+(A)
+(B)
+Figura 2 - Exemplos de chips RFID para instalação em contentores (A) e de contentores equipados com mecanismos de controlo de acesso (B)
+Os chips RFID podem ser aplicados quer em contentores individuais (moradias unifamiliares), quer coletivos (solução para edifícios com compartimento de resíduos onde existirá partilha do equipamento).
+No caso de contentores com chips, para além dos requisitos habituais, há também que salvaguardar a existência de recetáculo específico para colocação do chip, tendo em vista a salvaguarda da sua integridade face aos métodos habituais de recolha.
+O controlo de acesso aplica-se normalmente a equipamentos coletivos, quer de superfície, quer enterrados, dispostos na via pública.
+Este controlo de acesso é habitualmente efetuado através de cartões magnéticos com identificação do utilizador, havendo contudo situações nas quais são adotadas fichas pré-compradas ou moedas, exigindo maior grau de sofisticação, o que os torna de difícil escolha.
+Neste caso dos contentores com controlo de acesso, é possível equipá-los com câmaras de deposição, que permitem a deposição duma quantidade máxima de resíduos em cada utilização, ou com balanças que pesam imediatamente a quantidade de resíduos depositados.
+É possível distinguir as seguintes modalidades no que respeita aos meios a adquirir, por parte do utilizador, para uso do sistema:
+• Etiquetas ou autocolantes;
+• Sacos pré-pagos.
+Figura 3 - Exemplos de sacos pré-pagos e de etiquetas identificadoras
+No primeiro caso os utilizadores adquirem etiquetas ou autocolantes para colocar nos seus próprios sacos, identificado a etiqueta / autocolante a dimensão do saco coberto pela tarifa paga.
+Outra alternativa é a da etiqueta revestir a forma de código de barras, associado a determinado produtor na base de dados do sistema de informação e gestão, que no momento da recolha, e mediante leitura com leitor portátil permitirá contabilizar a utilização do sistema para posterior tarifação.
+No caso dos sacos pré-pagos, e tal como o nome indica, o utilizador compra previamente os sacos homologados de que irá necessitar, que estão por norma identificados através de logótipo ou por determinada cor.
+Uma questão crucial para a adesão das populações a este tipo de sistemas pré-pagos é a da rede de distribuição, isto é, os locais de compra dos diversos tipos de sacos. Para além de locais de venda da própria entidade gestora, poderão ser estabelecidos protocolos com grandes superfícies de venda a retalho, pequenos e médios comerciantes locais, associações ou outras entidades em contacto com o público
+3.3. EQUIPAMENTOS DE RECOLHA
+Os equipamentos de recolha a adotar num sistema PAYT estão na dependência dos meios de deposição selecionados. Assim, apenas será necessário intervencionar ou substituir as viaturas de recolha existentes caso seja necessário proceder à identificação de equipamentos de deposição.
+Assim,
+▪ se o sistema PAYT for implementado por via de sacos ou através da colocação de controlo de acesso em contentores: não há necessidade de proceder a qualquer alteração do parque de viaturas existente por via da introdução do novo modelo;
+▪ se o sistema PAYT assentar na identificação dos contentores colocados à recolha: é imprescindível instrumentar as viaturas com sistemas de leitura (Figura 4) ou de pesagem
+(Figura 5), consoante o sistema seja por medição do volume ou do peso, respetivamente.
+Figura 4 - Instrumentação de viaturas com sistema de leitura de chips RFID
+Figura 5 - Instrumentação de viaturas com sistema de pesagem
+De referir que a instrumentação para sistemas de medição por volume pode implicar maior ou menor complexidade, podendo ser montados apenas os elementos básicos, como sejam a antena, o leitor, modem GPRS e sistema de alimentação ou prever-se a colocação adicional de terminais para registo de informação complementar e computador de bordo na cabine.
+Já no caso de viaturas com sistema de pesagem incorporado importa destacar a questão da verificação metrológica anual, aplicável aos instrumentos de medição envolvidos designadamente em operações em atividades fiscais e a complexidade que tal operação poderá acarretar.
+3.4. SISTEMAS INFORMÁTICOS E DE GESTÃO
+Se os sistemas de informação e de gestão já se revelam instrumentos fundamentais quando se pretende otimizar o serviço de recolha, pois permitem planear e acompanhar em tempo real a atividade de recolha, possibilitando intervenções ou reajustamentos em tempo útil, maior importância assumem quando se pretende implementar um sistema PAYT.
+Neste caso, estes sistemas de informação e de gestão passam mesmo a ser consideradas ferramentas imprescindíveis para a gestão da informação recolhida por via, quer da instrumentação dos equipamentos de deposição, quer das viaturas de recolha.
+Existem já no mercado soluções de gestão integrada, do tipo “chave na mão”, no entanto as mesmas nem sempre se ajustam totalmente à realidade existente no terreno, sendo necessário por vezes reajustar alguns dos parâmetros pré-definidos. De notar, no entanto, que estes reajustamentos podem, em determinadas situações, revelar-se consideravelmente complexos levando à necessidade de se desenvolverem sistemas de raiz.
+Face ao exposto, assume-se então como fundamental para implementação de um sistema PAYT dispor de um sistema de informação e gestão que reflita a realidade existente no terreno e que possibilite a interligação entre as várias componentes do sistema, assegurando simultaneamente a robustez da informação, pois será esta que funcionará de suporte à faturação do serviço ao utilizador.
+A este respeito, destaca-se a importância do papel desempenhado pelas bases de dados, que configuram peças basilares de todo o sistema, na medida em que é a partir destas que se faz a associação do utilizador ao equipamento. De facto, é através do processamento da informação que é possível apurar o grau de utilização do sistema de gestão de resíduos por determinado utilizador e determinar, por aplicação do sistema tarifário adotado, o montante a cobrar ao mesmo.
+Neste contexto, importa ainda realçar a necessidade de se garantir a proteção dos dados recolhidos, em conformidade com o Regulamento Geral de Proteção de Dados (RGPD) que, a partir de 25 de maio de 2018, configura o novo quadro legal em matéria de proteção de dados pessoais na união Europeia.
+3.5. TIPOS DE TARIFÁRIOS
+Nos sistemas tarifários PAYT, que têm como objetivo final a aplicação do princípio do poluidor-pagador, ou seja, a cobertura total dos custos das operações do sistema de resíduos urbanos através das tarifas cobradas, é possível aplicarem-se essencialmente dois tipos de tarifários: tarifa apenas com componente variável ou tarifa com componente fixa e variável.
+A aplicação de tarifas constituídas exclusivamente pela componente variável podem ser função da dimensão do contentor ou da frequência de remoção. São situações nas quais a tarifa praticada é rigorosamente proporcional ao volume ou ao peso dos resíduos recolhidos. São os casos de sistemas de câmaras de deposição por volume ou por peso e a recolha de contentores Porta-a-Porta com capacidade, peso ou frequência medidos diretamente, que permitem a atribuição dos custos do sistema na exata proporção do serviço prestado.
+O tipo de tarifa usualmente praticado em sistemas PAYT assenta numa tarifa constituída por uma componente fixa e outra variável, dado que o respetivo sistema também tem custos fixos e custos variáveis.
+A componente fixa corresponde a uma “tarifa de disponibilidade”, isto é, deverá cobrir os custos de instalação do sistema, independentemente do seu uso. Constitui também alguma garantia para a entidade gestora da existência duma determinada receita que é independente das variações que eventualmente se venham a verificar nos sistemas.
+Por sua vez, a componente variável da tarifa resulta diretamente do sistema PAYT aplicado e pode ser baseada em variados vetores, de acordo com o tipo de sistema implementado, designadamente no que respeita ao método de quantificação dos resíduos indiferenciados apresentados à recolha.
+Apesar de em alguns casos residuais de aplicação de sistemas PAYT estarem instituídos tarifários apenas com a componente fixa da tarifa, nos quais são praticadas, por exemplo, tarifas fixas anuais por habitação, este modelo é, por definição incompatível com o sistema PAYT, uma vez que o seu valor é independente do serviço prestado. De facto, este modelo parte do pressuposto que cada habitação produz a mesma quantidade e tipologia de resíduos ou, quando muito, que varia com a dimensão da habitação ou o número de componentes do agregado familiar. Por outro lado, este tipo de tarifa em nada contribui para os objetivos de redução da produção de resíduos ou de incremento da recolha seletiva.
+3.6. SISTEMAS DE FATURAÇÃO
+Com a introdução dum sistema PAYT, a tarifa passa a ser, total ou parcialmente, proporcional ao serviço prestado, pelo que se torna necessária a existência de faturação específica, que deverá espelhar a justificação do montante da tarifa. Nestas circunstâncias, haverá que dar resposta a um conjunto de questões que se podem sistematizar de acordo com o explicitado na Tabela 3.
+Tabela 3 – Questões a considerar relativamente ao sistema de faturação
+Questões a considerar
+Sujeito passivo	O sujeito passivo deverá ser o utilizador direto, proprietário ou inquilino, à semelhança
+do que acontece com o consumo de água, energia ou gás.
+A tarifa de resíduos urbanos entra na categoria da contrapartida pelo fornecimento de bens e serviços – pelo que é devida por quem utiliza o serviço.
+Fatura específica vs fatura conjunta
+• Fatura específica	A entidade gestora do sistema terá que montar um sistema específico de faturação,
+com os custos administrativos inerentes.
+A fatura deve conter todos os elementos explicativos do montante da tarifa.
+A tarifa deve ter uma componente fixa e outra variável.
+A componente fixa resulta de um contrato estabelecido entre a entidade gestora e o utilizador do sistema – em função de fatores de disponibilidade do serviço intrínsecos à prossecução do mesmo, mas que podem ser alterados por adenda ao contrato.
+A componente variável é determinada através da comunicação informática dos mecanismos de avaliação de peso ou volume dos resíduos depositados.
+Nos sistemas PAYT com pré-pagamento, a fatura é passada na aquisição dos sacos ou das etiquetas. Ressalve-se, no entanto, a constatação de alguns sistemas PAYT com pré-pagamento da componente variável que integram, também uma componente fixa na tarifa. Nestes casos coexistem dois tipos de faturas: uma correspondente à componente fixa emitida pela entidade gestora em função do contrato estabelecido entre as partes e outra correspondente ao pré-pagamento do serviço, emitida na venda dos sacos.
+• Fatura conjunta	Mantêm-se válidas as premissas indicadas para o caso de faturação específica.
+É utilizado o sistema de faturação dum bem ou serviço do mesmo tipo, evitando-se assim, a duplicação de parte dos custos administrativos da faturação.
+Pode ser utilizado, por exemplo, o sistema de faturação do consumo de água, mas com uma autonomia da faturação da tarifa de resíduos urbanos.
+A liquidação é conjunta, devendo as duas entidades estabelecer um contrato com clausulado sobre os movimentos financeiros de compensação e os custos do serviço de faturação prestado.
+Faturação de serviços auxiliares Corresponde por exemplo a uma remoção por solicitação do utilizador, uma entrega de resíduos num centro de receção ou de triagem. Não corresponde, na verdade, a uma tarifa do serviço de gestão de resíduos urbanos, mas a uma fatura emitida caso a caso por determinada prestação de serviços.
+O pagamento de recolhas a pedido ou a entrega paga de resíduos em centros de receção correspondem a pagamento de serviços específicos, que não devem ser integrados nas tarifas.
+Periodicidade da faturação	A periodicidade da faturação deve, naturalmente, obedecer a todos os normativos
+legais.
+No caso português, o artigo 9º da Lei n.º 23/96, de 26 de junho, na sua redação atual, estabelece o princípio da periodicidade mensal para a faturação dos serviços de gestão de resíduos, dado ser um serviço público essencial.
+Nos casos em que se recorre a um outro sistema de faturação (emissão de fatura conjunta) a periodicidade terá que ser coincidente entre as duas.
+3.7. ANÁLISE COMPARATIVA DOS DIFERENTES SISTEMAS
+Os dois fatores fundamentais que determinam a oportunidade da escolha de um sistema PAYT são a tipologia de deposição e remoção que são praticados pela entidade gestora na zona em questão e a dimensão da área de intervenção.
+Assim, deve-se preferencialmente procurar introduzir um sistema que seja o mais compatível possível com os esquemas de deposição e remoção em prática, ou que implique o menor investimento possível, quer em novos equipamentos de deposição/remoção, quer na adaptação dos existentes. Este talvez seja o motivo que permite justificar a disseminação da solução PAYT com recurso a sacos pré-pagos, na medida em que se trata de um sistema compatível com as viaturas de recolha existentes, sem necessidade de investimentos adicionais.
+Em zonas mais restritas, quer em termos de dimensão, quer de meios de deposição, a margem de escolha para o tipo de sistema que se quer aplicar é mais alargada, uma vez que mesmo que tenham de se fazer investimentos unitários significativos, a sua expressão no investimento total será, à partida, relativamente pequena.
+Em termos comparativos importa então analisar os diversos sistemas PAYT à luz do seguinte conjunto de vetores:
+▪ Contribuição para os três objetivos fundamentais do sistema PAYT;
+▪ Custos de implementação;
+▪ Custos de funcionamento;
+▪ Complexidade tecnológica associada;
+▪ Eficiência da recolha;
+▪ Riscos de fraude;
+▪ Adaptabilidade dos utilizadores.
+Em termos de contribuição para os três objetivos fundamentais do sistema PAYT, uma conclusão que pode desde já ser assumida, é a que a introdução dum sistema PAYT conduz à diminuição de resíduos produzidos, estimula a reciclagem através da recolha seletiva e contribui para uma maior equidade, no sentido de adequar a tarifa ao serviço efetivamente prestado.
+Relativamente aos custos de implementação, e conforme já referido, os mesmos dependem basicamente das alterações técnicas e processuais que têm que ser aplicadas aos métodos de deposição e remoção vigentes. Em termos gerais, quanto menores forem as alterações aos referidos processos, menores serão os custos de implementação.
+No caso dos custos de funcionamento, os valores mais elevados estão associados aos sistemas de identificação do utilizador dada a complexidade tecnológica inerente a estes sistemas, quer no que se refere à gestão do sistema, quer quanto à manutenção que é exigida nos sistemas informáticos de leitura, transmissão e processamento de dados e também com o próprio mecanismo de avaliação da quantidade, particularmente se se tratar da variante de quantificação por peso.
+Quanto à complexidade tecnológica associada aos sistemas PAYT, e na sequência do que já foi referido em pontos anteriores, ela é uma característica dos sistemas PAYT por identificação do utilizador, particularmente nos sistemas em que o peso é a variável determinante da tarifa, pois requerem tecnologias sofisticadas ao nível dos equipamentos de deposição coletiva e operações de manutenção permanentes.
+Por sua vez, a eficiência da recolha, entendida como a correspondência entre a produção de resíduos e a respetiva remoção, não só em termos quantitativos como em termos qualitativos, melhora significativamente com a introdução dum sistema PAYT, contribuindo assim para a sustentabilidade da operação. Duma maneira geral, pode afirmar-se que os sistemas com maior sofisticação tecnológica ou com uma relação mais direta entre o serviço prestado e a tarifa implicam, na linha da definição anterior, um elevado grau de eficiência. É o que se verifica nos sistemas por identificação do utilizador, quer por volume quer por peso.
+No que se refere aos riscos de fraude, constata-se que as principais situações fraudulentas decorrem de práticas contrárias às regras do sistema PAYT e variam com o tipo de deposição e recolha que é selecionado. Por norma estão associadas à utilização de sacos não normalizados, à deposição de resíduos indiferenciados em contentores coletivos de resíduos não tarifados, com a subsequente contaminação de recicláveis, e ao transporte e deposição de resíduos em zonas onde não vigora qualquer sistema PAYT e ainda à deposição clandestina em propriedade pública ou privada.
+Duma maneira geral, os sistemas com identificação do utilizador têm mais riscos que os sistemas com identificação do contentor, na medida em que estes últimos estão associados aos esquemas de recolha
+Porta-a-Porta, nos quais é possível identificar o autor da infração.
+Por último, a adaptabilidade dos utilizadores ao sistema está mais relacionada com fatores de informação, alterações mais ou menos profundas dos métodos e processos de deposição e remoção, equidade do tarifário e comodidade do serviço do que com o sistema PAYT propriamente dito. Ainda assim, constata-se que a adaptabilidades dos utilizadores é mais elevada em sistemas associados à identificação do contentor, na medida em que estes sistemas proporcionam uma maior comodidade para o utilizador, uma vez que o mesmo não tem de proceder a deslocações para deposição dos resíduos.
+Na Tabela 4 sistematiza-se a análise comparativa dos diversos sistemas PAYT em função dos vetores anteriormente apresentados.
+Tabela 4 - Análise comparativa entre sistemas PAYT
+Vetores	SISTEMAS COM IDENTIFICAÇÃO DO CONTENTOR	SISTEMAS COM
+IDENTIFICAÇÃO DO
+UTILIZADOR
+Volume do contentor
+Frequência Sistemas com pré-pagamento
+Sistemas por peso
+Sistemas por volume
+Sistemas por pesagem
+Redução da quantidade de resíduos
+média/alta	média	alta	alta	alta	alta
+Promoção da reciclagem média/baixa	baixa	alta	alta	alta	alta
+Adequação à tarifa variável
+alta	média	muito alta	muito alta	muito alta	muito alta
+Custos implementação	médios	médios	baixos	muito altos muito altos muito altos
+Custos manutenção	baixos	baixos	médios	altos	altos	altos
+Complexidade tecnológica
+baixa	média	baixa	muito alta	alta	muito alta
+Eficiência Remoção	alta	média/alta	alta	média/alta	alta	alta
+Risco de fraude	baixo	baixo	médio/baixo	baixo	alto	alto
+Adaptabilidade utentes	alta	alta	média/alta	alta	média	média
+3.8. ASPETOS COMPLEMENTARES
+3.8.1. Aplicação no caso de condomínios
+A aplicação de tarifas diferenciadas em função da produção de resíduos em condomínios pode ser efetuada por duas vias:
+▪ Diretamente a cada utilizador doméstico, caso haja possibilidade de atribuir contentores individuais ao nível do fogo ou instrumentar com controlo de acesso os equipamentos coletivos propriedade do condomínio;
+▪ Ao condomínio propriamente dito enquanto associação de produtores, nos casos em que os edifícios tenham apenas espaço para contentores comuns.
+Neste último caso, a repartição individual dos custos é efetuada através do condomínio, apenas como intermediário, de acordo com critérios aprovados, podendo o condomínio, a título de exemplo, utilizar a permilagem como fator de individualização da tarifa, ou adotar outros critérios como a dimensão do agregado familiar.
+3.8.2. Aplicação a produtores não domésticos
+A aplicação de sistemas PAYT a produtores não domésticos, com produção diária inferior a 1100 L e com recolha assegurada pelos municípios, pode ou não seguir o modelo aplicado ao setor doméstico.
+No entanto, em situações de recolha Porta-a-Porta por sacos é perfeitamente possível taxar produtores não residenciais (ex. comércios) através de sacos pré-pagos, havendo apenas de garantir uma capacidade compatível com a produção expectável de resíduos. Também no caso dos sistemas
+Porta-a-Porta por contentores com chip RFID tal é possível, havendo apenas que atribuir contentores a estes produtores em conformidade com as respetivas necessidades.
+A questão fundamental prende-se com a definição dos fluxos que devem ser objeto de tarifação e que tipo de tarifa deve ser aplicada. Deve ser igual para todos os estabelecimentos ou ser função do tipo de atividade ou da área do estabelecimento?
+No caso de Argentona (Espanha), a tarifa aplicada ao comércio incide nos mesmos fluxos do setor doméstico, resíduos indiferenciados e embalagens, e ainda ao fluxo de resíduos orgânicos, sendo, contudo, a aplicação da tarifa diferente. A parte fixa é função do tipo de atividade ou da área do estabelecimento, enquanto a parte variável é função do volume dos sacos/contentores, mas com valor unitário superior ao do setor doméstico.
+3.8.3. Utilização de ecocentros
+Apesar de a utilização de ecocentros ser consentânea com a existência de um sistema PAYT, estas infraestruturas podem constituir pontos desvio de resíduos alvo de tarifação.
+Neste contexto haverá então necessidade de readaptar os ecocentros existentes por forma a que seja possível, por exemplo, o controlo rigoroso de entradas, com identificação dos utilizadores e verificação das cargas.
+Para tal será necessário dotá-los de portaria equipada com báscula e de pessoal suficiente para garantir a inspeção das cargas e o acompanhamento das descargas dos resíduos nos locais indicados para o efeito.
+De igual modo, e por forma a controlar todo o perímetro da instalação, deve ser prevista a instalação de sistemas CCTV (Closed-Circuit Television, ou seja, circuito fechado de televisão).
+
+4. SISTEMAS SAYT E RAYT
+Conforme referido no ponto 2, os sistemas SAYT/RAYT configuram modelos de incentivo à separação de resíduos na origem, assentes no princípio de “quanto mais separar, mais vai ganhar”, e ao abrigo dos quais a entidade gestora premeia as boas práticas dos utilizadores do sistema, com o objetivo de incrementar as quantidades de recicláveis recolhidos seletivamente.
+Estes modelos estão focados nas três frações de resíduos recolhidos seletivamente (papel-cartão, embalagens de plástico/metal/ECAL e vidro), que devem ser obrigatoriamente monitorizadas no sentido de aferir o montante da recompensa a atribuir a cada produtor.
+Assim, e à semelhança do que acontece nos sistemas PAYT, estes modelos requerem também a implementação de soluções técnicas e tecnológicas que permitam garantir a correspondência entre as quantidades de recicláveis entregues à recolha e o respetivo produtor.
+Neste contexto, são aplicáveis as soluções descritas anteriormente para os sistemas PAYT, com as adaptações decorrentes do facto de o foco estar nestes casos nas três frações de recicláveis acima mencionadas. Assim, as soluções de deposição podem ser exatamente as mesmas (sacos, contentores individuais ou contentores coletivos), contudo o sistema de identificação do utilizador ou do contentor tem de estar associado a cada uma das três frações da recolha seletiva. Por exemplo, se a solução envolver a atribuição de contentores individuais, será necessário fornecer três contentores equipados com chip ou em alternativa, entregar sacos diferenciados para cada fração, com ou sem chip. Também no caso dos equipamentos coletivos (ecopontos) haverá que proceder à instrumentação de cada um dos contentores, mediante a colocação de controlo de acesso que permita a identificação do utilizador.
+P D C A
+PLAN PLANEAR
+DO
+EXECUTAR
+Check VERIFICAR
+Act AGIR
+Identificar problemas
+Estabelecer planos de ação e planear melhorias
+Execução do plano
+Colocar plano em ação
+Acompanhar indicadores
+Verificar cumprimento de objetivos
+Implementar ações corretivas no insucesso
+Relativamente ao modo de quantificação dos resíduos entregues à recolha, é possível adotar soluções assentes na medição do volume ou através de pesagens diretas, conforme referido nos pontos anteriores.
+No caso específico de se optar pela pesagem direta dos resíduos recicláveis por produtor, existem então duas possibilidades consoante os meios de deposição sejam contentores individuais ou coletivos.
+Assim, caso sejam adotados contentores individuais será necessário proceder à instrumentação das viaturas para incorporação das respetivas células de pesagem. Já no caso de se usarem contentores coletivos (ecopontos), cada um dos contentores tem de ser equipado com balança, permitindo pesar os resíduos no momento da sua deposição. Esta solução com pesagem direta dos resíduos é bastante onerosa, com investimentos avultados e custos operacionais igualmente elevados, obrigando a operações de manutenção apertadas e à verificação metrológica anual das balanças.
+Relativamente às viaturas, haverá que proceder à sua instrumentação através da instalação de sistemas de leitura de chips, caso a solução de deposição se baseie, quer em contentores individuais com chips para recolha Porta-a-Porta dos resíduos recicláveis, quer em sacos com identificador. No caso de se adotarem sacos sem identificador, já não será necessário instrumentar as viaturas, desde que os sacos distribuídos gratuitamente sejam registados numa base de dados que permita saber a qualquer momento o número de sacos consumidos por determinado agregado familiar por forma a ser possível estimar as quantidades de resíduos recicláveis entregues à recolha.
+Neste tipo de sistemas de incentivo é ainda possível recorrer aos ecocentros existentes na área geográfica da entidade gestora, usando-os como pontos de entrega de resíduos recicláveis alvo de recompensa. Neste caso serão os utilizadores a deslocarem-se para efetuar a deposição dos resíduos, pelo que esta solução não carece, quer de instrumentação dos meios de deposição seletiva, quer das viaturas de recolha.
+Haverá, no entanto, que intervencionar os ecocentros existentes de forma a dotá-los de condições que permitam a pesagem dos resíduos e o controlo rigoroso das entradas com registo dos respetivos utilizadores. Para tal, é fundamental dispor de meios mecânicos (básculas) e de meios humanos suficientes para que seja feita, quer a pesagem e inspeção das cargas, quer o acompanhamento das descargas nos locais indicados. De igual modo, e por forma a controlar todo o perímetro da instalação, deve ser prevista a instalação de sistemas CCTV (Closed-Circuit Television - circuito fechado de televisão).
+Contudo, esta solução pode apresentar algumas desvantagens, principalmente relacionadas com a localização destas unidades. De facto, estas infraestruturas nem sempre se localizam em zonas centrais, o que pode condicionar a participação da população. Devido à sua localização em zonas mais periféricas esta solução pode, eventualmente, ser usada maioritariamente apenas pelos munícipes que habitam nas proximidades destes locais, dificultando a participação do resto da população que habita em zonas mais distantes e para as quais a deslocação para entrega de resíduos, apesar da recompensa atribuída, poderá não ser aliciante.
+Como forma de ultrapassar este obstáculo e potenciar esta solução, uma eventual alternativa poderá consistir na utilização de ecocentros móveis, que percorrem todo o território municipal, e nos quais, para além dos materiais recicláveis objeto de recompensa também poderão ser entregues outros que habitualmente não têm destino adequado, como pequenos eletrodomésticos, CD, etc.
+Em matéria de implementação, as várias etapas/atividades indicadas no ponto 3.9 e o modelo de implementação constante do Anexo 2 aplicam-se aos modelos RAYT/SAYT, contudo haverá que proceder a algumas adaptações pelo facto de estes modelos se focarem apenas nas frações de resíduos recicláveis. Assim, nestes casos, não haverá necessidade de proceder à caracterização dos atuais sistemas de deposição e recolha de resíduos indiferenciados, devendo esta análise centrar-se apenas nos esquemas de recolha seletiva de papel-cartão, embalagens de plástico/metal/ECAL e vidro.
+Relativamente ao valor do incentivo a pagar por material, o mesmo deve ser objeto de análise detalhada tendo por base, quer os investimentos necessários à implementação do modelo SAYT/RAYT, quer as receitas esperadas com o incremento das quantidades recolhidas por esta via. De notar, contudo, que o montante da recompensa a atribuir deve ser aliciante o suficiente para levar os munícipes a participar na iniciativa.
+5. CONSIDERAÇÕES FINAIS
+Tendo em consideração tudo o que foi mencionado ao longo deste Guia pode-se concluir que tanto os sistemas PAYT como os SAYT/RAYT estimulam os produtores de resíduos a alterar os seus comportamentos. Contudo, o princípio que está subjacente a cada uma destas modalidades é diferente: o PAYT é um instrumento económico-financeiro que estimula o utilizador do sistema a produzir menos resíduos e a separar mais por via da penalização, ou seja, “quem produz mais, paga mais”, enquanto o SAYT/RAYT estimula hábitos de separação por via do incentivo, isto é, “quanto mais separar, mais vai ganhar”.
+Por outro lado, o PAYT assenta na monitorização das quantidades de resíduos indiferenciados produzidos, sendo esta a base de incidência da tarifa a praticar, enquanto os modelos SAYT/RAYT se baseiam no acompanhamento das quantidades de resíduos recicláveis separados, por forma a conceder uma recompensa a quem separar mais e melhor.
+Neste enquadramento, é então fundamental definir os objetivos que se pretendem alcançar, por forma a melhor selecionar o modelo a implementar, na medida em que o PAYT, para além de fomentar a separação na origem, atua, contrariamente ao que se passa com os modelos SAYT/RAYT, também ao nível da prevenção da produção de resíduos.
+Os sistemas PAYT apresentam-se como sistemas justos e equilibrados e encontram-se já em boa medida implementados em várias regiões, registando resultados bastante positivos em quase todos os casos de estudo, com reduções por vezes muito significativas na quantidade de resíduos produzidos e incrementos na quantidade separada e enviada para reciclagem. Por sua vez, os modelos SAYT/RAYT não estão ainda muito difundidos, havendo poucas referências a casos de estudo, embora possam efetivamente contribuir para o aumento das quantidades recolhidas seletivamente.
+Em termos de implementação, e apesar de os sistemas PAYT estarem frequentemente associados à ideia de se tratarem de sistemas onerosos, com custos de investimento e de exploração avultados devido, quer à necessidade de alterar os meios de contentorização e recolha, quer à complexidade tecnológica frequentemente inerente ao funcionamento destes sistemas, a realidade é que os custos destes sistemas dependem basicamente das alterações técnicas e processuais que têm que ser aplicadas aos métodos de deposição e recolha já adotados pelas entidades gestoras.
+Situação idêntica acontece com os modelos SAYT/RAYT, no entanto, nestes casos, os custos, quer de investimento, quer de exploração focam-se nos três fluxos da recolha seletiva, ao invés de apenas na fração indiferenciada de resíduos.
+No entanto, a introdução de qualquer um destes sistemas PAYT/SAYT/RAYT não obriga necessariamente a uma mudança radical dos esquemas de recolha implementados, na medida em que é possível encontrar no mercado soluções compatíveis com os esquemas de recolha existentes no terreno. Contudo, em todos eles é obrigatório garantir a correspondência clara entre o produtor e o respetivo equipamento utilizado, por forma a apurarem-se as respetivas quantidades apresentadas à recolha.
+Não obstante não ser necessário proceder a uma alteração profunda do esquema de recolha no que respeita aos meios necessários para a sua prossecução, quer em termos de equipamentos de deposição, quer de recolha, no caso concreto do PAYT haverá sempre de repensar o modo de execução do serviço. Neste contexto, destaca-se a importância da implementação de recolhas seletivas adicionais, como a recolha de orgânicos e de resíduos verdes, e ainda a promoção da compostagem doméstica, por forma a possibilitar aos utilizadores do sistema o desvio destes resíduos do fluxo indiferenciado, e diminuir por esta via o valor da fatura a pagar. Por outro lado, sendo expectável a redução dos quantitativos de resíduos indiferenciados, não é justificável a manutenção das atuais frequências de recolha, que em alguns municípios é diária, o que terá necessariamente impacte nos circuitos de recolha e nos recursos afetos e consequentemente nos custos de operação.
+O sucesso de qualquer um destes sistemas está naturalmente dependente da sua aceitação por parte dos utilizadores, sendo por isso imprescindível desenvolver um plano de comunicação assertivo, que apresente de forma clara, quer o funcionamento do sistema, quer os objetivos pretendidos, reforçando também os benefícios que advêm da sua implementação.
+No caso concreto de sistemas PAYT o plano de comunicação delineado deve combater a ideia de que, através da implementação deste sistema, se está a introduzir uma nova “taxa” ou “imposto”. No caso dos sistemas SAYT/RAYT esta questão não se coloca pelo facto de os utilizadores serem recompensados pelas suas boas práticas, o que os torna desde logo mais recetivos a aderir ao sistema.
+Por último, e independentemente da solução implementada é indispensável a monitorização e controlo de todo o processo em tempo útil, com recursos a sistemas de gestão de informação robustos aplicáveis a cada utilizador, tendo em vista a implementação de ações fiscalizadoras, com subsequente aplicação de penalidade em caso de incumprimento, enquanto mecanismo dissuasor à prática de comportamento dolosos, esta última com particular importância no caso de sistemas PAYT.
+
+2.2. GUIMARÃES
+O sistema PAYT de Guimarães entrou em vigor em abril de 2016 no centro histórico da cidade, como resultado do esforço da Câmara Municipal, da empresa Vitrus Ambiente e da RESINORTE, sendo o município responsável pelo projeto e pelo cálculo das tarifas e a empresa municipal Vitrus pela recolha e cobrança das tarifas atribuídas. A RESINORTE representa a entidade em alta responsável pelo tratamento e valorização dos resíduos.
+O projeto, de carácter obrigatório, tinha como objetivo incentivar a separação de resíduos na origem junto dos residentes e comerciantes do centro histórico.
+Numa fase inicial, a área de abrangência do projeto limitava-se à zona do centro histórico, conforme ilustrado na Figura 1, num total de 594 produtores, dos quais 329 domésticos e 265 não domésticos, correspondentes a 55% e 45% do total de produtores, respetivamente. Os produtores não domésticos apresentavam tipologias comerciais variadas, conforme indicado no Tabela 1.
+5
+Figura 1 - Área de abrangência inicial do projeto PAYT
+(Fonte: https://www.vitrusambiente.pt)
+Tabela 1 - Tipologia dos produtores não domésticos abrangidos inicialmente pelo projeto PAYT
+Tipologia de produtores não domésticos	Nº de
+produtores
+% em relação ao total de produtores não domésticos
+% em relação ao total de produtores
+Café, bar e padaria	41	15%	7%
+Restaurantes	34	13%	6%
+Loja venda a retalho e prestador de serviços	149	56%	25%
+Hotel, hostel, alojamento local	19	7%	3%
+Instituições sociais, institutos e associações locais	22	8%	4%
+Total	265	100%	45%
+O projeto PAYT foi, entretanto, alargado a outras zonas da cidade conforme mapa da Figura 2. Trata-se de um sistema em evolução, que teve o seu primeiro alargamento em 2019 a mais 4 000 utilizadores, e, em 2022, a mais de 10 000 utilizadores na zona da cidade.
+6
+Figura 2 – Zonas atuais de implementação do PAYT
+(Fonte: https://www.cm-guimaraes.pt)
+Numa fase inicial, o sistema de deposição utilizado baseava-se em contentores de pequena capacidade
+(25 ou 45 litros), em sacos próprios para deposição seletiva de resíduos (sacos transparentes azuis, amarelos e verdes de 50 e 100 litros) e em sacos pré-comprados com tarifário PAYT para os resíduos indiferenciados (15, 30, 50 e 100 litros), conforme ilustrado na Figura 3.
+Figura 3 - Meios de deposição adotados
+(Fonte: https://www.vitrusambiente.pt)
+Nesta primeira fase, e com a entrada em vigor da tarifa PAYT passou a ser obrigatória a compra e utilização dos sacos homologados para deposição dos resíduos indiferenciados, podendo os mesmos ser adquiridos nas instalações da empresa municipal Vitrus ou diretamente nas viaturas de recolha, estando prevista a aplicação de multas acima dos 250 € em situações de incumprimento. Atualmente, por cada compra de 8 sacos de resíduos indiferenciados é oferecido um pack de sacos para resíduos recicláveis.
+De acordo com os dados disponíveis, em três meses de projeto, foram distribuídos 4 094 sacos para deposição e recolha de resíduos recicláveis, de acordo com a Tabela 2.
+7
+Tabela 2 - Tipologia e número de sacos distribuídos para deposição de resíduos dos fluxos da recolha seletiva
+Capacidade dos sacos
+Fluxo da recolha seletiva
+Total
+Papel-cartão	Embalagens	Vidro
+50 L	723	783	685	2 191
+100 L	628	612	663	1 903
+Total	1 351	1 395	1 348	4 094
+No caso dos resíduos indiferenciados, no primeiro ano do projeto foram vendidos 38 595 sacos, desagregados por capacidade e utilizador de acordo com Tabela 3.
+Tabela 3 - Tipologia e número de sacos vendidos para deposição de resíduos indiferenciados, desagregados por tipo de utilizador
+Capacidade dos sacos
+Tipo de utilizador
+Total
+Doméstico	Não doméstico
+100 L	85	7 977	8 062
+50 L	214	16 840	17 054
+30 L	6 596	3 464	10 060
+15 L	2 895	524	3 419
+Total	9 790	28 805	38 595
+Para além dos sacos foram igualmente disponibilizados contentores, sendo que no caso dos resíduos indiferenciados a sua utilização tem de ser conjugada com o uso do saco pré-pago. No primeiro ano foram distribuídos 1 875 contentores de 25 L e 50 L, conforme indicado na Tabela 4.
+Tabela 4 - Contentores distribuídos por capacidade e fluxo
+Capacidade dos contentores
+Fluxo de resíduos
+Total
+Papel e cartão Plástico e Metal	Vidro	Indiferenciados
+25 L	319	318	306	329	1 272
+50 L	150	150	148	155	603
+Total	469	468	454	484	1 875
+Neste momento, e com a expansão do PAYT a outras zonas da cidade para além do Centro Histórico, o modelo adotado sofreu algumas alterações, sendo agora possível a aplicação do tarifário PAYT sem que haja o uso exclusivo dos sacos ou contentores anteriormente adotados para a zona de arranque deste projeto.
+8
+Na primeira fase de implementação do PAYT no Centro Histórico, a tarifa variável deixou de ser paga em função do consumo de água para estar indexada ao número de sacos utilizados. Neste caso, o sistema tarifário PAYT elaborado na altura, de acordo com as recomendações da ERSAR, estava definido da seguinte forma:
+▪ Tarifa de disponibilidade (valor mensal - 30 dias): cobrada juntamente com a fatura da água
+- Utilizador Doméstico: 1,000€
+- Utilizador Não-Doméstico: 5,000€
+▪ Tarifa variável: cobrada através da compra de sacos pré-pagos para os resíduos indiferenciados e de acordo com o volume (€/litro/30 dias).
+Na Tabela 5 apresentam-se os valores adotados para a componente variável da tarifa.
+Tabela 5 - Valor da tarifa variável aplicável aos resíduos indiferenciados, em função da capacidade
+Tipo de Utilizador	Preço por capacidade - sacos PAYT (€/saco)
+15 L	30 L	50 L	100 L
+Utilizador Doméstico
+1º Escalão (< 240 L)	0,173 € 0,345 € 0,575 €	1,150 €
+2º Escalão (240 L a 720 L)	0,174 € 0,348 € 0,580 €	1,160 €
+3º Escalão (720 L a 1 200 L)	0,177 € 0,354 € 0,590 €	1,180 €
+4º Escalão (>1 200 L)	0,182 € 0,360 € 0,600 €	1,200 €
+Utilizador Não-Doméstico	0,174 € 0,348 € 0,580 €	1,160 €
+Atualmente, e com a expansão do projeto, a componente variável da tarifa passou a estar indexada à produção de resíduos através dos dois métodos seguintes:
+▪ Método A - Aquisição de sacos para os resíduos indiferenciados, de acordo com o seguinte tarifário:
+- Sacos de 15 L: 0,195€;
+- Sacos de 30 L: 0,390€.
+▪ Método B - Estimada da produção por tipologia de utilizador. A fatura é paga diretamente à Vimágua. Com este método não é obrigatório a aquisição de sacos para os resíduos indiferenciados, sendo aplicado o seguinte tarifário:
+- Utilizador doméstico: 0,1625€/dia
+- Utilizador não doméstico:
+. comércio, escritórios e gabinetes: 0,065€/dia;
+. cafés/pastelarias similares e supermercados: 0,325€/dia;
+. restauração, hotelaria c/ restauração: 0,975€/dia.
+9
+De notar, no entanto, que esta indexação da componente variável é um processo dinâmico, na medida em que um utilizador abrangido pelo método B pode migrar para o Método A, tendo, nesse caso, apenas de comunicar aos serviços essa intenção por forma a adquirir os sacos pré-comprados.
+No início do projeto, a recolha era assegurada por três equipas compostas por um motorista e um ajudante, em dois turnos diurnos (das 6h00 às 12h00 e das 14h00 às 20h00) e num turno noturno (das
+21h00 às 2h00), sendo que nos períodos de maior produção havia um reforço das equipas com mais um colaborador.
+A recolha era executada com recurso a três viaturas ligeiras de caixa aberta e com báscula, das quais uma elétrica (Figura 19) e outra híbrida que realizavam várias passagens ao longo do dia, de acordo com os seguintes horários:
+▪ Passagem diária – 7h30 / 9h30 / 13h30 / 15h30 / 19h30 / 21h30 / 00h30;
+▪ Passagem extra – 2h30 sexta e sábado.
+Fora destes períodos era proibida a colocação de resíduos à recolha.
+Figura 4 - Viaturas de recolha utilizadas
+(Fonte: https://www.vitrusambiente.pt)
+Atualmente os horários da recolha estão diferenciados, caso se trate de recolha na cidade ou no Centro
+Histórico, de acordo com o explicitado na Tabela 6. Assim, na zona do Centro Histórico a recolha é feita diariamente, sendo os resíduos indiferenciados recolhidos às 7h30 e às 9h30 e o material reciclável às 7h30, 9h30, 15h30, 18h30 e 22h00. Já na cidade (Zonas B e C) a recolha de resíduos indiferenciados e recicláveis em produtores domésticos é feita diariamente às 6h00, 18h30 e 22h00/23h00, consoante as ruas, sendo que ao domingo há apenas recolha às 6h00. A recolha de recicláveis em estabelecimentos comerciais é feita unicamente no horário das 15h00. Os resíduos indiferenciados devem ser colocados dentro do saco PAYT, bem fechado, e o mesmo deixado à porta 10 minutos antes da recolha.
+10
+Tabela 6 - Horários de recolha no Centro Histórico e na cidade
+(Fonte: https://www.vitrusambiente.pt/payt)
+Em termos de resultados, a implementação do projeto PAYT no Centro Histórico de Guimarães permitiu superar os objetivos inicialmente delineadas para o primeiro ano e que correspondiam a um aumento de 15% da recolha seletiva e uma diminuição de 10% da recolha indiferenciada.
+No Quadro 13 apresentam-se os dados divulgados na página do município de Guimarães, onde é visível o incremento das quantidades recolhidas seletivamente. Antes da implementação deste tipo de tarifário, a percentagem de resíduos recicláveis rondava os 13%, passando para uma média de 30% nos últimos anos.
+11
+Tabela 7 – Dados recolhidos no sistema PAYT
+(Fonte: https://www.cm-guimaraes.pt/municipio/camara-municipal/servicos/servicos-urbanos/gestao-de-residuos/sistema-payt)
+Em termos de implementação e de arranque do projeto no terreno, são de destacar algumas das dificuldades sentidas na fase inicial, relacionadas fundamentalmente com a não utilização de sacos tarifados ou com a colocação de sacos à recolha em horários desadequados, e que obrigaram à intervenção, quer do Município, quer da Vitrus Ambiente. Por forma a ultrapassar estas situações, foram então estabelecidos contactos diretos e permanentes junto dos utilizadores do sistema, realizadas operações de fiscalização apertada e instaurados processos de contraordenação, estes últimos devidamente sustentados pelo sistema de informação existente, que permite a identificação de casos de não adesão ou de comportamentos em desacordo com o estabelecido no regulamento municipal.
+Neste contexto, foram então efetuadas, entre setembro de 2016 e março de 2017, 118 intervenções, das quais 101 relacionadas com a deposição ilegal em saco não autorizado, 11 com a utilização de sacos não autorizados depositados fora do Centro Histórico, 4 relativos à incorreta separação dos resíduos e ainda 2 associados à apresentação à recolha em horário inapropriado.
+Por último, referir que o sucesso deste projeto, traduzido nos resultados obtidos, revela, na opinião do Município, o elevado potencial deste sistema. De facto, um sistema PAYT assente numa solução de sacos perdidos pode ser facilmente replicado, sem grandes custos, pois não são necessários investimentos elevados em viaturas e em equipamentos deposição, sendo fácil a transição para este sistema tarifário
+Por outro lado, este projeto permitirá cumprir as metas nacionais de 2025, no que respeita à dissociação da tarifa de resíduos do consumo de água e à cobrança tendo em consideração a produção efetiva de resíduos.
+12
+De referir ainda neste enquadramento, e tendo em consideração o novo plano de recolha seletiva de biorresíduos que teve início em 2022 no Centro Histórico, o facto de o Município de Guimarães prever abranger também com tarifário PAYT estes produtores, para que rapidamente, e de acordo com as normas europeias e a legislação em vigor, a tarifa de resíduos passe a ser totalmente cobrada pela produção de resíduos e não pelo consumo de água.

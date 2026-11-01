@@ -1,0 +1,547 @@
+1 Introdução
+A gestão adequada dos resíduos urbanos é essencial para promover a sustentabilidade ambiental e garantir a qualidade de vida nas comunidades. Nesse contexto, a aplicação da do Regime Geral de Gestão de Resíduos, doravante apenas designado por RGGR, engloba diversos pontos-chave, que visam orientar e regular as ações dos diferentes intervenientes na gestão dos resíduos urbanos.
+Primeiramente, destaca-se a elaboração de planos municipais, intermunicipais e multimunicipais de ação, os quais têm como objetivo concretizar as diretrizes estabelecidas nos planos de gestão de resíduos de nível nacional. Estes planos são desenvolvidos em articulação com as autoridades competentes e as entidades gestoras dos sistemas municipais e multimunicipais, garantindo uma abordagem integrada e coerente em relação à gestão dos resíduos em cada área geográfica.
+É fundamental ressaltar que a participação do público é um elemento central na elaboração destes planos de ação, garantindo que as necessidades e preocupações da comunidade sejam devidamente consideradas. A transparência e a colaboração são pilares essenciais para o desenvolvimento de estratégias eficazes e sustentáveis no âmbito da gestão de resíduos urbanos. Além disso, os planos de gestão de resíduos devem estar em conformidade com as metas estabelecidas na legislação vigente e integrar requisitos específicos relacionados à gestão de fluxos de resíduos e à deposição em aterro. É essencial também considerar as diretrizes previstas na legislação relativa à política da água e à estratégia marítima da União Europeia, garantindo uma abordagem holística e alinhada com os objetivos ambientais mais amplos.
+Em síntese, a aplicação do RGGR, através da elaboração e implementação de planos de ação municipais, intermunicipais e multimunicipais, desempenha um papel crucial na promoção de práticas sustentáveis e na proteção do meio ambiente, garantindo uma gestão responsável e integrada dos resíduos urbanos em todo o território nacional.
+1.1 Metodologia para a elaboração do PAPERSU Guimarães 2030
+Este documento estratégico foi elaborado com base em uma abordagem metodológica integrada, que considerou a avaliação do desempenho do serviço prestado no período anterior, o enquadramento legal vigente, a articulação e auscultação dos serviços do município, as propostas para a definição da missão, visão e valores, dos objetivos estratégicos, e suas respetivas metas e medidas para o próximo período, bem como a articulação com outras entidades relevantes para a elaboração do PAPERSU
+2030 de Guimarães.
+O desenvolvimento do Plano para a gestão de resíduos não se limitou apenas à componente técnica, mas também incorporou uma abordagem inclusiva de participação pública. Diversas iniciativas foram implementadas para envolver ativamente a comunidade e os diversos setores interessados na promoção da economia circular e na gestão eficiente dos resíduos.
+Uma das principais estratégias adotadas foi a realização de workshops dedicados aos Resíduos e Economia Circular, proporcionando um espaço para o diálogo e a troca de ideias entre especialistas, organizações e cidadãos interessados no tema. Além disso, foram estabelecidos Grupos de Ação
+Local voltados para promover a circularidade, fomentando a colaboração entre diferentes partes interessadas e impulsionando iniciativas concretas no terreno.
+No âmbito do Plano de Gestão de Biorresíduos, foi criado um Focus Group que se reuniu regularmente para discutir estratégias e soluções relacionadas com esta área específica. Paralelamente, foram conduzidos inquéritos setoriais junto às indústrias, com o objetivo de compreender melhor os desafios e oportunidades relacionados com os resíduos têxteis.
+Esses esforços resultaram na publicação de um artigo científico que analisa a geração de resíduos têxteis em Guimarães, Portugal, fornecendo insights valiosos para a gestão futura desses materiais.
+Além disso, um novo inquérito foi realizado para avaliar a compostagem doméstica, com uma participação significativa da população, evidenciando o compromisso e o interesse da comunidade nesta área.
+Paralelamente, foram realizadas ações contínuas de sensibilização no âmbito do Projeto PEGADAS, bem como campanhas de comunicação e reuniões com as Juntas de Freguesia para melhorar o serviço de gestão de resíduos a nível local. Workshops dedicados à energia e sua relação com a gestão de resíduos também foram realizados, visando a redução das emissões de gases de efeito estufa.
+Para garantir a eficácia e a monitorização contínua do Plano, será estabelecido um mecanismo de acompanhamento liderado pelo Focus Group, com a participação ativa dos principais setores ligados aos resíduos e à economia circular. Essa abordagem colaborativa e participativa é fundamental para garantir que as políticas e práticas adotadas estejam alinhadas com as necessidades e expectativas da comunidade, promovendo assim um desenvolvimento sustentável e resiliente no âmbito da gestão de resíduos.
+1.2 Enquadramento Legislativo
+A elaboração deste documento estratégico teve por base o Decreto-Lei 102-D/2020, que aprova novo Regime Geral da Gestão de Resíduos (RGGR). Este documento, aprova igualmente o regime jurídico da deposição de resíduos em aterro (Diploma Aterros) e altera o regime da gestão de fluxos específicos de resíduos (UNILEX), transpondo as Diretivas (UE) 2018/849 (que altera as Diretivas
+2000/53/CE relativa aos veículos em fim de vida, 2006/66/CE relativa às pilhas e acumuladores e respetivos resíduos, e 2012/19/UE relativa aos resíduos de equipamentos elétricos e eletrónicos), 2018/850 (que altera a Diretiva 1999/31/CE, relativa à deposição de resíduos em aterros), 2018/851
+(que altera a Diretiva 2008/98/CE relativa aos resíduos) e 2018/852 (altera a Diretiva 94/62/CE relativa a embalagens e resíduos de embalagens).
+Relativamente à prevenção da produção de resíduos, o RGGR define objetivos e metas para em 2025 se reduzir a produção per capita de RU, de resíduos alimentares do setor não doméstico e resíduos não urbanos, em particular no setor de construção civil e obras públicas.
+Face à preparação para reutilização e reciclagem de RU, o RRGR prevê um aumento mínimo gradual até se atingir 65% (em peso) em 2035, dos quais pelo menos 15% resultante da preparação para reutilização de têxteis, equipamentos elétricos e eletrónicos (EEE), móveis e outros resíduos adequados para reutilização. Para isto, os sistemas municipais e multimunicipais devem fomentar e apoiar o estabelecimento de redes de troca, de reparação e de preparação para reutilização.
+As entidades responsáveis pelo sistema municipal ou multimunicipal de gestão de RU, de acordo com as respetivas competências, operacionalizam a recolha seletiva de:
+▪ Papel, metais, plástico e vidro;
+▪ Até 31 de dezembro de 2023: Biorresíduos, garantindo que são separados na origem, não sendo misturados com outros tipos de resíduos, e reciclados;
+▪ Até 2025: Têxteis; Óleos alimentares usados; Resíduos perigosos; Resíduos de mobiliário e outros resíduos volumosos; Resíduos de construção e demolição (RCD) resultantes de pequenas reparações e obras de bricolage em habitações. As entidades referidas terão de integrar os custos de instalação e de gestão destas redes nas tarifas a aplicar aos cidadãos e aos produtores de RU ou aos utilizadores do sistema.
+Segundo o Regime da gestão de fluxos específicos de resíduos (UNILEX), os fluxos específicos de resíduos como embalagens e resíduos de embalagens, óleos e óleos usados, pneus e pneus usados, EEE e resíduos de equipamentos elétricos e eletrónicos (REEE), pilhas e acumuladores e resíduos de pilhas e acumuladores e veículos em fim de vida (VFV) encontram-se abrangidos pelo princípio da responsabilidade alargada do produtor (RAP).
+Até 2030, em relação aos resíduos de embalagens, deve ser assegurada uma reciclagem de, pelo menos, 70% em peso, com metas mínimas de: i) 75% do vidro; ii) 85% do papel e cartão; iii) 80% dos metais ferrosos; iv) 60% do alumínio; v) 55% do plástico; e vi) 30% da madeira.
+Para os óleos usados, os produtores devem garantir metas mínimas estabelecidas de recolha, regeneração e reciclagem. Os produtores de pneus devem atingir metas relacionadas à recolha, preparação para reutilização e reciclagem. Os produtores de pilhas e acumuladores devem adotar medidas para garantir a taxa de recolha mínima estabelecida para resíduos de pilhas e acumuladores portáteis.
+No caso dos VFV, os operadores de tratamento devem cumprir metas de reutilização, reciclagem e valorização.
+Para os REEE, desde 2019 são estabelecidas metas de recolha, com os produtores contribuindo através de sistemas de gestão individuais ou integrados: 65% do peso médio dos EEE colocados no mercado nos três anos anteriores ou, alternativamente, 85% dos REEE gerados em Portugal, considerando o peso total dos REEE recolhidos provenientes de utilizadores particulares e não particulares.
+Em relação à valorização de REEE recolhidos seletivamente, desde 2018 foram estabelecidos objetivos mínimos de valorização e preparação para reutilização por categoria de equipamento.
+No Regime jurídico da deposição de resíduos em aterro (Diploma Aterros), é definido que a partir de 2030, nenhum resíduo adequado para reciclagem ou outro tipo de valorização (resíduos recolhidos de forma seletiva, incluindo biorresíduos), podem ser aceites em aterros, com exceção dos resíduos cuja deposição em aterro conduza aos melhores resultados ambientais.
+2 Avaliação do cumprimento das metas definidas no PERSU 2020 e PERSU 2020+
+Este ponto não é aplicável ao Município de Guimarães, uma vez que não foi elaborado o PAPERSU no âmbito do PERSU 2020 e 2020+.
+3 Descrição da entidade gestora do sistema municipal
+O Município de Guimarães é a Entidade Titular do seu sistema municipal e multimunicipal, adotando um modelo de gestão concessionada para a administração eficiente e abrangente das atividades relacionadas com a gestão dos resíduos. Com base na sua habilitação legal para o desenvolvimento deste tipo de atividade, a Câmara Municipal de Guimarães assume a responsabilidade de coordenar, supervisionar, e implementar políticas e ações voltadas para a gestão ambiental de âmbito municipal, em todo o território sob sua administração. O Município de Guimarães é a Entidade Gestora responsável pela recolha indiferenciada em toda a área do Município, exceto nas zonas onde a recolha se processa por contentores semienterrados. A VITRUS AMBIENTE, EM SA, é a entidade responsável pela recolha de resíduos indiferenciados em contentores semienterrados, assim como assegura a operacionalização do Sistema PAYT, acumulando ainda a recolha seletiva nestas zonas. A recolha seletiva no restante território é assegurada pela RESINORTE – entidade responsável pela recolha, triagem, valorização e eliminação dos resíduos urbanos, definindo-se assim como Entidade
+Gestora em Alta para as várias tipologias de resíduos. A abordagem adotada pela entidade envolve a recolha eficaz e a implementação de práticas sustentáveis, como o tratamento de biorresíduos na origem, promovendo a compostagem e a valorização em minicentrais, contribuindo assim para a preservação ambiental e o desenvolvimento sustentável da região [1].
+3.1 Caracterização sumária da área de intervenção da entidade gestora
+O Município de Guimarães está localizado no Distrito de Braga, integrando a Sub-Região do Ave
+(NUTIII) (Figura 1). Limita-se ao norte e noroeste pelos concelhos de Póvoa de Lanhoso e Braga, respetivamente, a Sudoeste por Santo Tirso, a Sul e Sudeste por Felgueiras e Vizela, a Leste pelo concelho de Fafe e a Oeste por Vila Nova de Famalicão. A sua área total é de 241,05 km2, distribuídos por 48 freguesias e uniões de freguesias, as quais resultam da reorganização administrativa de 2013.
+Entre estas localidades destacam-se nove vilas: Brito, Caldas das Taipas, Lordelo, Moreira de Cónegos, Pevidém, Ponte, Ronfe, Serzedelo e São Torcato. O concelho, densamente povoado, abriga uma população residente de 156.488 habitantes, configurando uma área classificada como medianamente urbana.
+Figura 1 - Enquadramento Geográfico do Concelho de Guimarães.
+A divisão do território municipal em quatro grupos de aglomeração reflete relações funcionais e espaciais que fundamentam sua organização e comportamento, designadamente:
+▪ Grupo A (Cidade): Abrange total ou parcialmente 18 freguesias, incluindo o local designado pelo INE como "Guimarães". Envolvendo a União de Freguesias de Oliveira do Castelo, São Paio e São Sebastião, onde se situa o centro histórico classificado pela UNESCO como
+Património Mundial, engloba também freguesias limítrofes como Azurém, Fermentões, Creixomil, Urgezes, Costa e Mesão Frio. Partes significativas de Silvares, Selho (São Jorge), Gondar, Selho (São Cristóvão), Candoso (São Martinho), União de Freguesias de Candoso
+São Tiago e Mascotelos, Polvoreira, Pinheiro, e parcelas residuais de Atães e Rendufe, Aldão e Ponte fazem parte desse grupo. A cidade estende-se por 19,8 km2, desenvolvendo-se principalmente no eixo ENE-OSO, entre 150 e 250 metros de altitude, ao sul do Rio Ave.
+▪ Grupo B (Vilas): Inclui todas as vilas do Município.
+▪ Grupo C: Engloba as freguesias de Fermentões, Nespereira, Polvoreira, Gondar, Selho S.
+Lourenço, Guardizela, Aldão e Barco.
+▪ Grupo D: Constituído pelas freguesias restantes do concelho não incluídas nos grupos anteriores.
+3.2 Caracterização do modelo técnico atual
+O Município de Guimarães, enquanto Entidade Titular, detém, conforme estipulado pela legislação vigente, a responsabilidade de garantir a prestação do serviço de gestão de Resíduos Urbanos (RU) no seu território. O Sistema de Gestão de Resíduos implementado envolve a colaboração e ação de diversas entidades. A gestão centralizada da recolha indiferenciada em toda a extensão do Município é conduzida pelo próprio Município de Guimarães, exceto nas áreas em que a recolha é realizada por contentores semienterrados. A VITRUS assume a responsabilidade pela recolha de resíduos indiferenciados em determinadas regiões, gerindo também a operacionalização do Sistema PAYT, e coordenando a recolha seletiva nessas áreas.
+O sistema de recolha mais representativo no Município de Guimarães, é o porta-a-porta através de saco perdido. O quadro de gestão de resíduos no Município abrange diferentes tipos de resíduos, com frequências específicas de recolha para o sistema porta-a-porta (PaP), incluído sistema PAYT:
+▪ Resíduos indiferenciados: Recolha diária nas áreas da Cidade (União de Freguesias Oliveira, São Paio e São Sebastião, incluindo Centro Histórico); uma (1) recolha semanal nas freguesias de Azurém, Fermentões, Ponte, Caldelas, Creixomil, Costa, Mesão Frio, Urgeses; duas (2) recolhas semanais nas freguesias ou locais de Azurém Central, Creixomil Central, Creixomil– Salgueiral, Caldelas Central, Costa Central e Urgezes–Rua António de Costa Guimarães.
+▪ Recolha de orgânicos: Recolha diária nas áreas da Cidade (União de Freguesias Oliveira, São Paio e São Sebastião, incluindo Centro Histórico); duas (2) recolhas semanais nas freguesias de Azurém, Fermentões, Ponte, Caldelas, Creixomil, Costa, Mesão Frio, Urgeses; quatro (4) recolhas semanais nas freguesias ou locais de Azurém Central, Creixomil Central, Creixomil– Salgueiral, Caldelas Central, Costa Central e Urgezes–Rua António de Costa Guimarães.
+▪ Embalagens de plástico e metal: Recolha diária na Cidade, duas vezes por semana em Urgezes.
+▪ Papel e embalagens de papel e cartão: Recolha diária na Cidade, duas vezes por semana em Urgezes.
+▪ Resíduos volumosos: Recolha diária na Cidade, Urgezes, Creixomil e Azurém; semanalmente nas vilas de Caldelas e Selho S. Jorge; cinco vezes por ano nas freguesias com alta densidade populacional; e quatro vezes por ano nas restantes freguesias. A recolha de resíduos volumosos é realizada mediante agendamento em contentores semienterrados
+▪ Resíduos verdes: Estes resíduos são recolhidos mediante agendamento
+▪ Resíduos de Demolição e Construção, obras sem licenciamento: Recolhidos por Big Bags, mediante agendamento [2].
+Na tabela 1 apresenta-se a frequência de recolha de resíduos em ecopontos.
+Tabela 1 – Frequência de recolha de resíduos em ecopontos [3].
+Tipo de resíduos	Frequência de recolha de resíduos
+Resíduos indiferenciados	Diariamente na Cidade, Creixomil e Azurém
+Embalagens de vidro	Diariamente na Cidade
+Embalagens de plástico e metal Diariamente na Cidade, 2 vezes por semana em Urgezes
+Papel e embalagens de papel e cartão
+Diariamente na Cidade, 2 vezes por semana em Urgezes
+Resíduos volumosos	Diariamente na Cidade, Urgezes, Creixomil e Azurém, semanalmente
+nas vilas de Caldelas e Selho S. Jorge, 5 vezes por ano nas freguesias com grande densidade populacional, e 4 vezes por ano nas restantes freguesias. Os resíduos volumosos são ainda recolhidos mediante agendamento.
+Resíduos verdes	Os resíduos verdes são recolhidos mediante
+agendamento
+Resíduos de Demolição e Construção, obras sem licenciamento
+Recolhidos por Big Bags, mediante agendamento
+A recolha seletiva no restante território é da responsabilidade da RESINORTE, entidade encarregada da recolha, triagem, valorização e eliminação dos resíduos urbanos, atuando como Entidade Gestora em Alta para diversas tipologias de resíduos. A recolha de resíduos em Guimarães segue circuitos pré-definidos com horários e frequências específicas, adaptadas às características de cada zona.
+Tabela 2 - Recolha de resíduos porta-a-porta [3].
+Tipo de resíduos	Frequência de recolha de resíduos
+Embalagens mistas	2 vezes por semana (cidade e vilas), 1 por semana
+(outras localidades)
+Papel e embalagens de cartão
+2 vezes por semana (cidade e vilas), 1 por semana (outras localidades)
+Recipientes de vidro Cada 15 dias
+Os habitantes do Município de Guimarães contam ainda com 2 Ecocentros, localizados nas freguesias de Aldão e Ponte, onde podem ser efetuadas entregas de resíduos não recolhidos indiferenciadamente ou não recolhidos por ecopontos ou no sistema de recolha porta-a-porta (PaP)
+(Tabela 3).
+Tabela 3 – Resíduos recolhidos em Ecocentros [3].
+Tipo de resíduos
+Vidro	REEE	Pilhas e acumuladores
+Papel/Cartão	Vidro plano	Óleos alimentares usados
+Embalagens	Plásticos duros	Têxteis
+Madeira	Sucata
+As tabelas 4-9 a seguir apresentadas resumem a distribuição de recolha de resíduos pelas diferentes entidades, bem como os quantitativos dos últimos anos. É possível verificar que 100% dos resíduos urbanos (Resíduos indiferenciados), recolhidos no Município de Guimarães são enviados para a estação de tratamento mecânico e biológico, da entidade gestora em alta RESINORTE, no entanto, existe ainda uma elevada percentagem de refugo da Estação que é posteriormente encaminhada para aterro. No ano de 2022, 79% dos resíduos do município passaram tiveram como destino final a deposição em aterro.
+Tabela 4 – Recolha de resíduos indiferenciados [3].
+Porta-a-porta com contentores e sacos
+VITRUS	PAYT
+Porta-a-porta com sacos	Município e VITRUS
+De proximidade com contentores de superfície
+Município e VITRUS
+De proximidade com contentores subterrâneos
+VITRUS
+Tabela 5 – Recolha de resíduos porta-a-porta [3].
+Porta-a-porta vidro	VITRUS	PAYT
+Porta-a-porta papel/cartão	VITRUS	PAYT
+RESINORTE-Urgezes
+Porta-a-porta embalagens plásticas e metálicas
+VITRUS	PAYT
+RESINORTE-Urgezes
+Tabela 6 – Recolha diferenciada nos ecopontos [3].
+Ecopontos vidro
+RESINORTE -Concelho
+VITRUS - Cidade
+PAYT – Cidade
+Ecopontos papel/cartão	RESINORTE -Concelho
+VITRUS - Cidade
+PAYT – Cidade
+Ecopontos embalagens plásticas e metálicas
+RESINORTE -Concelho
+VITRUS - Cidade
+PAYT – Cidade
+Tabela 7 – Recolha de outro tipo de resíduos [3].
+Recolha seletiva de resíduos verdes
+Porta-a-porta a granel	Município e VITRUS
+Porta-a-porta com sacos	Município e VITRUS
+Em ecocentros	VITRUS
+Recolha seletiva de rede
+Em pontos de recolha específicos	Centros Comerciais
+Em ecocentros	RESINORTE
+Porta-a-porta – mediante agendamento	Município e VITRUS
+Recolha seletiva de resíduos de pilhas e acumuladores
+Em pontos de recolha específicos	RESINORTE
+Em ecocentros	RESINORTE
+Recolha seletiva de resíduos têxteis usados
+Em pontos de recolha específicos (ao encargo das Juntas de Freguesia) Empresas
+Em ecocentros	RESINORTE
+Recolha seletiva de resíduos volumosos
+Porta-a-porta	Município e VITRUS
+Em ecocentros	RESINORTE
+Recolha seletiva de óleos alimentares
+Em oleões na via pública	Empresas
+Em ecocentros	RESINORTE
+Porta-a-porta (Sistema PAYT)	VITRUS
+Tabela 8 – Destino Final dos resíduos urbanos na entidade gestora em alta RESINORTE entre 2020-2022 para os RU do Município de Guimarães.
+Destino final dos resíduos	2020 [4]	2021 [5]	2022 (dados Resinorte) [6]
+Aterro	90,6%	83%	73%
+Valorização Energética	2,8%	1%	10%
+Compostagem	0,2	2%	4%
+Reciclagem	6,4%	12%	13%
+Tabela 9 - Recolha de resíduos indiferenciados nos últimos anos (fonte: Resinorte)
+Ano	2019	2020	2021	2022	2023
+(a) Total Resíduos urbanos recolhidos (ton)
+65857	68529	68877	71175	70665
+(b) Total de Resíduos indiferenciados recolhidos
+(ton)
+56573	58409	58215	56589	49340
+Total de Resíduos orgânicos recolhidos seletivamente (ton)
+0 0	0	1006	6198
+(a1) Total Resíduos urbanos recolhidos per capita (kg.hab)
+435 454	447	452	449
+(b1) Resíduos indiferenciados recolhidos per capita (kg.hab)
+368 381	372	361	315
+Resíduos orgânicos recolhidos per capita
+(kg.hab)
+0 0	0	6,42	39,42
+Resíduos indiferenciados recolhidos face ao total recolhido (%)
+85,90	85,23	84,52	82,58	77,09
+Resíduos recicláveis (trifluxo) recolhidos face ao total recolhido (%)
+12,52	13,18	13,74	11,80	16,44
+TOTAL de habitantes
+A tabela 10 apresenta dados relativos à recolha seletiva de resíduos, expressos em toneladas, abrangendo diferentes categorias ao longo dos anos de 2020 a 2023 e comparações de variações percentuais.
+Da análise desta tabela, verifica-se que o total de vidro recolhido nos Ecopontos diminuiu ligeiramente de 2021 para 2022 (-2.45% e 0.09%, respetivamente). No entanto, neste fluxo o valor desceu de 2022 para 2023 em cerca de 7,31%. Conforme já foi debatido em alguns Focus Group, a estratégia da Resinorte será incrementar a recolha deste fluxo nos ecopontos. Relativamente ao papel/cartão, observa-se uma diminuição de 6.10% em 2021 em relação a 2020. Por sua vez, em 2022 e 2023, observou-se um aumento substancial na recolha deste fluxo em ecoponto, tendo sido registado um aumento de 3,07% e 8,97%, respetivamente. A recolha de embalagens apresenta uma diminuição em 2022 (-4.47%), tendo igualmente descido muito ligeiramente (0,01%) em 2023 face aos valores de 2022.
+No que respeita à recolha seletiva PaP, verifica-se que o fluxo específico de vidro teve um aumento significativo ao longo destes últimos 3 anos de análise. Em 2021, a recolha deste fluxo aumentou
+64.83% face aos valores de 2020, em 2022 voltou a aumentar em cerca de 44,9% face aos valores de 2021. Por sua em 2023, a recolha aumentou em 9,33% face aos valores de 2022. Nos outros fluxos observou-se a mesma tendência de aumento da recolha em sistemas PaP. No caso do fluxo de papel, em 2021, a recolha deste fluxo aumentou 0,41% face aos valores de 2020, em 2022 diminuiu em cerca de 4,63% face aos valores de 2021. Por sua em 2023, a recolha aumentou em 10,38% face aos valores de 2022. Ao nível da recolha de embalagens, verificou-se um aumento em 2021 (12,27%) e 2022
+(13,20%), com uma ligeira diminuição em 2023 (7,28%), face aos valores de 2022.
+Relativamente ao sistema PAYT, verifica-se que todas as categorias (vidro, papel/cartão e embalagens) apresentam aumentos substanciais de 2020 a 2023, especialmente no ano de 2021. Neste ano foram verificados aumentos nas recolhas de 116,50% no vidro, 48,87% no papel/cartão e 159,54% nas embalagens. Por sua vez, em 2022 foram verificados aumentos nas recolhas de 6,75% no vidro, 12,19% no papel/cartão e 16,44% nas embalagens. Em 2023 foram registados aumentos na recolha de 2,21% no vidro, 8,29% no papel/cartão e 19,25% nas embalagens. Estes valores confirmam o potencial de crescimento e eficiência na recolha seletiva pelo método proposto de PAYT.
+Nos ecocentros verifica-se uma tendência de aumento da recolha em todos os fluxos no universo temporal analisado. A única exceção aplica-se ao fluxo de vidro plano, que em 2021 e 2023 sofreram uma redução de 10,64% e 16,60%, respetivamente. Os REEE também sofreram uma redução de 31,22% em 2021, face aos valores de 2020. No entanto, nos anos seguintes o quantitativo recolhido, voltou a aumentar, 5,83% em 2022 e 14,46% em 2023.
+Ao nível da quantidade de resíduos urbanos indiferenciados, verifica-se uma diminuição ao longo dos anos, com uma queda de 12,81% em 2023 em comparação com o ano 2022. Relativamente à recolha de Monstros, os dados apresentam um aumentou em 2022 (1.36%) e 2023 (65,17%). No que respeita aos resíduos biodegradáveis, verifica-se uma queda significativa de 2021 para 2020 (-30.23%) e uma diminuição adicional em 2023 (26,86%), face aos valores de 2022. Por sua vez, os biorresíduos apresentam uma alteração massiva de 2023 para 2022 (514,17%), justificada pela implementação da recolha seletiva deste fluxo. Estes resultados voltam a confirmam o potencial de crescimento e eficiência na recolha seletiva de resíduos pelos métodos propostos (PaP e contentores).
+Tabela 10- Recolha seletiva de resíduos nos últimos anos (Fonte: Resinorte).
+2021	2022	2023	• 2020
+2021
+• 2021
+2022
+• 2022
+2023
+Total	Total	Total
+Resíduos seletivos
+(t)
+Recolha Seletiva
+Ecopontos
+Vidro	3549,84 3553,14	3393,34 • -2,45 • 0,09 • -7,31
+Papel/Cartão	1574,36 1622,70	1768,26 • -6,10 • 3,07 • 8,97
+Embalagens	1624,08 1551,52	1551,35 • 2,66 • -4,47 • -0,01
+Pilhas	0,00	0,00	0,00
+Recolha Seletiva
+PaP
+Vidro	142,68 206,30	225,54 • 64,83 • 44,59 • 9,33
+Papel/Cartão	1183,22 1128,42	1245,58 • 0,41 • -4,63 • 10,38
+Embalagens	254,72 288,34	267,36 • 12,27 • 13,20 • -7,28
+PAYT
+Vidro	299,42 319,64	326,70 • 116,50 • 6,75 • 2,21
+Papel/Cartão	452,82 508,04	550,16 • 48,87 • 12,19 • 8,29
+Embalagens	169,22 197,04	234,98 • 159,54 • 16,44 •19,25
+Ecocentros
+Vidro	57,10	77,66	72,40
+Papel/Cartão	120,64 120,80	126,88 • 55,46 • 0,13 • 5,03
+Embalagens	36,74	45,64	53,14 • 23,95 • 24,22 • 16,43
+Madeira	653,02 682,24	702,88 • 12,67 • 4,47 • 3,03
+REEE	85,76	90,76	103,88 • -31,22 • 5,83 • 14,46
+Vidro plano	101,76 144,80	120,76 • -10,64 • 42,30 • -16,60
+Plásticos duros	82,94	90,18	91,72 • 2,93 • 8,73 • 1,71
+Sucata	71,68	67,94	85,04 • -3,97	-5,22 • 25,17
+Recolha Seletiva
+Valores Totais
+Vidro	4049,04 4156,74	3917,97 • 4,11 • 2,66 • -5,74
+Papel/Cartão	3331,04 3379,96	3690,88 • 2,91 • 1,47 • 9,20
+Embalagens	2084,76 2082,54	2106,83 • 9,51 • -0,11 • 1,17
+Resíduos rececionados
+(t)
+Resíduos
+Urbanos
+Resíduos Urbanos
+Indiferenciados
+58215,17 56587,87 49340,47 • -0,33 • -2,80 • -12,81
+Monstros	1043,00 1057,16	1746,10 • 19,97 • 1,36 • 65,17
+Resíduos
+Biodegradáveis
+154,00 170,26	124,52 • -30,23 •10,56 • -26,86
+Biorresíduos	0,00 1006,54	6181,90	•514,17
+L. Ruas e Esgotos	2405,12
+3.3 Pontos fracos e fortes do modelo atual face à estratégia nacional PERSU 2020
+PAPERSU 2030 • Município de Guimarães	dezembro 2023
+Conforme é possível observar na análise SWOT, a Câmara Municipal de Guimarães apresenta diversas iniciativas, planos e estratégias conducentes à implementação de um sistema de gestão de resíduos urbanos mais sustentável, eficiente e que promova as atuais políticas de economia circular.
+Desta forma é possível destacar as seguintes iniciativas, planos, projetos e estratégias em matéria de gestão de resíduos:
+Compromisso Zero Resíduos do Município de Guimarães (2022) [3]
+▪ Compromisso para implementação de uma estratégia “Zero Resíduos” é um compromisso voluntário do Município. O objetivo do Compromisso “Zero Resíduos” é fornecer indicações claras a todos os residentes, visitantes e operadores, quanto ao futuro da gestão de resíduos no Município de Guimarães. As principais medidas do Compromisso do Município de Guimarães são: Promover a educação e consciencialização de um número cada vez maior de cidadãos e visitantes sobre a gestão de resíduos;
+▪ Promover a prevenção da produção de resíduos;
+▪ Promover a reutilização;
+▪ Criar condições para que a recolha PAP de resíduos se estende a todo o território municipal, o que implica um separação mais cuidada por parte dos cidadãos para evitar que os resíduos urbanos acabem em aterro;
+▪ Envolver as partes interessadas locais para promover negócios e iniciativas circulares
+▪ Incorporar a circularidade no planeamento urbano;
+▪ Definir critérios para as compras verdes ecológicas que integrem os princípios da circularidade;
+▪ No âmbito do Ecossistema de Governação GUIMARAES 2030, pretende-se constituir uma equipa multidisciplinar para trabalhar no sistema Alimentar Sustentável;
+▪ Iniciar um programa de promoção da circularidade têxtil;
+▪ Promover a separação e recolha de RCD´s.
+Estratégia RRRCICLO - Economia Circular em Guimarães [7]
+A Estratégia RRRCICLO - Economia Circular em Guimarães pretende reduzir, reciclar e reaproveitar os resíduos orgânicos através de um conjunto de ações simples com grandes benefícios ambientais.
+Esta iniciativa procurará, até 2030, envolver a população a alcançar as metas de sustentabilidade ambicionadas pelo município. Esta estratégia alicerça-se igualmente na implementação de ações, medidas e projeto que promova a implementação do modelo de economia circular em Guimarães.
+Seguidamente são apresentadas algumas das principais ações e projetos da Estratégia RRRCICLO, relativamente à implementação de uma economia Circular em Guimarães:
+▪ PEGADAS: Programa ecológico de Guimarães para aprendizagem do desenvolvimento ambiental sustentável
+O Programa Municipal de Educação para a Sustentabilidade Ambiental – PEGADAS é promovido pelo Laboratório da Paisagem e pela Câmara Municipal de Guimarães em colaboração com um conjunto de parceiros locais, nacionais e europeus, que assenta numa estratégia para o concelho ao nível do desenvolvimento sustentável e promoção das políticas para o ambiente, ecológicas e inclusivas. Trata-se de um programa transversal, dedicado à educação ambiental, assente em princípios ecologicamente sustentáveis e que pretende iniciar uma mudança de paradigma no comportamento e no modo de estar das pessoas. Com mais de 100 atividades disponíveis e gratuitas, este programa está disponível para todas as escolas, de todos os ciclos de ensino, e IPSS do concelho de Guimarães. São vários os temas ambientais em foco, sendo a Economia Circular e a Gestão de Resíduos temas integrantes do portefólio PEGADAS, disponíveis em tipologias como atividades teóricas, experimentais e até lúdicas.
+▪ Valorização de pontas de cigarro e chicletes - Ecopontas e Papachicletes
+O projeto EcoPontas & PapaChicletes, desenvolvido pelo Laboratório da Paisagem em parceria com o Centro de Valorização de Resíduos, é uma solução vanguardista que procura a redução da acumulação de resíduos de cigarros e pastilhas elásticas em áreas de espaço público, bem como a salvaguarda das linhas de água, destino final de muitos destes resíduos. Este projeto, vencedor do Prémio Inovação Social Green Project Awards da Sociedade Ponto Verde em 2016, possui um cariz de investigação fortíssimo, valorizando os resíduos e sensibilizando para a importância da economia circular.
+▪ Projeto CONSIGO
+O Projeto “Consigo”, que tem como entidade promotora o Município de Guimarães e como entidade executora a Freguesia de Infantas, contempla o atendimento e acompanhamento social, psicológico, psicoeducativo e o empréstimo de equipamentos adaptativos, como por exemplo, camas articuladas, cadeiras de rodas, cadeiras de banho e outros equipamentos que a comunidade necessite.
+▪ Projeto Urgezes Circular
+O Urgezes Circular apresenta três áreas principais de incidência: “Educar & Transformar”, “Prolongar & Reparar” e “Valorizar & Inovar”, construindo ações de educação e sensibilização ambiental abertas às comunidade; a transformação de um armazém de recolha e reparação de produtos em fim de vida que até agora estava em desuso; de sessões práticas vocacionadas para a reparação e valorização de produtos; a promoção e valorização da venda de produtos/equipamentos em segunda mão e a sinalização e a renovação de lojas com história na Freguesia, dedicadas à extensão do tempo de vida útil de equipamentos.
+▪ Projeto “CARE” – Plano de sustentabilidade para eventos municipais através da reutilização de copos em eventos
+O projeto CARE, copo reutilizável vimaranense, surgiu em 2018, desenvolvido pela empresa municipal VITRUS, para suprimir o desafio da necessária diminuição da utilização de copos de plástico de uso único tradicionais. Desta forma, os cidadãos contribuem para a diminuição da população, ao mesmo tempo, que reduzem os impactes económicos na produção de um novo copo.
+Para além de todas estas mais-valias, o projeto contribui, de forma decisiva, para a transição para uma economia circular, assente na promoção de uma economia de partilha baseada numa consciência ecológica e social.
+▪ Valorização de resíduos verdes
+No âmbito das ações de manutenção e limpeza dos espaços verdes do concelho de Guimarães, os resíduos verdes recolhidos são reaproveitados para diferentes fins promovendo a circularidade.
+Assim, os resíduos verdes resultantes de podas ou de abates de árvores são encaminhados para a produção de pellets e briquetes que posteriormente são entregues a escolas do concelho para a sua utilização como combustível no aquecimento do espaço escolar no período de inverno. Igualmente, esta biomassa é utilizada para a produção de estilha para posterior colocação nos jardins, canteiros, trilhos ou caminhos, com vista a minorar as perdas de água por evaporação e evitar o crescimento de vegetação.
+▪ Resíduos têxteis e máscaras
+Têxteis: Com o objetivo de fazer face aos 5% de resíduos têxteis presentes no lixo indiferenciado dos vimaranenses foi adotada uma estratégia para a separação e recolha dos têxteis evitando a sua deposição em aterro sanitário. Desde a implementação desta estratégia foram recolhidas 20 toneladas de têxteis pós-consumo valorizados em 140 mantas, distribuídas pelas esplanadas dos cafés do centro histórico e canil municipal, e 800 sacos de pano, distribuídos pelo mercado municipal.
+Máscaras: Após a pandemia, e para fazer face ao flagelo de mais de 25 mil máscaras descartáveis recolhidas, foram criados 5.000 cabides, distribuídos pelos comerciantes e hoteleiros de Guimarães, e 2.000 suportes de telemóvel, distribuídos pelos alunos das escolas que mais contribuiriam para a recolha de máscaras durante a pandemia. Estes projetos inovadores integram parceiros como a To
+Be-Green, o CVR – Centro para a Valorização de Resíduos e a Vitrus Ambiente e pretendem aumentar a consciência do cidadão para a separação e valorização de resíduos com grandes impactes no ambiente, demonstrando uma verdadeira aposta de Guimarães na transição para uma economia circular.
+Plano de Gestão de Biorresíduos de Guimarães 2030 (PGBG 2030) [1]:
+Enquadrado na Estratégia RRRCICLO, o PGBG2030 é um documento que orienta as prioridades de intervenção na área da gestão de resíduos, com incidência na fração orgânica, tendo por base a alteração do paradigma do sistema de recolha, na qualidade do serviço prestado, no cumprimento de metas ambientais e a mudança comportamental dos agentes da cidade, tanto no aumento dos níveis de reciclagem dos cidadãos, como na diminuição da produção de resíduos juntos dos produtores.
+A visão estratégica para a gestão dos biorresíduos em Guimarães pretende reconhecer que este tipo de resíduo é um recurso, com valor económico acrescentado, num contexto de sustentabilidade ambiental e de uso eficiente dos materiais e produtos. A estratégia que o Município de Guimarães tem vindo a adotar está em linha com os princípios orientadores do PERSU 2020 e PERSU 2020+, na medida em que se pretende promover uma gestão integrada dos resíduos, utilizando processos, tecnologias e infraestruturas adequadas, em estreita colaboração com diversos intervenientes na cadeia de valor dos resíduos. As principais medidas do PGBG 2030 associadas à recolha seletiva de biorresíduos são:
+▪ Separação dos RV dos espaços verdes municipais, com vista a uma valorização autónoma;
+▪ Criação de circuitos de recolha de RV;
+▪ Implementação da recolha seletiva de biorresíduos no sistema PaP através de contentores de pequena capacidade, como os melhores modelos europeus que podem ser replicados, como são os casos das cidades italianas; Este modelo constitui o método que mais contribui para a redução do teor (e probabilidade) de contaminação. A recolha PaP é também o método preferencial e mais cómodo para a população, sendo apenas utilizado o sistema de contentorização, por aproximação, em zonas de habitação coletiva. A zona de Intervenção do presente plano inclui áreas não abrangidas pelo PAYT, pelo que é intenção do Município capacitar esses utilizadores com contentorização específica e direcionada à recolha seletiva das diferentes fileiras, no sentido de se diminuir ao máximo a fração resto.
+▪ Criação de uma tarifa PAYT para a recolha dos biorresíduos, beneficiando quem separa;
+▪ Conforme identificado a RESINORTE constitui a Entidade Gestora em Alta, neste sentido, as medidas a promover devem contribuir e ir de encontro aos objetivos definidos no âmbito do Plano de Ação desta Entidade.
+Ecossistema de Governança Guimarães 2030: Educar, Sensibilizar, Envolver, Partilhar, Investigar, Comunicar [8]
+As bases deste modelo assentam no envolvimento dos cidadãos, na ligação à Academia, na partilha de conhecimento e na transformação digital essencial ao combate dos desafios do futuro. Este percurso de desenvolvimento sustentável tem tido um envolvimento cada vez mais significativo dos cidadãos e os projetos implementados confluem para um território em fase de franca descarbonização. É um modelo de governança que reconhece que é nas ações locais que começamos a transformação global. Um modelo de governança que tem sido capaz de promover o envolvimento de toda a população assegurando o envolvimento dos cidadãos e uma relação mais próxima entre o setor público, o setor privado e a academia, em projetos que respondam aos principais desafios ambientais do concelho. Este novel ecossistema de governança é, pois, uma plataforma de discussão e reflexão sobre os grandes temas do desenvolvimento sustentável como: Alterações Climáticas e Energia; Natureza, Paisagem e Biodiversidade; Resíduos e Ecoinovação; Ar e Acústica; Mobilidade
+Sustentável e Planeamento; Água; Cidadania, Cultura e Turismo Sustentável; Educação, Desenvolvimento Social e Bem-estar, Ambiente Urbano e Smart Cities; Comunicação; Relações
+Internacionais, alicerçada no conhecimento, na inovação, na participação, na cooperação e na divulgação.
+Dada a falta de informação sobre a implementação de modelos de governança na região euromediterrânica, foi realizado um estudo de caso no município de Guimarães: (1) para analisar a emergência do estabelecimento de modelos de governança baseados no conhecimento a nível local;
+(2) para demonstrar a importância da circulação do conhecimento entre diferentes dimensões/níveis, incluindo o científico, o técnico, o político, o dos cidadãos e o da comunicação; (3) para fornecer um exemplo prático de um modelo de governança que melhora a integração ambiental através da construção de pontes entre a academia, os cidadãos e os decisores políticos. Os resultados empíricos do estudo demonstraram que esta abordagem pode ser implementada com êxito nas cidades e contribuir para melhorar as políticas locais, reforçando o papel das cidades como aceleradoras da transformação verde liderada pela comunidade através do estabelecimento de processos multidisciplinares e participativos.
+Estrutura de Missão Guimarães 2030 [9]
+A Estrutura de Missão 2030 será uma plataforma de discussão e reflexão sobre os grandes temas do desenvolvimento sustentável: como Alterações Climáticas e Energia; Natureza, Paisagem e Biodiversidade; Resíduos e Eco-Inovação; Ar e Acústica; Mobilidade Sustentável e Planeamento;
+Água; Ecocidadania, Ecocultura e Turismo Sustentável; Educação, Desenvolvimento Social e Bem-estar, Ambiente Urbano e Smart City; Comunicação; Relações Internacionais.
+Recentemente, Guimarães foi selecionada para a Missão das 100 cidades inteligentes e neutras em termos de clima até 2030, a chamada “Missão Cidades” da União Europeia. A escolha de Guimarães de entre as 362 candidaturas internacionais reconhece o trabalho que vem sendo desenvolvido na promoção de projetos sustentáveis que envolvem toda a comunidade, com vista à sensibilização para a neutralidade carbónica. Os benefícios para as cidades incluem aconselhamento e apoio através de uma Plataforma de Missão dedicada, administrada pela NetZeroCities, mais oportunidades de financiamento e a possibilidade de participar em grandes ações de inovação e projetos-piloto. A
+Missão também oferece oportunidades de networking, intercâmbio de melhores práticas entre cidades e apoio para envolver os cidadãos na procura de alcançar nos objetivos da Missão.
+Inserido na Estrutura de Missão Guimarães, está igualmente previsto o desenvolvimento do Projeto
+Piloto Distrito C: Compromisso de Carbono Zero. Este projeto piloto é uma das várias iniciativas desenvolvidas pelo município de Guimarães e visa uma abordagem integrada nos domínios da energia, mobilidade, resíduos e uso do solo, alavancando a mudança comportamental, inovação social, cultura, política, tecnologias verdes, finanças sustentáveis e novos modelos de negócio.
+Projeto 360.come [10]
+O projeto 360.come pretende iniciar mudanças comportamentais, recorrendo a estratégias de educação e comunicação inovadoras e procurando demonstrar que a alimentação saudável, o desperdício alimentar, o consumo de proximidade, a transição para uma economia circular e a promoção do bom uso do solo, são temáticas que deverão ser vistas de um modo holístico e interconectado, potenciando a alteração de comportamentos.
+Outros Projetos ou Iniciativas:
+O Município de Guimarães é atualmente membro do ICLEI - ICLEI - Local Governments for
+Sustainability, está envolvido na Missão Europeia NetZero Cities, ratificou em 2021 a integração no Acordo Cidade Verde - Green City Accord, e iniciou a Certificação Zero Waste City, pela Mission
+Zero Academy. Estes apoios foram cruciais para ajudar a acelerar a transição de Guimarães para o desperdício zero a nível local.
+Relativamente a projetos nacionais ou internacionais é possível destacar os seguintes:
+▪ Projeto Greentour: Circular Economy and Sustainable Tourism at SUDOE destinations – development of a Green Label;
+▪ Projeto Let’s Go Circular”, que integra o programa URBACT;
+▪ Projeto CCRI - Circular Cities Region, Plano de Ação para a Bioeconomia;
+▪ Programa Cities Mission - Pacto Climático. A iniciativa é promovida pelo NetZeroCities, um projeto-consórcio de 33 parceiros europeus que apoia, através da plataforma EU Cities
+Mission, e 112 cidades europeias na redução das emissões de gases com efeito de estufa;
+▪ Candidatura a um projeto de economia circular (CIRCULAR_ECOSYSTEMS) - através do programa Interreg VA España-Portugal (POCTEP), que promove projetos de cooperação transfronteiriça com o apoio da União Europeia. Esta candidatura vai permitir elaborar a estratégia para a Economia Circular do Município;
+▪ Projeto Horizon PCP (Pre-Commercial Procurement) – CircularPSP, Guimarães participa atualmente num que irá fornecer plataformas de serviços públicos municipais para a economia circular integrando múltiplas tecnologias digitais estratégicas para facilitar um desenvolvimento mais descentralizado e ágil, ao mesmo tempo que moderniza o funcionamento da administração pública;
+▪ Projeto internacional RiskAquaSoil – Guimarães - iniciado em 2021 através do Laboratório da Paisagem, distribuiu de forma gratuita, 20 compostores por todas as sedes de agrupamento escolares, tendo sido criado um manual de compostagem, e ações dedicadas nas escolas;
+▪ Projeto “Aqualastic: Educar, Reduzir e Valorizar” - surgiu de uma candidatura aprovada ao Fundo Ambiental do Ministério do Ambiente e da Ação Climática, liderado pelo Laboratório da Paisagem e da Extruplás. O objetivo principal é sensibilizar para a redução do impacto dos plásticos nos ecossistemas. A criação de um protótipo de uma “EcoBarreira”numa das linhas de água urbanas de Guimarães, bem como de filtros personalizados para a retenção de resíduos em sumidouros de águas pluviais, são algumas das soluções que vamos desenvolver.
+Todas estas iniciativas, planos, projetos e estratégias serão apresentados em maior detalhe, nomeadamente as metas propostas, no ponto 5 do presente PAPERSU, relativo à definição da Estratégia para cumprimento das obrigações no âmbito do RGGR, assim como das metas e ações estabelecidas no PERSU 2030.
+4 Breve descrição do modelo tarifário atual e previsto até 2030
+A atual estrutura de tarifário do serviço público de gestão de resíduos urbanos respeita o Regulamento
+Tarifário elaborado pela Entidade Reguladora dos Serviços de Águas e de Resíduos (ERSAR). O modelo de gestão relativo ao ano de 2023, disponível para consulta no website do Município de Guimarães apresenta o seguinte sistema tarifário:
+▪ Sistema Tarifário para locais sem Sistema PAYT;
+▪ Sistema Tarifário para locais com Sistema PAYT;
+▪ Tarifas de serviços auxiliares, devidas por cada serviço prestado.
+No sistema Tarifário em locais sem Sistema PAYT, é realizada a distinção entre locais com e sem abastecimento de água. O sistema é composto por vários elementos, uma tarifa de disponibilidade de serviço, expressa em euros por dia; uma tarifa variável, determinada em função do nível de utilização do serviço, expressa em euros por m³ de água consumida, a metodologia utilizada na sua determinação; e um valor correspondente à repercussão do encargo suportado pelo Município relativo à taxa de gestão de resíduos (TGR), expressa em euros por dia, nos termos da Portaria n.º
+72/2010, de 4 de fevereiro.
+Nos locais com implementação do sistema PAYT, é realizada a distinção entre métodos de quantificação, nomeadamente n o MÉTODO A – por aquisição de sacos ou por capacidade de contentor;
+o MÉTODO B – por estimativa de produção e por dia de recolha.
+Em ambos os casos o sistema tarifário é composto por uma tarifa de disponibilidade de serviço, expressa em euros por dia; uma tarifa variável de Indiferenciados, expressa em euros por litro de resíduo indiferenciado; uma tarifa variável de orgânicos, expressa em euros por litro de resíduo orgânico recolhido; e um valor correspondente à repercussão do encargo suportado pelo Município relativo à taxa de gestão de resíduos (TGR), expressa em euros por dia, nos termos da Portaria n.º
+72/2010, de 4 de fevereiro.
+Para ambos os locais (com e sem sistema PAYT), os tipos de utilizadores são: doméstico (UD), UD
+– Taxa social, UD – Emigrante, não doméstico (UND), UND – Social.
+A visão estratégica do município de Guimarães, de acordo com o PAPERSU 2030, visa alargar o sistema PAYT a todo município até ao ano 2030 e incluir o sistema SAYR – save-as-you-recycle
+(poupe ao mesmo tempo que recicla) para quem realizar o tratamento na origem. Desta forma, o sistema tarifário ainda em vigor em zonas não incluídas pelo PAYT, associado à tarifa variável, determinada em função do nível de utilização do serviço, expressa em euros por m³ de água consumida, será eliminada. Assim, este novo tarifário em vigor a partir do dia 1 de janeiro de 2024, manterá o valor da tarifa para a recolha de orgânicos no sistema PAYT em 0,005€/L, como um incentivo à separação, e aumentará a tarifa para a recolha dos indiferenciados (fração resto) nas zonas
+PAYT para 0,026€/L, como forma de desincentivar a sua deposição. Relativamente à aplicação do sistema SAYR, o novo sistema tarifário será realizado através do reembolso de 50% da tarifa variável, em dezembro de 2024, em todas as faturas dos utilizadores que comprovem que efetuam compostagem doméstica, assim como dos utilizadores com recolha seletiva de orgânicos que levantem entre 12 a 16 sacos mensais para os resíduos orgânicos e os depositem na via pública, durante todo o ano. Desta forma, os utilizadores conseguirão uma redução mensal de 2% do tarifário em relação ao ano de 2023.
+5 Indicação de medidas previstas e a contemplar nos Regulamentos dos Serviços Municipais que contribuem para implementação da estratégia municipal de resíduos
+O Regulamento do Serviço de gestão de RU da Entidade Gestora (EG) atualmente em vigor, foi aprovado ao abrigo do disposto no artigo 62.º do Decreto-Lei n.º 194/2009, de 20 de agosto, em vigor, mas com alterações, a última introduzida pelas Lei n.º 12/2014, de 6 de março, da Lei n.º
+2/2007, de 15 de janeiro, revogada pela Lei n.º 73/2013, de 3 de setembro, com respeito pelas exigências constantes da Lei n.º 23/96, de 26 de julho, e suas posteriores alterações e do Decreto-Lei n.º 178/2006, de 5 de setembro na sua redação atual. Este regulamento com o Edital n.º
+248/2016, foi publicado no Diário da República, 2ª Série, n. 52, de 15 de março de 2016, e encontra-se em conformidade com as disposições do Regulamento Tarifário dos Serviços de Gestão de Resíduos em vigor.
+O presente regulamento define as regras a que deve obedecer a prestação do serviço de gestão de resíduos urbanos no Município de Guimarães, bem como à gestão de resíduos volumosos e de construção e demolição sob sua responsabilidade. O presente regulamento aplica-se em toda a área do Município de Guimarães, às atividades de recolha e transporte do sistema de gestão de resíduos urbanos, quer pela Entidade Titular (ET) quer pela EG, VITRUS AMBIENTE, empresa municipal a quem estão atribuídas competências nesta área.
+As principais necessidades de adaptação do Regulamento de Serviço restringem-se ao enquadramento de novos modelos e estruturas tarifárias, nomeadamente a introdução de um modelo de tarifação
+SAYR.
+6 Estratégia para cumprimento das obrigações no âmbito do RGGR, assim como das metas e ações estabelecidas no PERSU 2030
+A Estratégia do Município do Guimarães para dar cumprimento às obrigações no âmbito do Regime
+Geral de Gestão Resíduos (RGGR), assim como das metas e ações estabelecidas no PERSU 2030, identificou e definiu 22 medidas e ações enquadradas nos três eixos de ação:
+Eixo 1 – Prevenção;
+Eixo 2 - Gestão de Recursos;
+Eixo 3 - Operacionalização.
+6.1 EIXOI – PREVENÇÃO
+MEDIDA 1– Capacitação das Empresas (Ação OB.I.4.1)
+A estratégia do Município de Guimarães passa por atuar na fonte da produção de resíduos, diminuindo a sua produção e perigosidade em todo o território de abrangência. Considerando, que o tecido empresarial contribui com a geração de quantidades significativas de resíduos, mas que também poderão ser o impulsor do estabelecimento de cadeias de valor circulares, o Município de Guimarães pretende implementar ações de medidas de prevenção a adotar pelo setor não alimentar do comércio e serviços, que inclua a circularidade de produtos como têxteis, EEE, papel e cartão e volumosos, entre outros. Para tal, o Município de Guimarães encontra-se neste momento a executar dois projetos Europeus que visam exatamente implementar estas ações, além de outras iniciativas locais:
+▪ Projeto Greentour: Circular Economy and Sustainable Tourism at SUDOE destinations – development of a Green Label;
+▪ Projeto Let’s Go Circular”, que integra o programa URBACT;
+▪ Projeto CCRI - Circular Cities Region, Plano de Ação para a Bioeconomia;
+▪ Programa Cities Mission - Pacto Climático. Através deste programa, 53 cidades europeias serão, ao longo de dois anos (início em Março de 2023), um campo de teste para abordagens inovadoras em direção à transição climática urbana, sendo Guimarães a única representante portuguesa selecionada para participar no programa. A iniciativa é promovida pelo NetZeroCities, um projeto-consórcio de 33 parceiros europeus que apoia, através da plataforma EU Cities Mission, e 112 cidades europeias na redução das emissões de gases com efeito de estufa. As ações desenvolvidas pelas “cidades-piloto” serão apoiadas por bolsas do projeto NetZeroCities, no valor de 32 milhões de euros, financiadas pelo Horizonte 2020;
+▪ Candidatura a um projeto de economia circular (CIRCULAR_ECOSYSTEMS), através do programa Interreg VA España-Portugal (POCTEP), que promove projetos de cooperação transfronteiriça com o apoio da União Europeia. Esta candidatura vai permitir elaborar a estratégia para a Economia Circular do Município;
+▪ Projeto Piloto Distrito C: Compromisso de Carbono Zero. Este projeto piloto é uma das várias iniciativas desenvolvidas pelo município de Guimarães e visa uma abordagem integrada nos domínios da energia, mobilidade, resíduos e uso do solo, alavancando a mudança comportamental, inovação social, cultura, política, tecnologias verdes, finanças sustentáveis e novos modelos de negócio. A peça chave do projeto é um Pacto do Cidadão para a neutralidade e processos de cocriação, tornando assim possível a atuação em todos os domínios de emissões. O projeto pretende envolver os cidadãos, potenciando a descarbonização através da utilização dos transportes públicos, da eficiência energética e da produção local de energia renovável, nomeadamente, em edifícios históricos e de estratégias de economia circular.
+MEDIDA 2 – Implementação da política de compras públicas sustentáveis (Ação
+OB.I.4.2)
+Pretende-se que os cadernos de encargos incluam critérios de sustentabilidade ambiental, social e de proteção da saúde humana e uma análise do “ciclo de vida do produto”. Os equipamentos a adquirir, terão como obrigatoriedade a incorporação de uma percentagem de plástico reciclado, e serão substituídos os sacos de plásticos na recolha por compostáveis, através de bioplástico, material que integra uma elevada percentagem na composição física dos resíduos em Guimarães, solicitando-se material devidamente certificado. Outra iniciativa será a aquisição de mobiliário urbano que promovam a incorporação de materiais recicláveis. Estas iniciativas estão a ser desenvolvidas no âmbito da estratégia e plano para as compras púbicas verdes, que estão a ser desenvolvidas no âmbito do Projeto e Iniciativa CCRI - Circular Cities Region, Plano de Ação para a Bioeconomia, que iniciou em Março de 2023. Esta estratégia será iniciada pela monitorização e identificação dos principais serviços, e pela sua implementação no município de Guimarães.
+Guimarães participa atualmente num projeto Horizon PCP (Pre-Commercial Procurement) –
+CircularPSP, que irá fornecer plataformas de serviços públicos municipais para a economia circular integrando múltiplas tecnologias digitais estratégicas para facilitar um desenvolvimento mais descentralizado e ágil, ao mesmo tempo que moderniza o funcionamento da administração pública.
+MEDIDA 3 – Estabelecimento de redes de doação, troca e de reparação de produtos
+(mobiliário, equipamentos elétricos e eletrónicos, vestuário/têxteis) (Ação OB.I.5.2)
+Conforme foi referido anteriormente, a estratégia do Município de Guimarães passa por atuar na fonte da produção de resíduos, diminuindo a sua produção e perigosidade em todo o território de abrangência. Na estratégia e hierarquização da gestão de resíduos, a reutilização, surge como uma das mais favoráveis ações de valorização. Desta forma, o Município de Guimarães pretende desenvolver e implementar locais de reparação de produtos de mobiliário, equipamentos elétricos e eletrónicos, vestuário e têxteis, além da disseminação de iniciativas existentes e ampliação das mesmas a todo o território de abrangência. Assim, no âmbito das iniciativas Projeto “CONSIGO” e “Urgezes
+Circular” pretende-se fomentar a implementação destas ações.
+O Projeto “CONSIGO” disponibiliza um banco de oferta equipamentos usados para pessoas com mobilidade condicionada através da reutilização/reaproveitamento desses equipamentos. Por sua vez, os equipamentos não recuperáveis são encaminhados para reciclagem. A estratégia do Município passa pela ampliação a todo o território até 2030.
+O projeto “Urgezes Circular” deu origem à criação de um armazém de recolha e reparação de produtos em fim de vida. O edifício foi requalificado, sendo agora um espaço, onde qualquer cidadão pode reparar gratuitamente um produto, equipamento eletrónico ou mobiliário, através do trabalho voluntário de cidadãos locais. A estratégia do Município nesta área é a criação de novos locais de reparação de produtos, fomentando também a empregabilidade sénior, tendo previsto até 2028 a criação de pelo menos 1 novo espaço, cumprindo o indicador de Aumento de 40 % de n.º de parcerias.
+MEDIDA 4 – Capacitação do cidadão e comunicação para a prevenção de resíduos (Ação
+OB.I.5.4)
+Conscientes que os cidadãos são os principais agentes de mudança deste paradigma, a estratégia do Município de Guimarães passa pela continuidade e ampliação das diversas campanhas, eventos e workshops relacionados com a prevenção de resíduos. Assim, o Município pretende implementar os objetivos preconizados no Ecossistema de Governança Guimarães 2030: Educar, Sensibilizar, Envolver, Partilhar, Investigar, Comunicar. Pretende ainda implementar os objetivos incluídos no plano RRRCICLO, que passam pela implementação de planos de Carbono Zero para as atividades desportivas do Município de Guimarães e pela continuidade da semana de prevenção de resíduos.
+Todas estas iniciativas serão realizadas conjuntamente com o Laboratório da Paisagens, e os principais stakeholders (internos/externos) do município de Guimarães, nomeadamente, administração pública e entidades locais (Câmara Municipal de Guimarães, juntas de freguesia – 48 freguesias no total), entidades empresariais (e.g., Vitrus Ambiente, Resinorte), famílias, HoReCa & retalho, agricultores locais, academia/investigação (Laboratório de Paisagens, Estrutura Missão
+Guimarães 2030), ONG (por exemplo, ReFood), outros – intervenientes do mercado municipal, escolas/universidades/instalações desportivas, organizações tecnológicas (CVR – Centro de Valorização de Resíduos).
+MEDIDA 5 – Prevenção da produção e utilização de embalagens plásticas (Ação
+OB.I.5.5)
+As embalagens plásticas são uns dos principais resíduos pós-consumo, que afetam drasticamente a sustentabilidade ambiental e promovem a poluição de recursos hídricos. Conscientes deste facto, o Município de Guimarães apresenta uma estratégia ambiciosa de redução do consumo de garrafas de plástico de utilização única em eventos públicos e na rede de escolas do município. Estes objetivos serão alicerçados no âmbito das seguintes iniciativas:
+▪ Projeto “CARE” – Plano de sustentabilidade para eventos municipais através da reutilização de copos em eventos (Feira Afonsina, UEFA, etc);
+▪ Uso da garrafa de Vidro da VIMÁGUA em eventos públicos, em substituição das garrafas de plástico.
+MEDIDA 6 – Prevenção da produção e utilização de têxteis pós-consumo (Ação
+OB.I.5.5)
+Integrado na estratégia RRRCICLO, o Município de Guimarães pretende desenvolver, a partir de resíduos têxteis pós-consumo, novos ecoprodutos, tais como, mantas e sacos de pano, bem como cabides e suportes para telemóveis a partir de máscaras descartáveis. Para tal, o Município de Guimarães pretende estabelecer parcerias com entidades privadas que atuam na recolha de resíduos têxteis e entidades que promovam a sua transformação e comercialização ou doação. Esta estratégia de transformar os resíduos têxteis em matérias-primas, será também baseada na implementação de sistemas de recolha seletiva de têxteis e o seu encaminhamento para reutilização ou reciclagem, nas iniciativas acima referidas.
+MEDIDA 7 – Combate ao Desperdício Alimentar (Ação OB.I.5.6)
+Conscientes que o desperdício alimentar é uma das principais fontes de produção de resíduos, tanto no setor HORECA como no doméstico, a estratégia do Município de Guimarães será alicerçada na contínua sensibilização, divulgação, criação de documentos técnicos e aplicação de estratégias com vista à redução do desperdício alimentar em todo o território. Assim será criada uma área dedicada ao desperdício alimentar, com vista à sensibilização para a sua redução, e ao aumento da sensibilização da população em idade escolar para a sua prevenção. Neste caso particular destaca-se o projeto
+360.come desenvolvido conjuntamente entre o Laboratório da Paisagem, a Câmara Municipal de Guimarães e o universo escolar do município (15 escolas EB2/3 do concelho de Guimarães e 15 turmas-piloto). Este projeto tem um orçamento global de 48.532.88€, sendo financiado pelo Fundo
+Ambiental em 33.973.02€, para as iniciativas desenvolvidas num ano (2003/2024).
+O projeto 360.come pretende iniciar mudanças comportamentais, recorrendo a estratégias de educação e comunicação inovadoras e procurando demonstrar que a alimentação saudável, o desperdício alimentar, o consumo de proximidade, a transição para uma economia circular e a promoção do bom uso do solo, são temáticas que deverão ser vistas de um modo holístico e interconectado, potenciando a alteração de comportamentos. Os objetivos específicos do projeto
+360.come incluem:
+▪ Redução de desperdícios e aumento da circularidade na atividade das cantinas públicas e privadas;
+▪ Avaliação da segurança química dos alimentos produzidos na Horta Comunitária;
+▪ Mapeamento de produtores locais e identificação de boas práticas agrícolas;
+▪ Criação de um programa educacional e de conscientização;
+▪ Valorização de resíduos têxteis pós-consumo em kits educativos para o cultivo de Microvegetais;
+▪ E-book com receitas originais, desenvolvidas por conceituados Chefs vimaranenses, que aliam a criatividade e ingredientes menos convencionais, como os microvegetais, numa viagem pela saúde e sustentabilidade.
+Os resultados preliminares permitiram reduzir o desperdício alimentar em sensivelmente 600 toneladas, nos primeiros seis meses de atividade. Assim, as medidas planeadas para os próximos meses visam:
+▪ Incrementar e fomentar a implementação de ações de educação ambiental na comunidade escolar;
+▪ Avaliar a segurança química dos alimentos produzidos nas hortas comunitárias de Guimarães;
+▪ Mapear os produtores locais e identificar melhores práticas e recomendações.
+Será também desenvolvida uma área na página web, baseada na “lovefoodwaste” dedicada ao projeto, que promova as boas práticas individuais e coletivas, valorize os estabelecimentos que atuam na redução do desperdício alimentar e que desenvolva um sistema de comunidade de interajuda social, culminando anualmente com a realização de uma semana dedicada a esta temática, envolvendo todos os parceiros. Serão ainda convidadas as Brigadas Verdes a desenvolver projetos nas suas freguesias que promovam políticas de combate ao desperdício alimentar e promovam soluções para que haja escoamento do material sobrante. Neste sentido é possível destacar a cooperação do Município de Guimarães nas seguintes iniciativas: Menos olhos que barriga (Universidade do Minho) e Re-Food
+Guimarães.
+Os impactes expectáveis do Eixo I – Prevenção, envolvem alteração de comportamentos e redução da produção de resíduos e da sua perigosidade. Esta estratégia conforme foi referido nas diversas medidas preconizadas, apenas serão possíveis de implementar com a contribuição e participação de todos os principais stakeholders (cidadãos, entidades privadas, entidades públicas, Resinorte, CIM Ave, etc).
+6.2 EIXOII – GESTÃO DE RECURSOS
+MEDIDA 8 – Caracterização dos resíduos recolhidos seletivamente, bem como avaliação do grau de contaminação dos mesmos (Ação OB.II.1.5)
+No âmbito desta medida, o Município de Guimarães pretende realizar estudos de caracterização dos resíduos recolhidos seletivamente, em alinhamento com respetiva portaria da caracterização de resíduos. Estes estudos de caraterização, que serão executados por entidades externas, deverão ocorrer no ano de 2025 e 2028.
+MEDIDA 9 – Reforço da implementação da Recolha Seletiva de Biorresíduos (Ação
+OB.II.3)
+Na procura de um desenvolvimento mais sustentável na gestão dos resíduos, a Europa tem procurado estratégias e abordagens para dar continuidade ao ciclo de vida dos resíduos, incentivando a sua valorização como recursos, com potencial económico associado ao seu valor material ou energético.
+Neste âmbito, os resíduos biodegradáveis, como restos alimentares e aparas de jardim, além de representarem uma fração elevada dos RU, apresentam elevado potencial energético para produção de energia e potencial nutritivo como substrato para agricultura. De acordo com a definição dada pelo Decreto-Lei n.º 73/2011, 17 de junho, entende-se por biorresíduos os “resíduos biodegradáveis de espaços verdes, nomeadamente os de jardins, parques, campos desportivos, bem como os resíduos biodegradáveis alimentares e de cozinha das habitações, das unidades de fornecimento de refeições e de retalho e os resíduos similares das unidades de transformação de alimentos”.
+Retirando-se os biorresíduos dos RU retira-se a componente causadora dos Gases de Efeito de Estufa
+(GEE) pelos aterros, e a canalizar todo o seu potencial (material e gasoso) para sistemas totalmente independentes e fechados, de cujo tratamento pode ser extraído um composto orgânico de qualidade superior. A implementação da recolha seletiva de biorresíduos e a compostagem, passa pelas seguintes soluções:
+▪ Recolha seletiva na origem através de compostagem comunitária e caseira;
+▪ Recolha seletiva de resíduos verdes por agendamento;
+▪ Recolha seletiva de biorresíduos nas habitações;
+▪ Recolha seletiva no canal HORECA;
+▪ Recolha seletiva nos restantes utilizadores não domésticos.
+O sistema de gestão da recolha de biorresíduos de Guimarães a implementar, analisa as soluções desde a sua produção, passando pela deposição, transporte e encaminhamento para valorização, tratamento e/ou destino final. Os diferentes tipos de produção, de deposição, de separação e de recolha integrados no sistema de gestão, encontram-se esquematizados na figura seguinte, variando de utilizadores domésticos aos utilizadores não domésticos.
+Figura 2- Sistema de Gestão da recolha de biorresíduos no Município de Guimarães [1].
+O Município prevê diferentes soluções de deposição e de recolha dos biorresíduos, de acordo com o tipo de produtores, morfologia urbana e características de cada área. A recolha de biorresíduos de origem doméstica será maioritariamente feita PaP, com a entrega de equipamentos de pequena dimensão em todos os alojamentos, sendo que os biorresíduos são primeiramente colocados num saco compostável, e posteriormente acumulados num contentor individual (agregado familiar) ou coletivo na via pública.
+A recolha PaP será realizada através de contentores de utilização individual de pequena dimensão, atribuídos aos UD e UND, incluindo condomínios e entidades gestoras de espaços comerciais, sendo ainda distribuídos sacos compostáveis de acordo com o volume de produção, sendo que será a este saco que posteriormente será imputada a tarifa PAYT. O sistema de deposição será ajustado nos UND, consoante o tipo de produção e a capacidade para a instalação dos contentores. O sistema de recolha está definido para uma recolha de quatro a setes vezes por semana aos UND referentes ao canal Horeca, e de três a seis vezes por semana nos restantes utilizadores.
+Por sua vez, a recolha na via pública está vocacionada para zonas de habitação coletiva, ou zonas onde não seja possível a recolha PaP. Os contentores serão localizados em locais estratégicas, a uma distância máxima de 100m ao limite do prédio e serão instalados junto de outras baterias de contentores destinadas à recolha seletiva de embalagens e à fração resto. Serão distribuídos aos utilizadores sacos compostáveis, aos quais posteriormente serão imputadas as tarifas PAYT. Os equipamentos são de maior capacidade, localizados na via pública e de utilização coletiva.
+Desta forma, e de acordo com o simulador de sistema de recolha de biorresíduos, o Município de Guimarães considera as seguintes metas para a taxa da população servida com recolha seletiva:
+▪ Até 2025 alargar a recolha seletiva de biorresíduos a 65,2%;
+▪ Até 2028 alargar a recolha seletiva de biorresíduos a 100%.
+No que diz respeito à reciclagem na origem, o Município pretende atingir uma taxa de captura de tratamento na origem, face à produção de total de biorresíduos, de 2% até 2030. Ademais, o composto produzido proveniente da compostagem doméstica, prevê atingir até 2030 as 16 toneladas anuais. Por sua vez, o composto produzido através da compostagem comunitária, prevê atingir as 8 toneladas anuais até 2030.
+MEDIDA 10 – Reforço da recolha seletiva de RPA e REEE contidos nos RU (Ação
+OB.II.3.1)
+De forma a aumentar a quantidade de RPA (Resíduos de Pilhas e Acumuladores) e REEE (Resíduos de Equipamentos Elétricos e Eletrónicos) recolhidos seletivamente, o Município de Guimarães pretende reforçar a sua recolha seletiva e posterior encaminhamento, através da cooperação com a entidade gestora, nomeadamente, no reforço dos pontos de deposição de pilhas e acumuladores e REEE, na extensão da rede de recolha já existente e na possível expansão da sua recolha PaP. Neste âmbito, prevê-se o reforço da capacitação dos cidadãos, para a entrega voluntária destes dois fluxos de resíduos por agendamento ou nos dois ecocentros do Município.
+MEDIDA 11 – Reforço de soluções locais de compostagem doméstica e comunitária e implementação de sistemas de bonificação SAYR (Ação OB.II.3.3)
+De forma a cumprir esta medida, a estratégia do Município de Guimarães será assente no reforço e expansão gradual da compostagem doméstica e comunitária, através da aquisição e distribuição de compositores. O Município de Guimarães, pretende ainda, implementar um sistema de bonificação para os cidadãos que promovam a compostagem doméstica e comunitária (sistema SAYR).
+Relativamente à aplicação do sistema SAYR, o novo sistema tarifário será realizado através do reembolso de 50% da tarifa variável, em dezembro de 2024, em todas as faturas dos utilizadores que comprovem que efetuam compostagem doméstica, assim como dos utilizadores com recolha seletiva de orgânicos que levantem entre 12 a 16 sacos mensais para os resíduos orgânicos e os depositem na via pública, durante todo o ano.
+MEDIDA 12 – Reforço da recolha seletiva de Óleos Alimentares Usados (OUA) (Ação
+OB.II.3.3)
+O Município de Guimarães pretende reforçar a aquisição e implementação de novos equipamentos de contentores por proximidade para os OAU, sempre em cooperação com a entidade concecionária.
+Atualmente existem 81 pontos de deposição de OAU em contentores por proximidade, sendo prevista a aquisição e reforço de 25% de pontos de recolha. Será ainda mantida e reforçada a recolha
+PaP deste fluxo, em conjunto com a implementação do sistema PAYT a todo o Município.
+MEDIDA 13 – Reforço da recolha seletiva de resíduos têxteis (Ação OB.II.3.3)
+Relativamente à recolha seletiva de resíduos têxteis, o Município de Guimarães pretende igualmente instalar uma rede capilar de contentores por proximidade (102 contentores de superfície), assim como reforçar os locais para a sua deposição voluntária (centros de doação e Ecocentro) e estabelecer cronogramas de recolha PAP, ou a pedido. Neste âmbito, pretende-se também criar parcerias com entidades privadas que operem na gestão desta tipologia de resíduos.
+Como iniciativas de relevo, é possível destacar a candidatura ao projeto CIRCULAR_ECOSYSTEMS
+- Ecossistemas Territoriais e Soluções Sistémicas de Economia Circular para Prevenir a Poluição, apresentada ao programa Interreg VA España-Portugal (POCTEP). Este projeto tem como principais objetivos:
+▪ Desenvolvimento de planos de ação conjuntos na Economia Circular: Seguindo a metodologia desenvolvida pela Comissão Europeia "Cidades e Regiões Circulares Iniciativa", serão preparados 6 Planos de Economia Circular a nível regional, provincial e local (um por cada um dos parceiros), que permitem extrapolar a metodologia CCRI para o conjunto de cidades e estruturas administrativas do território de cooperação;
+▪ Desenvolvimento de soluções sistémicas conjuntas de economia circular para cadeias de valor geradoras de fontes de poluição e resíduos no território de cooperação: foram identificadas três cadeias de valor prioritárias para o Plano de Ação para a Economia Circular da União Europeia, que também são prioridades no âmbito territorial do projeto, sendo os resíduos têxteis, uma das prioridades do projeto;
+▪ Criação de estruturas de governação em economia circular na área da cooperação, promovendo a participação dos diferentes agentes da economia circular;
+▪ Identificação de agentes territoriais na economia circular;
+▪ Testar ações piloto dentro das soluções sistémicas desenvolvidas: serão desenvolvidas ações piloto/demonstrativo para testar em pequena escala uma série de ações contempladas ao longo ao longo de todo o ciclo de vida das cadeias de valor em que cada Solução Sistémica será desenvolvida;
+▪ Desenvolvimento de uma metodologia de monitorização e um sistema de indicadores comuns para os Planos de Gestão.
+Adicionalmente, a Câmara Municipal de Guimarães pretende desenvolver um projeto piloto de recolha seletiva de resíduos têxteis, e posterior valorização destes resíduos, numa estratégia de promoção da economia circular. Este projeto piloto pretende, assim, incluir as vertentes de Investigação e Desenvolvimento e Educação e Sensibilização Ambiental, através de estratégias participativas:
+1. Desenvolvimento de uma task-force para implementação do projeto piloto de recolha seletiva de resíduos têxteis;
+a. Criação de um mecanismo de monitorização dos resíduos têxteis: locais de produção, tipo de resíduos têxteis, antes e pós consumo. Este trabalho será efetuado conjuntamente com as empresas têxteis do setor, a Academia, o Laboratório da Paisagem, a Estrutura de Missão
+Guimarães 2030, o Centro de Valorização de Resíduos (CVR), as Escolas, Associações de apoio social à comunidade e entidades que promovam a valorização destes resíduos numa ótica de economia circular, e colocação desses produtos novos num ciclo de vida alargado.
+2. Mapeamento dos resíduos têxteis do concelho;
+b. Análise dos circuitos de recolha indiferenciados e verificação da percentagem e do tipo de resíduos têxteis existentes;
+c. Verificação pelas equipas de recolha de resíduos urbanos, dos locais onde aparecem os resíduos têxteis antes de consumo;
+d. Análise da localização dos resíduos têxteis com as empresas da localidade;
+e. Inquéritos às empresas do destino dos resíduos têxteis;
+f. Análise da localização dos contentores de resíduos têxteis pós consumo, e das quantidades mensais recolhidas, com vista à sua valorização.
+3. Colocação de contentores de recolha seletiva em Escolas e Freguesias do Concelho;
+a. Considerando a necessidade de alcançar toda a população, será lançado um projeto nas escolas do concelho e nas Juntas de Freguesia, com vista à sensibilização para as quantidades de resíduos têxteis pós consumo, sem qualquer valorização e de modo a promover a sua separação e reciclagem;
+b. Monitorização das quantidades de resíduos desviados de aterro;
+c. Promoção de novos produtos, através da valorização destes resíduos.
+4. Implementação de sistema de recolha seletiva;
+a. Através da taxação do serviço, pelo sistema Pay-as-you-throw, colocação de contentores para a recolha seletiva de têxteis antes de consumo, com vista à sua valorização para possibilidade de criar matérias primas para outras empresas.
+5. Desenvolvimento e implementação de programa de Educação Ambiental nas Escolas para a importância da separação seletiva de resíduos têxteis;
+a. Abordando o desperdício e a pegada ecológica dos resíduos têxteis, da necessidade da minimização da produção, da reutilização e reciclagem destes materiais, integrando ainda com Associações Locais que promovam ações nas áreas sociais.
+MEDIDA 14 – Reforço da recolha seletiva de resíduos perigosos (Ação OB.II.3.3)
+No que concerne aos resíduos perigosos, o Município de Guimarães pretende aumentar a recolha seletiva desta tipologia, através da sua receção nos dois Ecocentros do município, ou a pedido.
+MEDIDA 15 – Reforço da recolha seletiva de resíduos volumosos (Ação OB.II.3.3)
+Relativamente ao reforço da implementação da recolha de resíduos volumosos, o Município de Guimarães pretende aumentar a sua recolha seletiva através da receção nos dois Ecocentros do Município, em centros de doação, e reforçando a recolha a pedido destes resíduos.
+MEDIDA 16 – Reforço da recolha seletiva de Resíduos de Construção e Demolição
+(RCD) (Ação OB.II.3.3)
+Esta medida tem como objetivo aumentar a recolha e o encaminhamento dos RCD para valorização, assim como evitar a sua deposição e abandono na via pública. Para tal, o Município de Guimarães pretende reforçar a recolha dedicada a pedido de RCD, provenientes de pequenas reparações ou obras privadas, efetuadas em habitações, pelo proprietário ou arrendatário.
+MEDIDA 17 – Reforço da recolha seletiva dos resíduos de papel, vidro e cartão (Ação
+OB.II.3.3)
+Esta medida tem como objetivo aumentar a recolha seletiva dos resíduos de papel, vidro e cartão, acompanhando a implementação do sistema PAYT a todo o território de abrangência do Município.
+Assim, será reforçada a recolha desta tipologia de resíduos em regime PaP e por proximidade, de acordo com o cronograma de implementação do PAYT. Esta medida será realizada em plena colaboração com as entidades envolvidas e responsáveis pela sua recolha.
+MEDIDA 18 – Construção de central de compostagem de resíduos verdes recolhidos seletivamente (OB.II.4.1)
+Considerando a elevada quantidade de resíduos verdes produzidos pelo município, conjugando ainda com o potencial de recolha nas habitações particulares, é do interesse municipal que no decorrer dos próximos anos, e em conjunto com as práticas de compostagem doméstica e comunitária, se concretize um projeto de valorização interna destes resíduos, através da criação de uma minicentral de compostagem para RV. Será possível efetuar um processo de compostagem em pilha envolvida, misturando 25% de resíduos de relva, lenhosos, cemitérios e varredura, conseguindo-se pelo menos uma valorização de 1250 t/ano.
+Os impactes expectáveis do Eixo II – Gestão de Recursos, envolvem a promoção da redução, reutilização e valorização de resíduos, em consonância com a hierarquização dos processos de gestão de resíduos; a mobilização dos vários intervenientes para a adoção de práticas que reduzam a fração orgânica na recolha indiferenciada; a implementação de um serviço de recolha seletiva que garanta maior quantidade de biorresíduos recolhidos, menor grau de contaminação e com elevado grau de acessibilidade, iniciado no centro do concelho e que ao longo do tempo se expanda até abranger todo o território, o aumento do grau de consciencialização dos produtores face à quantidade de resíduos produzidos diariamente e respetivo tratamento; a criação de uma metodologia e de uma estratégia que valorize a compostagem caseira e comunitária; a promoção da utilização do composto resultante da valorização dos biorresíduos, nos espaços verdes municipais, concebendo uma alternativa de mini-compostagem para estes resíduos; e ainda a inovação e o envolvimento na forma de comunicar com o cidadão.
+6.3 EIXOIII – OPERACIONALIZÃO
+MEDIDA 19 – Reforço do sistema PAYT a todo o território (Ação OB.IV.2.2)
+Os sistemas PAYT fundamentam-se na aplicação simultânea de dois princípios essenciais de políticas ambientais: o princípio do poluidor-pagador e o conceito de responsabilidade partilhada. De acordo com esses princípios, os munícipes devem assegurar os custos gerados pela sua parcela de responsabilidade na cadeia de consumo. O PAYT tem como objetivo modificar o Sistema Municipal de Gestão de Resíduos Urbanos (SMGRU), tratando cada utilizador de maneira equitativa e distinta.
+Os custos suportados pelos utilizadores estão diretamente relacionados à sua efetiva produção de resíduos, promovendo a redução e reciclagem de resíduos na origem e observando-se consequentemente uma redução na fatura mensal referente à gestão dos mesmos. O sistema PAYT pressupõe a aquisição de sacos, tornando o sistema pré-pago no caso dos resíduos indiferenciados, e a taxação realizada por volume.
+Este sistema foi implementado em 2016 no Município de Guimarães, abrangendo a área do Centro histórico de elevada densidade de construção, com um total de 682 utilizadores. Importa salientar que o Município de Guimarães foi o primeiro a nível nacional a introduzir o sistema PAYT, e desde a sua implementação foi aumentado o espetro da população servida, assim como, os resolvidos os diversos desafios da sua implementação através de práticas inovadoras, sendo ainda reconhecido como uma das melhores práticas no âmbito da gestão de resíduos na Europa. Em 2022, o sistema
+PAYT sofreu a sua 3º fase de implementação, compreendendo um universo de 12.000 utilizadores, 500 dos quais, estabelecimentos comerciais e canal Horeca. Em 2022, o programa reduziu com sucesso os resíduos indiferenciados para 172 kg per capita/ano, aumentou em 115 kg per capita/ano a recolha trifluxo, e apresentou uma taxa de recolha de biorresíduos em aproximadamente 30% (cerca de 1000 toneladas). Em 2023, o sistema PAYT sofreu a sua 4º fase de implementação, aumentando para 55 000, o número de utilizadores. Relativamente aos resultados do sistema PAYT, verifica-se que todas as categorias (vidro, papel/cartão e embalagens) apresentam aumentos substanciais de 2022 a 2023. A recolha do fluxo de embalagens sofreu um aumento de 19,25%, o fluxo de papel/cartão aumentou 8,29% e o fluxo de vidro aumento 2,21%, em contraciclo com os valores da recolha deste fluxo em ecopontos em 2023. Os dados da recolha seletiva de biorresíduos em 2023, indicam um aumento substancial do quantitativo obtido em 2022, tendo sido recolhidas 6181,90 toneladas/biorresíduos, o que representa um aumento percentual de 515%.
+O objetivo será o alargamento deste sistema a todo o território do Município de Guimarães. O sistema PAYT compreende a aquisição de sacos pré-pagos para efetuar a separação dos resíduos, sendo os sacos referentes aos resíduos recicláveis distribuídos gratuitamente. Posteriormente, esta recolha PaP é efetuada pela empresa VITRUS. Os sacos para recolha dos resíduos indiferenciados custam 0,195€ (15 L de capacidade) e 0,975€ (100 L de capacidade).
+Atualmente, o Câmara Municipal de Guimarães pretende alargar o sistema PAYT a todo o território municipal, considerando as seguintes metas:
+▪ Até 2025 alargar a 58% da população;
+▪ Até 2028 abranger 75% da população;
+▪ Até 2030 ampliar para 100% da população.
+O alargamento do PAYT ao restante município promove o incentivo à separação dos resíduos recicláveis e, consequente redução ao longo do tempo dos resíduos indiferenciados produzidos. De acordo com o estabelecido no PERSU 2030, os municípios que priorizarem o sistema PAYT são encorajados a atingir em 2025 a meta de 75% da população coberta por este sistema. Considerando este cenário, e de acordo com a informação cedida pelo Município de Guimarães, esta meta apenas será cumprida em 2028. Não obstante, o Município pretende ir além do estipulado no PERSU 2030 e abranger 100% do território municipal no ano de 2030. Esta medida prevê a adaptação dos contentores de proximidade existentes de superfície, semienterrados e enterrados existentes com tecnologias de controlo de acesso e a distribuição de contentores individuais para o sistema de recolha
+PAP, além de a aquisição de software de gestão da informação.
+MEDIDA 20 – Qualificação dos recursos humanos (Ação OB.V.5.1)
+A qualificação de todos os recursos humanos internos envolvidos na recolha e tratamento dos fluxos recolhidos seletivamente é dos principais pilares para a plena implementação do PAPERSU 2030.
+Assim sendo, o Município de Guimarães pretende desenvolver um conjunto de ações de formação, workshops, resultantes da implementação e da respetiva fiscalização da implementação do plano.
+MEDIDA 21 – Reforço da fiscalização do cumprimento das regras previstas nos Regulamentos Municipais direcionadas para gestão de resíduos (Ação OB.V.7.2)
+A monitorização e fiscalização deste plano será uma das chaves para a sua implementação. Assim sendo, o Município de Guimarães pretende reforçar a monitorização, com foco na correção de ações com desvios na sua implementação. Para tal, será criada uma equipa de avaliação da implementação do plano, que terá como principais objetivos, acompanhar a implementação das ações propostas, identificar as ações desviantes e propor ações de correção para as mesmas. Esta equipa multidisciplinar será composta por elementos da Camara Municipal de Guimarães, Vitrus e Laboratório da Paisagem.
+MEDIDA 22 - Organização de sessões de esclarecimento e sensibilização (Ação
+OB.VI.2)
+Desenvolvimento de campanhas de informação e sensibilização sobre a participação na recolha seletiva com o objetivo de aumentar a quantidade e qualidade dos resíduos recolhidos. Para além disso, pressupõe-se a produção de materiais de comunicação sobre o desempenho do município quanto à evolução da recolha e tratamento de resíduos. Direcionar campanhas de sensibilização para pequenos e grandes produtores de modo a conseguir uma correta gestão de resíduos.
+Os impactes expectáveis do Eixo III – Operacionalização, estão relacionadas com o aumento da quantidade de biorresíduos recolhidos seletivamente e a promoção da compostagem doméstica e comunitária. Adicionalmente, a aplicação do princípio do poluidor-pagador pela diferenciação de sistemas de tarifação consoante a produção de resíduos apresenta benefícios em termos ambientais, por estímulo à redução da produção de resíduos e aumento da reciclagem, da equidade entre utilizadores e do equilíbrio económico-financeiro das entidades gestoras.
+6.4 Quantitativos 2023-2030
+6.1.1. Produção de Resíduos Urbanos
+A projeção da produção de RU até 2030, que se apresenta na Tabela 11, assenta nas premissas indicadas no PERSU 2030: (1) estabilização do valor da produção na situação de referência (valores de 2022) e (2) estabilização da população no ano de referência (valores para 2022). No entanto, a Câmara Municipal de Guimarães entende que as medidas propostas no PAPERSU Guimarães 2030, terão um efeito disseminador na redução da produção de resíduos (indiferenciados e seletiva). Como tal, a projeção utilizada para a quantificação de RU produzidos no município de Guimarães prevê uma redução da sua produção a partir do ano do ano de 2027. A redução da produção de RU no município de Guimarães em 2030 será de 15% do total RU produzidos no ano de referência (2022).
+Importa salientar que esta redução será expectável ocorrer na produção de resíduos indiferenciados, mas também em alguns fluxos de resíduos que serão recolhidos seletivamente.
+Tabela 11. Produção de RU projetada até 2030 para o município de Guimarães.
+Item	Unidade 2022	2023 2024 2025 2026 2027 2028 2029 2030
+População	Hab.	156 849
+Produção
+RU	ton 71175 70665 71175 71175 71175 71089 69049 64378 60426
+Capitação Produção de RU
+Kg/hab 454	451	454	454	454	453	440	410	385
+6.1.2. Recolha de Resíduos Indiferenciados, Recolha Seletiva e Tratamento na Origem
+Com base na projeção da produção de RU e com as medidas prevista neste plano estratégico do município de Guimarães, é possível projetar a produção de Resíduos Indiferenciados, Recolha
+Seletiva e Tratamento na Origem no município de Guimarães até 2030. Na tabela 12 apresenta-se a evolução da recolha de resíduos (indiferenciados e seletiva) e de resíduos captados em sistemas de reciclagem e tratamento na origem (compostagem doméstica e comunitária) no município de Guimarães de 2022 (ano de referência) até 2030. Importa salientar que os valores da recolha seletiva de resíduos de embalagens (trifluxo) foi mantido constante ao longo do tempo, pois a sua recolha não é da responsabilidade da Câmara Municipal de Guimarães, mas sim, da entidade Resinorte. Assim sendo, para a recolha seletiva de resíduos de embalagens (trifluxo), apenas foi considerada a variação homologa ao longo do tempo da implementação da recolha PaP e do sistema PAYT no município de Guimarães.
+Relativamente ao tratamento ou reciclagem na origem foi considerado um rácio de produção de composto de 30% para a compostagem doméstica e 40% para a compostagem comunitária e minicentral de compostagem.
+Tabela 12. Evolução da recolha de resíduos (indiferenciados e seletiva) e de resíduos captados em sistemas de reciclagem e tratamento na origem
+(compostagem doméstica e comunitária) no município de Guimarães de 2022 (ano de referência) até 2030.
+RECOLHA (toneladas)	2022	2023 2024 2025 2026 2027 2028 2029 2030
+Recolha Indiferenciada Total 58 215 49 340 42 030 39 268 36 164 33 336 27 794 22 525 18 492
+Recolha Seletiva Total	12 960 21 325 29 145 31 907 35 011 37 753 41 255 41 853 41 934
+Recolha Seletiva (3F)	9619	9716 10213 11831 13450 15068 16184 16184 16184
+Vidro	4 157	3 918 4 131 4 424 4 718 5 012 5 214 5 214 5 214
+Papel/cartão
+(embalagem/não embalagem)
+3 380	3 691 3 570 4 267 4 965 5 663 6 144 6 144 6 144
+Plástico, metal e ECAL	2 083	2 107 2 513 3 140 3 767 4 394 4 826 4 826 4 826
+Recolha Seletiva Biorresíduos 1 176	6 323 12 945 13 613 14 602 15 294 19 178 20 054 20 953
+Biorresíduos Orgânicos	1006	6198 9624 9955 10599 10937 14392 14825 15257
+Resíduos Verdes	170	125	3321 3658 4003 4357 4786 5230 5697
+Outras Recolhas seletivas	2 165	5 287 5 987 6 463 6 959 7 391 5 892 5 614 4 796
+Têxteis	0	0	500	750 1 000 1 250 1 250 1 250 1 000
+Volumosos	1 057	1 746 1 921 2 113 2 324 2 556 2 200 2 000 1 750
+Perigosos	0,00	0,00	0,50	0,6	0,6	0,67 0,73 0,81 0,89
+OAU	31	31	33	35	37	39	41	43	45
+REEE	91	104	100	110	120	120	120	120	100
+RPA	0,48	0,48	0,50 0,50 0,50 0,50 0,60 0,60 0,60
+Frações não embalagem -
+plástico, metal	303	298 303 303 303 250 250 200 150
+Madeira	682	703	724	746	769	769	780	750	750
+L. Ruas e Esgotos	0	2 405 2 405 2 405 2 405 2 405 1 250 1 250 1 000
+Produção total (toneladas) 71 175 70 665 71 175 71 175 71 175 71 089 69 049 64 378 60 426
+População servida (hab)	156 849
+Capitação (Kg/hab.ano)	454	451	454	454	454	453	440	410	385
+Tratamento na Origem
+Compostagem doméstica	0	0	72	71	71	71	101 101 100
+Composto produzido	0	0	21	21	21	21	30	30	30
+Compostagem comunitária	0	0	3437 3430 3421 3410 6406 6381 6356
+Composto produzido	0	0	1375 1372 1368 1364 2562 2552 2542
+6.1.3. Metas vinculativas
+Apesar do município de Guimarães não estar sujeito a metas quantitativas vinculadas ao PERSU
+2030, os resultados da gestão de resíduos urbanos (RU) projetada para 2030, especialmente no que diz respeito às atividades sob sua responsabilidade contribuem para o cumprimento das metas estabelecidas pelo sistema de gestão de resíduos urbanos (SGRU) competente no território, neste caso, a Resinorte.
+7. Impacto Tarifário Indicativo
+Com base nas medidas apontadas, estima-se que o investimento atinja um valor acumulado de cerca de 7,8 milhões de euros (valores detalhados no formulário submetido). Este valor será suportado em parte pelo sistema tarifário proposto e, em vigor, no atual plano municipal de recolha de resíduos urbanos e por eventuais financiamentos externos, nomeadamente, o Fundo Ambiental e Programas
+Operacionais Regionais. Importa salientar que este plano será complementado com outras operações previamente cofinanciadas pelo Fundo de Coesão, através do Programa Operacional Sustentabilidade e Eficiência no Uso de Recursos, designadamente: a Operação POSEUR-03-1911-FC-000044
+“Implementação do PAYT no Centro Histórico de Guimarães” e a Operação POSEUR-03-1911-FC-000156 “Implementação do PAYT na Zona Envolvente ao Centro Histórico de Guimarães”.
+Contudo, estes apoios não serão suficientes face à escala dos desafios e investimentos necessários ou face ao potencial acréscimo na tarifa cobrada pelos sistemas em alta. Importa também salientar e/ou clarificar qual o futuro valor da Taxa de Gestão de Resíduos (TGR). Considerando que à recolha seletiva de biorresíduos e dos outros fluxos não será aplicada a TGR, esta será também deduzida na cobrança atualmente imputada aos cidadãos. Conforme foi referido, o PAPERSU de Guimarães também prevê a aplicação do sistema SAYR aos utilizadores que comprovem que efetuam compostagem doméstica, assim como dos utilizadores com recolha seletiva de orgânicos que levantem entre 12 a 16 sacos mensais para os resíduos orgânicos e os depositem na via pública, durante todo o ano. Desta forma, os utilizadores conseguirão uma redução mensal de 2% do tarifário em relação ao ano de 2023.
+Relativamente ao impacto tarifário indicativo para 2030, foram considerados os valores dos investimentos totais identificados no presente PAPERSU 2030 e os potenciais custos de operação da implementação dos sistemas de recolha de biorresíduos e implementação do sistema PAYT. Foi considerada uma percentagem da fração indiferenciada presente nos resíduos urbanos de Guimarães de 10%, em 2030. Foi igualmente considerada a ausência do pagamento do custo com a TGR cobrado aos utilizadores finais e uma taxa nula (zero) de tratamento aos biorresíduos, provenientes da recolha seletiva, admitindo a adoção, ao nível do SGRU, da Recomendação n.º 4/2023 da ERSAR. Foi considerado o valor da TGR de 35 €/t para a fração indiferenciada. Considerando os valores comunicados pelo município de Guimarães à ERSAR (dados 2021), atualmente o custo médio cobrado pela recolha de resíduos urbanos é de 79,12 €/alojamento/ano. Considerando os valores calculados para o ano de 2030, o tarifário indicativo da implementação do PAPERSU 2030 de Guimarães será de 100 €/alojamento/ano. Este impacto expectável corresponderá a um aumento de 26,4%, relativamente ao atual valor médio cobrado pelo Município. Importa salientar, que estes dados e valores, poderão modificar-se com a plena implementação e otimização de todos os sistemas de recolha seletiva propostos. Este valor tarifário indicativo assegura a viabilidade financeira da recolha seletiva de todos os sistemas propostos, assim como, do PAPERSU do município de Guimarães.
+8. Conclusões Finais
+A elaboração do Plano de Ação para o cumprimento do PAPERSU 2030 de Guimarães visou a identificação das prioridades estratégicas e das ações a desenvolver pela Câmara Municipal de Guimarães (CMG) para a gestão dos RU na respetiva área de intervenção. Este Plano de Ação articulou-se com as orientações do Plano Estratégico para os Resíduos Urbanos (PERSU 2030), aprovados pela Resolução do Conselho de Ministros a 24 de março de 2023, bem como com as políticas e estratégias europeias e a legislação nacional em vigor aplicável ao setor, tendo como horizonte temporal o ano 2030.
+De acordo com estas orientações, os objetivos e visão apresentados neste Plano de Ação do Município focou-se na prevenção da produção de resíduos e no aumento da preparação para reutilização, reciclagem e outras formas de valorização dos RU, através da promoção da recolha seletiva e tratamento adequado e implementação de sistemas de operacionalização mais sustentáveis, do ponto de vista técnico, ambiental e económico, como é o caso, da implementação do sistema de recolha PAYT.
+Desta forma, foram definidas 22 medidas e ações enquadradas nos três eixos de ação: Eixo 1 –
+Prevenção; Eixo 2 – Gestão de Recursos; Eixo 3 – Operacionalização. De forma genérica, este Plano
+Estratégico reforça o compromisso do Município de Guimarães na implementação de sistemas de recolha seletiva de biorresíduos, na implementação e reforço de sistemas de recolha seletiva de outros fluxos de resíduos, como é o caso, dos resíduos têxteis, RPA e REEE, OAU, RCD, perigosos, volumosos e papel, vidro e cartão. Além disso, reforça a importância do tratamento na origem dos biorresíduos, através da implementação de sistema de compostagem doméstica, comunitária e municipal (unidade de compostagem para resíduos verdes). Alicerçando todos estas medidas e ações, encontra-se o reforço e ampliação do sistema tarifário PAYT a todo o território de abrangência, focando a sua implementação em sistemas de recolha PAP.
+Os resultados expectáveis da aplicação destas medidas e ações propostas no PAPERSU 2030 de Guimarães, assim como, do elevado compromisso financeiro associado à sua implementação, reforçam os objetivos do Município em matéria de sustentabilidade e proteção ambiental e de viabilidade económico-financeira do serviço de gestão de RU.

@@ -1,0 +1,46 @@
+Nota Técnica relativa a Recolha Seletiva de Biorresíduos
+Versão 1: janeiro de 2025
+A Diretiva-Quadro Resíduos (DQR)1, na sua versão de 2018, transposta para o direto nacional através do RGGR - Regime Geral de Gestão de Resíduos2, estabelece como uma das prioridades de atuação, o reforço da recolha seletiva, bem como o correto tratamento dos biorresíduos.
+Nesta matéria, é definido que os biorresíduos devem ser recolhidos seletivamente (e não ser misturados com outros tipos de resíduos) ou separados e reciclados na origem.
+No que respeita à recolha seletiva de biorresíduos, o RGGR determina no seu artigo 30.º [Biorresíduos], ponto 4, que a Autoridade Nacional de Resíduos (ANR) deve estabelecer, níveis de qualidade para a entrega de biorresíduos nas instalações em alta.
+O RGGR define ainda no artigo 36.º [Recolha seletiva de resíduos], ponto 11, que a ANR pode estabelecer uma percentagem máxima de contaminantes em cada uma das frações, neste caso biorresíduos, para que a recolha possa ser considerada seletiva.
+Recordar neste âmbito que, para efeitos de contabilização de metas, conforme estabelecido no Anexo VI do RGGR, a partir de 1 de janeiro de 2027 apenas serão considerados os quantitativos de biorresíduos provenientes de recolha seletiva.
+Neste sentido, e para que a recolha seja considerada seletiva, a percentagem máxima de contaminantes dos biorresíduos, a considerar em 2025, à entrada das instalações de tratamento, não poderá ser superior a 12%, em peso. Contudo, nas situações em que os sistemas de gestão de resíduos urbanos tenham já alcançado, por via da maturidade dos seus sistemas, níveis de contaminação inferiores ao limite estabelecido, devem prevalecer os valores atuais como limite máximo de contaminantes.
+As cargas de biorresíduos provenientes da recolha seletiva que, após um processo de inspeção para avaliação da sua conformidade, apresentem níveis de contaminação superiores à percentagem máxima estabelecida, são consideradas não conformes e, por conseguinte, não deverão ser consideradas para efeitos da contabilização dos quantitativos de recolha seletiva.
+Para aferição da conformidade das cargas rececionadas definem-se de seguida as categorias e subcategorias de resíduos considerados como não contaminantes / contaminantes na recolha seletiva de biorresíduos:
+1 Diretiva 2008/98/CE o Parlamento Europeu e do Conselho, de 19 de novembro de 2008
+2 Publicado pelo Anexo I do Decreto-Lei n. º 102-D/2020, de 10 de dezembro, na sua atual redação
+Categorias	Subcategorias
+Resíduos não contaminantes
+Resíduos alimentares
+Restos de preparação de alimentos, alimentos cozinhados
+Resíduos verdes
+Fração vegetal de pequeno porte e de tipo não lenhoso (flores; ervas daninhas; relva;
+pequenos ramos; folhas)
+Resíduos de poda
+Fração vegetal de grande porte e lenhosa, provenientes de árvores ou arbustos, que requer uma trituração prévia à sua valorização e, por conseguinte, uma recolha específica e diferenciada da recolha seletiva de biorresíduos
+Outros resíduos putrescíveis3
+Embalagens compostáveis, sacos compostáveis, materiais e produtos rígidos compostáveis (pratos, copos, talheres), papel de cozinha, guardanapos de papel, rolhas, serradura, materiais de madeira natural (palitos de gelado, palitos de comida.
+Finos < 20mm
+Resíduos contaminantes
+Papel/Cartão
+Caixas de cartão, papel de jornal, revistas, correspondência, publicidade ou outros materiais de papel ou cartão.
+Plástico
+Embalagens e não-embalagens, incluindo filmes. São considerados todos os tipos de plásticos (PE, PP, PS, PVC, PA, etc.) e produtos considerados mistos (ECAL, etc.), exceto os plásticos considerados compostáveis.
+Sacos de plástico
+Sacos de plástico não compostáveis3, quer se trate dos chamados sacos do lixo ou dos sacos de compras.
+Metais ferrosos	Embalagens e não-embalagens
+Metais não ferrosos
+Embalagens e não-embalagens (cobre, alumínio, chumbo, etc.)
+Vidro	Embalagens e outros materiais de vidro.
+Têxteis	Roupa e calçado.
+Têxteis sanitários	Fraldas, compressas, gazes, ligaduras, etc.
+3 Caso a instalação não tenha condições comprovadas para o tratamento dos resíduos e materiais compostáveis, mesmo que certificados, devem ser considerados contaminantes. Também no caso dos resíduos de papel de cozinha e guardanapos de papel, a sua aceitação nas unidades de valorização deve ser condicionada à existência de condições ao nível dos respetivos processos de tratamento, podendo ser estabelecidos níveis máximos para aceitação destes resíduos de forma a não comprometer os processos de tratamento.
+Categorias	Subcategorias
+Resíduos volumosos
+Resíduos com dimensões superiores a 50 cm de lado (e com um diâmetro superior a 2 cm) ou com mais de 25 litros de capacidade.
+Resíduos perigosos
+Resíduos classificados como perigosos de acordo com a Lista Europeia de Resíduos, LER, publicada pela Decisão 2014/955/UE, da Comissão, de 18 de dezembro (pilhas, baterias, medicamentos, embalagens de medicamentos, sprays, produtos fitossanitários, frascos de tinta - cheios e vazios – lâmpadas fluorescentes, etc.)
+Outros resíduos
+Inclui todos os resíduos que não podem ser classificados nas subsecções acima mencionadas: madeira envernizada, cinzas, cápsulas de café, detritos, maços de tabaco, materiais cerâmicos, produtos embalados, esfregões, velas, cabos, lápis canetas, etc.
+Os níveis de contaminação e as categorias/subcategorias de contaminantes poderão ser revistos sempre que se considerar necessário, tendo em vista o cumprimento de metas e a obtenção de composto com qualidade.

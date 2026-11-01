@@ -1,0 +1,752 @@
+4
+SUMÁRIO EXECUTIVO
+A Diretiva (UE) 2018/851 do Parlamento Europeu e do Conselho veio estabelecer a obrigatoriedade dos Estados-Membros assegurarem, até 31 de dezembro de 2023, a separação e reciclagem dos biorresíduos na origem ou a sua recolha seletiva.
+O presente estudo decorre dessa obrigatoriedade e consiste num apoio técnico ao município de Guimarães na escolha do modelo recolha seletiva e valorização dos resíduos orgânicos e de verdes, que representam 37% e 7% respetivamente.
+Considerando que a gestão dos Biorresíduos é da responsabilidade municipal, compete ao Município de Guimarães definir os melhores sistemas para a prevenção da produção e de recolha de modo eficaz e eficiente.
+De modo a apoiar este esforço de planeamento, o Fundo Ambiental, enquanto instrumento financeiro de apoio à política ambiental do Governo, criou o «Programa de Apoio à Elaboração de Estudos Municipais para o Desenvolvimento de Sistemas de Recolha de Biorresíduos».
+Ciente do seu papel na gestão dos Biorresíduos e da sua importância para a sustentabilidade ambiental do concelho, o Município de Guimarães apresentou uma candidatura ao Programa, que resultou na elaboração do presente “Estudo Municipal para o Desenvolvimento de um Sistema de Recolha de Biorresíduos”.
+O Estudo permitiu identificar as melhores soluções a implementar no concelho, com vista a assegurar que os Biorresíduos são separados e reciclados na origem ou recolhidos seletivamente. Assim, e após a elaboração e simulação de vários cenários, a opção recaiu, maioritariamente, no modelo de recolha seletiva porta-a-porta e compostagem (doméstica e comunitária) e recolha de resíduos verdes.
+Pretende-se com este plano definir um cronograma de ação que decorrerá entre 2021 e 2030, com definição de indicadores mensuráveis do resultado esperado, englobando uma estratégia para a diminuição da produção de resíduos na fonte. Um plano capaz de promover a compostagem caseira e comunitária, que mobilize todos os agentes, nomeadamente a restauração, hotelaria, a comunidade escolar, lares, residências, hospitais e a população em geral. 2020 é o ano de arranque deste plano, marcando o início da recolha seletiva de Biorresíduos em Guimarães, nas áreas com maior densidade populacional e com maior número de serviços, capazes de produzirem biorresíduos. Posteriormente, será alargado a todo território, atingindo toda a população até 2030.
+O plano aqui apresentado, incluiu a criação de um “Focus Group”, com vários atores envolvidos na área da gestão de resíduos, que permitiu o desenvolvimento de uma estratégia global que apresenta como principais pilares o cidadão, a informação/ sensibilização e a partilha de conhecimento, suportada pela melhores práticas europeias. Pretende-se que o “Focus Group” se mantenha um papel relevante, monitorizando todas as fases do plano.
+A recolha seletiva de Biorresíduos será sempre complementada pelo início do sistema tarifário PAYT, de modo a beneficiar quem separa esta fração, e será agregada à recolha seletiva porta-a-porta.
+Esta análise é apoiada no “Simulador de Sistemas de Recolha de Biorresíduos
+– Versão 1.3”, ferramenta de suporte à elaboração dos Estudos Municipais, disponibilizada pelo Fundo Ambiental.
+5
+Deste Estudo resultou a proposta de soluções que o Município considera serem as mais adequadas à estratégia de gestão de Biorresíduos até 2030, um plano centrado na transformação do cidadão e do território, e que procura, suportado pelo Ecossistema de Governança – Guimarães 2030, promover o envolvimento do setor público e privado, da Academia, das associações e dos cidadãos.
+
+10
+NOTA INTRODUTÓRIA
+O Plano de Gestão de Biorresíduos de Guimarães 2030 (PGBG2030), pretende definir a estratégia e as ações a desenvolver pelo Município de Guimarães, quanto à gestão desta fração em toda a área do concelho, em articulação com as políticas nacionais e europeias em matéria de gestão de resíduos.
+O Plano tem como horizonte temporal o ano de 2030, integrando uma componente importante da Estratégia da Estrutura de Missão para o Desenvolvimento Sustentável 2030.
+Este Plano foi apoiado pelo Programa de Apoio à Elaboração de Estudos Municipais para o Desenvolvimento de Sistemas de Recolha de Biorresíduos, do Fundo Ambiental. O Plano prevê a elaboração de um diagnóstico que conduza à definição de um plano de ação e de investimento para a operacionalização da recolha seletiva de biorresíduos conducente à sua valorização, seja através da implementação de uma rede de recolha seletiva de biorresíduos, seja pela separação e reciclagem na origem através implementação da compostagem doméstica ou comunitária, alinhados com a estratégia definida ou a definir pelos sistemas de gestão de resíduos urbanos (RU).
+A cidade de Guimarães tem, ao longo dos últimos anos, sido alvo da concretização de um novo desafio, especificamente direcionado para o desenvolvimento de um Município verdadeiramente sustentável sob o ponto de vista ambiental.
+Em 2013, o Município de Guimarães estabeleceu como prioridade das políticas públicas municipais, a aposta no desenvolvimento sustentável, com o claro objetivo de melhorar a qualidade de vida dos cidadãos residentes. Implementou para isso um modelo de governança – “Guimarães 2030: Ecossistema de governança” – inovador, dinâmico e participativo. As bases deste modelo assentam no envolvimento dos cidadãos, na ligação à Academia, na partilha de conhecimento e na transformação digital essencial ao combate dos desafios do futuro. Este percurso de desenvolvimento sustentável tem sido reconhecido inúmeras vezes, comprovando-se que as ações implementadas, bem como o envolvimento cada vez mais significativo dos cidadãos, confluem para um território em fase de franca descarbonização. É esse modelo de governança que tem permitido liderar pelo exemplo, percebendo que é nas ações locais que começamos a transformação global. Um modelo de governança que tem sido capaz de promover o envolvimento de toda a população assegurando o envolvimento dos cidadãos e uma relação mais próxima entre o setor público, o setor privado e a Academia, em projetos que respondam aos principais desafios ambientais do concelho. Este modelo de ecossistema de governança, é, pois, uma plataforma de discussão e reflexão sobre os grandes temas do desenvolvimento sustentável, alicerçada no conhecimento, na inovação, na participação, na cooperação e na divulgação.
+Consequente desta dinâmica, em 2017 foi apresentada Candidatura de Guimarães a Capital Verde Europeia 2020, juntamente com mais 13 cidades europeias.
+Não obstante o sucesso alcançado, urge continuar a trabalhar na implementação de medidas que potenciem o desenvolvimento e contribuam para a sua sustentabilidade.
+Apostando em novos projetos e ações que tenham em consideração as lições do passado e possam dar resposta aos desafios futuros, tendo sido criada em 2018 a Estrutura de Missão para o Desenvolvimento Sustentável 2030, integrando nesta Estrutura
+11 o Grupo Resíduos e Inovação. Neste sentido, objetiva-se a contínua transformação do território e da população de forma consistente, participativa, integradora e multidisciplinar.
+Um estudo desenvolvido no seio da Estrutura de Missão, em 2015, para avaliar a perceção dos cidadãos face às questões ambientais, demonstrou que para 67% da população, a transformação ao nível do comportamento dos cidadãos era o principal eixo a desenvolver. O programa Guimarães Mais Verde esteve desde a sua génese, focado nesta transformação que teria de ocorrer a dois níveis: criação de condições infraestruturais e necessidade de promover a consciência ecológica, visando a melhoria da qualidade de vida dos cidadãos. Deste modo, o presente Plano, tem o cidadão como o ator principal, nesta nova dinâmica e processo de gerir os resíduos, bem como a cooperação de várias entidades relevantes.
+A gestão integrada de resíduos e a priorização de processos de valorização e tratamento como recurso/matéria-prima, em detrimento da deposição em aterro, contribuem para a minimização do seu impacto ambiental e para a criação de valor a nível socioecónomico.
+A preocupação e aposta da União Europeia na Economia Circular, resultam em metas mais ambiciosas de reciclagem, apoiadas na obrigação da recolha seletiva de biorresíduos a partir de dezembro de 2023, o que implica uma transição para um modelo de recolha seletiva desta fração. Esta ação possui um contributo destacável para a aplicação das políticas atuais de enfoque setorial no âmbito dos resíduos, particularmente para a “eliminação progressiva da deposição de resíduos em aterro, com vista à erradicação da deposição direta de RU em aterro até 2030”.
+Destaca-se ainda um conjunto de documentos recentes, como o Plano de Ação para a Economia Circular (PAEC) em Portugal, o Roteiro para Neutralidade Carbónica 2050 (RNC 2050), o Plano de Ação para a Economia Circular da Comissão Europeia e a Lei n.º 3/2020, de 31 de março. Nestes documentos é posto ênfase na transição para um modelo económico circular e de baixo carbono e é dada prioridade à prevenção da produção de qualquer tipo de resíduos e à sua transformação em recursos secundários de elevada qualidade, que tirem partido do bom funcionamento do mercado das matérias-primas secundárias. Refira-se, ainda, a pretensão da Comissão Europeia em investigar a hipótese de criar um modelo harmonizado, à escala europeia, para a recolha seletiva dos resíduos e a rotulagem dos produtos.
+Em 2030 seremos 8,5 mil milhões de pessoas no planeta. Mais de metade (56 %) serão consumidores de classe média. Mais de metade (59,5%) estarão a viver nos grandes centros urbanos. A revolução industrial despoletou este curso: um PIB global crescente, menos pessoas em pobreza extrema (em 1981: 44% da população mundial, em 2015: 10%), melhores condições de vida e crescimento populacional (PAEC, 2017).
+Assim, é notória a necessidade de mudança de comportamentos, alterando-se os conceitos da economia linear até agora instituídos, para uma economia circular.
+Desta forma, esta mudança de conceitos traduz-se na seguinte estratégia, invertendo-se a tendência e adotando medidas mais circulares, que necessitam de menos recursos naturais e produzem menor pressão ambiental.
+12
+Produção e utilização inteligente
+Prolongar a vida útil dos produtos e das componentes
+Aplicação úteis dos materiais
+• recusar (por exemplo digitalizar)
+• repensar
+• reduzir
+• reutilizar
+• reparar
+• recondicionar
+• remanufaturar
+• realocar
+• reciclar
+• valorizar
+FIGURA 1 ― ESTRATÉGIA PARA A ECONOMIA CIRCULAR (ADAPTADO DE PAEC, 2017).
+O Município de Guimarães constitui um dos municípios, a nível nacional, com maior população residente e com maior densidade populacional. Guimarães tem-se assumido também como uma referência em termos de implementação de medidas de sustentabilidade e promotoras de melhores hábitos e práticas ambientais. O “Estudo prévio sobre a implementação da recolha seletiva em Portugal Continental incindindo em especial sobre o fluxo dos biorresíduos” identifica 118 Concelhos (42% do total) com potencial técnico e económico para a implementação de recolha seletiva de biorresíduos, sendo que Guimarães se enquadra como território com viabilidade para tal, o que se verifica com o estudo à composição física dos resíduos elaborado em 2016, a todos os circuitos de recolha de RU de Guimarães.
+Esta nova recolha seletiva, que obriga a uma mudança de comportamentos e de paradigma da gestão da recolha em Guimarães, será aliada a uma política de forte comunicação para toda a população, mas carece de implementação gradual no concelho.
+Esta necessidade é evidenciada pelas características dispersas, difusas e diferentes dos vários territórios concelhios, no sentido de os processos serem implementados de forma suportada e estruturada, de forma a serem alcançados os melhores resultados a médio e longo prazo, aliado às boas práticas já implementadas de que é exemplo o sistema pay-as-you-throw (PAYT).
+Pretendendo-se aliar o projeto PAYT e esta nova recolha seletiva, alargando-o com o início da recolha seletiva de biorresíduos, criando-se um sistema PAYT adaptado à recolha dos orgânicos, beneficiando o utilizador que efetuar a separação de mais um resíduo, penalizando a fração restante.
+Pretende-se com este plano definir um cronograma de ação que decorrerá a partir de 2021, 2023, 2027 e 2030, com definição de indicadores mensuráveis do resultado esperado, que englobará uma estratégia para a diminuição da produção de resíduos na fonte. Que promova a compostagem caseira e comunitária, que mobilize todos os agentes: como o setor da restauração/hotelaria, hospitalar, a comunidade escolar, lares, residências e a população em geral. Este PGBG2030 inicia no ano zero, 2021, que será o início da recolha seletiva de biorresíduos em Guimarães, nas áreas
+13 com maior densidade populacional e com maior número de serviços, capazes de produzir biorresíduos, e posteriormente será alargado a todo território até 2030. Este alargamento será baseado através da consolidação das vilas como estruturas urbanas qualificadas intermédias, entre um território disperso e a cidade consolidada, valorizando-se a especificidade e singularidade de cada unidade administrativa, reforçando o papel de âncora e referência territorial de proximidade. Desta forma será possível criar uma rede de recolha adaptada a cada pequeno território, englobando-o posteriormente num conceito mais alargado.
+Este processo será necessário para adaptar o esquema de recolha ao território.
+Em especial quanto à frequência, o tipo de recolha (porta-a-porta, deposição em contentor) e os veículos necessários. Sendo ainda necessário adaptar o tipo de saco e/ou contentor a ser usado para a recolha de biorresíduos, consoante o utilizador (agregado familiar ou profissional), bem como a frequência de recolha de outros fluxos, em complemento com o sistema PAYT.
+Quanto às políticas e à estratégia, foram realizadas várias reuniões com a Entidade Gestora em Alta, RESINORTE, para que houvesse uma articulação do sistema de deposição e de recolha a implementar, com a tecnologia possível para tratamento e a sua capacidade.
+Foi realizado um “Focus Group” com vários atores envolvidos na área da gestão de resíduos, que permitiu traçar a estratégia global do presente plano e que teve como principais focos o cidadão, a informação e o exemplo das melhores práticas europeias.
+Realçando-se a necessidade de que o processo tenha uma proximidade com o terreno, e que se realize uma política de minimização da produção de resíduos, que seja incentivada a valorização da compostagem caseira e comunitária, criando incentivos para que toda a população possa aderir, englobando as Brigadas Verdes existentes em cada freguesia, e criar uma ideia de comunicação que promova boas práticas para a diminuição da produção de resíduos e do desperdício alimentar.
+Neste âmbito, Guimarães pretende debruçar-se na sua premissa “Mais do que verde” apostando na transição para um modelo de recolha seletiva da fração biodegradável.
+14
+ENQUADRAMENTO
+DA GESTÃO DOS BIORRESÍDUOS
+O Plano Estratégico para os Resíduos Sólidos Urbanos 2020 (PERSU 2020), definido em consonância com o Plano Nacional de Gestão de Resíduos 2014-2020, define que a gestão dos RU preconiza que os resíduos sejam geridos como recursos endógenos, aproveitando o seu valor socioeconómico e atuando de modo a minimizar os seus impactes ambientais. O PERSU 2020, bem como a sua revisão, constitui-se como instrumento de referência da política de resíduos em Portugal, estabelecendo os objetivos e medidas a implementar no âmbito da gestão de RU. Por Despacho n.º 294/2018, de 5 de janeiro, foi criado um Grupo de Trabalho, cuja missão consistiu em assegurar o processo de realinhamento do PERSU 2020, o designado PERSU 2020+, focado este numa dimensão prospetiva em face das metas previstas ao nível da União Europeia (UE), articulando os ajustes estratégicos em vários domínios, nomeadamente no que respeita aos modelos técnicos e de gestão, com uma abordagem temporal até ao período 2025. O PERSU 2020+ tem como ações prioritárias em matéria de biorresíduos:
+a) Aumentar a recolha seletiva nas zonas com maior potencial de biorresíduos, complementando-se a rede de tratamento através de unidades de compostagem comunitárias, em áreas de menor densidade populacional;
+b) Prosseguir o reforço da recolha seletiva multimaterial, com maior enfoque nas regiões com maior potencial de produção de resíduos de embalagens, mediante a promoção de investimento em sistemas de recolha inovadores (PaP, PAYT, outros);
+c) Ajustar a atual tecnologia do Tratamento Mecânico/Tratamento Mecânico Biológico (TM/TMB) para a receção de biorresíduos de recolha seletiva;
+d) Dinamizar e incrementar campanhas de prevenção e redução de produção de resíduos, como um desígnio no quadro de uma transição para uma economia circular;
+e) Incrementar as campanhas de educação e sensibilização para a sustentabilidade ambiental dos cidadãos, em articulação com a Estratégia Nacional para a Educação Ambiental (ENEA) e a Estratégia de Combate ao Desperdício Alimentar;
+f) Incrementar as ações de sensibilização e fiscalização do setor da restauração (canal Horeca1), pois a sua importância como fonte de material reciclável deve ser objeto de uma atenção particular quanto ao cumprimento da legislação, face ao impacto na quantidade e qualidade dos materiais recolhidos seletivamente.
+Assim, com vista ao cumprimento das metas, a implementação da recolha seletiva de biorresíduos torna-se prioritária, não só para se garantir a meta de preparação para reutilização e reciclagem, como também a meta definida para deposição de resíduos urbanos biodegradáveis (RUB) em aterro.
+A 30 de maio de 2018, foi aprovada a Diretiva (UE) 2018/851 – Diretiva Quadro dos Resíduos (DQR) do Parlamento Europeu e do Conselho que altera a Diretiva 2008/98/CE relativa aos resíduos, que veio a estabelecer a obrigatoriedade de os Estados Membros assegurarem, até 31 de dezembro de 2023, que os biorresíduos são separados e reciclados na origem ou recolhidos seletivamente. A fim de evitar o trata1 Canal HORECA: relativo a ou setor da economia formado pelo conjunto dos hotéis, restaurantes e cafés.
+15 mento de resíduos que relega os recursos para os níveis mais baixos da hierarquia de gestão dos resíduos, por exemplo aterro, e permitir uma reciclagem de elevada qualidade e de impulsionar a utilização de matéria-prima secundária de qualidade.
+A DQR vem afirmar que os resíduos urbanos representam cerca de 10% do total de resíduos produzidos na UE. Esse fluxo de resíduos é, no entanto, dos mais complexos de gerir, que advém da sua composição extremamente complexa e indiferenciada, da proximidade direta dos resíduos produzidos aos cidadãos, da visibilidade pública muito elevada desta questão e do seu impacto no ambiente e na saúde humana. Consequentemente, a gestão dos RU requer um sistema altamente complexo, incluindo um sistema de recolha eficiente, um sistema de triagem eficaz e uma correta rastreabilidade dos fluxos de resíduos, o envolvimento ativo dos cidadãos e das empresas e infraestruturas ajustadas à composição específica dos resíduos.
+A estagnação que se verifica na evolução da taxa da preparação para reutilização e reciclagem, implica que para se atingir a meta proposta para 2030, seja incrementada consideravelmente a recolha seletiva, bem como a eficiência da triagem, a recuperação de recicláveis e a valorização da fração orgânica. O aumento da capacidade nominal de valorização orgânica que se verificou não foi ainda assim suficiente para o cumprimento da meta estabelecida. De acordo com os dados de 2019, o desempenho de Portugal situa-se nos 45% de RUB depositados em aterro, relativamente ao ano de referência 1995.
+No que respeita ao cumprimento da meta de preparação para reutilização e reciclagem, no ano de 2020, em Portugal era necessário atingir 50%, no entanto, apenas foi atingido a taxa de 40%. Os biorresíduos recolhidos seletivamente contribuíram com menos de 3% para a taxa alcançada, o que denota o esforço que Portugal terá de fazer nos próximos anos com vista a concretizar as novas metas.
+No que respeita à RESINORTE, as metas previstas para o ano de 2019, de preparação para reutilização e reciclagem seria de 47%, tendo conseguido alcançar menos 1 ponto percentual (PP). Quanto à percentagem de deposição de RUB em aterro a meta era 45% de ficando a 8 PP dessa meta.
+A DQR visa igualmente aumentar a valorização dos resíduos e reduzir a sua deposição em aterro, estabelecendo as seguintes metas:
+a) Até 2025, aumentar a taxa de preparação para a reutilização e reciclagem de RU para 55%;
+b) Até 2030, aumentar a taxa de preparação para a reutilização e reciclagem de RU para 60%;
+c) Até 2035, aumentar a taxa de preparação para a reutilização e reciclagem de RU para 65% e reduzir a deposição em aterro para um máximo de 10%, o que vem reforçar a necessidade de recolher seletivamente os biorresíduos, dado que estes representam uma fração significativa dos resíduos urbanos em Portugal.
+16
+Assim, a DQR estabelece no artigo 3º o conceito de biorresíduos como “os resíduos biodegradáveis de jardins e parques, os resíduos alimentares e de cozinha das habitações, dos escritórios, dos restaurantes, dos grossistas, das cantinas, das unidades de catering e retalho, e os resíduos similares das unidades de transformação de alimentos” e institui os “resíduos alimentares como todos os géneros alimentícios na aceção do artigo 2º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho que se tornaram resíduos. Acrescenta ainda no artigo 22º da DQR que os Estados-Membros (EM) devem tomar as seguintes medidas:
+a) Incentivar a reciclagem, incluindo a compostagem e a digestão de biorresíduos, de modo a satisfazer um elevado nível de proteção ambiental, e a obter como resultado, um produto que cumpra os elevados padrões de qualidade aplicáveis;
+b) Incentivar a compostagem doméstica;
+c) Promover a utilização de materiais produzidos a partir de biorresíduos.
+Tendo em conta esta atualização do quadro jurídico da UE no que respeita à matéria dos resíduos, foi necessário proceder à revisão do Regime Geral da Gestão de Resíduos, aprovado pelo decretolei n.º 178/2006, de 5 de setembro, através do decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o novo regime geral de gestão dos resíduos (RGGR), sendo introduzidas normas relativas à prevenção da produção de resíduos, prevendo-se objetivos e metas de prevenção tanto ao nível da produção de RU, como medidas com vista à promoção da reutilização, sendo inseridas medidas de redução de resíduos alimentares na restauração e nas cadeias de produção e de abastecimento, incluindo as indústrias agroalimentares, as empresas de catering, os supermercados e os hipermercados.
+É também preparado o caminho para a fixação de medidas de combate ao desperdício alimentar, transpondo ainda a obrigatoriedade (artigo 30º do RGGR), de que caso os biorresíduos sejam provenientes de atividades da restauração e industrial, os seus produtores devem separá-los na origem, sem os misturar com outros resíduos, de acordo com o seguinte cronograma:
+a) Até 31 de dezembro de 2022, no caso de entidades que produzam mais de 25 ton/ano de biorresíduos;
+b) Até 31 de dezembro de 2023, nos restantes casos.
+Reafirmando-se no artigo 26º do RGGR que as entidades responsáveis pelos sistemas municipais de gestão de resíduos urbanos, de acordo com as respetivas competências, operacionalizam a recolha seletiva dos biorresíduos até 31 de dezembro de 2023, sendo esta a responsabilidade do Município de Guimarães, e esta a abrangência do presente Plano. Apenas os biorresíduos provenientes desta recolha, juntamente com a recolha seletiva de outros fluxos urbanos, poderão ser considerados para o cálculo da taxa de preparação para a reutilização e reciclagem de resíduos urbanos, a partir de 1 de janeiro de 2027.
+Aliás, como é referido no documento elaborado pela Secretaria de Estado do Ambiente em julho de 2020, “Biorresíduos contas certas nos resíduos”, investir, primeiro na prevenção, e na recolha seletiva dos biorresíduos contribui para vários objetivos. Não só no que diz respeito ao cumprimento de metas europeias de desvio ou de reciclagem, mas em outros benefícios indiretos que devem ser também contabilizados. Como por exemplo, o composto que é produzido atua não só como um aditivo natural para os solos, mas também como repositório de carbono e fonte de nutrientes.
+Melhora também a mobilidade, o ph e a retenção de água o que, num território cada vez mais ameaçado pela seca, se reveste de particular importância. Importa também
+17 não esquecer a poupança ambiental e económica da substituição dos fertilizantes inorgânicos ou minerais que, além de serem minerados, são fonte dos principais gases de efeito de estufa (GEE) do setor agrícola (óxido nitroso e metano). Todos estes benefícios indiretos da recolha seletiva de biorresíduos, e a sua aplicação no setor agrícola nacional, podem contribuir para a mitigação de emissões de GEE pelo setor agrícola.
+2.1
+BENEFÍCIOS DA IMPLEMENTAÇÃO DA RECOLHA SELETIVA DE BIORRESÍDUOS
+Ao retirar os biorresíduos dos RU estamos a retirar a componente causadora dos GEE pelos aterros, e a canalizar todo o seu potencial (material e gasoso) para sistemas totalmente independentes e fechados. Desse tratamento podem ser extraídos um composto orgânico de qualidade superior. Neste sentido, investir primeiro na prevenção e na recolha seletiva, contribui para vários objetivos, e não só no que diz respeito ao cumprimento de metas europeias de desvio ou de reciclagem.
+Assim, como principais objetivos da separação dos biorresíduos temos:
+a) Redução dos resíduos encaminhados diretamente para aterro;
+b) Melhor composto proveniente da TMB;
+c) Envolvimento da população/comunidade em políticas de minimização de resíduos e de reciclagem e reutilização na origem através da compostagem doméstica e comunitária;
+d) Redução de matérias-primas para a agricultura;
+e) Melhoria da qualidade do solo (nutrientes, retenção de água, carbono).
+Para além dos objetivos em termos de metas ambientais europeias, é incontornável como a recolha e valorização dedicada deste fluxo pode também contribuir, em múltiplas vertentes, para os Objetivos de Desenvolvimento Sustentável 2030 (ODS).
+18
+Em termos diretos, a ação sobre os biorresíduos tem impactes positivos em pelo menos 5 dos 17 ODS:
+Erradicar a fome: até 2030, garantir sistemas sustentáveis de produção de alimentos e implementar práticas agrícolas resilientes, que aumentem a produtividade e a produção, que ajudem a manter os ecossistemas, que fortaleçam a capacidade de adaptação às alterações climáticas, às condições meteorológicas extremas, secas, inundações e outros desastres, e que melhorem progressivamente a qualidade da terra e do solo.
+Energias renováveis e acessíveis: até 2030, aumentar substancialmente a participação de energias renováveis na matriz energética global
+Proteção e consumo sustentáveis: até 2030, reduzir para metade o desperdício de alimentos per capita a nível mundial, de retalho e do consumidor, e reduzir os desperdícios de alimentos ao longo das cadeias de produção e abastecimento, incluindo os que ocorrem pós-colheita e até 2030, reduzir substancialmente a geração de resíduos por meio da prevenção, redução, reciclagem e reutilização.
+Ação climática: integrar medidas relacionadas com alterações climáticas nas políticas, estratégias e planeamentos nacionais.
+Proteger a vida terrestre: até 2030, combater a desertificação, restaurar a terra e o solo degradados, incluindo terrenos afetados pela desertificação, secas e inundações e lutar para alcançar um mundo neutro em termos de degradação do solo.
+Acrescenta-se a estes os específicos do PMBRG2030:
+Pretende-se com o presente plano e com a estratégia criada, formar a população e envolvê-la neste projeto ambicioso, integrando a comunidade escolar através do programa municipal PEGADAS.
+Reforçar a parceria global para o desenvolvimento sustentável, complementada por parcerias multissetoriais que mobilizem e partilhem conhecimento, perícia, tecnologia e recursos financeiros, para apoiar a realização dos ODS. Incentivar e promover parcerias públicas, públicoprivadas e com a sociedade civil que sejam eficazes, a partir da experiência das estratégias de mobilização de recursos dessas parcerias.
+19
+ESTRATÉGIA DO PLANO
+O PGBG2030 é um documento que orienta as prioridades de intervenção na área da gestão de resíduos, com incidência na fração orgânica, tendo por base a alteração do paradigma do sistema de recolha, na qualidade do serviço prestado, no cumprimento de metas ambientais e a mudança comportamental dos agentes da cidade, tanto no aumento dos níveis de reciclagem dos cidadãos, como na diminuição da produção de resíduos juntos dos produtores.
+A visão estratégica para a gestão dos biorresíduos em Guimarães pretende reconhecer que este tipo de resíduo é um recurso, com valor económico acrescentado, num contexto de sustentabilidade ambiental e de uso eficiente dos materiais e produtos. A estratégia que o Município de Guimarães tem vindo a adotar está em linha com os princípios orientadores do PERSU 2020 e PERSU 2020+, na medida em que se pretende promover uma gestão integrada dos resíduos, utilizando processos, tecnologias e infraestruturas adequadas, em estreita colaboração com diversos intervenientes na cadeia de valor dos resíduos.
+A Estratégia traçada pelo Município Guimarães, vai em linha com as melhores práticas europeias e com as diretrizes comunitárias e nacionais. Assim, na gestão dos biorresíduos, pretende-se agir de acordo com a seguinte pirâmide relativa à hierarquia desta fração.
+Compostagem Doméstica
+Compostagem Comunitária de proximidade
+Reduçao produção
+Combate ao Desperdício Alimentar
+Recolha seletiva
+Tratamento Mecânico Biológico
+Aterro Sanitário
+FIGURA 2 PIRÂMIDE HIERÁRQUICA DA GESTÃO DOS BIORRESÍDUOS
+(ADAPTADO DE HTTPS://ZEROWASTEEUROPE.EU/2016/06/URBAN-BIOWASTE-A-SUSTAINABLE-SOURCE-OF-BIOENERGY/ )
+Este plano será posteriormente incorporado no desenvolvimento do Plano Estratégico de Resíduos Urbanos de Guimarães 2030. Com vista a garantir uma estratégia global, integrada, participada, com o principal objetivo no comprometimento em redução da produção de resíduos, e na melhoria contínua do serviço de recolha de resíduos, numa ótica de economia circular e eficiência, redesenhando a relação entre o cidadão e os resíduos.
+20
+Para a elaboração do presente Plano, foram realizadas várias reuniões com a RESINORTE, considerando que é o principal parceiro na gestão dos biorresíduos, de modo a existir uma relação estreita e consertada para que seja possível encontrar as melhores soluções para a recuperação deste tipo de resíduos. Esta parceria é relevante considerando a dimensão territorial da RESINORTE, com conhecimento nos municípios contíguos e também no que respeita às soluções preconizadas para o tratamento deste fluxo e no escoamento do composto.
+A empresa Municipal Vitrus Ambiente, foi outro parceiro que desde o início integrou uma equipa de trabalho, considerando a sua atividade de recolha de RU, bem como na operacionalização do sistema PAYT.
+Um dos parceiros que tem tido um papel fundamental na concetualização da estratégia é o Laboratório da Paisagem de Guimarães, associação que agrega o Município de Guimarães, a Universidade do Minho e a Universidade de Trás os Montes e Alto Douro e que tem como missão a promoção do conhecimento, da inovação, a investigação e a divulgação científica, numa ação integrada e participada das políticas ambientais e do desenvolvimento sustentável, visando um elevado nível de consciencialização ambiental. Será também o Laboratório da Paisagem, que dará apoio à implementação do presente plano e ficará responsável por toda a área da sensibilização e comunicação, a exemplo de outros planos de Guimarães.
+3.1
+PARCERIAS:
+FOCUS GROUP
+No cumprimento deste ecossistema de Governança 2030, que o Município de Guimarães tem vindo a implementar, foi organizado no dia 3 de maio de 2021, um “Focus Group”, em que foram convidadas várias entidades e associações relevantes para o setor do desenvolvimento sustentável e para os resíduos, que permitiu traçar a estratégia fundamental do projeto, e englobar contributos de outras entidades, como associações de defesa ambiental e social, do setor da hotelaria e restauração, centros de investigação para os resíduos, escolas, serviços sociais da universidade, entidades gestoras de resíduos, conforme imagem seguinte:
+21
+FIGURA 3 ― ENTIDADES/ASSOCIAÇÕES E PROJETOS QUE INTEGRARAM O “FOCUS GROUP” DESTE PLANO.
+Da sessão, foi possível traçar os conceitos principais, o caminho a seguir, e a necessária replicabilidade de bons exemplos como os da Catalunha, Milão ou Pontevedra.
+Assim, foram colocadas algumas questões ao Grupo:
+1. À questão PENSAR a palavra Biorresíduos, as respostas variaram:
+a) Valorizar;
+b) Fome;
+c) Sustentabilidade;
+d) Alimentos, reciclagem, valor;
+e) Resíduos biológicos;
+f) Oportunidade;
+g) Sustentabilidade;
+h) Alimentos;
+i) Economia circular.
+2. À questão INÍCIO da estratégia, as respostas variaram da seguinte forma:
+JUNTAS DE FREGUESIA SETOR EMPRESARIAL HORECA COMUNIDADE ESCOLAR CIDADÃO
+FIGURA 4 DIFERENCIAÇÃO DOS ATORES NA ESTRATÉGIA
+0%
+56%
+33%
+11%
+22
+Assim, entende-se que a estratégia tem que iniciar entre o setor da restauração (canal Horeca) e o cidadão.
+3. À questão livre relativa à ESTRATÉGIA GLOBAL teve os seguintes contributos:
+a) Toda a população deve ser parte integrante do problema e da solução;
+b) Recuperar os nutrientes e a matéria orgânica e garantir que ambos retornam aos solos;
+c) Tática e estruturação de processo;
+d) Os restaurantes separam os resíduos/beneficiar quem separa;
+e) Forte sensibilização que promova a proteção do nosso planeta;
+f) Valorizar quem tem melhor desempenho e educar;
+g) Interação com a população;
+h) Formação;
+i) Educação e Formação;
+j) Comunicação.
+De toda a sessão foi possível integrar as ideias principais, que se reflete na imagem seguinte:
+Estratégia
+Transparência
+Tipo de recolha
+Herarquia resíduos
+Compostagem doméstica
+Compostagem comunitária
+Sensibilizar/ comunicar
+Envolver
+Escoamento
+Oportunidade
+Formar
+Educar
+Sacos ou não?
+Replicar bons exemplos
+Premiar
+Setor Agrícola
+Mudar paradigma mais trabalho
+Custos
+Digitalizar
+Apoiar
+Flexível
+FIGURA 5 ― RESUMO DOS CONTRIBUTOS PARA A ESTRATÉGIA DO “FOCUS GROUP”.
+23
+Da análise global aos contributos apresentados pelo “Focus Group” realça-se a forte componente associada ao envolvimento, à educação, à necessidade de uma comunicação assertiva e para todos, à transparência da divulgação das metas e dos resultados, à constante monitorização das medidas implementadas. Foi realçada a importância da reciclagem na origem, através da implementação de projetos de compostagem doméstica e comunitária, com equipas dedicadas no terreno que avaliem o processo e apoiem a sua correta utilização através da integração de movimentos de voluntários, como por exemplo as Brigadas Verdes. Outro fator determinante para o sucesso deste plano, é na análise dos custos. Estudar os melhores métodos de recolha e de deposição e premiar/apoiar quem adere. Deve ser um projeto flexível considerando as diferentes realidades das freguesias e dos territórios, realçando-se a discussão na temática de uso ou não de sacos. O grupo considera que é importante que não se use os vulgares sacos plásticos, e que se equacione a necessidade do uso de sacos compostáveis. Numa ótima de replicação de outras realidades, devem ser estudados e replicados os bons exemplos de outras cidades, integrar o setor agrícola para que se possa definir uma estratégia de escoamento do composto resultante da TMB, considerar que esta é uma oportunidade para alterar comportamentos, melhorar os índices da recolha seletiva e modificar a hierarquia dos resíduos. A digitalização e o uso de sistemas inteligentes, foram fatores apresentado também pelo grupo, como ferramentas importantes de uso, para que o cidadão monitorize o seu desempenho. Por fim, deve ser feita uma forte campanha para mudar a mentalidade que “separar mais um resíduo significa apenas mais trabalho”.
+Consequentemente, a Estratégia Global insere-se no pilar fundamental da Educação e do Envolvimento, no seguimento do modelo de governança adotado pelo munício, com os princípios fundamentais da transição para uma economia mais circular inseridos no PAEC, como reutilizar, repensar, recondicionar, reciclar e valorizar.
+As características detalhadas de cada território de Guimarães, devem ser consideradas na definição da solução mais adequada para a implementação da recolha seletiva de biorresíduos, ou seja, distinguir as zonas mais urbanas, onde deve ser considerada uma recolha seletiva de biorresíduos PaP, dado que tem maior concentração de população, e nas freguesias com algumas características rurais devem ser consideradas estratégias de compostagem doméstica e/ou comunitária.
+Para promover uma política de transição integrada, é importante estabelecer uma ambição para o que Guimarães pode alcançar em 2030, devendo o exercício ser realizado por todos os agentes – autarquias, empresas, cidadãos, relativamente à conceção, desenvolvimento e execução de ações, sejam elas políticas, operacionais ou comportamentais, e seja realizada tendo em conta uma perspetiva sistémica e um juízo imediato sobre os impactos gerados.
+
+27
+ATUAL SISTEMA DE GESTÃO DE RESÍDUOS DE GUIMARÃES
+O Município de Guimarães é a Entidade Titular que, nos termos da lei, tem por atribuição assegurar a provisão do serviço de gestão de RU no respetivo território, sendo que o Sistema de Gestão de Resíduos desenvolvido compreende a colaboração e atuação de diferentes entidades. O Município de Guimarães é a Entidade Gestora responsável pela recolha indiferenciada em toda a área do Município, exceto nas zonas onde a recolha se processa por contentores semienterrados. A VITRUS AMBIENTE, EM SA, é a entidade responsável pela recolha de resíduos indiferenciados em contentores semienterrados, assim como assegura a operacionalização do Sistema PAYT, acumulando ainda a recolha seletiva nestas zonas. A recolha seletiva no restante território é assegurada pela RESINORTE – entidade responsável pela recolha, triagem, valorização e eliminação dos resíduos urbanos, definindo-se assim como Entidade Gestora em Alta para as várias tipologias de resíduos.
+Na imagem seguinte são apresentados os vários traçados para os circuitos de recolha de resíduos indiferenciados de Guimarães.
+FIGURA 8 ― CIRCUITOS DE RECOLHA DE RESÍDUOS INDIFERENCIADOS EM GUIMARÃES
+28
+De acordo com o Documento “Relatório Anual Resíduos Urbanos 2019” da Agência Portuguesa do Ambiente, I.P. e atendendo ao encaminhamento direto de RU para as principais operações de gestão, verifica-se a deposição em aterro como sendo ainda o destino mais representativo:
+FIGURA 9 ― DESTINO DIRETO DE RESÍDUOS URBANOS EM PORTUGAL (APA,2020).
+A maior parte dos resíduos é encaminhada, de forma direta para aterro, cerca de 33%, seguindose a opção de encaminhamento para TMB com 24%, que é o encaminhamento dos resíduos em Guimarães.
+Considerando o destino final dos resíduos, verifica-se que a distribuição varia substancialmente, sendo a percentagem de resíduos depositada em aterro superior e muito elevada. Verifica-se que a fração total de resíduos depositados em aterro, por via direta e indireta, entendendo-se esta última como os refugos e rejeitados dos processos de tratamento, constituiu aproximadamente 58% do total de resíduos geridos.
+FIGURA 10 ― DESTINO DIRETO DE RESÍDUOS URBANOS EM PORTUGAL (APA,2020).
+29
+Como se demonstra, cerca de 58% dos resíduos, independente das opções prévias, possui como destino final o aterro. Esta percentagem constitui a maior parcela, e representa mais de 50% da análise global, demonstrando a pertinência e necessidade de aposta em modelos e opções mais adequados, de reciclagem/valorização dos resíduos.
+No que respeita aos biorresíduos em Portugal, estes compõem em média, quase 37% dos resíduos das habitações, o que coincide com os valores do sistema da RESINORTE, atendendo às especificações técnicas da Portaria n.º 851/2009, de 7 de agosto.
+FIGURA 11 ― CARACTERIZAÇÃO FÍSICA DOS RESÍDUOS SISTEMA RESINORTE (DADOS SGRU 2018).
+Atualmente no Município de Guimarães, os resíduos recolhidos indiferenciadamente são encaminhados para a RESINORTE, designadamente para a TMB, constituída por três linhas autónomas, com capacidade unitária de 120 ton/dia, sendo que a fração orgânica é sujeita, após recuperação, a tratamento biológico para sua valorização. Apesar desta solução ser já bastante vantajosa e preferencial face à deposição direta em aterro, existe uma parte (o refugo) que é encaminhada para aterro. O parque de maturação é uma zona coberta onde o composto fresco é colocado até à sua estabilização.
+A matéria orgânica separada é utilizada para produção de um composto que pode ser utlizado para fertilização de terrenos agrícolas.
+30
+5.2
+COMPOSIÇÃO FÍSICA
+DOS RESÍDUOS URBANOS EM GUIMARÃES
+Consequência de uma dinâmica ambivalente de dispersão/aglomeração, o concelho de Guimarães é constituído por uma cidade de perímetro urbano alargado e um conjunto de vilas e freguesias de características, polaridades e presença no território muito distintas, considerando tratar-se de um território vasto e difuso, tendo havido a necessidade de criar circuitos de recolha de resíduos urbanos que contemplem todas estas caraterísticas, dividindo-se em áreas predominantemente urbanas, semiurbanas, rurais e industriais, sendo a composição física desses resíduos um reflexo dessas características.
+De forma a determinar a composição física dos RU do Município de Guimarães no ano de 2016, seguindo a metodologia para a quantificação e caracterização de resíduos, proposta pelo anexo da Portaria n.º 851/2009, de 7 de agosto, foram realizadas duas campanhas de caracterização pelo Centro de Valorização de Resíduos (CVR)3, com vista a determinar a composição por circuito de recolha no concelho de Guimarães. Este conhecimento foi fundamental para vários estudos na área dos resíduos já implementados em Guimarães, como o sistema PAYT, e basilar para a caracterização do território em termos de biorresíduos produzidos, para definição das zonas prioritárias de recolha. Como conclusão desse estudo, conclui-se que existe para a maioria dos circuitos de recolha analisados, uma predominância da categoria biorresíduos, seguida das categorias papel/cartão e plásticos. Verifica-se que a quantidade de biorresíduos espelha a média nacional, mas ainda existe uma elevada quantidade de resíduos verdes (RV) que não estão a ser recolhidos separadamente, 7,30%, e que têm valorização.
+Adicionalmente, procedeu-se à avaliação do teor em humidade das diferentes categorias e subcategorias de resíduos. Através da análise destes resultados, foi possível concluir que a humidade se apresenta como um fator com alguma preponderância para as categorias biorresíduos, têxteis sanitários, RV e finos.
+FIGURA 12 ― CARACTERIZAÇÃO FÍSICA DOS RESÍDUOS EM GUIMARÃES (CVR, CMG, 2016).
+3 Centro de Valorização de Resíduos: https://www.cvresiduos.pt/
+31
+Através desta caracterização foi assim possível caraterizar os 36,42% dos biorresíduos, e verificar a quantidade de resíduos alimentares, de resíduos jardins e de outros resíduos putrescíveis, um dado importante para análise deste plano.
+TABELA 1 ― TIPO DE BIORRESÍDUOS EXISTENTE NOS RESÍDUOS
+INDIFERENCIADOS EM GUIMARÃES NO ANO 2016.
+BIORRESÍDUOS	36,42%
+RESÍDUOS ALIMENTARES	10,55%
+RESÍDUOS DE JARDINS	5,49%
+OUTROS RESÍDUOS PUTRESCÍVEIS	20,57%
+Através desta caracterização, será possível identificar as freguesias onde será possível alcançar maiores valores de recuperação de biorresíduos, e definir um cronograma de implementação. Na tabela seguinte verificam-se em cor castanha, os circuitos de recolha com elevadas quantidades de biorresíduos, acima da média do concelho, e a cor rosa os que apresentam menores quantidades, que pode estar associada às suas características mais rurais, em que os resíduos orgânicos já são aproveitados, para fertilização dos campos, e servem muitas vezes de alimento para os animais.
+As freguesias como a Costa, Creixomil, Ponte, Caldelas, Mesão Frio e Urgezes no sistema de recolha PaP não têm elevados índices de biorresíduos, dado que nestas zonas há uma elevada capacidade de contentorização de equipamentos enterrados, tipo “Molok”, onde as quantidades já são acima da média.
+TABELA 2 ― PERCENTAGEM DE BIORRESÍDUOS POR CIRCUITOS DE RECOLHA
+INDIFERENCIADA DE GUIMARÃES EM 2016.
+CIRCUITO FREGUESIAS	PERCENTAGEM
+BIORRESÍDUOS
+1 A	ALDÃO – ATÃES – MESÃO FRIO	34,30%
+1 B	GONÇA – RENDUFE	54,33%
+2 A	LORDELO	31,08%
+2 B	MOREIRA DE CÓNEGOS	45,94%
+3 A	SANDE S. LOURENÇO – BALAZAR – LONGOS – BRITEIROS
+STA. LEOCÁDIA
+29,38%
+3 B	SOUTO S. SALVADOR – SOUTO STA. MARIA – GONDOMAR AROSA –
+CASTELÕES
+15,06%
+4 A	FIGUEIREDO – OLEIROS – AIRÃO STA. MARIA – AIRÃO S. JOÃO –
+LEITÕES – VERMIL
+18,79%
+4 B	RONFE	35,97%
+5 A	MASCOTELOS – CANDOSO S. TIAGO – SILVARES	41,28%
+5 B	CANDOSO S. MARTINHO – SELHO S. CRISTÓVÃO	50,93%
+6 A	SANDE S. CLEMENTE – SANDE VILA NOVA	33,00%
+6 B	BRITO	43,43%
+32
+CIRCUITO FREGUESIAS	PERCENTAGEM
+BIORRESÍDUOS
+7 B	S. JOÃO DE PONTE	27,29%
+8 A	GANDARELA – GUARDIZELA – CONDE	34,80%
+8 B	SERZEDELO	24,04%
+10 A	ABAÇÃO – RUA ANTÓNIO COSTA GMR – EN 105	50,51%
+11 A	SALGUEIRAL – POVOEIRA – NESPEREIRA	25,12%
+11 B	SALGUEIRAL – URGEZES – PINHEIRO	22,69%
+12 A	CREIXOMIL – PRAZINS ST. TIRSO – CORVITE PRAZINS STA. EUFÉMIA –
+SELHO S. LOURENÇO
+34,62%
+13 A	GOMINHÃES – PRAZINS ST. TIRSO – CORVITE – PRAZINS STA. EUFÉMIA
+– SELHO S. LOURENÇO
+46,95%
+13 B	FERMENTÕES – PENSELO – SELHO S. LOURENÇO	39,48%
+14 A	TABUADELO – S. FAUSTINO – GÉMEOS – CALVOS	34,77%
+14 B	COSTA – INFANTAS – SERZEDELO – EN 101 FELGUEIRAS	23,88%
+15 B	CALDELAS – BRITEIROS ST. ESTEVÃO – DONIM – EN 101 DE
+GUIMARÃES A BALAZAR
+43,62%
+16 B	EN PEVIDÉM – SELHO S. JORGE – GONDAR – EN 206 VERMIL	44,30%
+17 CIDADE	41,58%
+MOLOKS 1 ZONA 1 (URBANO)	44,80%
+MOLOKS 2 ZONA 2 (PERIURBANO)	46,24%
+MOLOKS 3 ZONA 3 (PERIURBANO)	47,85%
+A operacionalização do PGBG2030, contribui para a implementação e desenvolvimento de um sistema de gestão em maior conformidade com a hierarquia de gestão de resíduos, indo de encontro às políticas europeias e nacionais do setor, potenciando a ação local no sentido do cumprimento das metas estabelecidas e de um melhor desempenho.
+33
+OBJETIVOS DO PLANO
+DE BIORRESÍDUOS DE GUIMARÃES 2030
+A recolha dedicada de biorresíduos e a sua valorização, é dos mais importantes e disruptivos passos em matéria de gestão de resíduos desde o encerramento das lixeiras, no final do século passado, refere, Inês Costa, Secretária de Estado do Ambiente do XXII Governo. Assim, são objetivos principais:
+a) Promover a redução, reutilização e valorização de resíduos, em consonância com a hierarquização dos processos de gestão de resíduos;
+b) Mobilizar os vários intervenientes para a adoção de práticas que reduzam a fração orgânica na recolha indiferenciada;
+c) Implementar um serviço de recolha seletiva em Guimarães, que garanta maior quantidade de biorresíduos recolhidos, um menor grau de contaminação e com elevado grau de acessibilidade;
+d) Criar um serviço de recolha seletiva radial que inicie desde o centro do concelho e que ao longo do tempo se expanda até abranger todo o território;
+e) Tornar o serviço de recolha mais eficiente e adequado às necessidades dos utilizadores;
+f) Aumentar o grau de consciencialização dos produtores face à quantidade de resíduos produzidos diariamente e respetivo tratamento;
+g) Implementar um sistema de gestão de resíduos mais ajustado às necessidades atuais, mais sustentável e promotor da concretização das metas definidas a nível setorial;
+h) Integrar a recolha seletiva de biorresíduos com a recolha seletiva das restantes frações no sistema PaP, considerando que a taxa de reciclagem no sistema de recolha PaP é três vezes superior ao da recolha por pontos de aproximação;
+i) Criar uma metodologia e de uma estratégia que valorize a compostagem caseira e comunitária;
+j) Adequar as características detalhadas de cada conjunto de freguesias e adequar a melhor solução de recolha para o local e monitorizar as soluções;
+k) Associar a recolha seletiva de biorresíduos ao alargamento do sistema PAYT, para beneficiar quem efetua a separação deste tipo de resíduos, penalizando a fração resto;
+l) Criar circuitos destinados à restauração e aos refeitórios escolares em horários compatíveis com o seu funcionamento;
+m) Conjugar este sistema, com medidas de prevenção ao desperdício alimentar;
+n) Reduzir os circuitos de recolha indiferenciada (fração resto) e alargamentos dos circuitos das frações recicláveis;
+o) Promover, num contexto de economia circular a utilização do composto resultante da valorização dos biorresíduos, nos espaços verdes municipais;
+p) Promover a separação dos RV através de agendamentos particulares de recolha;
+q) Conceber uma alternativa de mini-compostagem para os RV municipais, que resultem dos cemitérios, dos espaços verdes e varredura da folha;
+34
+r) Promover a utilização do composto resultante da valorização dos biorresíduos;
+s) Inovar e envolver na forma de comunicar com o cidadão;
+A implementação da operação proposta, contribuirá para o aumento da valorização desta fração de resíduos, complementarmente ao facto de Guimarães estar integrada no sistema de gestão em alta da RESINORTE.
+A implementação da recolha seletiva de biorresíduos pretende criar um novo modelo de gestão de resíduos. O projeto carateriza-se pela criação de novos circuitos de recolha de RUB, de forma a potenciar a valorização orgânica destes mesmos resíduos, e aproveitamento destes para geração de valor.
+Neste sentido, os principais objetivos deste projeto de recolha:
+OBJETIVOS DA OPERAÇÃO
+MELHORAR A QUALIDADE DO
+COMPOSTO DA TMB
+DIMINUIR AS QUANTIDADES
+DE RESÍDUOS RECOLHIDOS
+INDIFERENCIADAMENTE
+AUMENTAR A QUANTIDADE
+DE RESÍDUOS ALVO DE VALORIZAÇÃO E
+APROVEITAMENTO
+DIMINUIR A QUANTIDADE DE
+RESÍDUOS ENCAMINHADOS
+PARA ATERRO
+CONSCIENCIALIZAR
+A POPULAÇÃO DA IMPORTÂNCIA DA REDUÇÃO DE RESÍDUOS
+E ENCAMINHAMENTO ADEQUADO DOS MESMOS
+As principais ações associadas à recolha seletiva de biorresíduos:
+a) Separação dos RV dos espaços verdes municipais, com vista a uma valorização autónoma;
+b) Criação de circuitos de recolha de RV;
+c) Implementação da recolha seletiva de biorresíduos no sistema PaP através de contentores de pequena capacidade, como os melhores modelos europeus que podem ser replicados, como são os casos das cidades italianas; Este modelo constitui o método que mais contribui para a redução do teor (e probabilidade) de contaminação. A recolha PaP é também o método preferencial e mais cómodo para a população, sendo apenas utilizado o sistema de contentorização, por aproximação, em zonas de habitação coletiva. A zona de Intervenção do presente plano inclui áreas não abrangidas pelo PAYT, pelo que é intenção do Município capacitar esses utilizadores com contentorização específica e direcionada à recolha seletiva das diferentes fileiras, no sentido de se diminuir ao máximo a fração resto.
+d) Criação de uma tarifa PAYT para a recolha dos biorresíduos, beneficiando quem separa;
+e) Conforme identificado a RESINORTE constitui a Entidade Gestora em Alta, neste sentido, as medidas a promover devem contribuir e ir de encontro aos objetivos definidos no âmbito do Plano de Ação desta Entidade. Já se encontra previsto nos investimentos desta entidade entre 2020 e 2021 a criação na TMB de Riba de Ave, de uma linha dedicada para a recolha seletiva de RUB. No plano da RESINORTE para 2022-2024 está prevista ainda, a possibilidade da Compostagem de Verdes e o aumento da Compostagem de RUB.
+A gestão integrada de resíduos e priorização de processos de valorização e tratamento como recurso/matéria-prima, em detrimento da deposição em aterro, contribuem para a minimização do seu impacto ambiental e para a criação de valor a nível socioecónomico.
+35
+A implementação do PBRG2030, pretende manter e prosseguir a priorização da reciclagem e valorização de resíduos, através da criação de circuitos de recolha específicos para os RUB. O Município de Guimarães pretende desenvolver um investimento no sentido de promover a recolha seletiva de RUB, na mesma linha de atuação em que foi implementado o Sistema PAYT no Centro Histórico de Guimarães e sua Zona Envolvente.
+O início da implementação do serviço de recolha seletiva de biorresíduos, permitirá que os resíduos orgânicos sejam recolhidos separadamente, incrementando a eficiência do processo de valorização destes, reduzindo custos face à eliminação do processo da TMB para os quantitativos de RUB recolhidos seletivamente. A recolha seletiva contribuirá para melhorar a eficácia do processo de valorização e a qualidade do composto produzido. A gestão integrada de resíduos e priorização de processos de valorização e tratamento como recurso/matéria-prima, em detrimento da deposição em aterro, contribuem para a minimização do seu impacto ambiental e para a criação de valor a nível socioecónomico, beneficiando todo o processo de gestão de resíduos.
+Os resultados da Operação, beneficiam de forma direta os resultados da RESINORTE, com impacto em todo o Sistema Multimunicipal e assumindo a responsabilidade partilhada dos vários Municípios que integram a RESINORTE, designadamente através do desenvolvimento de sistemas e modelos de gestão que beneficiem a totalidade dos sistemas, contribuindo primordialmente para a redução do impacto do setor.
+
+41
+SOLUÇÃO PARA A RECOLHA SELETIVA
+DE BIORRESÍDUOS
+O Município de Guimarães é caracterizado pela zona do centro histórico, património mundial da humanidade desde 2001, e a zona comercial da cidade, onde a recolha é efetuada em todos os seus fluxos no sistema PaP, associada à tarifa PAYT. A recolha indiferenciada no restante concelho é efetuada preferencialmente no sistema PaP, adotando-se o sistema de recolha por pontos de aproximação, nas zonas de elevada densidade populacional com habitação coletiva, ou zonas menos urbanas onde há maior dispersão do território e a recolha é efetuada por contentores de superfície.
+A recolha seletiva em Guimarães é atualmente realizada de duas formas, por pontos de reagrupamento e porta-a-porta (PaP), nas zonas PAYT e zonas comerciais, a primeira realizada pela RESINORTE e a segunda pela VITRUS. A recolha PaP apresenta, naturalmente, eficiências superiores pois não exige a deslocação do cidadão ao ecoponto. Em contrapartida, é mais onerosa porque implica maior tempo de recolha, maior frequência e maior cumprimento da execução dos circuitos.
+A recolha seletiva de biorresíduos terá que acompanhar estas formas de recolha seletiva, dados que as metas estabelecidas implicam, alargamento da recolha seletiva à população em geral. Esta expansão terá uma repercussão significativa nos sistemas de recolha estabelecidos, tendo que ser totalmente redimensionados.
+Da experiência obtida na implementação do sistema PAYT em Guimarães, verifica-se que no sistema de recolha PaP a qualidade do material recolhido é superior, e a taxa de rejeição é menor, conseguindo-se uma eficiência e eficácia do serviço, recolhendo mais que um material com a mesma viatura através de compartimentações.
+Guimarães pretende ainda alargar o sistema PAYT, e associar a recolha dos biorresíduos neste tarifário, para que cada vez mais haja uma dissociação do tarifário de resíduos com o consumo de água. Importa prever medidas que garantam que os preços induzem os comportamentos mais corretos no seio do serviço público de gestão de resíduos, tornando mais acessível a transformação necessária, associada à necessidade de investimentos significativos em equipamentos por parte dos municípios, que diferencie os cidadãos pelo comportamento adotado, beneficiando aqueles que mais contribuem para a concretização da alteração de paradigma.
+Dos exemplos estudados verifica-se que, não só é possível implementar a recolha seletiva de resíduos em cidades de grandes dimensões e com elevada densidade populacional, com um serviço de qualidade, como também se sustenta o sucesso da recolha PaP como modelo de recolha, onde se registam baixos níveis de contaminação.
+42
+8.1
+CAPACIDADE INSTALADA
+DA TMB – RESINORTE
+Conforme identificado, a RESINORTE constitui a Entidade Gestora em Alta para o território de Guimarães. Neste sentido, as medidas a promover devem contribuir e ir de encontro aos objetivos definidos no âmbito do Plano de Ação desta Entidade.
+Uma das medidas identificadas no PAPERSU aprovado pela RESINORTE até 2020 e que se mantém para o cumprimento das metas de redução da deposição de RUB em aterro compreende a valorização de RUB, em detrimento do seu envio para deposição em aterro sanitário, efetuando para tal o tratamento biológico da fração orgânica. Define-se também a necessidade de reforço da rede de recolha seletiva, incremento das campanhas de sensibilização, o reforço dos meios de recolha e transporte de resíduos, promover o tratamento mecânico de todos os RU, melhorar o processamento na TMB e sobretudo, potenciar a valorização de RU, evitando a sua deposição direta em aterro.
+A unidade de TMB de Riba de Ave, da RESINORTE, contempla uma linha dedicada para o tratamento de biorresíduos recolhidos seletivamente.
+Após a receção dos biorresíduos, estes serão encaminhados para os Bioreactores, onde sofrerão uma compostagem acelerada pelo período aproximado de 36 horas, e posteriormente são encaminhados para um parque de maturação onde permanecerão durante 5 semanas, para que o composto obtido tenha a estabilidade necessária para ser utilizado na agricultura.
+No plano da RESINORTE para 2022-2024 está prevista ainda a possibilidade da Compostagem de Verdes e o aumento da Compostagem de RUB.
+FIGURA 14 TMB, RIBA DE AVE – RESINORTE
+LOCALIZAÇÃO DA TMB: LUGAR DA QUINTA DO MATO, RIBA DE AVE:
+COORDENADAS GPS: 41º 22’ 54,4” N; 8º 22’ 42,17” W
+43
+ESTRATÉGIA DA COMPOSTAGEM
+Aproveitar localmente os biorresíduos produzidos através de compostagem doméstica e comunitária, é um passo fundamental para o aproveitamento deste tipo de resíduos.
+Guimarães iniciou em 2021, este processo através do Laboratório da Paisagem, numa açã o do projeto internacional RiskAquaSoil que distribuiu de forma gratuita, 20 compostores por todas as sedes de agrupamento escolares, tendo sido criado um manual de compostagem10, e ações dedicadas nas escolas. Este projeto é integrado no programa PEGADAS, que prevê uma monitorização do processo.
+FIGURA 15 ― PROJETO DE COMPOSTAGEM NAS ESCOLAS – LABORATÓRIO DA PAISAGEM, 2021
+Assim, a estratégia de Guimarães para a promoção da compostagem doméstica e comunitária, é desenvolver uma tarifa PAYT, através da aquisição de sacos para os resíduos indiferenciados e orgânicos, em que o utilizador que promova a separação dos biorresíduos e efetua a sua compostagem beneficia porque não paga essa componente na sua tarifa.
+Serão fornecidos gratuitamente compostores domésticos a todos os utilizadores que solicitem integrar o projeto, que posteriormente serão alvos de monitorização pela equipa que será criada para apoiar a compostagem, criando-se dois tipos de benefício: redução da tarifa no sistema PAYT, e após a visita, caso a compostagem esteja a resultar serão entregues estrelas, que posteriormente podem ser convertidas em produtos ou serviços através do projeto TROPAVERDE11.
+10 Manual de compostagem: https://www.pegadasguimaraes.pt/wp-content/uploads/2020/12/Manual-de-Compostagem-1.pdf
+11 https://guimaraes.tropaverde.org/
+44
+9.1
+PROJETO GUIMARÃES A COMPOSTAR
+Este projeto reduz os custos de recolha, transporte, tratamento e reduz as emissões GEE. Requer também o envolvimento da comunidade, aumentando-se a consciência ambiental. Inicialmente serão promovidos workshops técnicos e científicos, com vista à promoção da compostagem. Com o lançamento do projeto, o utilizador envia a sua candidatura sendo entregue um compostor e um guia, sendo fornecida uma ação de formação prévia. Todo o processo será monitorizado com visitas ao local e acompanhamento online, contabilizando-se as taxas de captura, sendo posteriormente publicitados e comunicados os resultados.
+Assim, será disponibilizada uma rede de tratamento próxima da fonte (compostores descentralizados), iniciando-se na freguesia de Creixomil com a disponibilização de um compostor junto à Feira Grossista de Frutas e Legumes e nas 9 vilas do Concelho, pretendendo-se promover uma estratégia ao nível das freguesias, de compensar quem mais reaproveita os biorresíduos através de compostagem comunitária, devendo criar-se equipas nas Brigadas Verdes que ficarão responsáveis pelo compostor. Posteriormente o composto será fornecido aos utilizadores ou colocados nos jardins das freguesias.
+O projeto da compostagem comunitária inicia na zona da cidade e nas vilas, dado que estes locais são locais de complementaridade e aproximação dos cidadãos.
+Assim, as vilas são núcleos importantes dentro do concelho de Guimarães, considerando que são locais policêntricos no território, permitindo dessa forma replicar posteriormente o projeto nas freguesias adjacentes, conseguindose uma maior abrangência.
+45
+FIGURA 16 ― LOCAIS PARA A COMPOSTAGEM COMUNITÁRIA EM 2021
+46
+COMBATE AO
+DESPERDÍCIO ALIMENTAR
+No cumprimento dos ODS, encontra-se previsto na DQR, uma meta indicativa de redução dos resíduos alimentares a nível da União de 30% até 2025 e de 50% até 2030.
+Refere MAAC (2020), que os EM devem prever incentivos à recolha dos produtos alimentares não vendidos em todas as fases da cadeia de abastecimento alimentar e à sua redistribuição segura, inclusive a organizações de beneficência, nomeadamente incentivos fiscais para a doação de produtos, sobretudo de géneros alimentícios. Por outro lado, é necessário investir na clarificação junto dos consumidores do que significam as datas indicadas em «consumir até» e «consumir de preferência antes de», a fim de reduzir os resíduos alimentares.
+O Despacho n.º 14202-B/2016, de 25 de novembro, determina a criação da Comissão Nacional de Combate ao Desperdício Alimentar (CNCDA) que tem como missão “promover a redução do desperdício alimentar através de uma abordagem integrada e multidisciplinar”, e que promoveu a elaboração da Estratégia Nacional e Plano de Ação de Combate ao Desperdício Alimentar, aprovada e publicada na Resolução do Conselho de Ministros n.º 46/2018, de 27 de abril de 2018, e que tem como objetivos estratégicos:
+1. Prevenir: a prevenção do desperdício alimentar enquanto ferramenta para a mitigação do problema.
+2. Reduzir: é expectável que a curto/médio prazo esteja em prática uma metodologia de cálculo do desperdício alimentar nas diferentes fases da cadeia. A partir do conhecimento do ponto de partida, será possível, em cada momento, saber o quanto e onde se está a reduzir.
+3. Monitorizar: o conhecimento da informação por parte dos atores diretos e indiretos e de toda a sociedade civil, será fundamental para a consciencialização de cada um e de todos, no objetivo central da prevenção e redução do desperdício, a partir de uma monitorização eficaz e de uma comunicação de resultados regular.
+É importante criar uma dinâmica que permita evitar a produção do desperdício alimentar e garantir o aproveitamento dos alimentos. Este plano vai englobar o desperdício alimentar, como um pilar fundamental para a diminuição da produção de resíduos, através de ações dedicadas aos setores de restauração e hotelaria, e às famílias em geral, de formas de comprar mais sustentáveis e de mecanismos que minimizem a produção.
+Assim, em todas as fases deste plano, será criada uma área dedicada ao desperdício alimentar, com vista à sensibilização para a sua redução, e ao aumento da sensibilização da população em idade escolar para a sua prevenção, e será desenvolvido um sistema de medição do desperdício em projetos piloto, com uma política proativa da comunicação dos resultados. Será desenvolvida uma área na página web, baseada na lovefoodwaste12 dedicada ao projeto, que seja apelativa, de interação com a promoção de boas práticas individuais e coletivas, que valorize os estabelecimen12 https://lovefoodhatewaste.com/
+47 tos que agem na redução do desperdício alimentar, e que desenvolva um sistema de comunidade de interajuda social, culminando anualmente com a realização de uma semana dedicada a esta temática, envolvendo todos os parceiros. Serão ainda convidadas as Brigadas Verdes a desenvolver projetos nas suas freguesias que promovam políticas de combate ao desperdício alimentar e promovam soluções para que haja escoamento do material sobrante.
+10.1
+MENOS OLHOS QUE BARRIGA
+Os Serviços Sociais da Universidade do Minho (SASUM), lançaram há já alguns anos o movimento “menos olhos que barriga” nas cantinas da Universidade do Minho. Sabendo que a Universidade do Minho gera, mensalmente, cerca de 4 ton de resíduos alimentares e que uma parte significativa destes resíduos resulta do desperdício dos tabuleiros, os SASUM lançaram um desafio à comunidade académica, um “movimento” de luta contra o desperdício alimentar. A intenção é que cada um leve no tabuleiro apenas a quantidade de comida que irá ingerir, evitando o desperdício. Os alimentos que sobram no tabuleiro são resíduos; os alimentos que sobram antes de serem servidos, são possíveis refeições a encaminhar para cantinas sociais de instituições particulares de solidariedade social (IPSS) Guimarães. Considerando a relevância deste movimento, e nas quantidades de resíduos alimentares que podem ser geradas é intenção do Município replicar esta boa prática à restante comunidade escolar.
+FIGURA 17 MOVIMENTO MENOS OLHOS QUE BARRIGA, SASUM
+10.2
+RE-FOOD
+O Re-Food Guimarães é um projeto 100% voluntário que visa a recolha de excedentes alimentares de diversos parceiros (restaurantes, pastelarias, supermercados) e a entrega desses alimentos é realizada a famílias carenciadas, e junto de IPSS. É um projeto que visa a diminuição do desperdício alimentar e o seu reaproveitamento. Neste âmbito o município de Guimarães, através do projeto PEGADAS, criou uma atividade para as famílias e para as escolas, no sentido de ser “Família” Voluntária Re-Food
+48 por um dia. Este projeto visa a promoção de práticas de cidadania ativa, com apoio voluntário à comunidade, de sensibilização para o desperdício alimentar e formas de reaproveitamento e no envolvimento das famílias em atividades de lazer em prol de uma cidade mais sustentável e solidária. O alargamento deste projeto é muito relevante, daí que as atividades inseridas nos projetos PEGADAS, visem a sensibilização e o possível comprometimento para esta problemática. Pretendese ainda, criar mais dinâmicas no Mercado Municipal de Guimarães, que visem políticas de reaproveitamento das frutas e legumes, e replicar estas dinâmicas para outros mercados do concelho.
+FIGURA 18 RE-FOOD GUIMARÃES
+49
+SOLUÇÕES PROPOSTAS
+A solução proposta para o PMBG2030, arrancará em 2021, com o início do serviço da recolha seletiva de biorresíduos e a compostagem, alargando-se e difundindo-se a recolha seletiva dos RV. A solução em Guimarães passará por quatro opções:
+a) Recolha seletiva na origem através de compostagem comunitária e caseira;
+b) Recolha seletiva de RV por agendamento;
+c) Recolha seletiva de biorresíduos nas habitações;
+d) Recolha seletiva no canal HORECA;
+e) Recolha seletiva nos restantes utilizadores não domésticos (UND).
+11.1
+SISTEMA DE GESTÃO DOS BIORRESÍDUOS
+O sistema de gestão da recolha de biorresíduos de Guimarães a implementar, analisa as soluções desde a sua produção, passando pela deposição, transporte e encaminhamento para valorização, tratamento e/ou destino final. Os diferentes tipos de produção, de deposição, de separação e de recolha integrados no sistema de gestão, encontram-se esquematizados na figura seguinte, variando de utilizadores domésticos (UD) aos UND.
+Sendo que os UND são diferenciados entre UND de serviços ou indústria e os pertencentes às escolas, lares, hotelaria e restauração e bebidas, incluídos no canal Horeca.
+PRODUÇÃO
+UD
+↓	↓	↓	↓	↓
+↓	↓	↓
+↓	↓
+↓
+↓
+UND
+UND HORECA
+DEPOSIÇÃO PaP
+SACOS
+COMPOSTÁVEIS
+CONTENTORES 10L
+CONTENTORES 25L
+CONTENTORES 45L
+CONTENTORES 85L
+DEPOSIÇÃO VIA PÚBLICA
+CONTENTORES
+1100L
+CONTENTORES ENTERRADOS 1M3
+COMPOSTAGEM
+DOMÉSTICA
+CONTENTORES 200L
+COMPOSTAGEM
+COMUNITÁRIA
+CONTENTORES
+1000L
+FIGURA 19 ― MODOS DE SEPARAÇÃO NA ORIGEM, RECOLHA E DEPOSIÇÃO
+50
+No que respeita ao sistema de recolha de resíduos e tratamento, o esquema escolhido para a gestão dos biorresíduos será:
+RECOLHA
+PaP
+TIPOS DE RECOLHA	TRANSPORTE	VALORIZAÇÃO/DESTINO FINAL
+VIATURAS DE CARGA
+VIATURA DE CAPACIDADE DE 7 TON E 11 TON INSTALADAS SEM COMPACTAÇÃO COM SISTEMA DE ELEVAÇÃO DE CONTENTORES TIPO
+DIN
+VALORIZAÇÃO NA ORIGEM
+COMPOSTAGEM
+VALORIZAÇÃO MINI CENTRAL
+COMPOSTAGEM RV
+TMB
+(RIBA D’AVE)
+REFUGO
+(ATERRO SANITÁRIO)
+VIATURA DE 14 TON INSTALADAS
+COM OU SEM SISTEMA DE COMPACTAÇAO, COM GRUA
+E SISTEMA DE ELEVAÇÃO DE
+CONTENTORES TIPO DIN
+RECOLHA VIA PÚBLICA
+RECOLHA
+POR AGENDAMENTO RV
+FIGURA 20 TIPOS DE RECOLHA, TRANSPORTE E VALORIZAÇÃO/DESTINO FINAL.
+O Município prevê diferentes soluções de deposição e de recolha dos biorresíduos, de acordo com o tipo de produtores, morfologia urbana e características de cada área.
+A recolha de biorresíduos de origem doméstica será maioritariamente feita PaP, com a entrega de equipamentos de pequena dimensão em todos os alojamentos, sendo que os biorresíduos são primeiramente colocados num saco compostável, e posteriormente acumulados num contentor individual (agregado familiar) ou coletivo na via pública.
+11.1.1
+SISTEMA DE RECOLHA PAP
+A recolha será realizada através de contentores de utilização individual de pequena dimensão, atribuídos aos UD e UND, incluindo condomínios e entidades gestoras de espaços comerciais, sendo ainda distribuídos sacos compostáveis de acordo com o volume de produção, sendo que será a este saco que posteriormente será imputada a tarifa PAYT. O sistema de deposição será ajustado nos UND, consoante o tipo de produção e a capacidade para a instalação dos contentores.
+O sistema de recolha está definido para uma recolha de quatro a setes vezes por semana aos UND referentes ao canal Horeca, e de três a seis vezes por semana nos restantes utilizadores.
+51
+11.1.2
+SISTEMA DE RECOLHA SELETIVA
+NA VIA PÚBLICA
+Este tipo de recolha está vocacionado para zonas de habitação coletiva, ou zonas onde não seja possível a recolha PaP, os contentores serão localizados em locais estratégicas, a uma distância máxima de 100m ao limite do prédio e serão instalados junto de outras baterias de contentores destinadas à recolha seletiva de embalagens e à fração resto. Serão distribuídos aos utilizadores sacos compostáveis, aos quais posteriormente serão imputadas as tarifas PAYT. Os equipamentos são de maior capacidade, localizados na via pública e de utilização coletiva.
+11.1.3
+SISTEMA DE RECOLHA A PEDIDO
+Sistema de recolha pontual de RV a pedido. A recolha é efetuada mediante pedido prévio do munícipe, de carácter ocasional, realizada em local e data acordada com os serviços de acordo com o regulamento de gestão de resíduos em vigor. Sendo ainda possível o encaminhamento direto para os ecocentros municipais.
+De forma a traçar os circuitos de recolha, e de modo a escolher as áreas principais de intervenção foram elaboradas bases de dados dos alojamentos, da restauração, das escolas e outros equipamentos, para que se possa definir a estratégia para uma recolha eficiente e eficaz.
+Na figura seguinte apresenta-se os alojamentos/hotéis com cozinha em Guimarães, verificandose que estes encontram-se maioritariamente na zona da cidade, havendo ainda duas áreas com maior incidência deste tipo de alojamentos que são o eixo cidade – vila das Caldas das Taipas e cidade – vila de S. Torcato.
+52
+FIGURA 21 LOCALIZAÇÃO DOS ALOJAMENTOS COM COZINHA EM GUIMARÃES
+No que respeita aos serviços de restauração/bebidas/cafés/pastelarias, verifica-se mais uma vez que a zona da cidade tem uma maior concentração deste tipo de estabelecimentos, mantendo-se o eixo cidade – vila das Caldas das Taipas e cidade
+– vila de S. Torcato, com maior incidência destes estabelecimentos.
+53
+FIGURA 22 ― LOCALIZAÇÃO CANAL HORECA EM GUIMARÃES
+As escolas são também produtores importantes de biorresíduos, nas suas cantinas. Assim, foram inseridos neste estudo a localização e a dimensão das cantinas, para que a análise de cada local, permitisse quantificar os resíduos que podem produzir.
+54
+FIGURA 23 ― LOCALIZAÇÃO DAS ESCOLAS COM CANTINAS EM GUIMARÃES
+55
+11.2
+VALORIZAÇÃO
+DOS RESÍDUOS VERDES MUNICIPAIS
+Consciente da necessidade de separação e da valorização dos RV municipais, o Município de Guimarães, elaborou, através do CVR em 2016, uma avaliação do estado da arte na valorização de resíduos biodegradáveis verdes municipais.
+Os RV dos espaços verdes municipais são gerados de forma natural, com a queda de folhas e ramos, ou como resultado das ações de manutenção dos espaços verdes, pelo corte, poda ou abate. De acordo com a informação atual são gerados cerca de 1400 ton/ano de RV gerados pelos serviços municipais dos espaços verdes, varredura e cemitérios, divididos de acordo com a tabela abaixo referida:
+TABELA 3 RV RECOLHIDOS NOS ESPAÇOS VERDES MUNICIPAIS (CVR, 2016).
+RESÍDUO	PESO (TON/ANO)
+RELVA	500,00
+VARREDURA (FOLHAS)	150,00
+FENO	150,00
+CEMITÉRIOS	450,00
+LENHOSOS	150,00
+TOTAL	1.400,00
+Estes resíduos encontravam-se, em 2016, a ser separados da recolha de resíduos indiferenciados e encaminhados para o Ecocentro de Guimarães, não tendo qualquer tipo de valorização.
+FIGURA 24 ― RESÍDUOS VERDES PROVENIENTES DA ÉPOCA DA QUEDA DA FOLHA
+56
+Desde essa data, que os lenhosos estão a sofrer um processo de trituração, para formação de estilha que depois é novamente incorporada nos espaços verdes da Cidade e nas caldeiras das árvores.
+FIGURA 25 ― FORMAÇÃO DE ESTILHA PROVENIENTE DA PODA DAS ÁRVORES EM GUIMARÃES
+Considerando a elevada quantidade de RV produzidos pelo município, conjugando ainda com o potencial de recolha nas habitações particulares, é do interesse municipal que no decorrer dos próximos anos, e em conjunto com as práticas de compostagem doméstica e comunitária, se concretize um projeto de valorização interna destes resíduos, através da criação de uma minicentral de compostagem para RV. Será possível, de acordo com o relatório do CVR efetuar um processo de compostagem em pilha envolvida, misturando 25% de resíduos de relva, lenhosos, cemitérios e varredura, conseguindo-se pelo menos uma valorização de 1250 ton/ano. Sendo necessárias 48 pilhas de compostagem para promover a correta gestão destes resíduos.
+Assim, está prevista a criação desta minicentral junto ao ecocentro de Aldão, com um investimento inicial de 200.000,00€ e com um custo de operação de cerca de 40.000,00€/ano com dois trabalhadores a tempo inteiro. No entanto, existiria uma poupança ao nível do encaminhamento e transporte destes resíduos para os ecocentros.
+Outro processo numa ótica de economia circular que o Município está a desenvolver é na valorização e na rentabilização do potencial energético da lenha, resultante do abate e podas de árvores dos jardins públicos, sendo distribuídas mais de 100 ton de lenha por 11 escolas do Ensino Básico do concelho, perseguindo uma “estratégia reaproveitamento de materiais”.
+57
+FIGURA 26 ― PROJETO DE ECONOMIA CIRCULAR APROVEITAMENTO DE LENHAS
+Neste contexto e após estarem traçadas as estratégias globais para o sistema de recolha e de separação dos biorresíduos, foram traçados dois cenários de implementação do PMBG2030, um cenário mais otimista, com maior taxa de captação e outro mais moderado. Será de reforçar a ideia, e com o conhecimento de outros projetos já instalados em Guimarães, como o sistema PAYT, e considerando que a recolha será na maioria do território implementado no sistema PaP, certamente que as taxas de captação ficarão mais próximas do cenário otimista. A taxação do sistema de recolha através do tarifário PAYT, que irá beneficiar quem efetua a separação, e penalizar a fração resto, será um mecanismo importante no cumprimento do novo RGGR e no sucesso deste plano.
+Assim, através do guia para o planeamento de sistemas de recolha de biorresíduos (Silveira et al, 2021), foi possível criar uma metodologia com dois cenários para a implementação da recolha seletiva de biorresíduos, e de reciclagem na origem, com início em 2021, e os respetivos alargamentos em 2024, 2027 e 2030, onde já prevê que se abranja 100% do concelho.
+A metodologia do sistema de recolha de biorresíduos, será feita em complementaridade com a recolha dos RU misturados, porque à medida que os biorresíduos forem sendo recolhidos seletivamente, o que fica, os RU misturados, vão sendo produzidos em menor quantidade e, sendo menos biodegradáveis, podem ser recolhidos com menor frequência. O objetivo último seria manter a frequência de recolha inicialmente usada para os resíduos indiferenciados reorganizada entre recolha de biorresíduos e os RU misturados.
+58
+Aspetos fundamentais para o sucesso da implementação do PGBG2030, será a redução da produção de biorresíduos através do combate ao desperdício alimentar e a reciclagem na origem, nomeadamente através de compostagem (doméstica e/ou comunitária).
+De acordo com o guia e o simulador elaborado pelo Fundo Ambiental (Silveira, et al, 2021) foi possível construir e comparar cenários de sistemas de desvio dos biorresíduos, seja por separação e reciclagem na origem (compostagem doméstica/ comunitária) quer através da recolha seletiva de biorresíduos nas vertentes técnica, económica e ambiental.
+O planeamento municipal de sistemas de desvio na origem e recolha seletiva de biorresíduos no horizonte 2020-2030, é um exercício que obrigou a uma metodologia de cálculo, um conhecimento profundo do sistema de gestão de resíduos atual, e das melhores soluções para a recolha seletiva.
+Através desse conhecimento, das possibilidades existentes, da caracterização dos sistemas de recolha, foi definido o tipo de recolha, possível desvio na origem e os respetivos equipamentos e equipas associadas. Os dados iniciais para o cálculo dos cenários são referentes ao ano de 2019 e conforme descrito em seguida:
+POPULAÇÃO (2019)
+152251 HAB.	RESÍDUOS URBANOS: 66690 TON
+RESÍDUOS INDIFERENCIADOS: 58398
+RESÍDUOS VERDES UN: 20 TON
+RESÍDUOS VERDES MUNICIPAIS: 1498 TON
+RESÍDUOS BIODEGRADAVÉIS RS: 0 TON
+60396 ALOJAMENTOS
+2,53 N.º° MÉDIO DE HAB./ALOJAMENTO
+RESÍDUOS RECOLHA (2019)
+FIGURA 27 ― DADOS ANO DE 2019 – CÁLCULO DOS CENÁRIOS PARA O PMBG2030
+O PMBR2030, prevê que em 2030 que 100% da população esteja abrangida com todo o tipo de serviço de recolha de biorresíduos, conseguindo-se em 2023 que 35%, já se encontre abrangida com o serviço de recolha seletiva de RUB, apesar de ainda não ser um sistema de recolha obrigatório, conseguindo-se em 2024 que 48% população já consiga ter o serviço disponível. A taxa de reciclagem na origem, os dados usados foram os mais desfavoráveis, dado que apenas preveem que 1% da população tenha o serviço disponível. Não será certamente esse o cenário, mas considerando o simulador utilizado, foi entendido, que este valor não alteraria de fundo os restantes valores.
+59
+A recolha seletiva de RUB impõe uma reformulação da rede de recolha atualmente existente, sendo necessário para tal, a aquisição de novas viaturas que permitam a realização da recolha dos RUB de forma independente. Importa mencionar que dado o tipo de resíduos, é importante que as viaturas a adquirir, e o próprio método de recolha, salvaguardem o escorrimento de lixiviados para a via pública, pelo que estes equipamentos deverão estar devidamente isolados.
+Assim, para os dois cenários foram considerados as seguintes taxas de UD e UND.
+TABELA 4 ― TAXA DE ALOJAMENTOS SERVIDO COM RECOLHA SELETIVA
+E RECICLAGEM NA ORIGEM DOS BIORRESÍDUOS
+INDICADORES	UNIDADE	2023	2027	2030
+RESÍDUOS ALIMENTARES	%	38%	81%	100%
+VIA PÚBLICA	%	9%	24%	33%
+PORTA-A-PORTA	%	25%	52%	61%
+RECICLAGEM NA ORIGEM	%	3%	6%	6%
+RESÍDUOS VERDES	%	91%	97%	97%
+VIA PÚBLICA	%	0%	0%	0%
+PORTA-A-PORTA	%	91%	96%	96%
+RECICLAGEM NA ORIGEM	%	0%	1%	1%
+TABELA 5 ― TAXA DE PRODUTORES NÃO DOMÉSTICOS SERVIDOS COM
+RECOLHA SELETIVA E RECICLAGEM NA ORIGEM DOS BIORRESÍDUOS
+INDICADORES	UNIDADE	2023	2027	2030
+PRODUTORES NÃO DOMÉSTICOS	%	47%	69%	100%
+11.3
+CENÁRIO MODERADO TAXA DE CAPTURA
+Com os dados acima mencionados e para um cenário moderado (CM) de captura de biorresíduos foi possível traçar as seguintes trajetórias, considerando que a recolha PaP representa 2/3 da recolha no território.
+TABELA 6 ― QUANTIDADE DE BIORRESÍDUOS (CM)
+INDICADORES	UNIDADE	2023	2027	2030
+QUANTIDADE POTENCIAL DE BIORRESÍDUOS	T	27 849	28 833	30 253
+60
+INDICADORES	UNIDADE	2027	2030
+QUANTIDADE DE BIORRESÍDUOS RS	T	5 934	10 207	14 699
+TAXA DE CAPTURA DE BIORRESÍDUOS	%	21%	35%	49%
+CONTRIBUIÇÃO DOS BIORRESÍDUOS RECOLHIDOS SELETIVAMENTE PARA A TAXA DE PREPARAÇÃO PARA REUTILIZAÇÃO E RECICLAGEM
+%	12%	15%	22%
+Com este cenário verifica-se que em 10 anos se consegue recolher seletivamente 14 699 ton, que representa uma taxa de captura de biorresíduos de 49%, e que contribui com 22% para as metas da taxa de preparação para reutilização e reciclagem.
+Para que este cenário seja implementado serão necessários os seguintes elementos técnicos e humanos entre os anos de 2021 e 203013
+TABELA 7 ― NÚMERO DE EQUIPAMENTOS DE DEPOSIÇÃO (CM)
+ANO 2021	ANO 2030
+TIPO DE UTILIZADOR TIPO DE RECOLHA NÚMERO DE EQUIPAMENTOS
+CONTENTORES 10 L	UD	PAP	15000	60350
+CONTENTORES 25 L	UND	PAP	2500	2500
+CONTENTORES 45 L	UND	PAP	5500	5500
+CONTENTORES 80 L	UND	PAP	1500	1500
+CONTENTORES 1100L	TODOS	VIA PÚBLICA	25	250
+CONTENTORES ENTERRADOS 1M3
+TODOS	VIA PÚBLICA	20	20
+COMPOSTOR 300 L	TODOS	RSO14	2000	3500
+COMPOSTOR 1600 L	TODOS	RSO	9	48
+TABELA 8 ― NÚMERO DE VIATURAS DE RECOLHA (CM)
+ANO 2021	ANO 2030
+TIPO DE RECOLHA	NÚMERO DEº VIATURAS
+VIATURA 7 TON	PAP	2	2
+VIATURA 11 TON	PAP	0	1
+VIATURA 14 TON	VIA PÚBLICA	1	1
+Para os recursos humanos, foram apenas considerados os recursos que estarão a 100% no serviço de recolha seletiva de biorresíduos e no apoio ao serviço de compostagem conforme reflete a tabela seguinte.
+13 Ver dados globais do simulador biorresíduos no anexo A.
+14 RSO: recolha seletiva na origem
+61
+TABELA 9 ― NÚMERO DE RECURSOS HUMANOS (CM)
+ANO 2021	ANO 2030
+TIPO DE RECOLHA NÚMERO DE RECURSOS HUMANOS
+RECOLHA DE BIORRESÍDUOS/COMPOSTAGEM PAP	8	24
+APOIO ÀS EQUIPAS/ENCARREGADOS	PAP	1	1
+Para um cenário com esta taxa de captura a recolha será efetuada em média essencialmente com frequência bissemanal na recolha por contentores na via pública e de 4 vezes por semana no sistema PaP.
+TABELA 10 ― FREQUÊNCIA DA RECOLHA (CM)
+ANO 2021	ANO 2030
+NÚMERO RECOLHAS SEMANAIS
+RECOLHA PAP	4	4
+VIA PÚBLICA	2	2
+11.4
+CENÁRIO OTIMISTA TAXA DE CAPTURA
+Com os dados acima mencionado e para um cenário otimista (CO) de captura de biorresíduos foi possível traçar as seguintes trajetórias, considerando que a recolha PaP representa 2/3 da recolha no território. Refira-se que este cenário, é para o Município de Guimarães o de referência, considerando o trabalho que já se encontra a ser executado na área de gestão de resíduos e no desenvolvimento sustentável junto do cidadão.
+TABELA 11 ― QUANTIDADE DE BIORRESÍDUOS (CO)
+INDICADORES	UNIDADE 2023 2027 2030
+QUANTIDADE POTENCIAL DE BIORRESÍDUOS	T	27 849 28 833 30 253
+QUANTIDADE DE BIORRESÍDUOS RS	T	9 787 16 084 22 346
+TAXA DE CAPTURA DE BIORRESÍDUOS	%	35%	56%	74%
+CONTRIBUIÇÃO DOS BIORRESÍDUOS RECOLHIDOS SELETIVAMENTE PARA A TAXA DE PREPARAÇÃO PARA REUTILIZAÇÃO E RECICLAGEM
+%	20%	24%	34%
+Com este cenário verifica-se que em 10 anos consegue-se recolher seletivamente 22346 ton, que representa uma taxa de captura de biorresíduos de 74% e que contribui com 34% para as metas da taxa de preparação para reutilização e reciclagem.
+Para que este cenário seja implementado serão necessários os seguintes elementos técnicos e humanos entre os anos de 2021 e 203015
+15 Ver dados globais do simulador biorresíduos no anexo A.
+62
+TABELA 12 ― NÚMERO DE EQUIPAMENTOS DE DEPOSIÇÃO (CO)
+ANO 2021	ANO 2030
+TIPO DE UTILIZADOR TIPO DE RECOLHA	NÚMERO DE EQUIPAMENTOS
+CONTENTORES 10 L	UD	PAP	15000	60396
+CONTENTORES 25 L	UND	PAP	2500	4000
+CONTENTORES 45 L	UND	PAP	5500	8000
+CONTENTORES 80 L UND	PAP	1500	2000
+CONTENTORES 1100L TODOS	VIA PÚBLICA	25	250
+CONTENTORES ENTERRADOS 1M3
+TODOS	VIA PÚBLICA	20	40
+COMPOSTOR 300 L TODOS	RSO	2000	3500
+COMPOSTOR 1600 L TODOS	RSO	9	48
+TABELA 13 ― NÚMERO DE VIATURAS DE RECOLHA (CO)
+ANO 2021	ANO 2030
+TIPO DE RECOLHA	NÚMERO DE VIATURAS
+VIATURA 7 TON	PAP	2	2
+VIATURA 14 TON	VIA PÚBLICA	1	1
+Para o cálculo dos recursos humanos afetos ao projeto, foram apenas considerados os recursos que estarão a 100% no serviço de recolha seletiva de biorresíduos e no apoio ao serviço de compostagem.
+TABELA 14 ― NÚMERO DE RECURSOS HUMANOS (CO)
+ANO 2021	ANO 2030
+TIPO DE RECOLHA	N.º RECURSOS HUMANOS
+RECOLHA DE BIORRESÍDUOS/COMPOSTAGEM PAP	12	48
+APOIO ÀS EQUIPAS/ENCARREGADOS	PAP	2	4
+Para um cenário com esta taxa de captura a recolha será efetuada em média uma frequência de 4 vezes por semana na recolha por contentores na via pública e de 6 vezes por semana no sistema PaP.
+TABELA 15 ― FREQUÊNCIA DA RECOLHA (CM)
+ANO 2021	ANO 2030
+NÚMERO RECOLHAS SEMANAIS
+RECOLHA PAP	5	5
+VIA PÚBLICA	4	4
+63
+CRONOGRAMA E PLANO DE AÇÃO
+A recolha seletiva de RUB impõe uma reformulação da rede de recolha atualmente existente, estando prevista a sua complementaridade com a recolha da fração resto. A solução técnica é caraterizada pela adaptação da recolha seletiva de biorresíduos aos modelos de recolha atuais, adotando recolhas seletivas dedicadas e diminuindo a recolha seletiva da fração resto. Embora constituam processos diferenciados, a promoção deste sistema de gestão será associada ao sistema PAYT, no sentido que o devido encaminhamento da fração seletiva contribui para a diminuição dos quantitativos de resíduos indiferenciados produzidos.
+O plano de ação prevê:
+a) Implementação de circuitos específicos para a recolha de resíduos alimentares e de circuitos específicos de RV (em separado);
+b) Implementação de circuitos específicos de resíduos alimentares PaP para a restauração e outros produtores similares (canal Horeca) adaptados aos horários de abertura e encerramento;
+c) Promoção da compostagem doméstica e/ou comunitária;
+d) Ações contínuas de sensibilização;
+e) Ações de fiscalização.
+O cronograma proposto prevê que a solução proposta seja técnica, e/ou económica e/ou ambientalmente viável, para cada um dos anos a integrar.
+TABELA 16 ― CRONOGRAMA DE ABRANGÊNCIA DO PLANO DE 2021 A 2030.
+ABRANGÊNCIA	ANO 2021-2023 ANO 2024 ANO 2026 ANO 2028
+% ALOJAMENTOS ABRANGIDA RS RUB	34%	58%	75%	100%
+% POPULAÇÃO SERVIDA RS VERDES PAP	91%	97%	97%	97%
+% ESTABELECIMENTOS RS RUB PAP	35%	47%	69%	100%
+COMPOSTAGEM COMUNITÁRIA (N.º COMPOSTOR)	12	48	82	82
+COMPOSTAGEM DOMÉSTICA (N.º COMPOSTOR)	2000 TODOS16	TODOS	TODOS
+12.1
+ANO 2021
+A recolha seletiva de biorresíduos será promovida na área abrangida pelo sistema PAYT, e nas freguesias mais urbanas do Município e que incluem maior densidade de UND, designadamente, restaurantes, hotéis/ alojamento, superfícies comerciais e comércio
+16 Qualquer alojamento pode solicitar um compostor, que será devidamente monitorizado
+64 tradicional – que constituem relevantes produtores de RUB. De referir que todas as freguesias de Guimarães se encontram definidas no Anexo V relativo ao Quadro do Mapeamento dos Municípios/Freguesias como maior potencial técnico. Este projeto foi alvo de financiamento pelo POSEUR. Salienta-se, no entanto que a recolha seletiva de RV e a compostagem doméstica ou comunitária abrangerá 100% do concelho.
+FIGURA 28 ― ANO 2021 ZONA DE INTERVENÇÃO
+65
+FIGURA 29 ― ANO 2021 FREGUESIAS INCLUÍDAS NA RECOLHA SELETIVA DE BIORRESÍDUOS
+A área de intervenção abrange um total de 51.233 habitantes, garantindo-se assim a possibilidade de abranger 34% da população.
+Os biorresíduos são vistos de duas formas: como resíduos e como matéria-prima. A implementação de um novo sistema de gestão de resíduos é um processo moroso aliado à criação de novos hábitos na população, que requere tempo de maturação e monitorização, devendo ser alargado com estratégia e envolvimento.
+66
+12.2
+ANO 2024
+Conforme já mencionado a DQR estabelece que até 31 de dezembro de 2023, os biorresíduos são separados e reciclados na origem, ou são recolhidos seletivamente e não são misturados com outros tipos de resíduos.
+Após uma consolidação do sistema implementado em 2021, da comunicação traçada para toda a população, do incremento da recolha seletiva na origem, este plano prevê que em 2024, a recolha seletiva alargue à zona envolvente, considerando ainda a localização dos potenciais produtores de biorresíduos.
+Nesta segunda fase, acrescem as seguintes freguesias: Penselo/ Aldão/ UF Prazins St. Tirso e Corvite/ Barco/ Prazins Sta. Eufémia/ Silvares/ UF Candoso S.
+Tiago e Mascotelos/ Candoso S. Martinho/ Polvoreira/ Brito/ Selho São Cristovão/
+Selho S. Jorge, com um total de 58% da população abrangida com o sistema de recolha seletiva de RUB.
+FIGURA 30 ― PROPOSTA DE ALARGAMENTO DA RECOLHA SELETIVA DE BIORRESÍDUOS ANO 2024
+67
+12.3
+ANO 2026
+Consolidado o sistema de recolha seletiva de RUB implementado é possível efetuar o alargamento do sistema à parte norte do concelho, abrangendo mais 17% de habitantes, agregando as seguintes freguesias: UF Atães e Rendufe/ Gonça/ S. Torcato/ UF Arosa e Castelões/ UF Souto Sta. Maria, Souto S. Salvador e Gondomar/ UF Briteiros St. Estevão e Donim/ UF Briteiros S. Salvador e Briteiros Sta. Leocádia/ Aldão/ UF Selho S. Lourenço e Gominhães/ Infantas/ UF Tabuadelo e S. Faustino/ UF Abação e Gémeos/ UF Serzedo e Calvos/ Pinheiro/ Gonça.
+FIGURA 31 ― PROPOSTA DE ALARGAMENTO DA RECOLHA SELETIVA DE BIORRESÍDUOS ANO 2026
+68
+12.4
+ANO 2028
+A partir do ano 2028 será possível iniciar o alargamento da recolha seletiva de RUB a todo o concelho. Nesta última fase, foram englobadas as freguesias a oeste a sul do concelho, dado que são caraterizadas por áreas industriais de maior dimensão, e, por conseguinte, com menor produção de RUB. Integrando as freguesias de Moreira de Cónegos/ Nespereira/ Lordelo/ Serzedelo/ Guardizela/ Gondar/ Ronfe/ Sande S.
+Martinho/ UF de Leitões, Oleiros e Figueiredo/ UF Conde e Gandarela/ UF Airão S.
+João, Airão Sta. Maria e Vermil/ Uf Sande Vila Nova e Sande S. Clemente/ Longos/
+UF Balazar e Sande S. Lourenço.
+FIGURA 32 ― PROPOSTA DE ALARGAMENTO DA RECOLHA SELETIVA DE BIORRESÍDUOS ANO 2028.
+
+72
+OUTRAS MEDIDAS
+O PMBG2030, é um dos instrumentos para a gestão dos resíduos urbanos em Guimarães e pretende complementar uma das áreas a integrar no próximo Plano Estratégico de Resíduos de Guimarães2030, que irá englobar políticas “Zero Waste”, com a certificação dos serviços.
+Em todo o processo é fundamental o envolvimento dos cidadãos, empresas, instituições e entidades gestoras. Assim, no seio da Estrutura de Missão para o Desenvolvimento Sustentável 2030, foi criado o Grupo “Resíduos Recursos e Inovação”, com vista a criar melhores desempenhos nesta área e soluções inovadoras e tecnológicas, ao nível dos equipamentos e dos resíduos, com vista à sua valorização integrada e circular.
+A abertura dos serviços ao exterior, a inovação e o desenvolvimento são essenciais para melhorar a eficiência e eficácia da gestão de RU, sendo fundamental apostar no trabalho em rede quer nacional quer internacional e daí, a importância de o Município estar inserido nas seguintes redes e programas:
+a) Grupo Waste Fórum Ambiental da Eurocities;
+b) Rede de Cidades Históricas contra os Resíduos de Plástico (HISCAP);
+c) Assinatura do “Green City Accord”;
+d) Assinatura do Pacto Português para o Plástico;
+e) Assinatura da Declaração Europeia de Cidades Circulares;
+f) Rede de Regiões e Cidades HOOP na área da bioeconomia circular.
+Foi ainda criado o “Focus Group”, que seguirá todo o processo de implementação deste plano, e irá definir estratégias com vista a apoiar a sua implementação e monitorização.
+O PMBG2030 adotará adoção de compras públicas sustentáveis “Green Public Procurement”. Pretende-se que os cadernos de encargos incluam critérios de sustentabilidade ambiental, social e de proteção da saúde humana e uma análise do “ciclo de vida do produto”. Os equipamentos a adquirir, terão como obrigatoriedade de incorporação de uma percentagem de plástico reciclado, e serão substituídos os sacos de plásticos na recolha por compostáveis, através de bioplástico, material que integra uma elevada percentagem na composição física dos resíduos em Guimarães, solicitando-se material devidamente certificado.
+14.1
+ALARGAR O SISTEMA PAYT À RECOLHA SELETIVA DE BIORRESÍDUOS
+Os sistemas PAYT baseiam-se na aplicação conjunta de dois princípios fundamentais de uma política ambiental consistente: o princípio do poluidor-pagador e o conceito da responsabilidade partilhada, que determina que os munícipes devam pagar os custos que a sua parte de responsabilidade na cadeia de consumo gera.
+73
+O sistema PAYT beneficiará o utilizador pela não produção de resíduos, pela adoção de reciclagem na origem através da compostagem, pela separação e pela sua reutilização. O sistema PAYT pretende responsabilizar o utilizador pela quantidade de resíduos produzidos, penalizando os resíduos encaminhados para a fração resto.
+Considerando a introdução de instrumentos económico-financeiros com a implementação do sistema PAYT no centro histórico de Guimarães e na zona envolvente, que funcionam como mecanismos de incentivo com excelentes resultados, no que respeita à minimização da produção de resíduos e ao aumento das quantidades recolhidas seletivamente, é intenção que este plano seja integrado no sistema PAYT, através da compra de sacos pré-pagos, que permitirá dissociar a tarifa de resíduos do abastecimento de água e cobrar pela respetiva produção. Será criada uma tarifa para a recolha seletiva de biorresíduos e outra para a recolha da fração resto, penalizando esta última, e beneficiando a separação dos resíduos.
+A implementação deste sistema terá que possuir uma monitorização contínua do processo, sendo igualmente necessário estabelecer uma relação de proximidade com a população, permitindo a resolução célere de eventuais problemas. Ao longo da implementação e para garantir o sucesso da sua implementação, o projeto PAYT será auxiliado por fortes campanhas de sensibilização e pela agilização do processo de controlo e fiscalização.
+Com este sistema, a tarifa passa a estar indexada ao número de sacos utilizados pelo que cada utilizador pagará mediante a quantidade que produz. Como a recolha dos materiais recicláveis é gratuita, quanto mais reciclar e separar menos vai pagar.
+74
+COMUNICAÇÃO
+A proximidade, que permite falar com cada um, constrói um elo de ligação forte entre o projeto e os indivíduos, e vai formar e apoiar os seus novos comportamentos, tirando dúvidas e aceitando as suas sugestões. Há, aqui, a apropriação do projeto por parte da população, diminuindo o fosso nós/eles, promotores/cidadãos (Silveira et al, 2021).
+É objetivo deste plano acompanhar os diversos anos de comunicação do projeto, de modo a criar o espírito contínuo de mobilização da população e a sua ligação ao projeto, e também efetuar o acompanhamento direto dos comportamentos, controlando e monitorizando desde logo os desvios e eliminando os erros.
+O objetivo da comunicação a elaborar para cada fase do projeto permitirá:
+a) Divulgar o PGBG2030;
+b) Criar uma imagem e uma marca para o projeto;
+c) Desenvolver um plano de comunicação;
+d) Cumprir os normativos legais e a divulgação da estratégia, objetivos e metas;
+e) Esclarecer a população-alvo;
+f) Desenvolver de conteúdos de apoio à implementação do projeto;
+g) Desenvolver um website;
+h) Criar materiais de comunicação online e offline;
+i) Interagir com o público-alvo;
+j) Desenvolver de suportes didáticos para o público infantojuvenil;
+k) Disponibilizar de instrumentos e elementos de divulgação;
+l) Integrar estes projetos em outras áreas de comunicação municipais.
+75
+FIGURA 33 ― IMAGEM DA COMUNICAÇÃO.
+FIGURA 34 ― IMAGEM DA COMUNICAÇÃO A COLOCAR NOS CONTENTORES.
+76
+FIGURA 35 IMAGEM 1ª FASE DE COMUNICAÇÃO – REDES SOCIAIS.
+77
+CONCLUSÕES
+A implementação de um sistema de recolha seletiva de biorresíduos é uma mais-valia para qualquer sistema de gestão de resíduos. A sua recolha permite não só a produção de composto de melhor qualidade, como também desviar os biorresíduos de aterro e diminuir a quantidade de refugo derivada da contaminação de resíduos materiais por parte dos biorresíduos.
+A implementação deste plano, teve em atenção e pretende replicar os melhores exemplos e estratégias europeias, adaptando-as à realidade de um concelho como o de Guimarães, baseandose nos principais fundamentais do Pacto Verde Europeu (EGD, 2019).
+Este plano deve ser acompanhado de fortes medidas de promoção de separação de resíduos na fonte, aliada a uma melhor comunicação entre sistemas de gestão de resíduos e a população. Pretende-se o reforço institucional com a entidade gestora em alta, RESINORTE, com as Juntas de Freguesia e Brigadas Verdes, no apoio à operacionalização.
+Pretende-se integrar a investigação e o desenvolvimento através do Laboratório da Paisagem e operacionalizar a recolha com a Vitrus Ambiente.
+Este plano, segue a iniciativa “Guimarães 2030: Ecossistema de governança” que tem como centro de atuação o cidadão, que é parte fundamental para a concretização da implementação e sucesso deste plano. Assim, o PMBRG2030 visa analisar o comportamento do cidadão, no que respeita aos padrões de consumo, incentivando a redução do desperdício e a compras mais ecológicas e sustentáveis. O envolvimento do cidadão em todo o processo é crucial, e daí depende toda a estratégia. Este plano pretende criar mecanismos de incentivo à compostagem caseira e comunitária e criar uma minicentral de compostagem com vista à valorização dos RV municipais.
+O sistema de recolha principal para a recolha seletiva de biorresíduos em Guimarães será no sistema PaP, dado que evidencia melhores resultados na captura dos biorresíduos, e poderá influenciar o cidadão, para que passe a separar ainda mais as outras frações. Práticas nacionais e internacionais de recolha seletiva de biorresíduos apontam maioritariamente para o sistema PaP, como referem Levy et al (2020).
+A DQR limita a deposição em aterro a 10% dos RU produzidos, privilegiando a valorização em detrimento da descarga no aterro, pelo que é fundamental a implementação deste plano que irá contribuir para a taxa de preparação para reutilização e reciclagem, nos cumprimentos das metas nacionais e europeias.
+78
+16.1
+O PROCESSO
+1. Na implementação deste plano é necessário reunir todas as partes interessadas do território, incluindo em particular a nível político, pessoal técnico, de recolha, associações locais, entidades gestoras da recolha e outras relevantes para o processo;
+2. Estabelecer os impulsionadores apropriados para a prevenção, recolha seletiva e reciclagem de resíduos orgânicos como parte da estratégia local de gestão de resíduos urbanos, incluindo metas específicas de reciclagem de biorresíduos;
+3. Incluir o uso de instrumentos do sistema PAYT, que favoreça a separação de fluxo de resíduos;
+4. Adaptar o esquema de recolha ao território, em especial quanto à frequência, o tipo de recolha (PaP, deposição em contentor) e o veículo de recolha. Testar o sistema através de projeto-piloto antes da implementação em escala real. Promover a prevenção de resíduos orgânicos nas áreas onde há baixa quantidade/potencial de recolha. Adaptar também o tipo de saco e/ou recipiente a ser usado para a recolha de biorresíduos, consoante o utilizador (agregado familiar ou profissional), bem como a frequência de recolha de outros fluxos;
+5. Comunicar regularmente com a população, através de uma mensagem sensibilizadora que deve abordar o propósito da recolha de biorresíduos, o destino do material recolhido, a qualidade do material produzido nas instalações de tratamento e a complementaridade entre compostagem descentralizada e recolha seletiva de resíduos orgânicos;
+6. Estabelecer estratégias de monitorização, utilizando, por exemplo, ferramentas informáticas (para otimização de circuitos de recolha, comunicação e acompanhamento dos desempenhos), implementando campanhas de análise de composição de resíduos e monitorizar custos;
+7. Manter no ativo as entidades do “Focus Group” para permitir o acompanhamento do respetivo plano;

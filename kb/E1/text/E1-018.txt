@@ -1,0 +1,260 @@
+Vol.:(0123456789) 1 3
+Waste Disposal & Sustainable Energy https://doi.org/10.1007/s42768-023-00137-3
+ARTICLE
+Study on textile waste generation in the undifferentiated municipal solid waste stream in Guimarães, Portugal
+Alona Perebynos1 · Dalila Sepúlveda2 · Carlos Ribeiro1
+Received: 26 September 2022 / Revised: 12 January 2023 / Accepted: 31 January 2023 © Zhejiang University Press 2023
+Abstract
+Guimarães is a middle sized city and municipality located in northern Portugal. The municipality has committed to reducing the annual amount of undifferentiated municipal solid waste (MSW) from 371 kg/capita in 2021 to 120 kg/capita by 2030 under the Zero Waste Cities Certification process. In the municipality of Guimarães, one of the constant fractions of MSW composition is textile waste (TW), which the revised EU Waste Framework Directive requires separate collection by 1 January 2025. Therefore, two indicators of TW generation were analysed to identify waste collection routes with a high level of textile waste generation for the priority implementation of separate collection: TW composition in the undifferentiated MSW stream and TW generation per capita. Basic statistical analysis methods were used to process the source data of TW composition in the undifferentiated MSW stream. Cluster analysis was applied to the data set on TW generation per capita, considering the area typology (urban, rural or mixed) of collection routes. It was considered that 39% of the industrial sector of Guimarães consists of textile and clothing production and represents small- and medium-sized enterprises, which can affect TW generation in the undifferentiated MSW stream. Causal-comparative research was used to define the correlation between TW generation per capita and the economic activity of the textile and clothing industry in the municipality. As a result, applying a multi-disciplinary approach, a project of the Textile Waste Generation Map was presented.
+Keywords Textile waste · Municipal solid waste · Waste generation indicators · Waste management · Circular economy
+Introduction
+Textiles have long become an integral part of our everyday life and society, providing us with clothing, shoes and carpets, curtains, etc. for homes, offices, and other public buildings. Worldwide, the textile and clothing (T&C) industry employs millions of people and creates enormous economic value. It is considered one of the largest sectors in Europe, with 143,000 companies with a turnover of 147 billion Euros and 1.3 million employees in 2021 [1, 2]. As stated by EURATEX, Portugal is among the top 5 employers, with a turnover of 5% in the textile and fashion industry among all regions of the European Union (EU) (Italy—22%, Romania—11%, Poland—11%, Portugal—9%, Germany—9%) [1]. According to data collected by the Associação Têxtil e Vestuário de Portugal in 2019, this industrial segment employs more than 139 thousand workers, with more than 5000 companies and a turnover of more than 7700 million euros. The T&C production companies are mainly located in northern of Portugal (Porto, Braga, Guimarães, Famalicão) [3, 4]. The industrial sector of Guimarães consists of 25% textile production and 14% clothing production. It accounts for approximately 5% of textile production and 7% of clothing production in Portugal.
+However, the significant ecological footprint of the T&C industry, as well as the health and social risks during production processes, have become the focus of increasing attention. The production and consumption of textiles and clothing cause a significant environmental impact by using resources, water, land, and chemicals and emitting greenhouse gases and pollutants. In 2017, the production of textile products in the EU was 7.4 kg/person, and final
+* Alona Perebynos alona.perebynos@labpaisagem.pt
+1 Landscape Laboratory, Rua da Ponte Romana, Creixomil, 4835-095 Guimarães, Portugal
+2 Environmental and Public Space Division, Environmental and Sustainability Department, Guimarães City Council, Largo Cónego José Maria Gomes, 4804-534 Guimarães, Portugal
+1 3 consumption amounted to 25.9 kg/person. The aforementioned amount of production and purchase of clothing and household textiles in the EU generated emissions of 654 kg CO2eq per person, but only 25% of this occurred inside the EU [5]. Concerning water pollution, textile production is estimated to be responsible for about 20% of global clean water pollution from dyeing and finishing products.
+In addition, washing synthetic clothes accounts for 35% of primary microplastics released into the environment [6].
+Based on data from Eurostat, in 2020 the production of textile and textile products was almost 23.4 million tonnes in the European Union [7]. According to Eurostat estimations, 2.03 million tonnes of textile waste (TW) were generated in the EU in 2020, of which 870,000 tonnes came from households. In Portugal, the total TW generation was 76,412 tonnes in 2020, and there are no data on what proportion belongs to households [8].
+Joint Research Centre (JRC) Technical report states that between 1.7 million tonnes and 2.1 million tonnes of post-consumer textiles are separately collected annually throughout the EU for recycling or sale on global reuse markets, representing approximately 38% of new textiles placed on the EU market. Consequently, the remaining 62% is discarded in the undifferentiated municipal solid waste (MSW) stream [9]. In the EU Strategy for Sustainable and Circular Textiles, it is declared that there is significant potential to reduce TW and ensure that it creates further value by boosting its preparation for reuse and recycling [10].
+The revised [11] set specific deadlines for achieving recycling targets. Starting in 2025, at least 55% of municipal waste should be recycled including used textiles. A recycling rate of at least 60% is set for 2030 and at least 65% for 2035. Recycling involves recovery methods such as preparation for reuse and material recycling. Thermal recovery and landfill are not included in the recycling rate.
+According to the EU Directive, the landfill rate for municipal waste may not exceed 10% from 2035 [11]. While in the past the motivation for the separate collection of used textiles was mostly socially or economically driven, the revised Waste Framework Directive of the EU set a requirement to implement the separate collection of TW by 1 January 2025 in the municipal waste management system.
+The main objective of this study is to determine MSW routes with a high content of TW by analysing waste generation indicators for the priority implementation of separate collections of TW. As a result, the “Textile Waste Generation Map” project is presented by applying a multi-disciplinary approach that includes methods of statistical analysis and causal research and takes into account variables such as socio-demographic characteristics, territorial typologies and economic activity of the administrative units of Guimarães.
+Theoretical background
+Several trends in the T&C industry seem to be moving in the right direction. Consumers are increasingly conscious about a brand’s purpose, as well as the social and environmental impacts of their purchases [12, 13]. A survey based on interviews with more than 27,000 people in the EU Member States showed that 80% of respondents expressed a desire for clothing lasting longer and 77% of Europeans agree that clothing should only be made of materials that can be recycled [1]. According to the results of the research [14] on the behaviour of consumers regarding the disposal of textile products, more targeted information campaigns should be implemented to support proper handling options with post-consumer textiles, ideally in collaboration with policymakers at both national and municipal levels. The focus should be on consumers who do not separate or have a lower propensity to separate unusable or worn textiles—men in general, less educated consumers, and those with lower income [14].
+The Platform for Accelerating the Circular Economy (PACE) has identified three circular objectives for the T&C industry in its report “The Circular Economy Action Agenda for Textiles” [2] based on a global circular economy vision [15, 16]:
+1. Material inputs for textiles are safe for both workers and consumers, renewable (e.g., cotton or wood-based fibre obtained using sustainable agricultural practices), recycled (synthetic or natural fibres), or both (e.g. recycled plant-based fibres).
+2. Textiles are kept in use: this objective concerns both production (all products that are made are used, and excess stock is minimised and never destroyed) and consumption (all products are used repeatedly and for long periods of time, instead of being left unused or thrown away prematurely).
+3. Textiles are recyclable and recycled at the end of life (upcycling should be prioritised over downcycling).
+In general, TW can be divided into post-industrial waste coming from production sites and post-consumer textile waste (PCTW). While industrial TW often has good quality and large volumes of homogeneous materials, post-consumer waste is often heterogeneous and consists of large volumes of mixed textiles [17]. In Europe, on average, MSW is composed around 4% to 5% by weight of textile [14]. In accordance with the circular economy concept [10, 15], used textiles and clothing should be handled with proper waste management and through a defined waste hierarchy. The waste hierarchy is applied in the Waste Framework Directive of the EU as a priority order in the waste management system
+1 3
+(reduce–reuse–recycle–recovery–disposal) [11]. Stages of the textile life cycle, such as raw material production, manufacturing, and use, affect the environment the most, but circular economy practices (such as a separate collection of TW at the source followed by reuse or recycling) can mitigate the related impact [18]. A study by Amicarelli and Bux on quantifying textile streams and recycling prospects in Europe [19] states that “separate collection should be considered as one of the most important pathways to: (a) reduce TW streams destined to incineration or landfilling; (b) reduce virgin fibres supplying from the environment; (c) reduce CO2 eq emissions associated with the end-of-life pathways, such as incineration or landfilling”.
+Each country of the EU has a different level of success in collecting PCTW. Common ways to collect PCTW are MSW collection, collection containers, kerbside collection, collection through mail back options, retailer and charity shop drop-offs, and home pick-ups [20]. Larger PCTW becomes part of municipal waste and is collected in bins for undifferentiated MSW. This makes it completely unsuitable for reuse or recycling according to the waste hierarchy due to its contamination. Some quantities of PCTW are collected and handled centrally in recycling centres operated, for example, by municipalities or collected via publicly accessible containers of private companies or charitable organisations. Part of the used textiles is sold to sorting companies for further processing. The remaining part ends up in incineration plants or landfills [17].
+Although the separate collection of PCTW will become obligatory, efficient reuse and recycling cannot be achieved by simply collecting textiles separately from municipal waste. In order to properly reuse or recycle PCTW, it is necessary to have information on the characteristics (e.g., material composition, quantity, removal methods) of used textiles to ensure the best environmentally sound way of handling it [21]. The sorting of collected textiles determines which path the item goes through. The more accurately the sorting is adapted, the more pieces of clothing can be used for reuse as second-hand goods or high-quality recycling [22]. According to a survey in Germany, sorters sort textiles into an average of 154 different fractions, with a maximum of 400 varieties [17].
+Treatment options for clothing and household textiles largely depend on whether the items have been separated at the source, that is, separated from other waste at the point of generation. Suppose there was no separate collection, and the items are mixed with non-textiles and contaminated. In that case, there is the option to landfill or incinerate [17].
+However, TW, which was collected separately, sorted, and identified as end-of-life textile products, enters the production cycle through recycling processes (Fig. 1). The most common way of recycling PCTW is classical mechanical technologies that break down the fabric and retain the fibres by cutting, tearing, shredding, or carding. These recovered fibres are almost exclusively used in nonwoven products for insulation, upholstery, and automotive textiles [17, 23].
+Physical methods use physical processes to make the fibres or polymers suitable for reprocessing, either by melting or dissolving them, after which either melt spinning or solution spinning can be used to form a new filament (i.e., a fibre of infinite length) [23]. Chemical recycling of textiles is still largely under development and is applied to dissolve synthetic or natural fibres by chemical compounds so they can be used as recovered raw materials [2, 23].
+In the circular fashion chain, raw materials should preferably come from renewable resources, recycled materials or TW, PCTW or residues produced in the factories in the form of yarns or fabrics (post-industrial) [24]. As mentioned previously, there are distinct differences between post-industrial and post-consumer textile streams. Post-industrial waste streams are often well defined and more homogeneous, as they can be collected as fibres, yarns, or fabrics, thus well before the garment is produced. Thus, TW from industrial sources has a much better chance of achieving cost-effective, high-quality recycling than PCTW [23, 25].
+In contrast to the post-industrial waste stream, the PCTW stream is more complex, poorly defined, and contaminated and has decreased fibre quality due to washing and wearing. In addition, each fibre has its optimal recycling option (Fig. 1). For instance, in order to improve the functionality of a fabric, manufacturers combine two or more fibre types to form a new yarn or fabric that can combine the best qualities of each fibre. A well-known example is the presence of a few percent elastane in jeans to improve wearing comfort.
+Therefore, converting post-consumer monomaterial textile
+Fig. 1 Recycling methods for different types of textiles (adapted from [23] with permission)
+1 3 fibres into new materials is possible on a limited scale, but the options for blended textiles are even more limited [23, 26].
+Currently, the non-reusable fraction of collected textiles is mostly downcycled into industrial rags, upholstery filling, and insulation, or incinerated or landfilled. Less than 1% of TW is recycled into new fibres for clothing as technologies for processing textiles to recycled fibres are only starting to emerge [20, 25]. Increasing the recycling rate requires changes throughout the entire life cycle of textiles: textiles must be designed to be easily disassembled and economically recycled, consumers must dispose of them properly, and collection/sorting systems must effectively separate different TW streams to avoid cross-contamination [2].
+In Portugal, the Strategic Plan for Urban Waste states that there are already successful national experiences in the TW collection for reuse or recycling either through the municipalities or Urban Waste Management Systems in partnership with social solidarity institutions or through clothing sales stores, which encourage the delivery of used clothing so that it can be changed into a new garment [27]. The municipality of Guimarães has been implementing a circular economy policy through the program Guimarães for Circular Economy (G4CE) [28], which in 2022 was rebranded with the name of RRRCICLO—Circular Economy in Guimarães and integrates a strong awareness campaign for the community. The strategy is one of the examples of the Governance Ecosystem—Guimarães 2030, implemented in 2014, which brings together the public and private sectors, universities, and citizens [29]. The municipality of Guimarães, as a local owner entity responsible for providing municipal waste management services, recognises its role in creating a closed loop in the circular T&C sector by providing residents with a separate collection of TW.
+Materials and methods
+Guimarães is a middle size city and municipality located in northern Portugal, which historic centre is UNESCO World Heritage. According to the 2021 Census, Guimarães has 156,849 inhabitants distributed over 241 km2 [30]. In terms of administrative organisation, the territory has 48 parishes (administrative units), with a group of 17 medium size agglomerations, and 31 of those can be considered as small size. Guimarães has 35 different collection routes for undifferentiated MSW covering all 48 parishes. 31 routes with the door-to-door system are managed by the municipality and 4 routes with underground waste containers with a capacity between 3000 L and 5000 L, responsibility for the operation of which belongs to a public company “Vitrus Ambiente EM SA”.
+Since this study aims to identify the waste collection routes with a high content of TW for the priority implementation of its separate collection, two indicators of waste generation were analysed: TW composition in the undifferentiated MSW stream and TW generation per capita.
+TW generation
+The source data for this research were obtained by Centre for Waste Valorisation, a non-profit institution that offers research, scientific analysis, and actual application services in the waste valorisation area, during the survey of the physical composition of undifferentiated MSW in 2016. The results of the survey were published in the article “Municipal Waste Map: a Case Study of Guimarães, Portugal” [31]. The characterisation of undifferentiated MSW was performed considering the Portuguese law requirements Portaria No. 851/2009, 7th August, 2009 [32] that states: (1) the minimum number of samples for characterisation of the physical composition of undifferentiated MSW is 21; and (2) the quantity of material per sample is 350 kg. Accordingly, 26 routes with door-to-door waste collection and 3 routes with collection by underground containers were analysed, which in total corresponds to 29 samples weighing 350 kg each. All door-to-door collection routes were sorted and numbered according to the period and frequency of waste collection. A letter in the name of the route indicates the frequency of waste collection: “A”—Monday, Wednesday, and Friday, “B”—Tuesday, Thursday and Saturday, and routes without a letter—daily from Monday to Saturday. For the survey of the physical composition of undifferentiated MSW, 26 out of 31 routes with door-to-door waste collection were selected because 5 of them are similar in terms of population and area typology, so they were considered together: 7A with 7B, 10A with 10B, 12A with 12B, 15A with 15B and 16A with 16B. The characterisation of undifferentiated MSW was undertaken twice in April and June for the autumn–winter and spring–summer periods, respectively [31]. The sampling campaign of undifferentiated MSW covered 92% of the municipality’s area with 94% of the population.
+Basic statistical analysis methods were used to process the source data of the TW composition in the undifferentiated MSW stream. The z-score, standard deviation, median, and mean were calculated. The z-score (standard score) is a numerical measurement that describes a value’s relationship to the arithmetic mean of a sample. Basically, the z-score value shows how many standard deviations separate the value from the arithmetic mean. A standard deviation is a measure of how dispersed the data are in relation to the arithmetic mean. A low standard deviation (<1) indicates that the data are clustered around the arithmetic mean, while a high standard deviation (>1) implies that the data are more spread out [33, 34].
+1 3
+Although the input for this research was accepted from the 2016 study “Municipal waste map: the case of Guimarães, Portugal” [31], further calculations and analysis are made for 2022, and the results will be taken into account for decisions on the implementation of separate collection of TW by January 2025. This is due to the fact that the main factors that can affect the TW generation have not changed significantly since 2016, namely: the population of the municipality, the economic situation and the municipal solid waste collection system.
+TW generation per capita
+Waste generation per capita is calculated by dividing the waste generation (kg) of a certain area by that area’s population. Data on residence population by administrative units were obtained from the statistical office of Portugal (INE— Instituto Nacional de Estatística) [35]. The following formula was used to calculate the monthly TW generation (kg) by waste collection routes:
+where TWg is the TW generation, kg; MSWg is the MSW generation, kg; TWc is the TW composition in the undifferentiated MSW stream, %. Data on MSW generation (kg) were extracted from the 2016 waste generation report of the Urban Service Division of the municipality of Guimarães for the same months when the survey of the physical composition of undifferentiated MSW was conducted [31].
+Clustering, a common technique for statistical data analysis that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are similar to each other [36], was applied to analyse the obtained data on TW generation per capita. In this research, the area typology was used as a variable to form clusters. According to INE databases [37], three types of area typology are considered: urban (residential, commercial, and institutional), rural (residential and rural), and mixed (residential, industrial, and rural).
+T&C economic activity of Guimarães
+It was taken into account that 39% of the industrial sector of Guimarães consists of T&C production and represents small- and medium-sized enterprises, which can affect TW generation in the undifferentiated MSW stream.
+Causal-comparative research was used to define the correlation between TW generation per capita and economic activity of the T&C industry in the municipality. This type of research is useful for analysing causes when an
+(1) TWg =
+MSWg × TWc
+100 , experimental assignment or manipulation is infeasible [39].
+The economic activity of the T&C industry was represented as the number of T&C enterprises on each waste collection route. Data on the number in enterprises of the T&C sector were acquired from the internal database of the municipality of Guimarães.
+Results and discussion
+TW generation
+From the obtained data of the survey of the physical composition of undifferentiated MSW [31], the composition of TW (%) was excluded for the characterisation of TW generation in the municipality (Table 1). Only 26 routes with door-todoor waste collection were considered for this research, and routes with underground containers were excluded because they are placed in high-density urban areas throughout the municipality, which makes it impossible to calculate the exact residence population required for further analysis. To process the source data of the TW composition in undifferentiated MSW, the average value for each route was calculated by taking the mean of the autumn–winter and spring–summer periods. Route 17 had no data on the TW generation, so it was subsequently excluded from the calculations, and the number of routes was reduced to 25.
+The next step in data processing was the calculation of a “z-score” for the sample of average values of the TW composition in undifferentiated MSW. The standard deviation and arithmetic mean of the sample of average values of TW composition are 3.4 and 6.1, respectively. In this case, corresponding to the z-score >1 condition, routes 3B and 4B were excluded from the sample as outliers. After excluding routes 3B and 4B, 23 routes remained in the sample of average values of the TW composition in undifferentiated MSW (Fig. 2). In addition, for the sample of 23 routes, the values of the median and the arithmetic mean were calculated, which are equal to 4.5 and 5.4, respectively. The median value was more suitable to identify the excessive TW generation values in the obtained sample of 23 routes, because the sample still had skewed distributions with a standard deviation equal to 2.1. The median value of 4.5% coincides with the average value of 4%–5% TW composition in the MSW in European countries [8, 14]. After processing the source data, the number of waste collection routes in TW generation research decreased from 26 to 23, covering 81% of the municipality’s area with 84% of the population. Using the median value of the indicator of TW composition in the undifferentiated MSW stream, the following routes with a high content of TW were chosen: 2A, 2B, 3A, 5A, 6A, 8A, 8B, 10A, 11B, 14A, 15B, and 16B.
+1 3
+TW generation per capita
+Another indicator that was considered for the research of TW generation in the municipality of Guimarães was TW generation per capita. It was necessary to estimate TW generation (kg) in order to calculate TW generation per capita. For that purpose, data on MSW generation (kg) were extracted from the internal statistical database of the Urban Service Division of the municipality of Guimarães. The data on MSW generation (kg) were obtained by collection routes and for the same months when the survey of the physical composition of undifferentiated MSW was conducted [31].
+Table 1 TW composition (%) in undifferentiated MSW collection routes
+TW textile waste; MSW municipal solid waste
+*Sample that was used to calculate the median value and the arithmetic mean value
+Route	1A 1B	2A	2B 3A 3B	4A 4B	5A 5B 6A	6B 7B
+No.	1	2	3	4	5	6	7	8	9	10 11	12 13
+Autumn-winter period, %	2.02 0.35 5.26 0.87 7.81 27.48 3.21 3.29 8.67 2.66 5.01 4.05 3.56
+Spring-summer period, %	6.55 6.86 3.93 9.74 6.94 6.63 3.36 22.47 4.42 5.12 10.55 3.35 1.65
+Average value of the route*, %	4.28 3.60 4.60 5.30 7.37 17.06 3.28 12.88 6.55 3.89 7.78 3.70 2.60
+Z-score for the average value	–1 –1	0	0	0	3	–1 2	0	–1 1	–1 –1
+Route	8A 8B	10A 11A 11B 12A 13A 13B 14A 14B 15B 16B 17
+No.	14 15	16	17 18 19	20 21	22 23 24	25 26
+Autumn-winter period, %	9.01 12.63 6.30 2.84 5.16 4.80 3.42 3.01 7.69 2.99 5.37 5.54 0
+Spring-summer period, %	9.97 5.99 13.21 4.21 3.99 3.76 5.01 5.92 4.3 4.24 7.87 3.54 0
+Average value of the route*, %	9.49 9.31 9.76 3.53 4.57 4.28 4.22 4.46 5.99 3.62 6.62 4.54
+Z-score for the average value	1	1	1	–1 0	0	0	0	0	–1 0	0
+Median value of the sample	4.5
+Arithmetic mean value of the sample 5.4
+Fig. 2 TW composition in the undifferentiated MSW stream (23 routes), %. TW textile waste; MSW municipal solid waste
+1 3
+After calculating the monthly TW generation (kg), the average value was calculated for each collection route by taking the mean of the autumn–winter and spring–summer periods (Table 2).
+The transportation network of the municipality and the population density were considered in the process of creating a scheme of waste collection routes for efficient operation.
+Consequently, some waste collection routes cross several administrative units, and, thus, route 1A was merged with 1B, 10A with 14A, and 12A with 13A. It was necessary to properly calculate the indicator of TW generation per capita because the population data of administrative units cannot be accurately distributed between several routes. After merging the routes, the number of routes decreased to 20:17 original waste collection routes and 3 units of merged routes.
+Twenty routes involved in the research were matched by their area typology using cluster analysis so that waste generation per capita was relevant to the characteristics of the administrative units (Table 3). Routes 1A+1B, 5A, 11B, 12A+13A, 13B, 14B, and 15B were considered as waste collection routes with a mixed area typology; routes 3A, 4A, 5B, 6A, 8A, 8B, 10A+14A, and 11A were assigned to the rural area typology cluster; and 2A, 2B, 6B, 7B, and 16B collection routes formed the urban area typology cluster. TW generation per capita was estimated by dividing TW generation (kg/month) of a certain collection route by relevant population (Table 3). The median and arithmetic mean were calculated for each sample of the three obtained clusters.
+Routes with a high level of TW generation per capita were identified within each area typology cluster using the corresponding median value: 1A+1B, 5A, 11B, and 15B from the mixed area typology cluster; 6A, 8A, 8B, and 10A+14A from the rural area typology cluster; and 2A, 2B, and 6B from the urban area typology cluster (Fig. 3).
+T&C economic activity of Guimarães
+As mentioned earlier, the industrial sector of Guimarães consists of 25% textile production and 14% clothing production. The authors believe that TW generation in the undifferentiated MSW stream can be influenced by the number of enterprises in the T&C sector on waste collection routes. To develop this hypothesis, it was decided to compare the amount of TW generation per capita with the number of T&C enterprises on each waste collection route.
+To characterise the economic activity of the T&C sector in
+Table 2 Calculation of monthly TW generation (kg/month) by undifferentiated MSW collection routes
+*Values that were used to calculate the TW generation per capita in Table 3
+Route	1A	1B	2A	2B	3A	4A	5A	5B	6A	6B	7B	8A
+No.	1	2	3	4	5	6	7	8	9	10	11	12
+MSW generation, kg/month autumn-winter period 76,520 73,260 98,140 97,200 77,980 92,360 71,480 91,220 82,340 99,360 88,980 80,060 spring-summer period 73,960 77,420 93,380 92,380 79,780 95,020 87,580 106,940 93,080 92,780 95,040 107,740 TW composition, %
+autumn-winter period 2.02 0.35 5.26 0.87 7.81 3.21 8.67 2.66	5.01 4.05 3.56 9.01
+spring-summer period 6.55 6.86 3.93 9.74 6.94 3.36 4.42 5.12	10.55 3.35 1.65 9.97
+TW generation, kg/month
+autumn-winter period 1543 255	5164 845	6087 2964 6198 2425	4129 4024 3166 7212
+spring-summer period 4844 5311 3670 8998 5537 3193 3871 5475	9820 3108 1568 10,742
+average value*	3194 2783 4417 4921 5812 3078 5034 3950	6974 3566 2,67 8977
+Route	8B	10A	11A	11B	12A	13A	13B	14A	14B	15B	16B
+No.	13	14	15	16	17	18	19	20	21	22	23
+MSW generation, kg/month autumn-winter period 106,480 109,840 92,080 70,340 70,660 52,960 72,200 100,000 67,660 75,400 77,280 spring-summer period 109,640 107,820 89,060 84,280 57,700 82,180 65,440 103,240 70,680 86,860 76,620 TW composition, %
+autumn-winter period 12.63	6.30	2.84	5.16	4.80	3.42	3.01	7.69	2.99	5.37	5.54
+spring-summer period 5.99	13.21	4.21	3.99	3.76	5.01	5.92	4.3	4.24	7.87	3.54
+TW generation, kg/month
+autumn-winter period 13,446 6923	2615	3629	3390	1813	2171	7688	2025	4050	4282
+spring-summer period 6567	14,243 3749	3363	2170	4117	3874	4439	2997	6836	2712
+average value*	10,006 10,583 3182 3496 2780 2965 3022 6064	2511 5443 3497
+1 3 the municipality of Guimarães, a number of manufacturing enterprises and trading companies were selected from the internal database of the municipality. It was estimated that there are 274 textile manufacturing enterprises, 463 clothing manufacturing enterprises, and 487 T&C trade companies.
+The evaluation of the economic activity of the municipality showed that the routes from the urban and mixed clusters are characterised by a significantly larger number of enterprises in both T&C manufacture and T&C trade than the routes from the rural cluster. It should also be noted that among the routes of all clusters, there are more T&C manufacture enterprises than trade companies. The exceptions are routes 5A and 11B, where the production and trade of textile products are evenly represented. However, only the number of manufacturing enterprises was used for the causal-comparative research, as trade companies tend to sell textile products rather than generate the consequential amount of TW and mix it with the undifferentiated MSW stream.
+In this study, we hypothesised two scenarios for the causal-comparative research of two variables: TW generation per capita and the economic activity of the T&C industry. The first scenario assumes the existence of small-scale clothing production in local households, that is, an unregistered economic activity. Such private economic activity is usually accompanied by the mixing of TW with municipal waste. In order to carry out the selection more accurately, the routes were divided into subclusters based on the population in each area typology cluster (Table 4).
+The subcluster formed in the urban cluster were 12A+13A, 1A+1B, and 15B, and 13B, 14B, 11B, and 5A; in the rural cluster—10A+14A, 11A, and 4A, and 8A, 3A, 5B, 8B, and 6A; and in the urban cluster—16B, 7B and 6B, 2B, and 2A.
+The following indicator of causality was used to identify the routes according to the first scenario: a high level of TW generation per capita with insignificant economic activity compared to others in the subcluster. According to the indicator of causality of the first scenario, 1A+1B, 11B, 14B, 15B (mixed area typology cluster), 8A, 8B (rural area typology cluster), and 2A (urban area typology cluster) routes were identified.
+The second scenario describes the assumption that small and medium-sized enterprises of T&C industry, instead of implementing an effective waste management system in their production, mix TW with the undifferentiated MSW stream.
+The indicator of causality for the second scenario involved routes with high economic activity in the T&C industry and
+Table 3 Calculation of monthly TW generation per capita by waste collection routes and area typology clusters
+Route	1A + 1B	5A	11B	12A + 13A	13B	14B	15B
+No.	1	2	3	4	5	6	7
+Area typology	Mixed
+TW generation, kg/month	5977	5034	3496	5745	3022	2511	5443
+Resident population	9147	6076	6493	15,031	7244	6919	7848
+TW generation, kg/capita	0.65	0.83	0.54	0.38	0.42	0.36	0.69
+Median value of the sample	0.5
+Arithmetic mean value of the sample	0.6
+Route	3A	4A	5B	6A	8A	8B	10A + 14A	11A
+No.	8	9	10	11	12	13	14	15
+Area typology	Rural
+TW generation, kg/month	5812	3078	3950	6974	8977	10,006	16,647	3182
+Resident population	4708	5123	3720	3434	4926	3680	7531	6073
+TW generation, kg/capita	1.23	0.60	1.06	2.03	1.82	2.72	2.21	0.52
+Median value of the sample	1.5
+Arithmetic mean value of the sample	1.5
+Route	2A	2B	6B	7B	16B
+No.	16	17	18	19	20
+Area typology	Urban
+TW generation, kg/month	4417	4921	3566	2367	3497
+Resident population	4287	4853	4939	6610	8493
+TW generation, kg/capita	1.03	1.01	0.72	0.36	0.41
+Median value of the sample	0.7
+Arithmetic mean value of the sample	0.7
+1 3 a high level of TW generation per capita. In order to select routes according to the second scenario, routes with the most significant number of T&C manufacturing enterprises were determined in each area typology cluster. The 2B, 7B, and 16B routes were defined in the urban cluster; 5B, 6A, and 10A+14A routes—in the rural cluster; 1A+1B, 5A, and 12A+13A routes—in the mixed cluster (Table 5). After analysing the indicator of causality of the second scenario, 1A+1B, 5A, 10A+14A, 6A, and 2B routes were selected. It is also important to note that the presence of a large number of T&C manufacturers in the area can provoke the development of small-scale manufacturers in local households, for example, by giving material for cutting or tailoring some parts of garments.
+Discussion
+The main task of this research was to identify waste collection routes with a high content of TW in the undifferentiated MSW stream. To fulfil this task, the study was conducted using the following indicators: TW composition (%) in undifferentiated MSW; monthly TW generation per capita (kg/capita) and the correlation of TW generation per capita to the economic activity of the T&C industry, which was represented as the number of textile or clothing manufacturers per route. Table 6 shows the summary results after processing all indicators of TW generation. The mixed area typology cluster holds 4 waste collection routes and 1 unit of merged routes that have been classified with at least one positive indicator of TW generation which means a high content of TW. In addition, 4 of them (1A+1B, 5A, 11B, and 15B) were engaged in creating the Textile Waste Generation Map (Fig. 4). The rural area typology cluster includes 4 waste collection routes and 1 unit of merged routes that have been classified with at least one positive indicator of TW generation. Routes 6A, 8A, 8B, and 10A+14A were selected for the creation of the map with a sum of indicators
+3. The urban area typology cluster has 4 waste collection routes that have been classified with at least one positive indicator of TW generation. Most of them have a high rate of TW composition in undifferentiated MSW or TW generation per capita. As a result, routes 2A and 2B took part in the creation of the map with a sum of indicators equal to 3.
+As mentioned earlier, waste generation can be influenced by several factors, e.g. socio-economic profile of administrative units, urban or rural location, or seasonal variation. Therefore, data analysis of TW generation should be carried out comprehensively using various indicators. Using this statement, routes 3A and 16B were excluded from the result because they had only one positive indicator, a high percentage of TW composition in undifferentiated MSW, as well as route 6B with a positive indicator of TW generation per capita and route 14B with
+Fig. 3 TW generation per capita on routes with area typology: mixed, rural, and urban
+1 3 a positive indicator of causality of the first scenario of the causal-comparative research. All waste collection routes involved in the creation of the Textile Waste Generation Map (Fig. 4) are recommended for priority implementation of separate collection of TW.
+DeVoy et al. [38] and Di Maria et al. [40] also noted that TW generation across the municipality can be directly affected by certain characteristics such as the rural vs. urban waste origin, the citizens’ socio-demographic characteristics including age (percent of population over the age of 65), the buying capacity, and buying attitude (number of retail establishments selling clothing), as well as recycling behaviour. It was decided to exclude the availability of retail shops in the immediate area as a factor that might provoke the excessive generation of TW because the development of e-commerce with express delivery diminishes the role of this factor. However, for additional causal-comparative research of the identified routes with a high level of TW generation, the old-age dependency ratio and gender ratio were chosen to exclude the influence of socio-demographic factors on TW generation. Based on the data obtained from the statistical
+Table 4 Comparison table for the first scenario
+Route	12A+13A	1A+1B	15B	13B	14B	11B	5A
+No.	1	2	3	4	5	6	7
+Area typology	Mixed
+Resident population	15,031	9147	7848	7244	6919	6493	6076
+TW generation, kg/capita	0.38	0.65	0.69	0.42	0.36	0.54	0.83
+Number of manufacturing enterprises	84	47	30	31	8	27	38
+Textile	21	6	3	6	1	10	15
+Clothing	63	41	27	25	7	17	23
+Route	10A+14A	11A	4A	8A	3A	5B	8B	6A
+No.	8	9	10	11	12	13	14	15
+Area typology	Rural
+Resident population	7531	6073	5123	4926	4708	3720	3680	3434
+TW generation, kg/capita	2.21	0.52	0.60	1.82	1.23	1.06	2.72	2.03
+Number of manufacturing enterprises	28	15	13	18	18	28	11	26
+Textile	7	6	4	10	2	22	7	12
+Clothing	21	9	9	8	16	6	4	14
+Route	16B	7B	6B	2B	2A
+No.	16	17	18	19	20
+Area typology	Urban
+Resident population	8493	6610	4939	4853	4287
+TW generation, kg/capita	0.41	0.36	0.72	1.01	1.03
+Number of manufacturing enterprises	82	53	35	46	31
+Textile	58	12	7	24	15
+Clothing	24	41	28	22	16
+Table 5 Comparison table for the second scenario
+Route	12A+13A	1A+1B	5A	10A+14A	5B	6A	16B	7B	2B
+No.	1	2	3	4	5	6	7	8	9
+Area typology:	mixed	rural	urban
+Resident population	15,031	9147	6076	7531	3720	3434	8493	6610	4853
+TW generation, kg/capita	0.38	0.65	0.83	2.21	1.06	2.03	0.41	0.36	1.01
+Number of manufacturing enterprises:
+84 47	38	28	28	26	82	53	46 textile	21	6	15	7	22	12	58	12	24
+clothing	63	41	23	21	6	14	24	41	22
+1 3 office of Portugal [35], for each route that was involved in the creation of the Textile Waste Generation Map, the old-age dependency ratio and gender ratio variables were calculated (Fig. 5).
+The old-age dependency ratio shows the proportion of economically inactive individuals compared to economically active individuals. Predominantly, a more economically active population buys more products and generates
+Table 6 Summary table of routes with high indicators of TW generation
+EA economic activity
+Route	Origin	Features of routes	TW generation indicator	Sum of
+indicators Area typology Total area of route, km2
+Total population
+TW
+composition, %
+TW generation, kg/ capita high kg/capita in relation to low EA high kg/ capita and EA
+1A+1B Aldão–Atães–
+Mesão Frio– Gonça–Rendufe–parte S.
+Tiago
+Mixed	24.8	9147	+	+	+	3
+5A	Mascotelos–
+Candoso S.
+Tiago–Silvares
+Mixed	8.35	6076	+	+	+	3
+11B	Salgueiral–
+Urgezes–Pinheiro
+Mixed	5.24	6493	+	+	+	3
+15B	Caldelas–Briteiros St. Estevão–Donim
+Mixed	8.63	7848	+	+	+	3
+14B	Costa–Infantas–
+Serzedelo–EN 101 Felgueiras
+Mixed	16.34	10,599	+	1
+3A	Sande S.
+Lourenço–
+Balazar–Longos–Briteiros Sta. Leocádia
+Rural	23.09	3838	+	1
+6A	Sande S. Clemente–Sande Vila Nova
+Rural	7.25	3434	+	+	+	3
+8A	Gandarela–
+Guardizela– Conde
+Rural	7.62	4926	+	+	+	3
+8B	Serzedelo	Rural	5.14	3680	+	+	+	3
+10A+14A Abação–Rua
+António
+Costa GMR–
+EN 105/
+Tabuadelo–S.
+Faustino–
+Gémeos–Calvos
+Rural	16.28	7531	+	+	+	3
+2A	Lordelo	Urban	4.97	4287	+	+	+	3
+2B	Moreira de Cónegos
+Urban	4.72	4853	+	+	+	3
+6B	Brito	Urban	5.9	4939	+	1
+16B	EN Pevidém–Selho S. Jorge–
+Gondar–EN 206 Vermil
+Urban	7.71	8493	+	1
+1 3 more waste. Figure 5 demonstrates that no direct correlation was found between the values of the old-age dependency ratio and TW generation per capita within each area typology cluster.
+According to the Nencková et al. study [14], men in general have a lower propensity to separate unusable or worn textiles, so the value of the gender ratio in theory can affect TW generation in undifferentiated MSW composition. The gender ratio of the identified waste collection routes indicates the predominance of the female gender with a deviation of 0.6 in the values. Figure 5 also shows that no direct correlation was found between the values of the gender ratio and TW generation per capita within each area typology cluster. From this brief analysis, it could be argued that in the municipality of Guimarães, TW generation is more influenced by the economic activity of the T&C sector, area typology, general awareness of citizens, or availability of a separate waste collection system, than socio-demographic characteristics such as the old-age dependency ratio and gender ratio. This means that the separate collection of TW should be implemented as a priority in marked administrative units (Fig. 4), and
+Fig. 4 Textile waste generation map
+1 3 the campaign work of the municipality on the importance of separate waste collection and recycling should be strengthened.
+Conclusions
+Based on the data collected and analysed, it is expected that the investigation will become relevant in the development of the separate collection of TW. Capping the content of TW in the undifferentiated MSW stream is necessary to divert it for further recycling. This is possible by optimising the existing routes or developing new TW collection routes, as well as by installing new collection points for reusable textiles. All over Europe, as well as in the municipality of Guimarães, there is a system of containers for old “fit for use” clothes provided by various charities.
+However, a huge amount of other old or unneeded textiles go to the containers and become a part of MSW, which is usually incinerated or landfilled without any sorting or the possibility of recycling [17].
+In the study of developing the Municipal Waste Map of Guimarães [31], it was specified that TW represents an average of 5.32% of the total undifferentiated waste composition. It is also noted that the highest percentage of TW was found on routes with large containers, which is a clue that small and medium enterprises do not have a private collection for this kind of waste and put it where they find containers. In addition, 1/3 of the Guimarães population is located in the urban area, where most of the services and equipment are implemented, while 2/3 of the population is placed outside the central agglomeration, the area registered for both industrial activity and agricultural practices. A possible solution to the question of separate collection of TW in the municipality of Guimarães can be the implementation of special marked bags in the pay-asyou-throw (PAYT) system. PAYT system already exists in the city centre of Guimarães, and by 2028, it is planned to be extended to the entire territory of the municipality [41]. Colour-coded bags for end-of-life textiles will help to separate TW from the undifferentiated MSW stream at the source and should be offered to both households and businesses.
+This study proposes the project of the Textile Waste Generation Map with marked administrative units of the municipality with a high level of TW generation where the separate collection of TW should be implemented first.
+The following administrative units are noted:
+Fig. 5 TW generation per capita and socio-demographic characteristics
+1 3
+• in the mixed area typology cluster: Aldão, União das Freguesias de Atães e Rendufe, Gonça and Mesão Frio (1A+1B), Silvares and União das Freguesias de Candoso Santiago e Mascotelos (5A), Urgezes and Pinheiro (11B), Caldelas and União das Freguesias de Briteiros Santo Estêvão e Donim (15B);
+• in the rural area typology cluster: União das Freguesias de Sande Vila Nova e Sande São Clemente (6A), Guardizela and União das Freguesias de Conde e Gandarela (8A), Serzedelo (8B), União das Freguesias de Tabuadelo e São Faustino, União das Freguesias de Abação e Gémeos and União das Freguesias de Serzedo e Calvos (10A+14A);
+• in the urban area typology cluster: Lordelo (2A) and Moreira de Cónegos (2B).
+The Textile Waste Generation Map should be complemented with a solid awareness and participative campaign, supported by the strategy RRRCICLO—Circular Economy in Guimarães, to guarantee the success of the implementation of the separate collection of TW.
+Funding No funding was received to assist with the preparation of this manuscript.
+Declarations
+Conflict of interest The authors have no conflicts of interest to declare that are relevant to the content of this article.

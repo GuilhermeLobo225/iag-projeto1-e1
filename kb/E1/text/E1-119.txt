@@ -1,0 +1,81 @@
+Versão 1.1/julho 2024
+Embalagens e resíduos de embalagens (2022)
+Portugal, enquanto estado membro, tem obrigações anuais de reporte relativamente às metas referentes aos seguintes fluxos específicos:
+- Embalagens e Resíduos de Embalagens (ERE), incluindo sacos de plástico;
+- Resíduos de Equipamentos Elétricos e Eletrónicos (REEE);
+- Veículos em Fim de Vida (VFV);
+- Resíduos de Pilhas e Acumuladores (RPA);
+- Resíduos de Construção e Demolição (RCD); e
+- Óleos lubrificantes Usados (OU).
+Fruto da importância crescente em termos quantitativos, as embalagens são consideradas um fluxo específico de resíduos, sendo a sua gestão realizada de forma diferenciada, mediante a criação de legislação específica, que introduz uma corresponsabilização de todos os intervenientes no ciclo de vida das embalagens.
+O universo de resíduos de embalagens produzidos inclui as embalagens do fluxo urbano e as embalagens do fluxo não-urbano.
+A gestão dos resíduos de embalagens do fluxo urbano, de produtores com produção abaixo de 1100 litros diários, foi assegurada em 2022 pela recolha seletiva que resulta da deposição voluntária destes resíduos nos ecopontos, nos ecocentros ou através da recolha porta-aporta, pela recolha seletiva no ponto de recolha própria da entidade gestora Novo Verde, pela recolha seletiva através do sistema de incentivo de recolha de embalagens de bebidas em plástico não reutilizáveis previsto no Decreto-lei nº 152-D/2017, de 11 de dezembro, bem como pela recolha indiferenciada, após a qual ainda é possível efetuar uma triagem de resíduos de embalagens nas instalações de tratamento mecânico para posterior envio para reciclagem, valorizar organicamente resíduos de embalagens ou, nos sistemas de gestão de resíduos urbanos (SGRU) que possuem incineradora, encaminhar para reciclagem escórias metálicas que em parte tiveram origem em resíduos de embalagens. A gestão destes resíduos de embalagens é assegurada pelas entidades gestoras, Sociedade Ponto Verde (SPV), Novo Verde e Electrão, em articulação com os sistemas multimunicipais e intermunicipais de gestão de resíduos urbanos (âmbito SIGRE).
+A gestão dos resíduos de embalagens do fluxo urbano, de produtores com produção acima de 1100 litros diários, e do fluxo não urbano é assegurada pelo encaminhamento dos resíduos de embalagens, pelo produtor do resíduo, para operador de gestão licenciado (o qual poderá ser, quando licenciado para tal, um SGRU) (âmbito não SIGRE).
+Objetivos e Metas
+Portugal mantém o compromisso de alcançar as metas de valorização e reciclagem de resíduos de embalagens estabelecidas pelo DecretoLei n.º 152-D/2017, de 11 de dezembro, que transpõe para a ordem jurídica interna a Diretiva 94/62/CE, as quais consistem no cumprimento, até ao final de 2011, de um mínimo de valorização de 60% (em peso), do qual pelo menos 55% deverá corresponder a reciclagem, com metas sectoriais mínimas de reciclagem de:
+• 60% para resíduos de embalagens de papel/cartão;
+• 60% para resíduos de embalagens de vidro;
+• 50% para resíduos de embalagens de metal;
+• 22,5% para resíduos de embalagens de plástico
+• 15% para resíduos de embalagens de madeira.
+No domínio da reciclagem, a Diretiva (UE) 2018/852 do Parlamento Europeu e do Conselho, de 30 de maio de 2018, estabelece um objetivo comum para os Estados-Membros de se reciclar pelo menos 65%, em peso, dos resíduos de embalagens, até 31 de dezembro de 2025, com as seguintes metas diferenciadas por materiais:
+• 75% papel/cartão;
+• 70% vidro;
+• 70% metais ferrosos (aço);
+• 50% alumínio;
+• 50% plástico;
+• 25% madeira.
+Até 31 de dezembro de 2030, devem ser reciclados pelo menos 70%, em peso, de todos os resíduos de embalagens, com as seguintes metas por materiais:
+• 85% papel/cartão;
+• 75% vidro;
+• 80% metais ferrosos (aço);
+• 60% alumínio;
+• 55% plástico;
+• 30% madeira.
+Até à aplicação das novas metas estabelecidas na Diretiva 2018/852 para 2025, devem ser cumpridas as metas definidos para 2011.
+No que concerne a ERE no seu todo (âmbito SIGRE e não SIGRE), a tabela infra apresenta o resumo do reporte feito à Comissão Europeia/Eurostat dos dados referentes ao ano de referência 2022.
+Material
+Resíduos de embalagens gerados (t) (1)
+Reciclagem material (t)
+Valorização energética (t)
+Total de valorização (t)
+Taxa de reciclagem (%)
+Taxa de valorização (%)
+Vidro	441 415	251 276	0,0	251 276	56,9%	56,9%
+Plástico	451 927	168 728	89 613	258 341	37,3%	57,2%
+Papel e cartão	876 534	564 171	49 923	614 094	64,4%	70,1%
+Metal (2)	89 953	46 881	0,0	46 881	52,1%	52,1%
+Metais ferrosos	55 102	39 755	0,0	39 755	72,1%	72,1%
+Alumínio	34 851	7 127	0,0	7 127	20,4%	20,4%
+Madeira	102 702	81 609	1 177	82 786	79,5%	80,6%
+Outros	86 729 (3)	22,74 (4)	86 752
+Global	1 962 531	1 199 394	140 736,3	1 340 130,4	61,1%	68,3%
+(1) Metodologia com base na colocação no mercado do âmbito EG SIGRE e estimativa do mercado global.
+(2) A quantidade de metal é a soma da quantidade de metais ferrosos e da quantidade de alumínio.
+(3) 6544 t de 150105; 69501 t de 150106; 10684 t de 150110.
+(4) 22,74 t de 150106.
+No que concerne apenas ao âmbito do SIGRE, a tabela infra apresenta o resumo do desempenho do SIGRE em 2022.
+Ano 2022 – SIGRE (1)	Electrão	SPV
+Novo
+Verde	Total
+Taxa de reciclagem (%)
+Colocação (declaração) global no mercado (t)	89 980	738 156	78 377 906 513
+Resíduos de embalagens retomados e reciclados (t)	57 483	408 515	44 978 510 976	56,4
+Embalagens declaradas - Vidro (t)	22 380	387 145	25 006 434 531
+Resíduos de embalagens de vidro retomados e reciclados (t)	12 539	197 984	12 606 223 129	51,3
+Embalagens declaradas - Papel/cartão (t)	28 966	169 344	19 960 218 270
+Resíduos de embalagens de papel/cartão retomados e reciclados (t)	24 641	125 104	15 721 165 466	75,8
+Embalagens declaradas - Plástico (t)	32 897	139 906	25 132 197 935
+Resíduos de embalagens de plástico retomados e reciclados (t)	17 437	64 854	11 953	94 244	47,6
+Embalagens declaradas - Metal (t)	4 632	34 070	5 766	44 468
+Metais ferrosos	2 527	19 028	4 743	26 298
+Alumínio	2 104	15 042	1 024	18 170
+Resíduos de embalagens de metal retomados e reciclados (t)	2 817	20 218	4 585	27 619	62,1
+Metais ferrosos	2 415	17 533	4 339	24 287	92,4
+Alumínio	402	2 685	246	3 332	18,3
+Embalagens declaradas - Madeira (t)	891	5 821	2 236	8 948
+Resíduos de embalagens de madeira retomados e reciclados (t)	49	355	113	517	5,8
+Taxa de valorização (%)
+Embalagens valorizadas (t)	79 113	511 317	61 205 651 635	71,9
+Nota: Dados com alocação da quantidade de ECAL ao papel (75%), plástico (20%) e alumínio (5%).
+(1)Âmbito SIGRE:Embalagens primárias, secundárias e terciárias não reutilizáveis, incluindo as embalagens de serviço, colocadas no mercado nacional e respetivos resíduos de embalagens cuja responsabilidade pela gestão está por lei atribuída aos Sistemas de Gestão de Resíduos Urbanos, isto é, os resíduos domésticos e os resíduos semelhantes cuja produção diária por produtor não exceda os 1100 litros
