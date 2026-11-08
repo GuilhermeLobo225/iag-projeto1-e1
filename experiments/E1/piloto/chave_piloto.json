@@ -1,0 +1,126 @@
+{
+  "seed": 42,
+  "date": "2026-11-06",
+  "items": [
+    {
+      "item": "P01",
+      "llm": "gemma4-12b",
+      "question_id": "E1-10",
+      "type": "multi_doc"
+    },
+    {
+      "item": "P02",
+      "llm": "amalia-9b",
+      "question_id": "E1-08",
+      "type": "factual"
+    },
+    {
+      "item": "P03",
+      "llm": "amalia-9b",
+      "question_id": "E1-04",
+      "type": "factual"
+    },
+    {
+      "item": "P04",
+      "llm": "qwen3.5-9b",
+      "question_id": "E1-11",
+      "type": "multi_doc"
+    },
+    {
+      "item": "P05",
+      "llm": "ministral-3-14b",
+      "question_id": "E1-03",
+      "type": "factual"
+    },
+    {
+      "item": "P06",
+      "llm": "gemma4-12b",
+      "question_id": "E1-01",
+      "type": "factual"
+    },
+    {
+      "item": "P07",
+      "llm": "qwen3.5-9b",
+      "question_id": "E1-09",
+      "type": "multi_doc"
+    },
+    {
+      "item": "P08",
+      "llm": "gemma4-12b",
+      "question_id": "E1-04",
+      "type": "factual"
+    },
+    {
+      "item": "P09",
+      "llm": "ministral-3-14b",
+      "question_id": "E1-01",
+      "type": "factual"
+    },
+    {
+      "item": "P10",
+      "llm": "ministral-3-14b",
+      "question_id": "E1-13",
+      "type": "unanswerable"
+    },
+    {
+      "item": "P11",
+      "llm": "qwen3.5-9b",
+      "question_id": "E1-04",
+      "type": "factual"
+    },
+    {
+      "item": "P12",
+      "llm": "amalia-9b",
+      "question_id": "E1-10",
+      "type": "multi_doc"
+    },
+    {
+      "item": "P13",
+      "llm": "ministral-3-14b",
+      "question_id": "E1-14",
+      "type": "unanswerable"
+    },
+    {
+      "item": "P14",
+      "llm": "amalia-9b",
+      "question_id": "E1-05",
+      "type": "factual"
+    },
+    {
+      "item": "P15",
+      "llm": "gemma4-12b",
+      "question_id": "E1-09",
+      "type": "multi_doc"
+    },
+    {
+      "item": "P16",
+      "llm": "ministral-3-14b",
+      "question_id": "E1-07",
+      "type": "factual"
+    },
+    {
+      "item": "P17",
+      "llm": "qwen3.5-9b",
+      "question_id": "E1-12",
+      "type": "multi_doc"
+    },
+    {
+      "item": "P18",
+      "llm": "gemma4-12b",
+      "question_id": "E1-14",
+      "type": "unanswerable"
+    },
+    {
+      "item": "P19",
+      "llm": "qwen3.5-9b",
+      "question_id": "E1-14",
+      "type": "unanswerable"
+    },
+    {
+      "item": "P20",
+      "llm": "amalia-9b",
+      "question_id": "E1-07",
+      "type": "factual"
+    }
+  ]
+}

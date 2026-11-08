@@ -1,0 +1,10 @@
+# Pipeline RAG do E1, em Python 3.11. Na raiz do repositório:
+#   py -3.11 -m venv .venv
+#   .venv\Scripts\python -m pip install -r requirements.txt
+tokenizers==0.23.3        # contagem de tokens com o tokenizador do bge-m3
+huggingface_hub==2.4.0    # descarrega o tokenizador com a revisão fixa
+numpy==2.4.6
+chromadb==1.5.9           # base vetorial local
+ollama==0.6.3             # cliente do Ollama (embeddings e LLM)
+python-dotenv==1.2.4      # lê as chaves do .env
+pytest==9.2.0             # testes (python -m pytest)

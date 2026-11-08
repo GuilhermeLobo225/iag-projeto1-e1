@@ -1,0 +1,4 @@
+# Os offsets das perguntas e dos excertos contam caracteres: os .txt e os .jsonl ficam sempre com LF,
+# mesmo num Windows com core.autocrlf=true (com CRLF, cada linha ganhava um carácter).
+kb/**/*.txt text eol=lf
+*.jsonl     text eol=lf
