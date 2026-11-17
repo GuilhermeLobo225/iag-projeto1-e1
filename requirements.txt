@@ -7,4 +7,9 @@ numpy==2.4.6
 chromadb==1.5.9           # base vetorial local
 ollama==0.6.3             # cliente do Ollama (embeddings e LLM)
 python-dotenv==1.2.4      # lê as chaves do .env
+httpx==0.28.1             # pedidos à API do Groq (juiz gpt-oss-120b)
+nltk==3.10.4              # stopwords e stemmer Snowball de português (BM25)
 pytest==9.2.0             # testes (python -m pytest)
+jupyter==1.1.1            # notebook de exploração (analise/exploracao.ipynb)
+pandas==3.1.1             # tabelas do notebook
+matplotlib==3.11.2        # figuras do notebook

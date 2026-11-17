@@ -1,0 +1,46 @@
+﻿question_id;type;experiment;recall_at_5;rr;abstained;cited_doc_ids;correcao;fidelidade;citacoes;problemas
+E1-01;factual;A;0.5;0.3333333333333333;False;E1-004 E1-001 E1-003;1;1.0;2;"pesquisa_parcial; correcao_1"
+E1-01;factual;B;1.0;1.0;False;E1-004 E1-001 E1-003;2;1.0;2;
+E1-01;factual;C;0.5;0.3333333333333333;False;E1-004 E1-001;1;1.0;2;"pesquisa_parcial; correcao_1"
+E1-02;factual;A;0.5;0.3333333333333333;False;E1-014 E1-001;1;0.667;1;"pesquisa_parcial; correcao_1; afirmacoes_nao_suportadas; citacoes_1"
+E1-02;factual;B;0.5;1.0;False;E1-014 E1-001;1;0.667;1;"pesquisa_parcial; correcao_1; afirmacoes_nao_suportadas; citacoes_1"
+E1-02;factual;C;0.5;1.0;False;E1-014 E1-001 E1-003;0;1.0;2;"pesquisa_parcial; correcao_0"
+E1-03;factual;A;0.0;0.0;False;E1-004 E1-001 E1-003;1;1.0;2;"pesquisa_sem_acerto; correcao_1; juiz_abstencao_com_resposta_nos_excertos"
+E1-03;factual;B;1.0;0.2;False;E1-014;1;1.0;2;correcao_1
+E1-03;factual;C;0.0;0.0;False;E1-004 E1-001;0;1.0;2;"pesquisa_sem_acerto; correcao_0"
+E1-04;factual;A;1.0;1.0;False;E1-001 E1-003;2;1.0;2;
+E1-04;factual;B;1.0;1.0;False;E1-001 E1-003;2;1.0;2;
+E1-04;factual;C;1.0;1.0;False;E1-001;2;1.0;2;
+E1-05;factual;A;0.0;0.0;True;;0;0.0;0;"pesquisa_sem_acerto; abstencao_sem_trecho_nos_excertos; correcao_0; afirmacoes_nao_suportadas; citacoes_0; juiz_abstencao_com_resposta_nos_excertos"
+E1-05;factual;B;0.0;0.0;True;;0;0.0;0;"pesquisa_sem_acerto; abstencao_sem_trecho_nos_excertos; correcao_0; afirmacoes_nao_suportadas; citacoes_0; juiz_abstencao_com_resposta_nos_excertos"
+E1-05;factual;C;0.0;0.0;True;;0;;;"pesquisa_sem_acerto; abstencao_sem_trecho_nos_excertos; correcao_0; juiz_abstencao_com_resposta_nos_excertos"
+E1-06;factual;A;1.0;0.3333333333333333;False;E1-013;2;1.0;2;
+E1-06;factual;B;1.0;0.3333333333333333;False;E1-013;2;1.0;2;
+E1-06;factual;C;1.0;0.3333333333333333;False;E1-013;2;1.0;2;
+E1-07;factual;A;1.0;1.0;False;E1-110;2;1.0;2;
+E1-07;factual;B;1.0;1.0;False;E1-110;2;1.0;2;
+E1-07;factual;C;1.0;1.0;False;E1-110;2;1.0;2;
+E1-08;factual;A;1.0;1.0;False;E1-005;2;1.0;2;
+E1-08;factual;B;0.3333333333333333;1.0;False;E1-005;0;0.75;1;"pesquisa_parcial; correcao_0; afirmacoes_nao_suportadas; citacoes_1"
+E1-08;factual;C;0.6666666666666666;1.0;False;E1-005;0;0.75;1;"pesquisa_parcial; correcao_0; afirmacoes_nao_suportadas; citacoes_1"
+E1-09;multi_doc;A;0.5;0.25;False;E1-006 E1-001 E1-105 E1-029;0;1.0;2;"pesquisa_parcial; correcao_0"
+E1-09;multi_doc;B;0.0;0.0;False;E1-001 E1-006 E1-017 E1-029;0;0.8;1;"pesquisa_sem_acerto; correcao_0; afirmacoes_nao_suportadas; citacoes_1"
+E1-09;multi_doc;C;0.0;0.0;False;E1-006 E1-001;0;0.833;1;"pesquisa_sem_acerto; correcao_0; afirmacoes_nao_suportadas; citacoes_1"
+E1-10;multi_doc;A;1.0;1.0;False;E1-114 E1-104;1;1.0;2;correcao_1
+E1-10;multi_doc;B;0.0;0.0;True;;0;0.0;0;"pesquisa_sem_acerto; abstencao_sem_trecho_nos_excertos; correcao_0; afirmacoes_nao_suportadas; citacoes_0; juiz_abstencao_com_resposta_nos_excertos"
+E1-10;multi_doc;C;1.0;1.0;False;E1-114 E1-104;1;1.0;2;correcao_1
+E1-11;multi_doc;A;1.0;0.5;False;E1-103 E1-007;2;1.0;2;
+E1-11;multi_doc;B;1.0;1.0;False;E1-103 E1-007;2;0.667;1;"afirmacoes_nao_suportadas; citacoes_1"
+E1-11;multi_doc;C;0.3333333333333333;1.0;False;E1-001 E1-007;1;1.0;2;"pesquisa_parcial; correcao_1"
+E1-12;multi_doc;A;0.6666666666666666;0.25;False;E1-003 E1-101;2;1.0;2;pesquisa_parcial
+E1-12;multi_doc;B;0.6666666666666666;0.2;False;E1-003 E1-101;2;1.0;2;pesquisa_parcial
+E1-12;multi_doc;C;0.3333333333333333;0.25;True;;0;;;"pesquisa_parcial; abstencao_com_trecho_nos_excertos; correcao_0; juiz_abstencao_com_resposta_nos_excertos"
+E1-13;unanswerable;A;;;True;;2;0.0;0;"afirmacoes_nao_suportadas; citacoes_0"
+E1-13;unanswerable;B;;;True;;2;0.0;0;"afirmacoes_nao_suportadas; citacoes_0"
+E1-13;unanswerable;C;;;True;;2;;;
+E1-14;unanswerable;A;;;False;E1-104;0;1.0;2;"respondeu_sem_resposta_na_base; correcao_0"
+E1-14;unanswerable;B;;;False;E1-104;2;0.75;1;"respondeu_sem_resposta_na_base; afirmacoes_nao_suportadas; citacoes_1"
+E1-14;unanswerable;C;;;False;E1-104;0;1.0;2;"respondeu_sem_resposta_na_base; correcao_0"
+E1-15;unanswerable;A;;;True;;2;0.0;0;"afirmacoes_nao_suportadas; citacoes_0"
+E1-15;unanswerable;B;;;True;;2;0.0;0;"afirmacoes_nao_suportadas; citacoes_0"
+E1-15;unanswerable;C;;;True;;2;0.0;0;"afirmacoes_nao_suportadas; citacoes_0"

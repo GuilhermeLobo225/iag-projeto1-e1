@@ -1,0 +1,38 @@
+{
+  "experiment": "bm25_B",
+  "area": "E1",
+  "date": "2026-11-08",
+  "git_commit": "82d585b21573296b3a9b34e809be2de61c451ff4",
+  "retrieval": {
+    "mode": "bm25",
+    "chunks": "B",
+    "bm25": {
+      "variant": "Okapi BM25, IDF do Lucene",
+      "k1": 1.5,
+      "b": 0.75,
+      "lowercase": true,
+      "token_pattern": "\\w+",
+      "stopwords": "NLTK, português (207 palavras)",
+      "stemmer": "Snowball do NLTK, português",
+      "nltk_version": "3.10.4"
+    },
+    "k": 5,
+    "top_logged": 10
+  },
+  "metrics": {
+    "perguntas": 12,
+    "recall_at_5": 0.3194444444444444,
+    "mrr_at_5": 0.31527777777777777,
+    "recall_at_5_factual": 0.3541666666666667,
+    "mrr_at_5_factual": 0.3229166666666667,
+    "recall_at_5_multi_doc": 0.25,
+    "mrr_at_5_multi_doc": 0.3,
+    "cobertura_total_multi_doc": 0
+  },
+  "metrics_e2": {
+    "recall_at_5": 0.3194444444444444,
+    "mrr_at_10": 0.3271825396825397,
+    "cobertura_total_multi_doc": 0
+  },
+  "query_ms_media": 150.2
+}

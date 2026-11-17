@@ -11,6 +11,9 @@ Por pergunta, com os 5 primeiros excertos:
   cobertura_total  1 se todos os grupos ficarem cobertos (reporta-se nas multi_doc).
 As perguntas sem resposta (unanswerable) não entram no Recall@5 nem no MRR@5.
 
+Regra do E2 (8/11), só para comparar números entre áreas, sem mudar a nossa: acerta com pelo menos 1 carácter de
+sobreposição no mesmo documento, e o RR conta até ao 10.º excerto (MRR@10). O Recall@5 continua nos 5 primeiros.
+
 Uso, na raiz do repositório:
   .venv\\Scripts\\python rag/metricas.py teto experiments/E1/excertos_B.jsonl
       melhor resultado possível com estes excertos, se a pesquisa escolhesse sempre os excertos certos,
@@ -23,15 +26,18 @@ import statistics
 import comum
 
 K = 5
+K_MRR = {"E1": 5, "E2": 10}
 
 
 def sobreposicao(a, b):
     return max(0, min(a["end"], b["end"]) - max(a["start"], b["start"]))
 
 
-def acerta(excerto, trecho):
+def acerta(excerto, trecho, regra="E1"):
     if excerto["doc_id"] != trecho["doc_id"]:
         return False
+    if regra == "E2":
+        return sobreposicao(excerto, trecho) >= 1
     menor = min(excerto["end"] - excerto["start"], trecho["end"] - trecho["start"])
     return sobreposicao(excerto, trecho) >= 0.5 * menor
 
@@ -46,14 +52,15 @@ def grupos(evidence):
     return [[e] for e in evidence]
 
 
-def avalia(evidence, recuperados, k=K):
-    """Métricas de uma pergunta. `recuperados` vem por ordem, cada um com doc_id, start e end."""
+def avalia(evidence, recuperados, k=K, regra="E1"):
+    """Métricas de uma pergunta. `recuperados` vem por ordem, cada um com doc_id, start e end.
+    Com regra="E2", o rr conta até ao 10.º excerto (é o MRR@10) e os hit_ranks também."""
     if not evidence:  # sem resposta: fora do Recall@5 e do MRR@5
         return {"hit_ranks": [], "recall_at_5": None, "rr": None, "cobertura_total": None}
     topo = recuperados[:k]
-    hit_ranks = [r for r, c in enumerate(topo, start=1) if any(acerta(c, e) for e in evidence)]
+    hit_ranks = [r for r, c in enumerate(recuperados[:K_MRR[regra]], start=1) if any(acerta(c, e, regra) for e in evidence)]
     gs = grupos(evidence)
-    cobertos = sum(1 for g in gs if any(acerta(c, e) for c in topo for e in g))
+    cobertos = sum(1 for g in gs if any(acerta(c, e, regra) for c in topo for e in g))
     return {"hit_ranks": hit_ranks, "recall_at_5": cobertos / len(gs), "rr": 1 / hit_ranks[0] if hit_ranks else 0.0,
             "cobertura_total": int(cobertos == len(gs))}
 

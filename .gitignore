@@ -14,7 +14,7 @@ kb/E1/pdf/
 # Índices, caches e modelos: regeneram-se
 indices/
 cache/
-modelos/
+/modelos/
 
 # Python
 __pycache__/
@@ -27,3 +27,6 @@ venv/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Zip com o material para o relatório (feito do repositório; não vai para o git)
+/E1_relatorio_*.zip

@@ -26,11 +26,13 @@ import csv
 import json
 import random
 import statistics
+from collections import Counter
 from datetime import date
 from pathlib import Path
 
 import comum
 import geracao
+import juiz
 import prompt_geracao
 
 PASTA = comum.EXPERIENCIAS / "piloto"
@@ -56,6 +58,8 @@ def cria():
     contextos = {c["question_id"]: c["excertos"] for c in comum.le_jsonl(LLM / "contexto.jsonl")}
     respostas = {(m, r["question_id"]): r for m in geracao.LLMS for r in comum.le_jsonl(LLM / m / "results.jsonl")}
     itens = sorteia(perguntas)
+    if (PASTA / "folha_piloto.csv").exists():  # pode já estar a ser preenchida
+        raise SystemExit("A folha_piloto.csv já existe; não a substituo. Apaga-a à mão se quiseres mesmo criar outra.")
     PASTA.mkdir(parents=True, exist_ok=True)
     with open(PASTA / "folha_piloto.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f, delimiter=";")
@@ -98,37 +102,67 @@ def le_folha(caminho):
     return notas
 
 
+def kappa(pares, categorias=(0, 1, 2), quadratico=False):
+    """Kappa de Cohen entre duas listas de notas; quadratico=True dá o ponderado (as notas 0, 1 e 2 são ordenadas)."""
+    if not pares:
+        return None
+    idx, k = {c: i for i, c in enumerate(categorias)}, len(categorias)
+    peso = (lambda i, j: (i - j) ** 2 / (k - 1) ** 2) if quadratico else (lambda i, j: float(i != j))
+    n = len(pares)
+    observado = sum(peso(idx[a], idx[b]) for a, b in pares) / n
+    pa, pb = Counter(a for a, _ in pares), Counter(b for _, b in pares)
+    esperado = sum(pa[x] * pb[y] * peso(idx[x], idx[y]) for x in categorias for y in categorias) / n ** 2
+    return round(1 - observado / esperado, 3) if esperado else None
+
+
 def concordancia(a, b, itens):
-    """Notas iguais (correção, citações, português) e diferença média da fidelidade entre duas fontes de notas."""
-    def iguais(k):
-        pares = [(a[i][k], b[i][k]) for i in itens if a[i][k] is not None and b[i][k] is not None]
-        return f"{sum(x == y for x, y in pares)}/{len(pares)}"
+    """Notas iguais e kappa (correção e citações), diferença média da fidelidade e português igual."""
+    def pares(k):
+        return [(int(round(a[i][k])), int(round(b[i][k]))) if k != "portugues_europeu" else (a[i][k], b[i][k])
+                for i in itens if a[i][k] is not None and b[i][k] is not None]
+    iguais = lambda ps: f"{sum(x == y for x, y in ps)}/{len(ps)}"
     difs = [abs(a[i]["fidelidade"] - b[i]["fidelidade"]) for i in itens
             if a[i]["fidelidade"] is not None and b[i]["fidelidade"] is not None]
-    return {"correcao_iguais": iguais("correcao"), "citacoes_iguais": iguais("citacoes"),
+    return {"correcao_iguais": iguais(pares("correcao")), "correcao_kappa_quadratico": kappa(pares("correcao"), quadratico=True),
+            "citacoes_iguais": iguais(pares("citacoes")), "citacoes_kappa_quadratico": kappa(pares("citacoes"), quadratico=True),
             "fidelidade_diferenca_media": round(statistics.mean(difs), 3) if difs else None,
-            "portugues_iguais": iguais("portugues_europeu")}
+            "portugues_iguais": iguais(pares("portugues_europeu"))}
+
+
+def notas_do_juiz(nome, chave):
+    """Notas de um juiz por item do piloto, a partir de modelos/llm/<modelo>/juiz_<nome>.jsonl; None se faltar algum."""
+    notas = {}
+    for i in chave["items"]:
+        caminho = LLM / i["llm"] / f"juiz_{nome}.jsonl"
+        a = next((x for x in comum.le_jsonl(caminho) if x["question_id"] == i["question_id"]), None) if caminho.exists() else None
+        if a is None:
+            return None
+        notas[i["item"]] = a["judge"]
+    return notas
 
 
 def compara(folhas):
     chave = json.loads((PASTA / "chave_piloto.json").read_text(encoding="utf-8"))
-    respostas = {(m, r["question_id"]): r for m in geracao.LLMS for r in comum.le_jsonl(LLM / m / "results.jsonl")}
-    juiz = {i["item"]: respostas[(i["llm"], i["question_id"])]["judge"] for i in chave["items"]}
-    nome_juiz = respostas[(chave["items"][0]["llm"], chave["items"][0]["question_id"])]["judge_model"]
+    juizes = {n: notas_do_juiz(n, chave) for n in juiz.JUIZES}
     humanos = {Path(f).stem: le_folha(f) for f in folhas}
     itens = [i["item"] for i in chave["items"]]
-    linhas = [(f"{nome_juiz} contra {h}", concordancia(juiz, n, itens)) for h, n in humanos.items()]
+    linhas = [(f"{n} contra {h}", concordancia(notas, hs, itens)) for n, notas in juizes.items() if notas
+              for h, hs in humanos.items()]
     nomes = list(humanos)
     for i, h1 in enumerate(nomes):
         for h2 in nomes[i + 1:]:
             linhas.append((f"{h1} contra {h2}", concordancia(humanos[h1], humanos[h2], itens)))
+    num = lambda x: "—" if x is None else f"{x:.3f}".replace(".", ",")
     md = ["# Piloto do juiz (E1): concordância com as avaliações humanas", "",
-          f"{date.today():%d/%m/%Y}. {len(itens)} respostas sorteadas com a semente {chave['seed']}, avaliadas às cegas.", "",
-          "| Comparação | Correção igual | Citações iguais | Diferença média na fidelidade | Português europeu igual |",
-          "|---|---|---|---|---|"]
+          f"{date.today():%d/%m/%Y}. {len(itens)} respostas sorteadas com a semente {chave['seed']}, avaliadas às cegas. "
+          "Kappa de Cohen com pesos quadráticos (as notas 0, 1 e 2 são ordenadas). Pela grelha, ganha o juiz com mais notas "
+          "iguais às humanas na correção e nas citações e com a menor diferença na fidelidade."
+          + "".join(f" O {n} ainda não avaliou as 20 respostas." for n, notas in juizes.items() if not notas), "",
+          "| Comparação | Correção igual | Kappa correção | Citações iguais | Kappa citações | Diferença média na fidelidade "
+          "| Português europeu igual |", "|---|---|---|---|---|---|---|"]
     for nome, c in linhas:
-        dif = "—" if c["fidelidade_diferenca_media"] is None else f"{c['fidelidade_diferenca_media']:.3f}".replace(".", ",")
-        md.append(f"| {nome} | {c['correcao_iguais']} | {c['citacoes_iguais']} | {dif} | {c['portugues_iguais']} |")
+        md.append(f"| {nome} | {c['correcao_iguais']} | {num(c['correcao_kappa_quadratico'])} | {c['citacoes_iguais']} "
+                  f"| {num(c['citacoes_kappa_quadratico'])} | {num(c['fidelidade_diferenca_media'])} | {c['portugues_iguais']} |")
     (PASTA / "concordancia.md").write_text("\n".join(md) + "\n", encoding="utf-8", newline="\n")
     print("\n".join(md))
 

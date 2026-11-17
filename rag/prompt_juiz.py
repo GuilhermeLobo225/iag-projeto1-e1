@@ -92,11 +92,12 @@ def mensagens_correcao(pergunta, resposta):
                                         f"\n\n<resposta_do_sistema>\n{resposta}\n</resposta_do_sistema>"}]
 
 
-def mensagens_fidelidade(pergunta, excertos, resposta, ids_escritos):
+def mensagens_fidelidade(pergunta, excertos, resposta, ids_escritos, citacao=prompt_geracao.CITACAO):
     """ids_escritos: as citações [id] encontradas em código na resposta (no teste de 6/11, sem esta linha, o juiz
-    punha nos ids citados o excerto que suportava a afirmação, mesmo numa resposta sem citações)."""
+    punha nos ids citados o excerto que suportava a afirmação, mesmo numa resposta sem citações).
+    citacao: o formato das citações da experiência, para os cabeçalhos dos excertos terem os mesmos ids."""
     return [{"role": "system", "content": FIDELIDADE},
-            {"role": "user", "content": f"Pergunta: {pergunta['question']}\n\n<excertos>\n{prompt_geracao.contexto(excertos)}\n</excertos>"
+            {"role": "user", "content": f"Pergunta: {pergunta['question']}\n\n<excertos>\n{prompt_geracao.contexto(excertos, citacao)}\n</excertos>"
                                         f"\n\n<resposta_do_sistema>\n{resposta}\n</resposta_do_sistema>\n\n"
                                         f"Ids escritos na resposta entre parênteses retos (detetados automaticamente): "
                                         f"{', '.join(ids_escritos) if ids_escritos else 'nenhum'}."}]

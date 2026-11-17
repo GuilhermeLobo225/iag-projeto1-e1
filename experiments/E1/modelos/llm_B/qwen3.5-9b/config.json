@@ -1,0 +1,123 @@
+{
+  "experiment": "llm_qwen3.5-9b",
+  "area": "E1",
+  "date": "2026-11-08",
+  "git_commit": "82d585b21573296b3a9b34e809be2de61c451ff4",
+  "llm": {
+    "name": "qwen3.5-9b",
+    "ollama_model": "qwen3.5:9b",
+    "digest": "56671c2ab9385f9cfcb404638e32cd62d88e3501d44822208363c010179a3c90",
+    "quantization": "Q4_K_M",
+    "parameters": "9.0B",
+    "thinking": true,
+    "options": {
+      "temperature": 0,
+      "seed": 42,
+      "num_ctx": 8192,
+      "num_predict": 600,
+      "repeat_penalty": 1.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0
+    },
+    "think": false,
+    "ollama_version": "0.40.15"
+  },
+  "prompt": {
+    "version": "v1",
+    "sha1": "6334930e8cdc432d03a9348bdafbd876e3d3c50f",
+    "abstention_phrase": "Não encontrei informação suficiente nas fontes disponíveis para responder a esta pergunta."
+  },
+  "context": {
+    "file": "experiments/E1/modelos/llm_B/contexto.jsonl",
+    "embedding_experiment": "qwen3-embedding-8b_B (dense, excertos B)",
+    "config": "B",
+    "k": 5
+  },
+  "warmup": "1.ª pergunta, resposta deitada fora",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB",
+  "summary": {
+    "abstencao_correta": "3/3",
+    "falsa_abstencao": "0/9",
+    "abstencao_sem_o_trecho_nos_excertos": "1/3",
+    "frase_de_abstencao_fora_do_inicio": 0,
+    "respostas_com_citacao": "11/11",
+    "citacoes_fora_dos_excertos": 0,
+    "citacoes_mal_escritas": 0,
+    "truncadas": 0,
+    "com_raciocinio": 0,
+    "latencia_media_s": 2.46,
+    "latencia_max_s": 3.79,
+    "tokens_por_s_media": 65.7,
+    "tokens_in_media": 1512,
+    "tokens_out_media": 127
+  },
+  "judges": {
+    "gpt-oss-20b": {
+      "fornecedor": "ollama",
+      "modelo": "gpt-oss:20b",
+      "raciocinio": "medium",
+      "temperature": 0,
+      "seed": 42,
+      "max_tokens": 4096,
+      "runs": 1,
+      "retries": 2,
+      "retry_temperature": 0.5,
+      "ollama_options": {
+        "num_ctx": 12288
+      },
+      "prompt_version": "v0.1",
+      "prompt_sha1": "6d60494c90eb15479b628f7427a9565b0860c1f7",
+      "file": "experiments/E1/modelos/llm_B/qwen3.5-9b/juiz_gpt-oss-20b.jsonl",
+      "date": "2026-11-15",
+      "answers_with_retry": 1,
+      "tokens": {
+        "in": 32416,
+        "out": 39432,
+        "reasoning": 0
+      },
+      "grid_summary": {
+        "correcao_media": 1.333,
+        "correcao_media_sem_resposta": 2,
+        "fidelidade_media": 0.924,
+        "nao_suportadas_total": 2,
+        "citacoes_media": 1.818,
+        "abstencoes_certas": "3/3",
+        "abstencoes_indevidas": "1/12",
+        "indevidas_com_resposta_nos_excertos": 0,
+        "portugues_europeu_pct": 100
+      }
+    },
+    "gpt-oss-120b": {
+      "fornecedor": "groq",
+      "modelo": "openai/gpt-oss-120b",
+      "raciocinio": "medium",
+      "temperature": 0,
+      "seed": 42,
+      "max_tokens": 4096,
+      "runs": 1,
+      "retries": 2,
+      "retry_temperature": 0.5,
+      "prompt_version": "v0.1",
+      "prompt_sha1": "6d60494c90eb15479b628f7427a9565b0860c1f7",
+      "file": "experiments/E1/modelos/llm_B/qwen3.5-9b/juiz_gpt-oss-120b.jsonl",
+      "date": "2026-11-15",
+      "answers_with_retry": 0,
+      "tokens": {
+        "in": 38412,
+        "out": 26271,
+        "reasoning": 20537
+      },
+      "grid_summary": {
+        "correcao_media": 1.5,
+        "correcao_media_sem_resposta": 2,
+        "fidelidade_media": 0.906,
+        "nao_suportadas_total": 3,
+        "citacoes_media": 1.636,
+        "abstencoes_certas": "3/3",
+        "abstencoes_indevidas": "1/12",
+        "indevidas_com_resposta_nos_excertos": 1,
+        "portugues_europeu_pct": 100
+      }
+    }
+  }
+}

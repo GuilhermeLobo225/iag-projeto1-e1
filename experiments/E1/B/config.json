@@ -1,0 +1,141 @@
+{
+  "experiment": "B",
+  "provisional": false,
+  "note": "modelos fechados pelo grupo (15/11): Qwen3-Embedding 8B, Gemma 4 12B e juiz gpt-oss-120b; frase de abstenção e formato das citações de 20/10.",
+  "retrieval": {
+    "mode": "dense",
+    "embedding": "qwen3-embedding-8b",
+    "chunks": "B",
+    "k": 5
+  },
+  "llm": "gemma4-12b",
+  "prompt": {
+    "abstention_phrase": "Não encontrei informação suficiente nas fontes disponíveis para responder a esta pergunta.",
+    "citation_format": "doc"
+  },
+  "judge": "gpt-oss-120b",
+  "run": {
+    "date": "2026-11-08",
+    "git_commit": "82d585b21573296b3a9b34e809be2de61c451ff4",
+    "chunks": "B",
+    "chunks_choice": null,
+    "chunks_meta": {
+      "config": "B",
+      "max_tokens": 200,
+      "overlap_tokens": 20,
+      "tokenizer": "BAAI/bge-m3",
+      "tokenizer_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+      "add_special_tokens": false,
+      "date": "2026-11-06",
+      "git_commit": "c06c184a703f3b0a34b6fa314cda070956060a85",
+      "stats": {
+        "excertos": 2014,
+        "tokens_min": 25,
+        "tokens_media": 173.6,
+        "tokens_max": 200,
+        "tokens_min_sem_o_ultimo_de_cada_doc": 33,
+        "pares_seguidos_com_sobreposicao": "678/1978",
+        "sobreposicao_media_tokens": 4.4,
+        "frases_cortadas_por_tokens": 4
+      }
+    },
+    "retrieval": {
+      "mode": "dense",
+      "chunks": "B",
+      "embedding": "qwen3-embedding-8b",
+      "k": 5,
+      "top_logged": 10
+    },
+    "embedding_model": {
+      "name": "qwen3-embedding-8b",
+      "ollama_model": "qwen3-embedding:8b",
+      "digest": "64b933495768fbd3b87c20583d379728a07471e0c66733a9df87cd1901b3c44b",
+      "quantization": "Q4_K_M",
+      "parameters": "7.6B",
+      "dimensions": 4096,
+      "context_length": 40960,
+      "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+      "document_prefix": "",
+      "ollama_version": "0.40.15"
+    },
+    "retrieval_metrics": {
+      "perguntas": 12,
+      "recall_at_5": 0.625,
+      "mrr_at_5": 0.5611111111111111,
+      "recall_at_5_factual": 0.7291666666666666,
+      "mrr_at_5_factual": 0.6916666666666667,
+      "recall_at_5_multi_doc": 0.41666666666666663,
+      "mrr_at_5_multi_doc": 0.3,
+      "cobertura_total_multi_doc": 0.25
+    },
+    "retrieval_metrics_e2": {
+      "recall_at_5": 0.625,
+      "mrr_at_10": 0.5715277777777777,
+      "cobertura_total_multi_doc": 0.25
+    },
+    "llm_model": {
+      "name": "gemma4-12b",
+      "ollama_model": "gemma4:12b",
+      "digest": "6114515d63c17436a7c0417d82820ac65ad643e2806c5a3c89cb62846436ed0b",
+      "quantization": "Q4_K_M",
+      "parameters": "11.9B",
+      "thinking": true,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 8192,
+        "num_predict": 600,
+        "repeat_penalty": 1.0,
+        "presence_penalty": 0.0,
+        "frequency_penalty": 0.0
+      },
+      "ollama_version": "0.40.15"
+    },
+    "prompt": {
+      "version": "v1",
+      "sha1": "6334930e8cdc432d03a9348bdafbd876e3d3c50f"
+    },
+    "warmup": "1.ª pergunta, resposta deitada fora",
+    "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB",
+    "generation_summary": {
+      "abstencao_correta": "2/3",
+      "falsa_abstencao": "0/9",
+      "abstencao_sem_o_trecho_nos_excertos": "2/3",
+      "frase_de_abstencao_fora_do_inicio": 0,
+      "respostas_com_citacao": "11/11",
+      "citacoes_fora_dos_excertos": 0,
+      "citacoes_mal_escritas": 0,
+      "truncadas": 0,
+      "com_raciocinio": 0,
+      "latencia_media_s": 2.39,
+      "latencia_max_s": 3.87,
+      "tokens_por_s_media": 99.7,
+      "tokens_in_media": 1555,
+      "tokens_out_media": 108
+    },
+    "judge": {
+      "fornecedor": "groq",
+      "modelo": "openai/gpt-oss-120b",
+      "raciocinio": "medium",
+      "temperature": 0,
+      "seed": 42,
+      "max_tokens": 4096,
+      "runs": 1,
+      "retries": 2,
+      "retry_temperature": 0.5,
+      "prompt_version": "v0.1",
+      "prompt_sha1": "6d60494c90eb15479b628f7427a9565b0860c1f7"
+    },
+    "grid_summary": {
+      "correcao_media": 1.167,
+      "correcao_media_sem_resposta": 2,
+      "fidelidade_media": 0.876,
+      "nao_suportadas_total": 5,
+      "citacoes_media": 1.545,
+      "abstencoes_certas": "2/3",
+      "abstencoes_indevidas": "2/12",
+      "indevidas_com_resposta_nos_excertos": 2,
+      "portugues_europeu_pct": 100
+    }
+  }
+}

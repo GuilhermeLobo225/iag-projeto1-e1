@@ -21,7 +21,7 @@ LLMS = {
 OPCOES = {"temperature": 0, "seed": 42, "num_ctx": 8192, "num_predict": 600,
           "repeat_penalty": 1.0, "presence_penalty": 0.0, "frequency_penalty": 0.0}
 
-CITACAO = re.compile(r"\[E[1-4]-\d{3}\]")  # a expressão regular combinada no grupo
+CITACAO = prompt.regex()  # a expressão regular combinada no grupo (formato "doc"; os formatos estão no prompt_geracao)
 QUASE_CITACAO = re.compile(r"\[[^\]\n]*E\d-\d+[^\]\n]*\]")  # um doc_id entre parênteses retos, bem ou mal escrito
 
 
@@ -35,10 +35,10 @@ def info(modelo):
             "parameters": s.details.parameter_size, "thinking": "thinking" in (s.capabilities or [])}
 
 
-def responde(modelo, pergunta, excertos):
+def responde(modelo, pergunta, excertos, abstencao=prompt.ABSTENCAO, citacao=prompt.CITACAO):
     kw = {"think": False} if info(modelo)["thinking"] else {}
     t = time.perf_counter()
-    r = ollama.chat(model=LLMS[modelo], messages=prompt.mensagens(pergunta, excertos), options=OPCOES, **kw)
+    r = ollama.chat(model=LLMS[modelo], messages=prompt.mensagens(pergunta, excertos, abstencao, citacao), options=OPCOES, **kw)
     latencia = time.perf_counter() - t
     return {"answer": r.message.content, "llm_model_returned": r.model, "latency_s": round(latencia, 2),
             "load_s": round(r.load_duration / 1e9, 2), "tokens_in": r.prompt_eval_count, "tokens_out": r.eval_count,
@@ -46,14 +46,16 @@ def responde(modelo, pergunta, excertos):
             "thinking_returned": bool(r.message.thinking)}
 
 
-def verifica(resposta, excertos):
-    """Abstenção (a frase fixa no início), citações válidas, citações fora dos excertos e citações mal escritas."""
+def verifica(resposta, excertos, abstencao=prompt.ABSTENCAO, citacao=prompt.CITACAO):
+    """Abstenção (a frase fixa no início), citações válidas, citações fora dos excertos e citações mal escritas.
+    cited_doc_ids tem sempre doc_id; no formato "excerto", os ids citados vêm em cited_ids."""
+    frase = abstencao.rstrip(".").lower()
     inicio = resposta.strip().lstrip("«\"“*_ ").lower()
-    citados = list(dict.fromkeys(c.strip("[]") for c in CITACAO.findall(resposta)))
-    dados = {x["doc_id"] for x in excertos}
-    return {"abstained": inicio.startswith(prompt.ABSTENCAO.rstrip(".").lower()),
-            "abstention_phrase_elsewhere": prompt.ABSTENCAO.rstrip(".").lower() in resposta.lower()
-                                           and not inicio.startswith(prompt.ABSTENCAO.rstrip(".").lower()),
-            "cited_doc_ids": citados,
+    rx, campo = prompt.regex(citacao), prompt.CITACOES[citacao]["campo"]
+    citados = list(dict.fromkeys(c.strip("[]") for c in rx.findall(resposta)))
+    dados = {x[campo] for x in excertos}
+    return {"abstained": inicio.startswith(frase),
+            "abstention_phrase_elsewhere": frase in resposta.lower() and not inicio.startswith(frase),
+            "cited_ids": citados, "cited_doc_ids": list(dict.fromkeys(c.split("_")[0] for c in citados)),
             "citations_outside_context": [c for c in citados if c not in dados],
-            "malformed_citations": [c for c in QUASE_CITACAO.findall(resposta) if not CITACAO.fullmatch(c)]}
+            "malformed_citations": [c for c in QUASE_CITACAO.findall(resposta) if not rx.fullmatch(c)]}

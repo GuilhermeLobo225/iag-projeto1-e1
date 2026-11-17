@@ -61,12 +61,13 @@ def corre(modelo, config):
 
     aquece(modelo, excertos)
     t = time.perf_counter()
-    V = embeddings.embeda(modelo, [x["text"] for x in excertos], "document")
+    V = embeddings.embeda(modelo, [x["text"] for x in excertos], "document", [x["title"] for x in excertos])
     t_indexacao = time.perf_counter() - t
 
     nome = indice.nome_colecao(modelo, config)
     col = indice.cria(indice.cliente(), nome, excertos, V,
-                      {"modelo": info["ollama_model"], "digest": info["digest"] or "", "config": config})
+                      {"modelo": info["ollama_model"], "digest": info["digest"] or "", "config": config,
+                       "ollama_version": info["ollama_version"]})
 
     linhas, tempos, iguais = [], [], 0
     for p in perguntas:
@@ -105,32 +106,49 @@ def le_configs():
     return sorted(cfgs, key=lambda c: (ordem.index(c["embedding"]["name"]), c["chunks"]["config"]))
 
 
-def melhor(cfgs):
-    """Regra do plano: maior Recall@5, depois maior MRR@5, depois a B."""
-    return max(cfgs, key=lambda c: (round(c["metrics"]["recall_at_5"], 6), round(c["metrics"]["mrr_at_5"], 6),
-                                    c["chunks"]["config"] == "B"))
+def melhor(cfgs, chave="metrics"):
+    """Regra do plano: maior Recall@5, depois maior MRR@5, depois a B. chave="metrics_e2" aplica-a às métricas do E2."""
+    mrr = "mrr_at_5" if chave == "metrics" else "mrr_at_10"
+    return max(cfgs, key=lambda c: (round(c[chave]["recall_at_5"], 6), round(c[chave][mrr], 6), c["chunks"]["config"] == "B"))
+
+
+def metricas_e2(experiencia):
+    """Métricas com a regra do E2 (≥ 1 carácter, MRR@10), a partir dos 10 primeiros já guardados no results.jsonl."""
+    evid = {p["id"]: p["evidence"] for p in comum.le_jsonl(comum.PERGUNTAS)}
+    linhas = [{"type": r["type"]} | metricas.avalia(evid[r["question_id"]], r["retrieved"], regra="E2")
+              for r in comum.le_jsonl(PASTA / experiencia / "results.jsonl")]
+    m = metricas.resumo(linhas)
+    return {"rule": "E2: acerto com ≥ 1 carácter; RR até ao 10.º", "recall_at_5": m["recall_at_5"], "mrr_at_10": m["mrr_at_5"],
+            "cobertura_total_multi_doc": m.get("cobertura_total_multi_doc")}
 
 
 def escreve_resumo():
     cfgs = le_configs()
-    melhor_ = melhor(cfgs)
+    for c in cfgs:  # guarda as métricas do E2 no config.json de cada experiência
+        c["metrics_e2"] = metricas_e2(c["experiment"])
+        (PASTA / c["experiment"] / "config.json").write_text(json.dumps(c, ensure_ascii=False, indent=2) + "\n",
+                                                            encoding="utf-8", newline="\n")
+    melhor_, melhor_e2 = melhor(cfgs), melhor(cfgs, "metrics_e2")
     md = ["# Teste dos modelos de embeddings (E1)", "",
           f"{date.today():%d/%m/%Y}. 12 perguntas com resposta (8 factual, 4 multi_doc); as 3 sem resposta não entram. "
-          "Métricas nos 5 primeiros excertos, com acerto a partir de 50% do mais curto (excerto ou trecho). "
-          "Com estes excertos, o teto do Recall@5 é 1 em A e em B. "
+          "Regra do E1: acerto a partir de 50% do mais curto (excerto ou trecho), Recall@5 e MRR@5. Regra do E2, só para "
+          "comparar com as outras áreas: acerto com pelo menos 1 carácter, Recall@5 e MRR@10. "
+          "Com estes excertos, o teto do Recall@5 (regra do E1) é 1 em A e em B. "
           f"Tempos numa {cfgs[0]['timing']['gpu']}, Ollama {cfgs[0]['embedding']['ollama_version']}, "
           "depois de um aquecimento com textos de 2 a 80 palavras (a GPU compila kernels na primeira utilização).", "",
-          "| Modelo | Config. | Recall@5 | MRR@5 | Cobertura total das multi_doc | Recall@5 factual | Recall@5 multi_doc "
-          "| Indexação (s) | Por pergunta (ms) |",
-          "|---|---|---|---|---|---|---|---|---|"]
+          "| Modelo | Config. | Recall@5 (E1) | MRR@5 (E1) | Cobertura total das multi_doc (E1) | Recall@5 factual (E1) "
+          "| Recall@5 multi_doc (E1) | Recall@5 (E2) | MRR@10 (E2) | Indexação (s) | Por pergunta (ms) |",
+          "|---|---|---|---|---|---|---|---|---|---|---|"]
     for c in cfgs:
-        m, t = c["metrics"], c["timing"]
+        m, e2, t = c["metrics"], c["metrics_e2"], c["timing"]
         nome = f"**{c['embedding']['name']}**" if c is melhor_ else c["embedding"]["name"]
         md.append(f"| {nome} | {c['chunks']['config']} | {num(m['recall_at_5'])} | {num(m['mrr_at_5'])} "
                   f"| {num(m.get('cobertura_total_multi_doc', 0), 2)} | {num(m.get('recall_at_5_factual', 0))} "
-                  f"| {num(m.get('recall_at_5_multi_doc', 0))} | {num(t['index_s'], 1)} | {num(t['query_ms_media'], 0)} |")
-    md += ["", f"A negrito, a melhor pela regra do plano (Recall@5, depois MRR@5, depois B): "
-               f"{melhor_['embedding']['name']} na {melhor_['chunks']['config']}.", "",
+                  f"| {num(m.get('recall_at_5_multi_doc', 0))} | {num(e2['recall_at_5'])} | {num(e2['mrr_at_10'])} "
+                  f"| {num(t['index_s'], 1)} | {num(t['query_ms_media'], 0)} |")
+    md += ["", f"A negrito, a melhor pela regra do plano (Recall@5, depois MRR@5, depois B) com a regra de acerto do E1: "
+               f"{melhor_['embedding']['name']} na {melhor_['chunks']['config']}. Com a regra do E2: "
+               f"{melhor_e2['embedding']['name']} na {melhor_e2['chunks']['config']}.", "",
            "| Modelo | No Ollama | Digest | Quantização | Dimensões | Prefixo das perguntas | Prefixo dos excertos |",
            "|---|---|---|---|---|---|---|"]
     vistos = set()
@@ -143,7 +161,9 @@ def escreve_resumo():
         md.append(f"| {e['name']} | `{e['ollama_model']}` | `{(e['digest'] or '')[:12]}` | {e['quantization']} | {e['dimensions']} "
                   f"| {celula(e['query_prefix'])} | {celula(e['document_prefix'])} |")
     md += ["", "O embeddinggemma-sem-prefixos é um desvio ao plano, decidido a 6/11: num teste prévio com os 25 trechos das "
-               "perguntas, o EmbeddingGemma do Ollama acertou 7 em 12 com os prefixos do model card e 10 em 12 sem eles."]
+               "perguntas, o EmbeddingGemma do Ollama acertou 7 em 12 com os prefixos do model card e 10 em 12 sem eles. "
+               "O qwen3-embedding-4b e o embeddinggemma-titulo (título real do documento no prefixo dos excertos, como admite "
+               "o model card) foram acrescentados a 8/11, para comparar com os testes do E2."]
     (PASTA / "resumo.md").write_text("\n".join(md) + "\n", encoding="utf-8", newline="\n")
 
 

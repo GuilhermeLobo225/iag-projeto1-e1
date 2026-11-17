@@ -1,0 +1,62 @@
+{
+  "experiment": "qwen3-embedding-0.6b_A",
+  "area": "E1",
+  "date": "2026-11-08",
+  "git_commit": "82d585b21573296b3a9b34e809be2de61c451ff4",
+  "embedding": {
+    "name": "qwen3-embedding-0.6b",
+    "ollama_model": "qwen3-embedding:0.6b",
+    "digest": "ac6da0dfba84a81fdbfbaf330198c33cd77c4cdfc53e8bc50eb581914a15621d",
+    "quantization": "Q8_0",
+    "parameters": "595.78M",
+    "dimensions": 1024,
+    "context_length": 32768,
+    "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+    "document_prefix": "",
+    "ollama_version": "0.40.15"
+  },
+  "chunks": {
+    "file": "experiments/E1/excertos_A.jsonl",
+    "excertos": 774,
+    "config": "A",
+    "max_tokens": 500,
+    "overlap_tokens": 50,
+    "tokenizer": "BAAI/bge-m3",
+    "tokenizer_revision": "5617a9f61b028005a4858fdac845db406aefb181"
+  },
+  "index": {
+    "type": "chromadb",
+    "chromadb_version": "1.5.9",
+    "collection": "E1_qwen3-embedding-0.6b_A",
+    "space": "cosine",
+    "ef_construction": 200,
+    "ef_search": 200
+  },
+  "retrieval": {
+    "k": 5,
+    "top_logged": 10
+  },
+  "metrics": {
+    "perguntas": 12,
+    "recall_at_5": 0.5,
+    "mrr_at_5": 0.3958333333333333,
+    "recall_at_5_factual": 0.5208333333333334,
+    "mrr_at_5_factual": 0.40625,
+    "recall_at_5_multi_doc": 0.4583333333333333,
+    "mrr_at_5_multi_doc": 0.375,
+    "cobertura_total_multi_doc": 0.25
+  },
+  "timing": {
+    "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB",
+    "index_s": 22.1,
+    "excertos_por_s": 35.0,
+    "query_ms_media": 26.2
+  },
+  "hnsw_igual_a_exata": "15/15",
+  "metrics_e2": {
+    "rule": "E2: acerto com ≥ 1 carácter; RR até ao 10.º",
+    "recall_at_5": 0.5,
+    "mrr_at_10": 0.4097222222222222,
+    "cobertura_total_multi_doc": 0.25
+  }
+}
