@@ -12,6 +12,8 @@ py -3.11 -m venv .venv
 .venv\Scripts\python -m pip install -r requirements.txt
 ```
 
+Os comandos estão escritos para o Windows. No Linux, cria-se o ambiente com `python3.11 -m venv .venv` e usa-se `.venv/bin/python` em vez de `.venv\Scripts\python` (e `/` em vez de `\` nos caminhos).
+
 O tokenizador do bge-m3 (cerca de 17 MB, revisão fixa) e as stopwords de português do NLTK descarregam-se sozinhos na primeira utilização, para a cache do Hugging Face e para `cache/nltk_data`.
 
 ### Modelos do Ollama
@@ -21,7 +23,7 @@ Com o Ollama a correr, descarregar os modelos com as tags exatas. Os digests sã
 | Uso | Tag | Digest | Quantização |
 |---|---|---|---|
 | Embeddings | `qwen3-embedding:8b` | `64b933495768` | Q4_K_M |
-| Embeddings | `qwen3-embedding:4b` | `df5bd2e3c74c` | por omissão do Ollama |
+| Embeddings | `qwen3-embedding:4b` | `df5bd2e3c74c` | Q4_K_M |
 | Embeddings | `qwen3-embedding:0.6b` | `ac6da0dfba84` | Q8_0 |
 | Embeddings | `bge-m3` | `790764642607` | F16 |
 | Embeddings | `embeddinggemma` | `85462619ee72` | BF16 |
@@ -35,7 +37,7 @@ Com o Ollama a correr, descarregar os modelos com as tags exatas. Os digests sã
 ollama pull qwen3-embedding:8b
 ```
 
-(e o mesmo para cada uma das outras tags). São cerca de 52 GB no total. Modelos fechados pelo grupo a 15/11: `qwen3-embedding:8b`, `gemma4:12b` e o juiz `openai/gpt-oss-120b` (Groq). Para as experiências finais chegam esses dois do Ollama.
+(e o mesmo para cada uma das outras tags). São cerca de 52 GB no total. Modelos fechados pelo grupo a 15 e 16/11: `qwen3-embedding:8b`, `gemma4:12b` e o juiz `openai/gpt-oss-120b` (Groq). Para as experiências finais chegam esses dois do Ollama.
 
 ### Chaves (`.env`)
 
@@ -49,7 +51,7 @@ O `.env` nunca vai para o git. As respostas do Groq ficam em `cache/groq/`, para
 
 ## Reproduzir
 
-Na raiz do repositório, com o Ollama a correr. Os passos 1 a 3 já estão feitos e os resultados estão no repositório; o índice do ChromaDB (`indices/`) refaz-se no passo 3.
+Na raiz do repositório, com o Ollama a correr. Os passos 1, 2, 3, 5 e 6 já foram corridos e os resultados estão no repositório; o índice do ChromaDB (`indices/`), que fica fora do git, refaz-se no passo 2.
 
 ```
 .venv\Scripts\python -m pytest
@@ -103,10 +105,14 @@ Na raiz do repositório, com o Ollama a correr. Os passos 1 a 3 já estão feito
    .venv\Scripts\python -m jupyterlab analise\exploracao.ipynb
    .venv\Scripts\python -m nbconvert --to notebook --execute --inplace analise\exploracao.ipynb
    ```
+7. Demonstração: três perguntas na configuração A, com os excertos recuperados, a resposta, as fontes e as verificações em código:
+   ```
+   .venv\Scripts\python rag\demo.py
+   ```
 
 ### Reconstruir a base de conhecimento
 
-O texto limpo está em `kb/E1/text/` (UTF-8, NFC, LF; congelado desde 25/10, e as posições dos trechos dependem dele). Para o refazer a partir dos originais: descarregar os PDF dos URL de `kb/E1/catalog_E1.jsonl` para `kb/E1/raw/` (como em `kb/E1/sources_E1.md`) e correr `python scripts\pdf_para_txt.py`, que extrai as partes de `scripts/partes_E1.json` e diz «igual» quando o `.txt` coincide. O processo está descrito em `docs/processo_E1.md`.
+O texto limpo está em `kb/E1/text/` (UTF-8, NFC, LF; congelado desde 30/10, e as posições dos trechos dependem dele). Para o refazer a partir dos originais: descarregar os PDF dos URL de `kb/E1/catalog_E1.jsonl` para `kb/E1/raw/` (como em `kb/E1/sources_E1.md`) e correr `python scripts\pdf_para_txt.py`, que extrai as partes de `scripts/partes_E1.json` e diz «igual» quando o `.txt` coincide. O processo está descrito em `docs/processo_E1.md`.
 
 ## Estrutura
 
@@ -130,6 +136,7 @@ rag/                         o pipeline
   experiencia.py               experiências finais A, B e C a partir do config.json
   analise_erros.py             análise de erros por pergunta e experiência
   tabelas_grupo.py             tabelas para o grupo, no formato do E3
+  demo.py                      demonstração: três perguntas na configuração A
 experiments/E1/
   excertos_A.jsonl, excertos_B.jsonl (+ .json com os parâmetros e as estatísticas)
   modelos/embeddings/<modelo>_<A|B>/   config.json, results.jsonl; resumo.md
@@ -140,7 +147,7 @@ experiments/E1/
   A/, B/, C/                           config.json, results.jsonl, juiz_<juiz>.jsonl, resumo.md
   resumo_ABC.md, analise_erros.md, analise_erros.csv, tabelas_grupo_<juiz>.md
 analise/exploracao.ipynb     tabelas e figuras para o relatório (lê os resultados acima)
-docs/                        processo da base (processo_E1.md), resumos do trabalho e figuras/ (exportadas do notebook)
+docs/                        processo da base (processo_E1.md), registos do trabalho por data (pipeline_E1_*.md, feitos com o Claude desktop, como declarado no relatório) e figuras/ (exportadas do notebook)
 ```
 
-Fora do git: `.env`, `.venv/`, `indices/`, `cache/`, `kb/E1/raw/` e `kb/E1/pdf/`.
+Fora do git: `.env`, `.venv/`, `indices/`, `cache/`, `kb/E1/raw/` e `kb/E1/pdf/` (os PDF vão no zip da entrega).
